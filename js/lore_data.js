@@ -1,4 +1,3 @@
-/* Auto-bundled Lore Data for Jiangshan Historical Atlas */
 window.ATLAS_LORE_DATA = {
   "CHINESE_ERA_SPANS": [
     [
@@ -3795,8 +3794,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "咸阳",
       "siteEn": "Xianyang",
-      "zh": "秦孝公与商鞅自栎阳迁都咸阳，废井田、设县制、统一度量衡",
-      "en": "Duke Xiao of Qin and Shang Yang move the capital to Xianyang and launch the Second Reform"
+      "zh": "前350年、秦孝公と商鞅は櫟陽から咸陽に遷都し、井田制を廃止、県制を設け、度量衡を統一した。",
+      "en": "Duke Xiao of Qin and Shang Yang move the capital to Xianyang and launch the Second Reform",
+      "ja": "前350年、秦孝公と商鞅は櫟陽から咸陽に遷都し、井田制を廃止、県制を設け、度量衡を統一した。"
     },
     {
       "dynastyKey": "qin",
@@ -3807,14 +3807,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "咸阳",
       "siteEn": "Xianyang",
-      "zh": "秦始皇统一六国定都咸阳，收天下兵器铸十二金人",
+      "zh": "前221年、秦始皇は六国を統一して咸陽に都を定め、天下の兵器を回収して十二金人を鋳造した。",
       "en": "Qin Shi Huang unifies China with Xianyang as imperial capital",
       "persons": [
         "qinshihuang",
         "lisi",
         "wangjian",
         "mengtian"
-      ]
+      ],
+      "ja": "前221年、秦始皇は六国を統一して咸陽に都を定め、天下の兵器を回収して十二金人を鋳造した。"
     },
     {
       "dynastyKey": "qin",
@@ -3825,14 +3826,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "咸阳·鸿门",
       "siteEn": "Xianyang / Hongmen",
-      "zh": "刘邦入关破咸阳约法三章；项羽于鸿门设宴",
+      "zh": "前206年、劉邦は関中に入り咸陽を破って約法三章を定め、項羽は鴻門で宴を設けた。",
       "en": "Liu Bang enters Xianyang; Xiang Yu hosts the Feast at Hongmen",
       "month": 3,
       "persons": [
         "xiangyu",
         "liubang",
         "zhangliang"
-      ]
+      ],
+      "ja": "前206年、劉邦は関中に入り咸陽を破って約法三章を定め、項羽は鴻門で宴を設けた。"
     },
     {
       "dynastyKey": "xihan",
@@ -3843,13 +3845,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "萧何营建未央宫成，汉高祖自栎阳正式定都长安",
+      "zh": "前200年、蕭何が未央宮を完成させ、漢高祖は櫟陽から長安に正式に遷都した。",
       "en": "Xiao He completes Weiyang Palace; Chang'an becomes Western Han capital",
       "persons": [
         "liubang",
         "xiaohe",
         "zhangliang"
-      ]
+      ],
+      "ja": "前200年、蕭何が未央宮を完成させ、漢高祖は櫟陽から長安に正式に遷都した。"
     },
     {
       "dynastyKey": "xihan",
@@ -3860,8 +3863,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "巫蛊之祸：江充构陷太子刘据，长安激战五日太子兵败自尽",
-      "en": "Witchcraft Crisis (Wugu Affair) in Chang’an drives Crown Prince Liu Ju to rebellion and suicide"
+      "zh": "前91年、巫蠱の禍により江充が太子劉據を陥れ、長安で五日間の激戦の末、太子は敗れて自尽した。",
+      "en": "Witchcraft Crisis (Wugu Affair) in Chang’an drives Crown Prince Liu Ju to rebellion and suicide",
+      "ja": "前91年、巫蠱の禍により江充が太子劉據を陥れ、長安で五日間の激戦の末、太子は敗れて自尽した。"
     },
     {
       "dynastyKey": "xihan",
@@ -3872,8 +3876,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "大将军霍光于未央宫奏废昌邑王刘贺，迎立汉宣帝开启昭宣中兴",
-      "en": "Regent Huo Guang deposes Liu He at Weiyang Palace and enthrones Emperor Xuan of Han"
+      "zh": "前74年、大将軍霍光は未央宮で昌邑王劉賀を廃位させ、漢宣帝を擁立して昭宣中興の時代を開いた。",
+      "en": "Regent Huo Guang deposes Liu He at Weiyang Palace and enthrones Emperor Xuan of Han",
+      "ja": "前74年、大将軍霍光は未央宮で昌邑王劉賀を廃位させ、漢宣帝を擁立して昭宣中興の時代を開いた。"
     },
     {
       "dynastyKey": "xihan",
@@ -3884,8 +3889,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "王莽于长安篡汉建立新朝，推行王田私属改制",
-      "en": "Wang Mang usurps the Han throne in Chang'an and founds the Xin Dynasty"
+      "zh": "8年、王莽は長安で漢を簒奪して新朝を建て、王田私属の改制を推し進めた。",
+      "en": "Wang Mang usurps the Han throne in Chang'an and founds the Xin Dynasty",
+      "ja": "8年、王莽は長安で漢を簒奪して新朝を建て、王田私属の改制を推し進めた。"
     },
     {
       "dynastyKey": "donghan",
@@ -3896,8 +3902,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "董卓焚洛阳挟汉献帝西迁长安",
-      "en": "Dong Zhuo forcibly relocates Emperor Xian to Chang'an"
+      "zh": "190年、董卓は洛陽を焼き払い、漢献帝を脅して長安へ西遷させた。",
+      "en": "Dong Zhuo forcibly relocates Emperor Xian to Chang'an",
+      "ja": "190年、董卓は洛陽を焼き払い、漢献帝を脅して長安へ西遷させた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -3908,8 +3915,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "蜀汉北伐兵出祁山震动关中，魏明帝曹叡亲赴长安坐镇督师",
-      "en": "Shu Han marches from Mount Qi shaking Guanzhong; Wei Emperor Cao Rui commands defense from Chang'an"
+      "zh": "228年、蜀漢の北伐軍が祁山から出兵し関中を震動させると、魏明帝曹叡は自ら長安に赴き、軍を督戦した。",
+      "en": "Shu Han marches from Mount Qi shaking Guanzhong; Wei Emperor Cao Rui commands defense from Chang'an",
+      "ja": "228年、蜀漢の北伐軍が祁山から出兵し関中を震動させると、魏明帝曹叡は自ら長安に赴き、軍を督戦した。"
     },
     {
       "dynastyKey": "xijin",
@@ -3920,8 +3928,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "刘曜攻陷长安，晋愍帝出降，西晋灭亡",
-      "en": "Liu Yao captures Chang'an; Emperor Min surrenders, ending the Western Jin"
+      "zh": "316年、劉曜が長安を陥落させ、晋愍帝が出降したことで西晋は滅亡した。",
+      "en": "Liu Yao captures Chang'an; Emperor Min surrenders, ending the Western Jin",
+      "ja": "316年、劉曜が長安を陥落させ、晋愍帝が出降したことで西晋は滅亡した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -3932,8 +3941,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "苻健称天王定都长安，建立前秦政权",
-      "en": "Fu Jian (Emperor Jingming) establishes the Former Qin dynasty at capital Chang'an"
+      "zh": "351年、苻健は天王を称して長安に都を定め、前秦政権を樹立した。",
+      "en": "Fu Jian (Emperor Jingming) establishes the Former Qin dynasty at capital Chang'an",
+      "ja": "351年、苻健は天王を称して長安に都を定め、前秦政権を樹立した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -3944,8 +3954,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "苻坚于长安即前秦天王位，重用王猛变法图强",
-      "en": "Fu Jian ascends in Chang'an as Heavenly King of Former Qin and appoints Wang Meng to reform the state"
+      "zh": "357年、苻堅は長安で前秦の天王位に即位し、王猛を重用して変法図強を推し進めた。",
+      "en": "Fu Jian ascends in Chang'an as Heavenly King of Former Qin and appoints Wang Meng to reform the state",
+      "ja": "357年、苻堅は長安で前秦の天王位に即位し、王猛を重用して変法図強を推し進めた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -3956,8 +3967,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "宇文泰于长安立西魏，开创关陇集团与北周基业",
-      "en": "Yuwen Tai establishes Western Wei at Chang'an, laying the foundation for Sui and Tang"
+      "zh": "534年、宇文泰は長安に西魏を建国し、関隴集団と北周の基礎を築いた。",
+      "en": "Yuwen Tai establishes Western Wei at Chang'an, laying the foundation for Sui and Tang",
+      "ja": "534年、宇文泰は長安に西魏を建国し、関隴集団と北周の基礎を築いた。"
     },
     {
       "dynastyKey": "sui",
@@ -3968,8 +3980,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大兴（长安）",
       "siteEn": "Daxing (Chang'an)",
-      "zh": "隋文帝诏宇文恺于龙首原南营建大兴城（唐长安前身）",
-      "en": "Emperor Wen of Sui commissions Yuwen Kai to build Daxing City (Tang Chang'an)"
+      "zh": "582年、隋文帝は宇文愷に命じ、龍首原の南に大興城（後の唐の長安）を建設させた。",
+      "en": "Emperor Wen of Sui commissions Yuwen Kai to build Daxing City (Tang Chang'an)",
+      "ja": "582年、隋文帝は宇文愷に命じ、龍首原の南に大興城（後の唐の長安）を建設させた。"
     },
     {
       "dynastyKey": "tang",
@@ -3980,13 +3993,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "李渊于长安太极殿称帝建唐，改大兴为长安",
+      "zh": "618年、李淵は長安の太極殿で帝位につき唐を建国、大興を長安と改称した。",
       "en": "Li Yuan proclaims the Tang Dynasty at Taiji Palace in Chang'an",
       "persons": [
         "lishimin",
         "weizheng",
         "lijing"
-      ]
+      ],
+      "ja": "618年、李淵は長安の太極殿で帝位につき唐を建国、大興を長安と改称した。"
     },
     {
       "dynastyKey": "tang",
@@ -3997,13 +4011,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "玄武门之变，李世民即位为唐太宗，次年改元贞观",
+      "zh": "626年、玄武門の変により李世民が唐太宗として即位し、翌年、貞観と改元した。",
       "en": "Xuanwu Gate Incident in Chang'an; Li Shimin ascends as Emperor Taizong",
       "persons": [
         "lishimin",
         "weizheng",
         "lijing"
-      ]
+      ],
+      "ja": "626年、玄武門の変により李世民が唐太宗として即位し、翌年、貞観と改元した。"
     },
     {
       "dynastyKey": "tang",
@@ -4014,8 +4029,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "常山（真定）",
       "siteEn": "Changshan (Zhengding)",
-      "zh": "颜杲卿、颜真卿举河北十七郡抗燕；常山陷落颜氏殉国，《祭侄文稿》所哀",
-      "en": "Yan Gaoqing and Yan Zhenqing raise 17 Hebei commanderies; Changshan falls, the Yan clan dies"
+      "zh": "756年、顏杲卿と顏真卿は河北十七郡を挙げて燕に抵抗したが、常山は陥落し顏氏は殉国した。これは『祭侄文稿』に哀悼されている。",
+      "en": "Yan Gaoqing and Yan Zhenqing raise 17 Hebei commanderies; Changshan falls, the Yan clan dies",
+      "ja": "756年、顏杲卿と顏真卿は河北十七郡を挙げて燕に抵抗したが、常山は陥落し顏氏は殉国した。これは『祭侄文稿』に哀悼されている。"
     },
     {
       "dynastyKey": "tang",
@@ -4026,8 +4042,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "睢阳（商丘）",
       "siteEn": "Suiyang (Shangqiu)",
-      "zh": "睢阳之战：张巡、许远数千人死守十月，屏障江淮财赋，城破殉国",
-      "en": "Siege of Suiyang: Zhang Xun and Xu Yuan hold out ten months, shielding the Jianghuai tax base"
+      "zh": "757年、睢陽の戦い。張巡と許遠は数千の兵で十ヶ月間死守し、江淮の財賦を守る盾となったが、城は陥落し殉国した。",
+      "en": "Siege of Suiyang: Zhang Xun and Xu Yuan hold out ten months, shielding the Jianghuai tax base",
+      "ja": "757年、睢陽の戦い。張巡と許遠は数千の兵で十ヶ月間死守し、江淮の財賦を守る盾となったが、城は陥落し殉国した。"
     },
     {
       "dynastyKey": "tang",
@@ -4038,8 +4055,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邺城（相州）",
       "siteEn": "Yecheng (Xiangzhou)",
-      "zh": "邺城之战：九节度围安庆绪，史思明来援唐军溃散，遂杀安庆绪称帝再陷洛阳",
-      "en": "Battle of Yecheng: Shi Siming routs nine Tang governors, kills An Qingxu, takes the Yan throne"
+      "zh": "759年、鄴城の戦い。九節度使が安慶緒を包囲したが、史思明の援軍により唐軍は潰走。史思明は安慶緒を殺して帝位につき、再び洛陽を陥落させた。",
+      "en": "Battle of Yecheng: Shi Siming routs nine Tang governors, kills An Qingxu, takes the Yan throne",
+      "ja": "759年、鄴城の戦い。九節度使が安慶緒を包囲したが、史思明の援軍により唐軍は潰走。史思明は安慶緒を殺して帝位につき、再び洛陽を陥落させた。"
     },
     {
       "dynastyKey": "tang",
@@ -4050,8 +4068,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "唐隆政变李隆基诛韦后；713年发动先天政变开启开元盛世",
-      "en": "Tanglong (710) and Xiantian (713) Coups: Li Longji eliminates Empress Wei and Princess Taiping"
+      "zh": "710年、唐隆政変で李隆基は韋后を誅殺。713年には先天政変を起こし、開元の盛世を築いた。",
+      "en": "Tanglong (710) and Xiantian (713) Coups: Li Longji eliminates Empress Wei and Princess Taiping",
+      "ja": "710年、唐隆政変で李隆基は韋后を誅殺。713年には先天政変を起こし、開元の盛世を築いた。"
     },
     {
       "dynastyKey": "tang",
@@ -4062,8 +4081,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "安史叛军破潼关陷长安，唐玄宗仓皇奔蜀",
-      "en": "An Lushan rebels capture Chang’an, sparking the Mawei Mutiny as Emperor Xuanzong flees to Shu"
+      "zh": "756年、安史の乱の反乱軍は潼関を破って長安を陥落させ、唐玄宗は慌てて蜀へ逃れた。",
+      "en": "An Lushan rebels capture Chang’an, sparking the Mawei Mutiny as Emperor Xuanzong flees to Shu",
+      "ja": "756年、安史の乱の反乱軍は潼関を破って長安を陥落させ、唐玄宗は慌てて蜀へ逃れた。"
     },
     {
       "dynastyKey": "tang",
@@ -4074,8 +4094,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "甘露之变：唐文宗与李训谋诛宦官事败，神策军血洗大明宫",
-      "en": "Sweet Dew Incident in Daming Palace: failed plot against Qiu Shiliang leads to court purge"
+      "zh": "835年、甘露の変。唐文宗と李訓による宦官誅殺計画は失敗し、神策軍が大明宮を血祭りにあげた。",
+      "en": "Sweet Dew Incident in Daming Palace: failed plot against Qiu Shiliang leads to court purge",
+      "ja": "835年、甘露の変。唐文宗と李訓による宦官誅殺計画は失敗し、神策軍が大明宮を血祭りにあげた。"
     },
     {
       "dynastyKey": "tang",
@@ -4086,8 +4107,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "黄巢起义军攻占长安称齐帝，唐僖宗奔蜀",
-      "en": "Huang Chao captures Chang'an and proclaims the Qi regime"
+      "zh": "881年、黄巣の乱軍が長安を占領して斉帝を称し、唐僖宗は蜀へ逃れた。",
+      "en": "Huang Chao captures Chang'an and proclaims the Qi regime",
+      "ja": "881年、黄巣の乱軍が長安を占領して斉帝を称し、唐僖宗は蜀へ逃れた。"
     },
     {
       "dynastyKey": "ming",
@@ -4098,8 +4120,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "西安府",
       "siteEn": "Xi'an",
-      "zh": "徐达克奉元路，明廷改置西安府，始定“西安”之名",
-      "en": "Ming general Xu Da captures Fengyuan and renames the prefecture Xi'an"
+      "zh": "1369年、徐達が奉元路を攻略し、明朝は西安府を設置して「西安」の名が初めて定められた。",
+      "en": "Ming general Xu Da captures Fengyuan and renames the prefecture Xi'an",
+      "ja": "1369年、徐達が奉元路を攻略し、明朝は西安府を設置して「西安」の名が初めて定められた。"
     },
     {
       "dynastyKey": "ming",
@@ -4110,8 +4133,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "西安",
       "siteEn": "Xi'an",
-      "zh": "李自成攻克西安，次年正月于西安建国号大顺",
-      "en": "Li Zicheng captures Xi'an and proclaims the Dashun Dynasty"
+      "zh": "李自成が西安を攻め落とし、翌年正月、西安で大順を建國した。",
+      "en": "Li Zicheng captures Xi'an and proclaims the Dashun Dynasty",
+      "ja": "李自成が西安を攻め落とし、翌年正月、西安で大順を建國した。"
     },
     {
       "dynastyKey": "roc",
@@ -4122,8 +4146,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "西安",
       "siteEn": "Xi'an",
-      "zh": "张学良、杨虎城发动西安事变，促成抗日民族统一战线",
-      "en": "Xi'an Incident sparks the Second United Front against Japanese aggression"
+      "zh": "張學良と楊虎城が西安事件を起こし、抗日民族統一戰線の結成を促した。",
+      "en": "Xi'an Incident sparks the Second United Front against Japanese aggression",
+      "ja": "張學良と楊虎城が西安事件を起こし、抗日民族統一戰線の結成を促した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -4134,8 +4159,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛邑（洛阳）",
       "siteEn": "Luoyi (Luoyang)",
-      "zh": "周威烈王于洛邑初命晋大夫魏斯、赵籍、韩虔为诸侯（三家分晋）",
-      "en": "King Weilie of Zhou formally recognizes Wei, Zhao, and Han as marquises at Luoyi"
+      "zh": "前403年、周威烈王が洛邑で晉の大夫である魏斯、趙籍、韓虔を初めて諸侯に任じた（三家分晉）。",
+      "en": "King Weilie of Zhou formally recognizes Wei, Zhao, and Han as marquises at Luoyi",
+      "ja": "前403年、周威烈王が洛邑で晉の大夫である魏斯、趙籍、韓虔を初めて諸侯に任じた（三家分晉）。"
     },
     {
       "dynastyKey": "donghan",
@@ -4146,8 +4172,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "刘秀建立东汉定都洛阳，开启光武中兴",
-      "en": "Liu Xiu establishes the Eastern Han with Luoyang as imperial capital"
+      "zh": "25年、劉秀が東漢を建國し洛陽に都を定め、光武中興を始めた。",
+      "en": "Liu Xiu establishes the Eastern Han with Luoyang as imperial capital",
+      "ja": "25年、劉秀が東漢を建國し洛陽に都を定め、光武中興を始めた。"
     },
     {
       "dynastyKey": "donghan",
@@ -4158,8 +4185,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "汉明帝于洛阳创建白马寺，为中国第一古刹",
-      "en": "Emperor Ming of Han establishes White Horse Temple in Luoyang"
+      "zh": "68年、漢明帝が洛陽に白馬寺を創建し、中國初の古刹となった。",
+      "en": "Emperor Ming of Han establishes White Horse Temple in Luoyang",
+      "ja": "68年、漢明帝が洛陽に白馬寺を創建し、中國初の古刹となった。"
     },
     {
       "dynastyKey": "donghan",
@@ -4170,8 +4198,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "永元之隆：汉和帝于洛阳诛除大将军窦宪外戚集团，东汉达极盛",
-      "en": "Prosperity of Yongyuan: Emperor He overthrows Dou Xian’s clan in Luoyang, reaching Han zenith"
+      "zh": "92年、永元之隆：漢和帝が洛陽で大將軍竇憲の外戚集團を誅殺し、東漢は極盛期を迎えた。",
+      "en": "Prosperity of Yongyuan: Emperor He overthrows Dou Xian’s clan in Luoyang, reaching Han zenith",
+      "ja": "92年、永元之隆：漢和帝が洛陽で大將軍竇憲の外戚集團を誅殺し、東漢は極盛期を迎えた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4182,8 +4211,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "曹丕代汉称帝建立曹魏，定都洛阳",
-      "en": "Cao Pi founds Cao Wei with Luoyang as capital"
+      "zh": "220年、曹丕が漢に代わって帝位につき曹魏を建國し、洛陽に都を定めた。",
+      "en": "Cao Pi founds Cao Wei with Luoyang as capital",
+      "ja": "220年、曹丕が漢に代わって帝位につき曹魏を建國し、洛陽に都を定めた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4194,8 +4224,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "甘露之变：魏帝曹髦率宿卫讨司马昭，于洛阳南阙下遇弑",
-      "en": "Coup of Ganlu: Wei Emperor Cao Mao marches against Sima Zhao and is slain in Luoyang"
+      "zh": "260年、甘露之變：魏帝曹髦が宿衛を率いて司馬昭を討とうとしたが、洛陽の南闕下で弑殺された。",
+      "en": "Coup of Ganlu: Wei Emperor Cao Mao marches against Sima Zhao and is slain in Luoyang",
+      "ja": "260年、甘露之變：魏帝曹髦が宿衛を率いて司馬昭を討とうとしたが、洛陽の南闕下で弑殺された。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4206,8 +4237,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "司马炎代魏建立西晋定都洛阳，280年灭吴一统",
-      "en": "Sima Yan founds the Western Jin in Luoyang and reunifies China in 280"
+      "zh": "265年、司馬炎が魏に代わって西晉を建國し洛陽に都を定め、280年に呉を滅ぼして天下を統一した。",
+      "en": "Sima Yan founds the Western Jin in Luoyang and reunifies China in 280",
+      "ja": "265年、司馬炎が魏に代わって西晉を建國し洛陽に都を定め、280年に呉を滅ぼして天下を統一した。"
     },
     {
       "dynastyKey": "xijin",
@@ -4218,8 +4250,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "永嘉之乱：汉赵攻陷洛阳掳晋怀帝，衣冠南渡",
-      "en": "Disaster of Yongjia: sack of Luoyang triggers the southward migration"
+      "zh": "311年、永嘉の亂：漢趙が洛陽を攻め落とし晉懷帝を捕虜とし、衣冠南渡が起こった。",
+      "en": "Disaster of Yongjia: sack of Luoyang triggers the southward migration",
+      "ja": "311年、永嘉の亂：漢趙が洛陽を攻め落とし晉懷帝を捕虜とし、衣冠南渡が起こった。"
     },
     {
       "dynastyKey": "nanbei",
@@ -4230,8 +4263,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "北魏孝文帝自平城迁都洛阳，推行汉化并开凿龙门石窟",
-      "en": "Emperor Xiaowen of Northern Wei moves the capital to Luoyang and initiates Longmen Grottoes"
+      "zh": "493年、北魏孝文帝が平城から洛陽に遷都し、漢化政策を推し進め、龍門石窟の開鑿を始めた。",
+      "en": "Emperor Xiaowen of Northern Wei moves the capital to Luoyang and initiates Longmen Grottoes",
+      "ja": "493年、北魏孝文帝が平城から洛陽に遷都し、漢化政策を推し進め、龍門石窟の開鑿を始めた。"
     },
     {
       "dynastyKey": "sui",
@@ -4242,8 +4276,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东都洛阳",
       "siteEn": "Luoyang",
-      "zh": "隋炀帝营建东都洛阳，以洛阳为中心开凿通济渠与永济渠",
-      "en": "Emperor Yang of Sui builds the Eastern Capital Luoyang and launches the Grand Canal"
+      "zh": "605年、隋煬帝が東都洛陽を營建し、洛陽を中心として通濟渠と永濟渠を開鑿した。",
+      "en": "Emperor Yang of Sui builds the Eastern Capital Luoyang and launches the Grand Canal",
+      "ja": "605年、隋煬帝が東都洛陽を營建し、洛陽を中心として通濟渠と永濟渠を開鑿した。"
     },
     {
       "dynastyKey": "tang",
@@ -4254,12 +4289,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "神都洛阳",
       "siteEn": "Luoyang",
-      "zh": "武则天改唐为周，定都神都洛阳",
+      "zh": "690年、武則天は唐を周に改め、洛陽を神都と定めた。",
       "en": "Wu Zetian proclaims the Zhou Dynasty with Luoyang as the Divine Capital",
       "persons": [
         "wuzetian",
         "direnjie"
-      ]
+      ],
+      "ja": "690年、武則天は唐を周に改め、洛陽を神都と定めた。"
     },
     {
       "dynastyKey": "wudai",
@@ -4270,9 +4306,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "后唐庄宗李存勖灭梁后自魏州迁都洛阳，号为东都",
+      "zh": "923年、後唐の荘宗李存勗は後梁を滅ぼした後、魏州から洛陽に遷都し、東都と称した。",
       "en": "After toppling Later Liang, Li Cunxu moves the Later Tang imperial capital to Luoyang",
-      "month": 11
+      "month": 11,
+      "ja": "923年、後唐の荘宗李存勗は後梁を滅ぼした後、魏州から洛陽に遷都し、東都と称した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4283,8 +4320,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建业",
       "siteEn": "Jianye (Nanjing)",
-      "zh": "孙权自武昌迁都建业（今南京），正式称帝建立东吴",
-      "en": "Sun Quan moves his capital to Jianye (Nanjing) and proclaims the Eastern Wu Empire"
+      "zh": "229年、孫権は武昌から建業（現在の南京）に遷都し、正式に皇帝を称して東呉を建国した。",
+      "en": "Sun Quan moves his capital to Jianye (Nanjing) and proclaims the Eastern Wu Empire",
+      "ja": "229年、孫権は武昌から建業（現在の南京）に遷都し、正式に皇帝を称して東呉を建国した。"
     },
     {
       "dynastyKey": "xijin",
@@ -4295,8 +4333,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建业",
       "siteEn": "Jianye (Nanjing)",
-      "zh": "晋将王濬楼船下益州直抵建业，孙皓出降，三国归晋",
-      "en": "Jin naval forces under Wang Jun capture Jianye, ending the Three Kingdoms"
+      "zh": "280年、晋将王濬の楼船が益州を下り建業に直抵し、孫皓は降伏、三国は晋に帰した。",
+      "en": "Jin naval forces under Wang Jun capture Jianye, ending the Three Kingdoms",
+      "ja": "280年、晋将王濬の楼船が益州を下り建業に直抵し、孫皓は降伏、三国は晋に帰した。"
     },
     {
       "dynastyKey": "wudai",
@@ -4307,8 +4346,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "兴教门之变：郭从谦洛阳兵变弑后唐庄宗，李嗣源入洛即位",
-      "en": "Xingjiao Gate Incident in Luoyang: Emperor Zhuangzong falls in mutiny and Li Siyuan ascends"
+      "zh": "926年、興教門の変：郭従謙が洛陽で兵変を起こし後唐荘宗を弑逆、李嗣源が洛陽に入り即位した。",
+      "en": "Xingjiao Gate Incident in Luoyang: Emperor Zhuangzong falls in mutiny and Li Siyuan ascends",
+      "ja": "926年、興教門の変：郭従謙が洛陽で兵変を起こし後唐荘宗を弑逆、李嗣源が洛陽に入り即位した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -4319,8 +4359,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康",
       "siteEn": "Jiankang (Nanjing)",
-      "zh": "司马睿渡江于建康建立东晋，开启六朝古都繁华",
-      "en": "Sima Rui establishes the Eastern Jin in Jiankang (Nanjing)"
+      "zh": "317年、司馬睿は長江を渡り建康に東晋を建国、六朝古都の繁栄が始まった。",
+      "en": "Sima Rui establishes the Eastern Jin in Jiankang (Nanjing)",
+      "ja": "317年、司馬睿は長江を渡り建康に東晋を建国、六朝古都の繁栄が始まった。"
     },
     {
       "dynastyKey": "dongjin",
@@ -4331,8 +4372,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康",
       "siteEn": "Jiankang (Nanjing)",
-      "zh": "王敦之乱：王敦自武昌顺江东下攻入建康，控制东晋朝政",
-      "en": "Rebellion of Wang Dun: Wang Dun marches from Wuchang into Jiankang to control the Jin court"
+      "zh": "322年、王敦の乱：王敦は武昌から長江を下り建康を攻め入り、東晋の朝政を掌握した。",
+      "en": "Rebellion of Wang Dun: Wang Dun marches from Wuchang into Jiankang to control the Jin court",
+      "ja": "322年、王敦の乱：王敦は武昌から長江を下り建康を攻め入り、東晋の朝政を掌握した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -4343,12 +4385,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康·京口",
       "siteEn": "Jiankang / Jingkou",
-      "zh": "北府将刘裕自京口起兵克建康，讨平桓玄，开启北府兵掌权",
+      "zh": "404年、北府将劉裕は京口で挙兵し建康を攻略、桓玄を討平し、北府兵の権力掌握が始まった。",
       "en": "Northern Garrison general Liu Yu rises at Jingkou, retakes Jiankang, and crushes Huan Xuan",
       "persons": [
         "liuyu",
         "taoyuanming"
-      ]
+      ],
+      "ja": "404年、北府将劉裕は京口で挙兵し建康を攻略、桓玄を討平し、北府兵の権力掌握が始まった。"
     },
     {
       "dynastyKey": "nanbei",
@@ -4359,8 +4402,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康",
       "siteEn": "Jiankang (Nanjing)",
-      "zh": "刘裕代晋建宋，南朝宋齐梁陈四代皆都建康",
-      "en": "Liu Yu founds Liu Song; Jiankang serves as capital of all four Southern Dynasties"
+      "zh": "420年、劉裕は晋に代わり宋を建国、南朝の宋・斉・梁・陳の四代は全て建康を都とした。",
+      "en": "Liu Yu founds Liu Song; Jiankang serves as capital of all four Southern Dynasties",
+      "ja": "420年、劉裕は晋に代わり宋を建国、南朝の宋・斉・梁・陳の四代は全て建康を都とした。"
     },
     {
       "dynastyKey": "sui",
@@ -4371,12 +4415,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康",
       "siteEn": "Jiankang (Nanjing)",
-      "zh": "隋军韩擒虎渡江克建康灭陈，结束近三百年南北分裂",
+      "zh": "589年、隋軍の韓擒虎は長江を渡り建康を攻略して陳を滅ぼし、約三百年続いた南北分裂を終結させた。",
       "en": "Sui forces cross the Yangtze and capture Jiankang, reunifying China",
       "persons": [
         "yangjian",
         "yangguang"
-      ]
+      ],
+      "ja": "589年、隋軍の韓擒虎は長江を渡り建康を攻略して陳を滅ぼし、約三百年続いた南北分裂を終結させた。"
     },
     {
       "dynastyKey": "wudai",
@@ -4387,8 +4432,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金陵",
       "siteEn": "Jinling (Nanjing)",
-      "zh": "李昪于金陵建立南唐，词章书画冠绝十国",
-      "en": "Li Bian founds Southern Tang in Jinling, cultural heart of the Ten Kingdoms"
+      "zh": "937年、李昪は金陵に南唐を建国、その詞章書画は十国随一と称された。",
+      "en": "Li Bian founds Southern Tang in Jinling, cultural heart of the Ten Kingdoms",
+      "ja": "937年、李昪は金陵に南唐を建国、その詞章書画は十国随一と称された。"
     },
     {
       "dynastyKey": "nansong",
@@ -4399,8 +4445,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康府",
       "siteEn": "Jiankang (Nanjing)",
-      "zh": "南宋改江宁为建康府，为留都与长江防线核心枢要",
-      "en": "Jiankang serves as auxiliary capital and Yangtze defense hub of Southern Song"
+      "zh": "1129年、南宋は江寧を建康府と改め、留都および長江防衛線の核心拠点とした。",
+      "en": "Jiankang serves as auxiliary capital and Yangtze defense hub of Southern Song",
+      "ja": "1129年、南宋は江寧を建康府と改め、留都および長江防衛線の核心拠点とした。"
     },
     {
       "dynastyKey": "ming",
@@ -4411,13 +4458,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "应天府",
       "siteEn": "Yingtian (Nanjing)",
-      "zh": "朱元璋于应天府（南京）称帝建立明朝",
+      "zh": "1368年、朱元璋は応天府（南京）で帝位に就き、明朝を建国した。",
       "en": "Zhu Yuanzhang proclaims the Ming Dynasty in Yingtian (Nanjing)",
       "persons": [
         "zhuyuanzhang",
         "xuda",
         "zhudi"
-      ]
+      ],
+      "ja": "1368年、朱元璋は応天府（南京）で帝位に就き、明朝を建国した。"
     },
     {
       "dynastyKey": "ming",
@@ -4428,8 +4476,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "应天府",
       "siteEn": "Nanjing",
-      "zh": "靖难之役：燕王朱棣攻克南京，即位为明成祖",
-      "en": "Jingnan Campaign: Zhu Di captures Nanjing and ascends as the Yongle Emperor"
+      "zh": "1402年、靖難の役：燕王朱棣が南京を攻略し、明成祖として即位した。",
+      "en": "Jingnan Campaign: Zhu Di captures Nanjing and ascends as the Yongle Emperor",
+      "ja": "1402年、靖難の役：燕王朱棣が南京を攻略し、明成祖として即位した。"
     },
     {
       "dynastyKey": "qing",
@@ -4440,8 +4489,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江宁（南京）",
       "siteEn": "Nanjing",
-      "zh": "第一次鸦片战争清廷战败，于南京下关江面签署《南京条约》",
-      "en": "Treaty of Nanjing signed after the First Opium War"
+      "zh": "1842年、第一次アヘン戦争で清朝が敗北し、南京下関の江面で南京条約が締結された。",
+      "en": "Treaty of Nanjing signed after the First Opium War",
+      "ja": "1842年、第一次アヘン戦争で清朝が敗北し、南京下関の江面で南京条約が締結された。"
     },
     {
       "dynastyKey": "qing",
@@ -4452,8 +4502,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江宁（天京）",
       "siteEn": "Nanjing",
-      "zh": "太平天国攻占江宁，改名天京并定都十一年",
-      "en": "Taiping Heavenly Kingdom captures Jiangning and makes it its capital Tianjing"
+      "zh": "1853年、太平天国が江寧を攻略し、天京と改名して11年間都とした。",
+      "en": "Taiping Heavenly Kingdom captures Jiangning and makes it its capital Tianjing",
+      "ja": "1853年、太平天国が江寧を攻略し、天京と改名して11年間都とした。"
     },
     {
       "dynastyKey": "qing",
@@ -4464,8 +4515,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "安庆府",
       "siteEn": "Anqing",
-      "zh": "安庆之战：曾国荃湘军合围两年攻克安庆，天京门户洞开",
-      "en": "Siege of Anqing: Zeng Guoquan’s Xiang Army captures Anqing, opening the approach to Tianjing"
+      "zh": "1861年、安慶の戦い：曾国荃率いる湘軍が2年間の包囲の末に安慶を攻略し、天京への門戸が開かれた。",
+      "en": "Siege of Anqing: Zeng Guoquan’s Xiang Army captures Anqing, opening the approach to Tianjing",
+      "ja": "1861年、安慶の戦い：曾国荃率いる湘軍が2年間の包囲の末に安慶を攻略し、天京への門戸が開かれた。"
     },
     {
       "dynastyKey": "qing",
@@ -4476,14 +4528,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "天京（江宁）",
       "siteEn": "Tianjing (Nanjing)",
-      "zh": "曾国藩、曾国荃率湘军轰塌城墙攻陷天京，太平天国运动覆灭",
+      "zh": "1864年、曾国藩、曾国荃率いる湘軍が城壁を破壊して天京を陥落させ、太平天国運動は終焉を迎えた。",
       "en": "Xiang Army under Zeng Guofan and Zeng Guoquan breaches Tianjing, ending the Taiping Kingdom",
       "persons": [
         "zengguofan",
         "hongxiuquan",
         "lihongzhang",
         "zuozongtang"
-      ]
+      ],
+      "ja": "1864年、曾国藩、曾国荃率いる湘軍が城壁を破壊して天京を陥落させ、太平天国運動は終焉を迎えた。"
     },
     {
       "dynastyKey": "roc",
@@ -4494,8 +4547,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "南京",
       "siteEn": "Nanjing",
-      "zh": "孙中山于南京就任中华民国临时大总统，宣告共和",
-      "en": "Sun Yat-sen inaugurated in Nanjing as Provisional President of the Republic of China"
+      "zh": "1912年、孫中山が南京で中華民国臨時大総統に就任し、共和制を宣言した。",
+      "en": "Sun Yat-sen inaugurated in Nanjing as Provisional President of the Republic of China",
+      "ja": "1912年、孫中山が南京で中華民国臨時大総統に就任し、共和制を宣言した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -4506,8 +4560,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓟城",
       "siteEn": "Ji (Beijing)",
-      "zh": "秦将王翦、王贲攻拔燕都蓟城，燕王喜走保辽东",
-      "en": "Qin generals Wang Jian and Wang Ben capture the Yan capital Ji; King Xi flees to Liaodong"
+      "zh": "前226年、秦将王翦と王賁が燕の都薊城を攻略し、燕王喜は遼東へ逃れた。",
+      "en": "Qin generals Wang Jian and Wang Ben capture the Yan capital Ji; King Xi flees to Liaodong",
+      "ja": "前226年、秦将王翦と王賁が燕の都薊城を攻略し、燕王喜は遼東へ逃れた。"
     },
     {
       "dynastyKey": "tang",
@@ -4518,11 +4573,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "范阳（幽州）",
       "siteEn": "Fanyang (Beijing)",
-      "zh": "安禄山于范阳（幽州）起兵反唐，安史之乱爆发",
+      "zh": "755年、安禄山が范陽（幽州）で唐に反旗を翻し、安史の乱が勃発した。",
       "en": "An Lushan launches his rebellion from Fanyang (Youzhou / Beijing)",
       "persons": [
         "anlushan"
-      ]
+      ],
+      "ja": "755年、安禄山が范陽（幽州）で唐に反旗を翻し、安史の乱が勃発した。"
     },
     {
       "dynastyKey": "wudai",
@@ -4533,8 +4589,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "幽州（辽南京）",
       "siteEn": "Youzhou (Beijing)",
-      "zh": "后晋割燕云十六州，辽升幽州为南京析津府（陪都）",
-      "en": "Liao elevates Youzhou to its Southern Capital, Nanjing Xijin Fu"
+      "zh": "938年、後晋が燕雲十六州を割譲し、遼は幽州を南京析津府（陪都）に昇格させた。",
+      "en": "Liao elevates Youzhou to its Southern Capital, Nanjing Xijin Fu",
+      "ja": "938年、後晋が燕雲十六州を割譲し、遼は幽州を南京析津府（陪都）に昇格させた。"
     },
     {
       "dynastyKey": "nansong",
@@ -4545,8 +4602,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金中都",
       "siteEn": "Zhongdu (Beijing)",
-      "zh": "金海陵王完颜亮迁都燕京，定名金中都大兴府，首开北京帝都史",
-      "en": "Jin ruler Wanyan Liang moves the imperial capital to Yanjing, renaming it Zhongdu"
+      "zh": "1153年、金の海陵王完顔亮が燕京に遷都し、金中都大興府と定めて、北京が帝都となる歴史の幕を開いた。",
+      "en": "Jin ruler Wanyan Liang moves the imperial capital to Yanjing, renaming it Zhongdu",
+      "ja": "1153年、金の海陵王完顔亮が燕京に遷都し、金中都大興府と定めて、北京が帝都となる歴史の幕を開いた。"
     },
     {
       "dynastyKey": "nansong",
@@ -4557,8 +4615,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金中都",
       "siteEn": "Zhongdu (Beijing)",
-      "zh": "成吉思汗蒙古大军攻占金中都",
-      "en": "Genghis Khan's Mongol forces capture Jin Zhongdu"
+      "zh": "1215年、チンギス・ハン率いる蒙古大軍が金中都を攻略した。",
+      "en": "Genghis Khan's Mongol forces capture Jin Zhongdu",
+      "ja": "1215年、チンギス・ハン率いる蒙古大軍が金中都を攻略した。"
     },
     {
       "dynastyKey": "nansong",
@@ -4569,8 +4628,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大都",
       "siteEn": "Dadu (Beijing)",
-      "zh": "忽必烈营建元大都成，定为元朝国都，积水潭万艘漕船云集",
-      "en": "Kublai Khan establishes Dadu (Khanbaliq) as capital of the Yuan Dynasty"
+      "zh": "1272年、忽必烈が元の大都を営建し、元朝の国都と定めた。積水潭には漕運船が多数集まった。",
+      "en": "Kublai Khan establishes Dadu (Khanbaliq) as capital of the Yuan Dynasty",
+      "ja": "1272年、忽必烈が元の大都を営建し、元朝の国都と定めた。積水潭には漕運船が多数集まった。"
     },
     {
       "dynastyKey": "ming",
@@ -4581,13 +4641,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "京师（北京）",
       "siteEn": "Beijing",
-      "zh": "明成祖朱棣建北京紫禁城成，正式自南京迁都北京",
+      "zh": "1421年、明の成祖朱棣が北京の紫禁城を完成させ、正式に南京から北京へ遷都した。",
       "en": "Yongle Emperor completes the Forbidden City and moves the Ming capital to Beijing",
       "persons": [
         "zhudi",
         "zhenghe",
         "yuqian"
-      ]
+      ],
+      "ja": "1421年、明の成祖朱棣が北京の紫禁城を完成させ、正式に南京から北京へ遷都した。"
     },
     {
       "dynastyKey": "ming",
@@ -4598,8 +4659,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "土木堡之变后瓦剌逼近京师，于谦指挥北京保卫战获胜",
-      "en": "Yu Qian leads the successful Defense of Beijing after the Tumu Crisis"
+      "zh": "1449年、土木堡の変後、瓦剌が京師に迫る中、于謙が北京防衛戦を指揮して勝利した。",
+      "en": "Yu Qian leads the successful Defense of Beijing after the Tumu Crisis",
+      "ja": "1449年、土木堡の変後、瓦剌が京師に迫る中、于謙が北京防衛戦を指揮して勝利した。"
     },
     {
       "dynastyKey": "ming",
@@ -4610,8 +4672,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "夺门之变：石亨、徐有贞迎明英宗自南宫复辟，于谦含冤遇害",
-      "en": "Wresting the Gate Coup: Emperor Yingzong is restored from the Southern Palace; Yu Qian is slain"
+      "zh": "1457年、奪門の変。石亨、徐有貞らが明の英宗を南宮から迎え復辟させ、于謙は冤罪で殺害された。",
+      "en": "Wresting the Gate Coup: Emperor Yingzong is restored from the Southern Palace; Yu Qian is slain",
+      "ja": "1457年、奪門の変。石亨、徐有貞らが明の英宗を南宮から迎え復辟させ、于謙は冤罪で殺害された。"
     },
     {
       "dynastyKey": "ming",
@@ -4622,8 +4685,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "壬寅宫变：杨金英等宫女于乾清宫谋缢嘉靖帝未遂，帝移居西苑",
-      "en": "RenYin Palace Rebellion: palace women led by Yang Jinying attempt to strangle Emperor Jiajing"
+      "zh": "1542年、壬寅宮変。楊金英ら宮女が乾清宮で嘉靖帝を絞殺しようと謀るも未遂に終わり、帝は西苑に移り住んだ。",
+      "en": "RenYin Palace Rebellion: palace women led by Yang Jinying attempt to strangle Emperor Jiajing",
+      "ja": "1542年、壬寅宮変。楊金英ら宮女が乾清宮で嘉靖帝を絞殺しようと謀るも未遂に終わり、帝は西苑に移り住んだ。"
     },
     {
       "dynastyKey": "qing",
@@ -4634,8 +4698,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣",
-      "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents"
+      "zh": "1861年、辛酉政変。慈禧太后、慈安太后が恭親王奕訢と結び、粛順ら八大臣を誅殺した。",
+      "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+      "ja": "1861年、辛酉政変。慈禧太后、慈安太后が恭親王奕訢と結び、粛順ら八大臣を誅殺した。"
     },
     {
       "dynastyKey": "qing",
@@ -4646,8 +4711,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "戊戌政变：慈禧太后囚光绪帝于瀛台，于菜市口杀戊戌六君子",
-      "en": "Wuxu Coup in Beijing: Empress Dowager Cixi confines Emperor Guangxu and executes Six Gentlemen"
+      "zh": "1898年、戊戌政変。慈禧太后が光緒帝を瀛台に幽閉し、菜市口で戊戌の六君子を処刑した。",
+      "en": "Wuxu Coup in Beijing: Empress Dowager Cixi confines Emperor Guangxu and executes Six Gentlemen",
+      "ja": "1898年、戊戌政変。慈禧太后が光緒帝を瀛台に幽閉し、菜市口で戊戌の六君子を処刑した。"
     },
     {
       "dynastyKey": "beisong",
@@ -4658,8 +4724,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封府",
       "siteEn": "Dongjing (Kaifeng)",
-      "zh": "斧声烛影：宋太祖与晋王赵光义夜饮万岁殿暴崩，宋太宗即位",
-      "en": "Candlelight and Axe-Sound Mystery at Wansui Hall: Emperor Taizu dies and Taizong ascends"
+      "zh": "976年、斧声燭影。宋の太祖が晋王趙光義と萬歳殿で夜飲中に急死し、宋の太宗が即位した。",
+      "en": "Candlelight and Axe-Sound Mystery at Wansui Hall: Emperor Taizu dies and Taizong ascends",
+      "ja": "976年、斧声燭影。宋の太祖が晋王趙光義と萬歳殿で夜飲中に急死し、宋の太宗が即位した。"
     },
     {
       "dynastyKey": "nansong",
@@ -4670,13 +4737,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "杭州（临安）",
       "siteEn": "Hangzhou (Lin'an)",
-      "zh": "苗刘兵变：苗傅、刘正彦于杭州逼宋高宗禅位，韩世忠勤王复辟",
+      "zh": "1129年、苗劉の変。苗傅、劉正彦が杭州で宋の高宗に禅位を迫るも、韓世忠が勤王して復辟させた。",
       "en": "Miao-Liu Mutiny in Hangzhou: Miao Fu and Liu Zhengyan briefly depose Gaozong before restoration",
       "persons": [
         "hanshizhong",
         "yuefei",
         "liqingzhao"
-      ]
+      ],
+      "ja": "1129年、苗劉の変。苗傅、劉正彦が杭州で宋の高宗に禅位を迫るも、韓世忠が勤王して復辟させた。"
     },
     {
       "dynastyKey": "nansong",
@@ -4687,8 +4755,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临安府",
       "siteEn": "Lin'an (Hangzhou)",
-      "zh": "绍熙内禅：赵汝愚、韩侂胄奉太皇太后旨于临安迫光宗禅位宁宗",
-      "en": "Shaoxi Abdication in Lin’an: Zhao Ruyu and Han Tuozhou compel Guangzong to yield to Ningzong"
+      "zh": "1194年、紹熙の内禅。趙汝愚、韓侂冑らが太皇太后の旨を奉じ、臨安で光宗に寧宗への禅位を迫った。",
+      "en": "Shaoxi Abdication in Lin’an: Zhao Ruyu and Han Tuozhou compel Guangzong to yield to Ningzong",
+      "ja": "1194年、紹熙の内禅。趙汝愚、韓侂冑らが太皇太后の旨を奉じ、臨安で光宗に寧宗への禅位を迫った。"
     },
     {
       "dynastyKey": "ming",
@@ -4699,8 +4768,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "李自成破北京崇祯自缢；旋即清军入关定都北京",
-      "en": "Li Zicheng captures Beijing; Qing forces soon enter and make Beijing their capital"
+      "zh": "1644年、李自成が北京を陥落させ、崇禎帝が自縊した。その後、清軍が入関し北京を都と定めた。",
+      "en": "Li Zicheng captures Beijing; Qing forces soon enter and make Beijing their capital",
+      "ja": "1644年、李自成が北京を陥落させ、崇禎帝が自縊した。その後、清軍が入関し北京を都と定めた。"
     },
     {
       "dynastyKey": "qing",
@@ -4711,8 +4781,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "第二次鸦片战争英法联军攻入北京，劫掠并焚毁圆明园",
-      "en": "Anglo-French forces enter Beijing and burn the Old Summer Palace (Yuanmingyuan)"
+      "zh": "1860年、第二次アヘン戦争で英仏連合軍が北京に攻め入り、圓明園を略奪し、焼き払った。",
+      "en": "Anglo-French forces enter Beijing and burn the Old Summer Palace (Yuanmingyuan)",
+      "ja": "1860年、第二次アヘン戦争で英仏連合軍が北京に攻め入り、圓明園を略奪し、焼き払った。"
     },
     {
       "dynastyKey": "roc",
@@ -4723,8 +4794,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京",
       "siteEn": "Beijing",
-      "zh": "北京爆发五四爱国运动，揭开新民主主义革命序幕",
-      "en": "May Fourth Movement erupts in Beijing"
+      "zh": "1919年、北京で五四運動が勃発し、新民主主義革命の序幕となった。",
+      "en": "May Fourth Movement erupts in Beijing",
+      "ja": "1919年、北京で五四運動が勃発し、新民主主義革命の序幕となった。"
     },
     {
       "dynastyKey": "roc",
@@ -4735,12 +4807,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北平（北京）",
       "siteEn": "Beijing",
-      "zh": "北平和平解放，同年10月1日于北京天安门宣告新中国成立",
+      "zh": "1949年、北平が平和的に解放され、同年10月1日には北京の天安門で新中国の成立が宣言された。",
       "en": "Peaceful liberation of Beiping; founding of the PRC proclaimed at Tiananmen",
       "persons": [
         "maozedong",
         "dengxiaoping"
-      ]
+      ],
+      "ja": "1949年、北平が平和的に解放され、同年10月1日には北京の天安門で新中国の成立が宣言された。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -4751,8 +4824,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大梁",
       "siteEn": "Daliang (Kaifeng)",
-      "zh": "魏惠王自安邑迁都大梁，开凿鸿沟连接黄河与淮泗水系",
-      "en": "King Hui of Wei moves his capital to Daliang and excavates the Honggou Canal"
+      "zh": "前364年、魏の恵王は安邑から大梁へ遷都し、鴻溝を開削して黄河と淮水・泗水水系を結んだ。",
+      "en": "King Hui of Wei moves his capital to Daliang and excavates the Honggou Canal",
+      "ja": "前364年、魏の恵王は安邑から大梁へ遷都し、鴻溝を開削して黄河と淮水・泗水水系を結んだ。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -4763,8 +4837,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大梁",
       "siteEn": "Daliang (Kaifeng)",
-      "zh": "秦将王贲引黄河鸿沟水灌大梁城，魏王假降，魏亡",
-      "en": "Qin general Wang Ben floods Daliang to conquer the state of Wei"
+      "zh": "前225年、秦の将軍 王賁は黄河と鴻溝の水を引いて大梁城を水攻めにし、魏王假は降伏、魏は滅亡した。",
+      "en": "Qin general Wang Ben floods Daliang to conquer the state of Wei",
+      "ja": "前225年、秦の将軍 王賁は黄河と鴻溝の水を引いて大梁城を水攻めにし、魏王假は降伏、魏は滅亡した。"
     },
     {
       "dynastyKey": "sui",
@@ -4775,8 +4850,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汴州",
       "siteEn": "Bianzhou (Kaifeng)",
-      "zh": "通济渠贯通洛阳经汴州入淮，汴州跃升为天下漕运咽喉",
-      "en": "Grand Canal makes Bianzhou (Kaifeng) the premier north-south waterway hub"
+      "zh": "605年、通済渠が洛陽を経て汴州から淮水へと貫通し、汴州は天下の漕運の要衝へと躍進した。",
+      "en": "Grand Canal makes Bianzhou (Kaifeng) the premier north-south waterway hub",
+      "ja": "605年、通済渠が洛陽を経て汴州から淮水へと貫通し、汴州は天下の漕運の要衝へと躍進した。"
     },
     {
       "dynastyKey": "wudai",
@@ -4787,8 +4863,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东都开封府",
       "siteEn": "Kaifeng",
-      "zh": "朱温篡唐建后梁定都开封；后晋、后汉、后周皆都于此",
-      "en": "Zhu Wen founds Later Liang in Kaifeng; four of the Five Dynasties make it their capital"
+      "zh": "朱温は唐を簒奪して後梁を建国し、開封に都を置いた。後晉、後漢、後周もまたここに都を置いた。",
+      "en": "Zhu Wen founds Later Liang in Kaifeng; four of the Five Dynasties make it their capital",
+      "ja": "朱温は唐を簒奪して後梁を建国し、開封に都を置いた。後晉、後漢、後周もまたここに都を置いた。"
     },
     {
       "dynastyKey": "beisong",
@@ -4799,8 +4876,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封府",
       "siteEn": "Dongjing (Kaifeng)",
-      "zh": "赵匡胤陈桥兵变，于东京开封府建立北宋",
-      "en": "Zhao Kuangyin founds the Northern Song Dynasty with Dongjing (Kaifeng) as capital"
+      "zh": "趙匡胤は陳橋の変を起こし、東京開封府に北宋を建国した。",
+      "en": "Zhao Kuangyin founds the Northern Song Dynasty with Dongjing (Kaifeng) as capital",
+      "ja": "趙匡胤は陳橋の変を起こし、東京開封府に北宋を建国した。"
     },
     {
       "dynastyKey": "beisong",
@@ -4811,8 +4889,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京汴梁",
       "siteEn": "Bianjing (Kaifeng)",
-      "zh": "靖康之变：金军攻陷汴京，掳徽钦二帝北去，北宋灭亡",
-      "en": "Jingkang Incident: Jurchen Jin forces capture Kaifeng, ending the Northern Song"
+      "zh": "靖康の変。金軍は汴京を陥落させ、徽宗・欽宗の両帝を北方に連れ去り、北宋は滅亡した。",
+      "en": "Jingkang Incident: Jurchen Jin forces capture Kaifeng, ending the Northern Song",
+      "ja": "靖康の変。金軍は汴京を陥落させ、徽宗・欽宗の両帝を北方に連れ去り、北宋は滅亡した。"
     },
     {
       "dynastyKey": "nansong",
@@ -4823,8 +4902,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金南京（汴京）",
       "siteEn": "Bianjing (Kaifeng)",
-      "zh": "金宣宗避蒙古兵锋，自中都南迁都城至汴京",
-      "en": "Emperor Xuanzong of Jin relocates the Jurchen capital south to Bianjing"
+      "zh": "1214年、金の宣宗は蒙古軍の鋒を避け、中都から汴京へと都を南遷した。",
+      "en": "Emperor Xuanzong of Jin relocates the Jurchen capital south to Bianjing",
+      "ja": "1214年、金の宣宗は蒙古軍の鋒を避け、中都から汴京へと都を南遷した。"
     },
     {
       "dynastyKey": "ming",
@@ -4835,8 +4915,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "开封府",
       "siteEn": "Kaifeng",
-      "zh": "李自成三围开封，黄河决口灌城，古城尽没于泥沙",
-      "en": "Yellow River dike breach during the 1642 Siege of Kaifeng submerges the city"
+      "zh": "李自成が開封を三度包囲した際、黄河が決壊して城を水没させ、古城は泥砂に埋没した。",
+      "en": "Yellow River dike breach during the 1642 Siege of Kaifeng submerges the city",
+      "ja": "李自成が開封を三度包囲した際、黄河が決壊して城を水没させ、古城は泥砂に埋没した。"
     },
     {
       "dynastyKey": "sui",
@@ -4847,8 +4928,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "余杭（杭州）",
       "siteEn": "Hangzhou",
-      "zh": "隋炀帝开江南河自京口达杭州，贯通大运河最南端",
-      "en": "Sui completes the Jiangnan Canal terminating at Hangzhou"
+      "zh": "610年、隋の煬帝が江南河を開削し、京口から杭州に至らせ、大運河の最南端を貫通させた。",
+      "en": "Sui completes the Jiangnan Canal terminating at Hangzhou",
+      "ja": "610年、隋の煬帝が江南河を開削し、京口から杭州に至らせ、大運河の最南端を貫通させた。"
     },
     {
       "dynastyKey": "wudai",
@@ -4859,8 +4941,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "杭州（西府）",
       "siteEn": "Hangzhou",
-      "zh": "钱镠建立吴越国定都杭州，筑捍海塘、浚西湖，保境安民",
-      "en": "Qian Liu establishes the Wuyue Kingdom in Hangzhou and builds the Qiantang seawall"
+      "zh": "907年、錢鏐が呉越国を建国し杭州に都を定めた。捍海塘を築き、西湖を浚渫して、領土を保全し民を安んじた。",
+      "en": "Qian Liu establishes the Wuyue Kingdom in Hangzhou and builds the Qiantang seawall",
+      "ja": "907年、錢鏐が呉越国を建国し杭州に都を定めた。捍海塘を築き、西湖を浚渫して、領土を保全し民を安んじた。"
     },
     {
       "dynastyKey": "nansong",
@@ -4871,8 +4954,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临安府",
       "siteEn": "Lin'an (Hangzhou)",
-      "zh": "宋高宗正式定临安府（杭州）为南宋行在（都城）",
-      "en": "Emperor Gaozong establishes Lin'an (Hangzhou) as capital of the Southern Song"
+      "zh": "1138年、宋高宗は臨安府（杭州）を南宋の行在（都城）と正式に定めた。",
+      "en": "Emperor Gaozong establishes Lin'an (Hangzhou) as capital of the Southern Song",
+      "ja": "1138年、宋高宗は臨安府（杭州）を南宋の行在（都城）と正式に定めた。"
     },
     {
       "dynastyKey": "nansong",
@@ -4883,8 +4967,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临安府",
       "siteEn": "Lin'an (Hangzhou)",
-      "zh": "绍兴和议达成，岳飞于临安风波亭遇害",
-      "en": "General Yue Fei is executed at Fengbo Pavilion in Lin'an"
+      "zh": "1142年、紹興の和議が成立し、岳飛は臨安の風波亭で処刑された。",
+      "en": "General Yue Fei is executed at Fengbo Pavilion in Lin'an",
+      "ja": "1142年、紹興の和議が成立し、岳飛は臨安の風波亭で処刑された。"
     },
     {
       "dynastyKey": "nansong",
@@ -4895,8 +4980,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临安府",
       "siteEn": "Lin'an (Hangzhou)",
-      "zh": "元军伯颜兵临临安，谢太后携宋恭帝奉玺出降",
-      "en": "Yuan forces under Bayan reach Lin'an; the Southern Song court surrenders"
+      "zh": "1276年、元軍の伯顔が臨安に迫り、謝太后は宋恭帝を伴い璽を奉じて降伏した。",
+      "en": "Yuan forces under Bayan reach Lin'an; the Southern Song court surrenders",
+      "ja": "1276年、元軍の伯顔が臨安に迫り、謝太后は宋恭帝を伴い璽を奉じて降伏した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -4907,8 +4993,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "秦将司马错由石牛道灭蜀置蜀郡，前311年张仪按咸阳规制筑成都城",
-      "en": "Qin general Sima Cuo conquers Shu; Zhang Yi rebuilds Chengdu modeled on Xianyang"
+      "zh": "前316年、秦将の司馬錯は石牛道を経て蜀を滅ぼし蜀郡を置いた。前311年には張儀が咸陽の規制に倣って成都城を築いた。",
+      "en": "Qin general Sima Cuo conquers Shu; Zhang Yi rebuilds Chengdu modeled on Xianyang",
+      "ja": "前316年、秦将の司馬錯は石牛道を経て蜀を滅ぼし蜀郡を置いた。前311年には張儀が咸陽の規制に倣って成都城を築いた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -4919,8 +5006,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "都江堰·成都",
       "siteEn": "Dujiangyan / Chengdu",
-      "zh": "蜀郡太守李冰凿离堆修筑都江堰，成都平原自此号“天府之国”",
-      "en": "Shu Governor Li Bing builds the Dujiangyan Irrigation System, making Chengdu the Land of Plenty"
+      "zh": "前256年、蜀郡太守の李冰は離堆を鑿ち都江堰を修築した。これにより成都平原は「天府の国」と称されるようになった。",
+      "en": "Shu Governor Li Bing builds the Dujiangyan Irrigation System, making Chengdu the Land of Plenty",
+      "ja": "前256年、蜀郡太守の李冰は離堆を鑿ち都江堰を修築した。これにより成都平原は「天府の国」と称されるようになった。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4931,13 +5019,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "刘备于成都称帝建立蜀汉，拜诸葛亮为丞相",
+      "zh": "221年、劉備は成都で帝位に就き蜀漢を建国し、諸葛亮を丞相に任じた。",
       "en": "Liu Bei proclaims the Shu Han Empire in Chengdu with Zhuge Liang as Chancellor",
       "persons": [
         "liubei",
         "zhugeliang",
         "zhaoyun"
-      ]
+      ],
+      "ja": "221年、劉備は成都で帝位に就き蜀漢を建国し、諸葛亮を丞相に任じた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4948,13 +5037,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "冀城（天水）",
       "siteEn": "Jicheng (Tianshui)",
-      "zh": "蜀军首次出祁山北伐，天水参军姜维归附获赞“凉州上士”",
+      "zh": "228年、蜀軍が初めて祁山から北伐を行った際、天水参軍の姜維が帰順し「涼州の上士」と称賛された。",
       "en": "During Shu Han's first Qishan expedition, Tianshui officer Jiang Wei joins Zhuge Liang's banner",
       "persons": [
         "zhugeliang",
         "simayi",
         "jiangwei"
-      ]
+      ],
+      "ja": "228年、蜀軍が初めて祁山から北伐を行った際、天水参軍の姜維が帰順し「涼州の上士」と称賛された。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4965,13 +5055,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "魏将邓艾偷渡阴平直抵成都，刘禅出降，蜀汉灭亡",
+      "zh": "263年、魏将の鄧艾は陰平を奇襲突破して成都に直抵し、劉禅は降伏して蜀漢は滅亡した。",
       "en": "Wei general Deng Ai marches through Yinping to Chengdu; Liu Shan surrenders",
       "month": 11,
       "persons": [
         "jiangwei",
         "dengai"
-      ]
+      ],
+      "ja": "263年、魏将の鄧艾は陰平を奇襲突破して成都に直抵し、劉禅は降伏して蜀漢は滅亡した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -4982,9 +5073,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "姜维于成都策反钟会图谋复蜀，兵变事败力战殉国",
+      "zh": "264年、姜維は成都で鍾会を唆して蜀漢復興を図ったが、兵変は失敗し力戦して殉国した。",
       "en": "Jiang Wei incites Zhong Hui to rebel in Chengdu in a bid to restore Shu Han, perishing in battle",
-      "month": 1
+      "month": 1,
+      "ja": "264年、姜維は成都で鍾会を唆して蜀漢復興を図ったが、兵変は失敗し力戦して殉国した。"
     },
     {
       "dynastyKey": "tang",
@@ -4995,9 +5087,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都府（今四川成都）",
       "siteEn": "Chengdu",
-      "zh": "安史之乱唐玄宗幸蜀驻跸成都，后升益州为成都府（号南京）",
+      "zh": "756年、安史の乱の際、唐玄宗は蜀に幸し成都に駐蹕した。後に益州は成都府（南京と号す）に昇格した。",
       "en": "Emperor Xuanzong takes refuge in Chengdu during the An Lushan Rebellion",
-      "month": 8
+      "month": 8,
+      "ja": "756年、安史の乱の際、唐玄宗は蜀に幸し成都に駐蹕した。後に益州は成都府（南京と号す）に昇格した。"
     },
     {
       "dynastyKey": "wudai",
@@ -5008,8 +5101,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "王建于成都建前蜀，后孟知祥复于成都建后蜀",
-      "en": "Former Shu and Later Shu kingdoms successively govern from Chengdu"
+      "zh": "907年、王建は成都で前蜀を建国し、後に孟知祥が再び成都で後蜀を建国した。",
+      "en": "Former Shu and Later Shu kingdoms successively govern from Chengdu",
+      "ja": "907年、王建は成都で前蜀を建国し、後に孟知祥が再び成都で後蜀を建国した。"
     },
     {
       "dynastyKey": "beisong",
@@ -5020,8 +5114,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "益州（成都）",
       "siteEn": "Chengdu",
-      "zh": "北宋于成都设益州交子务，发行世界最早官方纸币“交子”",
-      "en": "Northern Song establishes the Jiaozi Bureau in Chengdu, issuing the world’s first paper money"
+      "zh": "1023年、北宋は成都に益州交子務を設置し、世界最古の官製紙幣である「交子」を発行した。",
+      "en": "Northern Song establishes the Jiaozi Bureau in Chengdu, issuing the world’s first paper money",
+      "ja": "1023年、北宋は成都に益州交子務を設置し、世界最古の官製紙幣である「交子」を発行した。"
     },
     {
       "dynastyKey": "donghan",
@@ -5032,7 +5127,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "赤壁·乌林",
       "siteEn": "Red Cliffs (Chibi, Hubei)",
-      "zh": "赤壁之战：周瑜黄盖统孙刘联军火烧乌林战船大破曹操，奠定三分之局",
+      "zh": "赤壁の戦い：周瑜と黄蓋が孫劉連合軍を率い、烏林にて曹操の戦船を火攻めにして大破し、天下三分の計の基礎を築いた。",
       "en": "Battle of Red Cliffs: Zhou Yu and Huang Gai lead the Sun-Liu fleet to burn Cao Cao's armada at Wulin",
       "month": 11,
       "persons": [
@@ -5044,7 +5139,8 @@ window.ATLAS_LORE_DATA = {
         "guanyu",
         "zhangfei",
         "zhaoyun"
-      ]
+      ],
+      "ja": "赤壁の戦い：周瑜と黄蓋が孫劉連合軍を率い、烏林にて曹操の戦船を火攻めにして大破し、天下三分の計の基礎を築いた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -5055,8 +5151,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武昌（今鄂州）",
       "siteEn": "Wuchang",
-      "zh": "孙权自公安徙治鄂县，取“以武而昌”改名武昌",
-      "en": "Sun Quan establishes Wuchang as his military and political capital on the Yangtze"
+      "zh": "221年、孫権は公安から鄂県に都を移し、「武をもって昌（さか）える」との意から武昌と改名した。",
+      "en": "Sun Quan establishes Wuchang as his military and political capital on the Yangtze",
+      "ja": "221年、孫権は公安から鄂県に都を移し、「武をもって昌（さか）える」との意から武昌と改名した。"
     },
     {
       "dynastyKey": "nansong",
@@ -5067,9 +5164,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鄂州（武昌）",
       "siteEn": "Ezhou (Wuhan)",
-      "zh": "岳飞凯旋驻节鄂州大本营，练成精锐“岳家军”经略中原",
+      "zh": "1134年、岳飛は凱旋後、鄂州に大本営を置き、精鋭「岳家軍」を練成して中原回復の経略を進めた。",
       "en": "Yue Fei garrisons his headquarters at Ezhou, forging the elite Yue Family Army to reclaim the North",
-      "month": 8
+      "month": 8,
+      "ja": "1134年、岳飛は凱旋後、鄂州に大本営を置き、精鋭「岳家軍」を練成して中原回復の経略を進めた。"
     },
     {
       "dynastyKey": "qing",
@@ -5080,8 +5178,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武昌",
       "siteEn": "Wuchang (Wuhan)",
-      "zh": "武昌起义爆发，打响辛亥革命第一枪，终结两千年帝制",
-      "en": "Wuchang Uprising sparks the 1911 Xinhai Revolution, ending imperial rule in China"
+      "zh": "1911年、武昌起義が勃発し、辛亥革命の端緒を開き、二千年に及ぶ帝政を終焉させた。",
+      "en": "Wuchang Uprising sparks the 1911 Xinhai Revolution, ending imperial rule in China",
+      "ja": "1911年、武昌起義が勃発し、辛亥革命の端緒を開き、二千年に及ぶ帝政を終焉させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -5092,7 +5191,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳·隆中",
       "siteEn": "Xiangyang",
-      "zh": "刘备三顾茅庐请诸葛亮于襄阳隆中出山，定《隆中对》",
+      "zh": "207年、劉備は襄陽の隆中にて諸葛亮を三顧の礼をもって迎え、出山を請い、『隆中対』を定めた。",
       "en": "Liu Bei visits Zhuge Liang three times at Longzhong near Xiangyang",
       "persons": [
         "liubei",
@@ -5100,7 +5199,8 @@ window.ATLAS_LORE_DATA = {
         "guanyu",
         "zhangfei",
         "zhaoyun"
-      ]
+      ],
+      "ja": "207年、劉備は襄陽の隆中にて諸葛亮を三顧の礼をもって迎え、出山を請い、『隆中対』を定めた。"
     },
     {
       "dynastyKey": "donghan",
@@ -5111,7 +5211,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳·樊城",
       "siteEn": "Xiangyang",
-      "zh": "关羽北伐水淹七军，围曹仁于樊城、襄阳，威震华夏",
+      "zh": "219年、關羽は北伐において水攻めにより七軍を壊滅させ、樊城と襄陽で曹仁を包囲し、その威名は華夏に轟いた。",
       "en": "Guan Yu floods the Seven Armies and besieges Xiangyang and Fancheng",
       "persons": [
         "guanyu",
@@ -5120,7 +5220,8 @@ window.ATLAS_LORE_DATA = {
         "sunquan",
         "luxun"
       ],
-      "month": 8.5
+      "month": 8.5,
+      "ja": "219年、關羽は北伐において水攻めにより七軍を壊滅させ、樊城と襄陽で曹仁を包囲し、その威名は華夏に轟いた。"
     },
     {
       "dynastyKey": "nansong",
@@ -5131,8 +5232,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳",
       "siteEn": "Xiangyang",
-      "zh": "襄樊之战：宋军孤城苦守襄阳六年，元军回回炮破樊城后降元",
-      "en": "Six-year Siege of Xiangyang ends after Yuan forces deploy counterweight trebuchets"
+      "zh": "1273年、襄樊の戦い：宋軍は襄陽を孤立無援のまま六年間にわたり死守したが、元軍が回回砲を用いて樊城を陥落させた後、襄陽も元に降伏した。",
+      "en": "Six-year Siege of Xiangyang ends after Yuan forces deploy counterweight trebuchets",
+      "ja": "1273年、襄樊の戦い：宋軍は襄陽を孤立無援のまま六年間にわたり死守したが、元軍が回回砲を用いて樊城を陥落させた後、襄陽も元に降伏した。"
     },
     {
       "dynastyKey": "xihan",
@@ -5143,8 +5245,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "敦煌",
       "siteEn": "Dunhuang",
-      "zh": "汉武帝分酒泉置敦煌郡，筑玉门关、阳关扼丝路咽喉",
-      "en": "Emperor Wu of Han establishes Dunhuang Commandery and the Yumen and Yangguan passes"
+      "zh": "前111年、漢武帝は酒泉郡を分割して敦煌郡を設置し、玉門関と陽関を築いてシルクロードの要衝を押さえた。",
+      "en": "Emperor Wu of Han establishes Dunhuang Commandery and the Yumen and Yangguan passes",
+      "ja": "前111年、漢武帝は酒泉郡を分割して敦煌郡を設置し、玉門関と陽関を築いてシルクロードの要衝を押さえた。"
     },
     {
       "dynastyKey": "dongjin",
@@ -5155,8 +5258,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "敦煌",
       "siteEn": "Dunhuang",
-      "zh": "沙门乐僔于敦煌鸣沙山东麓开凿莫高窟第一窟",
-      "en": "Monk Yuezun carves the first cave at the Mogao Grottoes in Dunhuang"
+      "zh": "366年、沙門樂僔は敦煌の鳴沙山東麓に莫高窟の第一窟を開鑿した。",
+      "en": "Monk Yuezun carves the first cave at the Mogao Grottoes in Dunhuang",
+      "ja": "366年、沙門樂僔は敦煌の鳴沙山東麓に莫高窟の第一窟を開鑿した。"
     },
     {
       "dynastyKey": "tang",
@@ -5167,8 +5271,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "沙州（敦煌）",
       "siteEn": "Shazhou (Dunhuang)",
-      "zh": "张议潮于沙州起义驱逐吐蕃，遣使奉表归唐，置归义军",
-      "en": "Zhang Yichao leads the Dunhuang uprising and restores Tang rule as the Guiyi Circuit"
+      "zh": "848年、張議潮は沙州で起義して吐蕃を駆逐し、使者を派遣して唐への帰順を表明、歸義軍を設置した。",
+      "en": "Zhang Yichao leads the Dunhuang uprising and restores Tang rule as the Guiyi Circuit",
+      "ja": "848年、張議潮は沙州で起義して吐蕃を駆逐し、使者を派遣して唐への帰順を表明、歸義軍を設置した。"
     },
     {
       "dynastyKey": "xihan",
@@ -5179,8 +5284,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平城（大同）",
       "siteEn": "Pingcheng (Datong)",
-      "zh": "白登之围：汉高祖刘邦于平城白登山被冒顿单于围困七日",
-      "en": "Siege of Baideng: Emperor Gaozu of Han is besieged by Modu Chanyu at Pingcheng"
+      "zh": "前200年、白登の戦い：漢高祖劉邦は平城の白登山にて冒頓単于に七日間包囲された。",
+      "en": "Siege of Baideng: Emperor Gaozu of Han is besieged by Modu Chanyu at Pingcheng",
+      "ja": "前200年、白登の戦い：漢高祖劉邦は平城の白登山にて冒頓単于に七日間包囲された。"
     },
     {
       "dynastyKey": "dongjin",
@@ -5191,8 +5297,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平城（大同）",
       "siteEn": "Pingcheng (Datong)",
-      "zh": "拓跋珪迁都平城称帝建北魏，开凿云冈石窟",
-      "en": "Tuoba Gui moves the Northern Wei capital to Pingcheng and initiates the Yungang Grottoes"
+      "zh": "398年、拓跋珪は平城に遷都して皇帝を称し北魏を建国、雲岡石窟の開鑿に着手した。",
+      "en": "Tuoba Gui moves the Northern Wei capital to Pingcheng and initiates the Yungang Grottoes",
+      "ja": "398年、拓跋珪は平城に遷都して皇帝を称し北魏を建国、雲岡石窟の開鑿に着手した。"
     },
     {
       "dynastyKey": "sui",
@@ -5203,8 +5310,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江都（扬州）",
       "siteEn": "Jiangdu (Yangzhou)",
-      "zh": "宇文化及于江都发动兵变弑隋炀帝，隋朝覆亡",
-      "en": "Yuwen Huaji assassinates Emperor Yang of Sui in Jiangdu (Yangzhou)"
+      "zh": "宇文化及が江都で兵変を起こし、隋煬帝を弑殺、隋朝が滅亡した。",
+      "en": "Yuwen Huaji assassinates Emperor Yang of Sui in Jiangdu (Yangzhou)",
+      "ja": "宇文化及が江都で兵変を起こし、隋煬帝を弑殺、隋朝が滅亡した。"
     },
     {
       "dynastyKey": "tang",
@@ -5215,8 +5323,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州",
       "siteEn": "Yangzhou",
-      "zh": "鉴真和尚自扬州启航第六次东渡日本成功",
-      "en": "Monk Jianzhen sets sail from Yangzhou on his successful sixth voyage to Japan"
+      "zh": "鑑真和尚が揚州から第六次渡日を成功させた。",
+      "en": "Monk Jianzhen sets sail from Yangzhou on his successful sixth voyage to Japan",
+      "ja": "鑑真和尚が揚州から第六次渡日を成功させた。"
     },
     {
       "dynastyKey": "qing",
@@ -5227,8 +5336,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州",
       "siteEn": "Yangzhou",
-      "zh": "史可法率孤军死守扬州抗击清军，城破殉国",
-      "en": "Ming loyalist Shi Kefa defends Yangzhou to the death against Qing forces"
+      "zh": "史可法が孤軍を率いて揚州を死守し清軍に抗戦、城が陥落し殉国した。",
+      "en": "Ming loyalist Shi Kefa defends Yangzhou to the death against Qing forces",
+      "ja": "史可法が孤軍を率いて揚州を死守し清軍に抗戦、城が陥落し殉国した。"
     },
     {
       "dynastyKey": "qin",
@@ -5239,8 +5349,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "番禺（广州）",
       "siteEn": "Panyu (Guangzhou)",
-      "zh": "赵佗于番禺自立为南越武王；前111年汉武帝平南越置南海郡",
-      "en": "Zhao Tuo founds the Nanyue Kingdom at Panyu (Guangzhou); reconquered by Han in 111 BCE"
+      "zh": "趙佗が番禺で南越武王を称して自立。前111年、漢武帝が南越を平定し南海郡を置いた。",
+      "en": "Zhao Tuo founds the Nanyue Kingdom at Panyu (Guangzhou); reconquered by Han in 111 BCE",
+      "ja": "趙佗が番禺で南越武王を称して自立。前111年、漢武帝が南越を平定し南海郡を置いた。"
     },
     {
       "dynastyKey": "tang",
@@ -5251,8 +5362,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州",
       "siteEn": "Guangzhou",
-      "zh": "唐廷于广州首设市舶使，总管南海番舶贸易",
-      "en": "Tang establishes the first Maritime Trade Commissioner (Shibosi) in Guangzhou"
+      "zh": "唐廷が廣州に初めて市舶使を設置し、南海の蕃舶貿易を総管した。",
+      "en": "Tang establishes the first Maritime Trade Commissioner (Shibosi) in Guangzhou",
+      "ja": "唐廷が廣州に初めて市舶使を設置し、南海の蕃舶貿易を総管した。"
     },
     {
       "dynastyKey": "qing",
@@ -5263,8 +5375,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州·虎门",
       "siteEn": "Guangzhou / Humen",
-      "zh": "林则徐抵广州查禁鸦片，于虎门海滩当众销烟",
-      "en": "Imperial Commissioner Lin Zexu destroys opium stocks at Humen near Guangzhou"
+      "zh": "林則徐が廣州に赴きアヘンを査禁、虎門の浜辺で衆目の前でアヘンを銷却した。",
+      "en": "Imperial Commissioner Lin Zexu destroys opium stocks at Humen near Guangzhou",
+      "ja": "林則徐が廣州に赴きアヘンを査禁、虎門の浜辺で衆目の前でアヘンを銷却した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -5275,8 +5388,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "函谷关（今河南灵宝）",
       "siteEn": "Hangu Pass (Lingbao, Henan)",
-      "zh": "楚、赵、魏、韩、燕五国合纵攻秦，至函谷关，秦出兵逆击，五国联军皆败走",
-      "en": "Coalition of Chu, Zhao, Wei, Han, and Yan marches on Hangu Pass but is repulsed by Qin forces"
+      "zh": "楚、趙、魏、韓、燕の五国が合従して秦を攻め、函谷關に至るも、秦が出兵して逆撃し、五国連合軍は敗走した。",
+      "en": "Coalition of Chu, Zhao, Wei, Han, and Yan marches on Hangu Pass but is repulsed by Qin forces",
+      "ja": "楚、趙、魏、韓、燕の五国が合従して秦を攻め、函谷關に至るも、秦が出兵して逆撃し、五国連合軍は敗走した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -5287,8 +5401,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "函谷关（今河南灵宝）",
       "siteEn": "Hangu Pass (Lingbao, Henan)",
-      "zh": "齐孟尝君田文合韩、魏之师攻破函谷关，迫秦昭襄王割城求和",
-      "en": "Lord Mengchang of Qi leads a Qi-Han-Wei coalition that storms Hangu Pass after three years"
+      "zh": "齊の孟嘗君田文が韓・魏の軍と連合して函谷關を攻め破り、秦昭襄王に割城講和を迫った。",
+      "en": "Lord Mengchang of Qi leads a Qi-Han-Wei coalition that storms Hangu Pass after three years",
+      "ja": "齊の孟嘗君田文が韓・魏の軍と連合して函谷關を攻め破り、秦昭襄王に割城講和を迫った。"
     },
     {
       "dynastyKey": "qin",
@@ -5299,9 +5414,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武关（今陕西丹凤）",
       "siteEn": "Wuguan Pass (Danfeng, Shaanxi)",
-      "zh": "刘邦率楚军自南阳迂回攻破武关、峣关，先入关中降秦王子婴",
+      "zh": "劉邦が楚軍を率いて南陽から迂回し武關、嶢關を攻め破り、先に関中に入って秦王子嬰を降伏させた。",
       "en": "Liu Bang breaches Wuguan Pass from Nanyang and enters Guanzhong to accept Qin’s surrender",
-      "month": 10
+      "month": 10,
+      "ja": "劉邦が楚軍を率いて南陽から迂回し武關、嶢關を攻め破り、先に関中に入って秦王子嬰を降伏させた。"
     },
     {
       "dynastyKey": "qin",
@@ -5312,12 +5428,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "井陉关·娘子关（今河北井陉）",
       "siteEn": "Jingxing / Niangzi Pass (Hebei)",
-      "zh": "井陉之战：韩信出井陉口背水列阵，奇兵拔赵壁破赵军二十万",
+      "zh": "井陘の戦い：韓信が井陘口から背水の陣を敷き、奇兵を用いて趙壁を抜き、趙軍二十万を破った。",
       "en": "Battle of Jingxing: Han Xin deploys with his back to the river and routs 200,000 Zhao troops",
       "persons": [
         "hanxin",
         "liubang"
-      ]
+      ],
+      "ja": "井陘の戦い：韓信が井陘口から背水の陣を敷き、奇兵を用いて趙壁を抜き、趙軍二十万を破った。"
     },
     {
       "dynastyKey": "xihan",
@@ -5328,8 +5445,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "萧关（今宁夏固原东南）",
       "siteEn": "Xiaoguan Pass (Guyuan, Ningxia)",
-      "zh": "匈奴老上单于率十四万骑破萧关，汉文帝遣三将军屯细柳备胡",
-      "en": "Xiongnu Chanyu Laoshang breaches Xiaoguan Pass with 140,000 cavalry, alarming Chang’an"
+      "zh": "匈奴の老上單于が十四万騎を率いて蕭關を破り、漢文帝は三将軍を細柳に屯させ胡に備えさせた。",
+      "en": "Xiongnu Chanyu Laoshang breaches Xiaoguan Pass with 140,000 cavalry, alarming Chang’an",
+      "ja": "匈奴の老上單于が十四万騎を率いて蕭關を破り、漢文帝は三将軍を細柳に屯させ胡に備えさせた。"
     },
     {
       "dynastyKey": "xihan",
@@ -5340,8 +5458,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "玉门关·阳关（今甘肃敦煌）",
       "siteEn": "Yumen & Yangguan Passes (Dunhuang)",
-      "zh": "西汉于敦煌西境筑玉门关与阳关，扼控丝绸之路南北两道咽喉",
-      "en": "Western Han establishes Yumen Pass and Yangguan Pass to command the Silk Road routes"
+      "zh": "西漢が敦煌の西境に玉門關と陽關を築き、絲綢之路の南北両道の咽喉を扼した。",
+      "en": "Western Han establishes Yumen Pass and Yangguan Pass to command the Silk Road routes",
+      "ja": "西漢が敦煌の西境に玉門關と陽關を築き、絲綢之路の南北両道の咽喉を扼した。"
     },
     {
       "dynastyKey": "donghan",
@@ -5352,8 +5471,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潼关（今陕西潼关）",
       "siteEn": "Tongguan Pass (Shaanxi)",
-      "zh": "潼关之战：曹操北渡蒲阪津迂回渭南，以离间计大破马超韩遂",
-      "en": "Battle of Tongguan: Cao Cao outflanks the pass and defeats the coalition of Ma Chao and Han Sui"
+      "zh": "潼関の戦い：曹操は北の蒲阪津を渡り渭南に迂回し、離間の計を用いて馬超・韓遂を大破した。",
+      "en": "Battle of Tongguan: Cao Cao outflanks the pass and defeats the coalition of Ma Chao and Han Sui",
+      "ja": "潼関の戦い：曹操は北の蒲阪津を渡り渭南に迂回し、離間の計を用いて馬超・韓遂を大破した。"
     },
     {
       "dynastyKey": "donghan",
@@ -5364,7 +5484,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "阳平关·定军山（今陕西勉县）",
       "siteEn": "Yangping Pass (Mianxian, Shaanxi)",
-      "zh": "汉中之战：刘备据阳平关与定军山，黄忠阵斩夏侯渊尽取汉中",
+      "zh": "漢中の戦い：劉備は陽平関と定軍山を占拠し、黄忠が夏侯淵を陣中で斬り、漢中を完全に奪取した。",
       "en": "Hanzhong Campaign: Liu Bei takes Yangping Pass and Mount Dingjun; Huang Zhong slays Xiahou Yuan",
       "persons": [
         "liubei",
@@ -5372,7 +5492,8 @@ window.ATLAS_LORE_DATA = {
         "zhaoyun",
         "zhangfei"
       ],
-      "month": 5
+      "month": 5,
+      "ja": "漢中の戦い：劉備は陽平関と定軍山を占拠し、黄忠が夏侯淵を陣中で斬り、漢中を完全に奪取した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -5383,13 +5504,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "剑门关（今四川剑阁）",
       "siteEn": "Jianmen Pass (Jiange, Sichuan)",
-      "zh": "蜀汉大将军姜维自沓中疾退，凭剑门关天险拒钟会十万魏军",
+      "zh": "蜀漢の大将軍姜維は沓中から急速に退却し、剣門関の天険に拠って鍾会の十万の魏軍を拒んだ。",
       "en": "Shu general Jiang Wei holds the cliffs of Jianmen Pass against Zhong Hui’s 100,000 Wei troops",
       "month": 8,
       "persons": [
         "jiangwei",
         "dengai"
-      ]
+      ],
+      "ja": "蜀漢の大将軍姜維は沓中から急速に退却し、剣門関の天険に拠って鍾会の十万の魏軍を拒んだ。"
     },
     {
       "dynastyKey": "tang",
@@ -5400,8 +5522,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "虎牢关（今河南荥阳汜水）",
       "siteEn": "Hulao Pass (Xingyang, Henan)",
-      "zh": "虎牢之战：李世民率精骑据虎牢关生擒窦建德，王世充随即出降",
-      "en": "Battle of Hulao: Li Shimin captures Dou Jiande at Hulao Pass, forcing Wang Shichong to yield"
+      "zh": "虎牢の戦い：李世民は精鋭騎兵を率いて虎牢関に拠り竇建徳を生け捕りにし、王世充は直ちに降伏した。",
+      "en": "Battle of Hulao: Li Shimin captures Dou Jiande at Hulao Pass, forcing Wang Shichong to yield",
+      "ja": "虎牢の戦い：李世民は精鋭騎兵を率いて虎牢関に拠り竇建徳を生け捕りにし、王世充は直ちに降伏した。"
     },
     {
       "dynastyKey": "tang",
@@ -5412,8 +5535,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大庾岭梅关（今广东南雄北）",
       "siteEn": "Meiguan Pass (Dayu Ridge, Guangdong/Jiangxi)",
-      "zh": "张九龄奉诏主持凿辟大庾岭梅关新路，贯通赣粤南北商道",
-      "en": "Chancellor Zhang Jiuling excavates the Meiguan Pass road across Dayu Ridge, linking Gan and Yue"
+      "zh": "張九齢は詔を奉じて大庾嶺梅関に新路を開鑿する事業を主宰し、贛粤間の南北商道を貫通させた。",
+      "en": "Chancellor Zhang Jiuling excavates the Meiguan Pass road across Dayu Ridge, linking Gan and Yue",
+      "ja": "張九齢は詔を奉じて大庾嶺梅関に新路を開鑿する事業を主宰し、贛粤間の南北商道を貫通させた。"
     },
     {
       "dynastyKey": "tang",
@@ -5424,9 +5548,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潼关（今陕西潼关）",
       "siteEn": "Tongguan Pass (Shaanxi)",
-      "zh": "哥舒翰奉诏出潼关中伏惨败，潼关失守，京师门户洞开",
+      "zh": "哥舒翰は詔を奉じて潼関を出たが伏兵に遭い惨敗し、潼関は陥落、京師（長安）の門戸は開かれた。",
       "en": "Geshu Han is ambushed outside Tongguan Pass; the pass falls, exposing Chang'an",
-      "month": 6
+      "month": 6,
+      "ja": "哥舒翰は詔を奉じて潼関を出たが伏兵に遭い惨敗し、潼関は陥落、京師（長安）の門戸は開かれた。"
     },
     {
       "dynastyKey": "tang",
@@ -5437,8 +5562,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓝田关（今陕西蓝田）",
       "siteEn": "Lantian Pass (Lantian, Shaanxi)",
-      "zh": "韩愈谏迎佛骨贬潮州，逾蓝田关赋“云横秦岭家何在，雪拥蓝关马不前”",
-      "en": "Exiled to Chaozhou, Han Yu crosses snowbound Lantian Pass and composes his famous quatrain"
+      "zh": "韓愈は仏骨を迎え入れることに諫言し潮州に左遷され、藍田関を越える際に「雲は秦嶺に横たわり家は何処に、雪は藍関を塞ぎ馬は進まず」と賦した。",
+      "en": "Exiled to Chaozhou, Han Yu crosses snowbound Lantian Pass and composes his famous quatrain",
+      "ja": "韓愈は仏骨を迎え入れることに諫言し潮州に左遷され、藍田関を越える際に「雲は秦嶺に横たわり家は何処に、雪は藍関を塞ぎ馬は進まず」と賦した。"
     },
     {
       "dynastyKey": "beisong",
@@ -5449,8 +5575,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "雁门关（今山西代县北）",
       "siteEn": "Yanmen Pass (Daixian, Shanxi)",
-      "zh": "雁门之战：杨业率骑自西陉出雁门关背奇袭，大破辽军斩萧咄李",
-      "en": "Battle of Yanmen Pass: Song general Yang Ye leads a flanking cavalry strike to rout Liao forces"
+      "zh": "雁門の戦い：楊業は騎兵を率いて西陘から雁門関の背後に出て奇襲をかけ、遼軍を大破し蕭咄李を斬った。",
+      "en": "Battle of Yanmen Pass: Song general Yang Ye leads a flanking cavalry strike to rout Liao forces",
+      "ja": "雁門の戦い：楊業は騎兵を率いて西陘から雁門関の背後に出て奇襲をかけ、遼軍を大破し蕭咄李を斬った。"
     },
     {
       "dynastyKey": "ming",
@@ -5461,8 +5588,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "嘉峪关（今甘肃嘉峪关）",
       "siteEn": "Jiayuguan Pass (Gansu)",
-      "zh": "明将冯胜平定河西，于祁连峡谷最窄处筑嘉峪关，成明长城西端",
-      "en": "Ming general Feng Sheng builds Jiayuguan Pass in the Hexi Corridor as the Great Wall’s west end"
+      "zh": "明の将軍馮勝は河西を平定し、祁連峡谷の最も狭い場所に嘉峪関を築き、明の長城の西端とした。",
+      "en": "Ming general Feng Sheng builds Jiayuguan Pass in the Hexi Corridor as the Great Wall’s west end",
+      "ja": "明の将軍馮勝は河西を平定し、祁連峡谷の最も狭い場所に嘉峪関を築き、明の長城の西端とした。"
     },
     {
       "dynastyKey": "ming",
@@ -5473,8 +5601,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "居庸关·紫荆关（今北京昌平/河北易县）",
       "siteEn": "Juyong & Zijing Passes (Beijing / Hebei)",
-      "zh": "土木之变后瓦剌逼紫荆、居庸二关，于谦督军严守内三关退敌",
-      "en": "After the Tumu Crisis, Yu Qian fortifies Juyong and Zijing passes and repels Oirat forces"
+      "zh": "土木の変後、瓦剌は紫荊関と居庸関の二関に迫ったが、于謙は軍を督励して内三関を厳守し敵を退けた。",
+      "en": "After the Tumu Crisis, Yu Qian fortifies Juyong and Zijing passes and repels Oirat forces",
+      "ja": "土木の変後、瓦剌は紫荊関と居庸関の二関に迫ったが、于謙は軍を督励して内三関を厳守し敵を退けた。"
     },
     {
       "dynastyKey": "ming",
@@ -5485,8 +5614,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "山海关（今河北秦皇岛）",
       "siteEn": "Shanhai Pass (Qinhuangdao, Hebei)",
-      "zh": "山海关大战：吴三桂开关纳多尔衮清军，联手击败李自成大顺军",
-      "en": "Battle of Shanhai Pass: Wu Sangui opens the gates to Dorgon’s Qing army, defeating Li Zicheng"
+      "zh": "山海関の戦い：呉三桂は山海関を開いて多爾袞の清軍を迎え入れ、李自成の大順軍を共同で撃破した。",
+      "en": "Battle of Shanhai Pass: Wu Sangui opens the gates to Dorgon’s Qing army, defeating Li Zicheng",
+      "ja": "山海関の戦い：呉三桂は山海関を開いて多爾袞の清軍を迎え入れ、李自成の大順軍を共同で撃破した。"
     },
     {
       "dynastyKey": "xihan",
@@ -5497,8 +5627,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "西海郡龙夷城（今青海海晏）",
       "siteEn": "Longyi, Xihai Commandery (Haiyan, Qinghai)",
-      "zh": "王莽于青海湖东岸置西海郡（治龙夷城），汉代郡县首次推进至青海湖畔",
-      "en": "Wang Mang establishes Xihai Commandery east of Qinghai Lake with its seat at Longyi"
+      "zh": "王莽は青海湖東岸に西海郡（治所は龍夷城）を設置し、漢代の郡県が初めて青海湖畔まで進出した。",
+      "en": "Wang Mang establishes Xihai Commandery east of Qinghai Lake with its seat at Longyi",
+      "ja": "王莽は青海湖東岸に西海郡（治所は龍夷城）を設置し、漢代の郡県が初めて青海湖畔まで進出した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -5509,8 +5640,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建安（今福建建瓯）",
       "siteEn": "Jian'an (Jian'ou, Fujian)",
-      "zh": "东吴景帝孙休析会稽南部置建安郡，治建安县，福建始设独立郡级建置",
-      "en": "Sun Xiu of Eastern Wu carves Jian'an Commandery from southern Kuaiji in northern Fujian"
+      "zh": "260年、東呉の景帝孫休は会稽郡南部を分割して建安郡を設置し、建安県をその治所とした。これにより福建に初めて独立した郡級の行政区画が設けられた。",
+      "en": "Sun Xiu of Eastern Wu carves Jian'an Commandery from southern Kuaiji in northern Fujian",
+      "ja": "260年、東呉の景帝孫休は会稽郡南部を分割して建安郡を設置し、建安県をその治所とした。これにより福建に初めて独立した郡級の行政区画が設けられた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -5521,8 +5653,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "伏俟城（今青海共和铁卜卡）",
       "siteEn": "Fusi City (Gonghe, Qinghai)",
-      "zh": "吐谷浑首领夸吕始自称可汗，于青海湖西十五里营建王都伏俟城",
-      "en": "Tuyuhun ruler Kualu proclaims himself Khagan and builds his royal capital at Fusi City"
+      "zh": "540年、吐谷渾の首領夸呂は初めて可汗を称し、青海湖の西十五里に王都伏俟城を築いた。",
+      "en": "Tuyuhun ruler Kualu proclaims himself Khagan and builds his royal capital at Fusi City",
+      "ja": "540年、吐谷渾の首領夸呂は初めて可汗を称し、青海湖の西十五里に王都伏俟城を築いた。"
     },
     {
       "dynastyKey": "wudai",
@@ -5533,8 +5666,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潭州（今湖南长沙）",
       "siteEn": "Tan Zhou (Changsha, Hunan)",
-      "zh": "后唐册封马殷为楚国王，马氏于潭州建南楚政权，兴茶铸币保境安民",
-      "en": "Later Tang invests Ma Yin as King of Chu at Tan Zhou, founding the Southern Chu kingdom"
+      "zh": "927年、後唐は馬殷を楚王に冊封し、馬氏は潭州に南楚政権を樹立した。茶業を振興し、貨幣を鋳造して国境を守り民を安んじた。",
+      "en": "Later Tang invests Ma Yin as King of Chu at Tan Zhou, founding the Southern Chu kingdom",
+      "ja": "927年、後唐は馬殷を楚王に冊封し、馬氏は潭州に南楚政権を樹立した。茶業を振興し、貨幣を鋳造して国境を守り民を安んじた。"
     },
     {
       "dynastyKey": "beisong",
@@ -5545,8 +5679,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "青唐城（今青海西宁）",
       "siteEn": "Qingtang City (Xining, Qinghai)",
-      "zh": "吐蕃唃厮啰部迁都青唐城（今西宁），建青唐政权并扼丝路青海道要冲",
-      "en": "Tibetan ruler Gusiluo moves his capital to Qingtang (Xining) on the Qinghai Silk Road"
+      "zh": "1032年、吐蕃の唃廝啰部は青唐城（現在の西寧）に遷都し、青唐政権を樹立した。また、シルクロードの青海道の要衝を扼した。",
+      "en": "Tibetan ruler Gusiluo moves his capital to Qingtang (Xining) on the Qinghai Silk Road",
+      "ja": "1032年、吐蕃の唃廝啰部は青唐城（現在の西寧）に遷都し、青唐政権を樹立した。また、シルクロードの青海道の要衝を扼した。"
     },
     {
       "dynastyKey": "beisong",
@@ -5557,8 +5692,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "昆仑关（今广西南宁）",
       "siteEn": "Kunlun Pass (Nanning, Guangxi)",
-      "zh": "枢密副使狄青元宵夜袭昆仑关，于归仁铺大破侬智高，平定广南西路",
-      "en": "Song general Di Qing launches a night raid through Kunlun Pass to defeat Nong Zhigao"
+      "zh": "1053年、枢密副使狄青は元宵節の夜に昆侖関を夜襲し、帰仁鋪で儂智高を大破し、広南西路を平定した。",
+      "en": "Song general Di Qing launches a night raid through Kunlun Pass to defeat Nong Zhigao",
+      "ja": "1053年、枢密副使狄青は元宵節の夜に昆侖関を夜襲し、帰仁鋪で儂智高を大破し、広南西路を平定した。"
     },
     {
       "dynastyKey": "nansong",
@@ -5569,8 +5705,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "福安府（今福建福州）",
       "siteEn": "Fu'an Prefecture (Fuzhou, Fujian)",
-      "zh": "文天祥、张世杰、陆秀夫奉益王赵昰于福州称帝（宋端宗），升福安府抗元",
-      "en": "Wen Tianxiang, Zhang Shijie, and Lu Xiufu enthrone Emperor Duanzong at Fuzhou against Yuan"
+      "zh": "1276年、文天祥、張世傑、陸秀夫は益王趙昰を福州に奉じて皇帝（宋の端宗）と称し、福安府を昇格させて元に抵抗した。",
+      "en": "Wen Tianxiang, Zhang Shijie, and Lu Xiufu enthrone Emperor Duanzong at Fuzhou against Yuan",
+      "ja": "1276年、文天祥、張世傑、陸秀夫は益王趙昰を福州に奉じて皇帝（宋の端宗）と称し、福安府を昇格させて元に抵抗した。"
     },
     {
       "dynastyKey": "ming",
@@ -5581,8 +5718,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "海龙屯（今贵州遵义）",
       "siteEn": "Hailongtun Fortress (Zunyi, Guizhou)",
-      "zh": "万历平播之役：李化龙督八路明军攻克海龙屯，灭播州杨氏土司改土归流",
-      "en": "Bozhou Campaign: Ming commander Li Hualong storms Hailongtun Fortress, ending Yang tusi rule"
+      "zh": "1600年、万暦帝の播州平定の役において、李化龍は八路の明軍を率いて海龍屯を攻略し、播州楊氏の土司を滅ぼし、改土帰流を断行した。",
+      "en": "Bozhou Campaign: Ming commander Li Hualong storms Hailongtun Fortress, ending Yang tusi rule",
+      "ja": "1600年、万暦帝の播州平定の役において、李化龍は八路の明軍を率いて海龍屯を攻略し、播州楊氏の土司を滅ぼし、改土帰流を断行した。"
     },
     {
       "dynastyKey": "qing",
@@ -5593,8 +5731,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "衡州（今湖南衡阳）",
       "siteEn": "Heng Zhou (Hengyang, Hunan)",
-      "zh": "吴三桂于湖南衡州称帝建国号大周，旋即病卒，清军随即反攻收复湖南",
-      "en": "Wu Sangui proclaims the Zhou dynasty at Heng Zhou shortly before dying, turning the war"
+      "zh": "1678年、呉三桂は湖南の衡州で皇帝を称し、国号を大周としたが、間もなく病死した。清軍は直ちに反攻して湖南を奪回した。",
+      "en": "Wu Sangui proclaims the Zhou dynasty at Heng Zhou shortly before dying, turning the war",
+      "ja": "1678年、呉三桂は湖南の衡州で皇帝を称し、国号を大周としたが、間もなく病死した。清軍は直ちに反攻して湖南を奪回した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -5605,8 +5744,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鲁城（今山东曲阜）",
       "siteEn": "Lu Capital (Qufu, Shandong)",
-      "zh": "楚考烈王伐鲁灭之，迁鲁顷公于莒，周公所封八百年鲁国绝祀",
-      "en": "King Kaolie of Chu annexes Lu at Qufu, ending the 800-year state founded by the Duke of Zhou"
+      "zh": "前249年、楚の考烈王は魯を討伐して滅ぼし、魯頃公を莒に遷した。これにより周公が封じられた八百年の魯国は祭祀が絶えた。",
+      "en": "King Kaolie of Chu annexes Lu at Qufu, ending the 800-year state founded by the Duke of Zhou",
+      "ja": "前249年、楚の考烈王は魯を討伐して滅ぼし、魯頃公を莒に遷した。これにより周公が封じられた八百年の魯国は祭祀が絶えた。"
     },
     {
       "dynastyKey": "xihan",
@@ -5617,9 +5757,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鲁县（今山东曲阜）",
       "siteEn": "Lu County (Qufu, Shandong)",
-      "zh": "汉高祖刘邦自淮南还过鲁，以太牢祠孔子，开历代帝王亲祭孔子之始",
+      "zh": "前195年、漢の高祖劉邦は淮南から帰る途中に魯に立ち寄り、太牢の礼をもって孔子を祀った。これは歴代帝王が自ら孔子を祭る始まりとなった。",
       "en": "Emperor Gaozu of Han offers the Grand Sacrifice to Confucius at Lu, starting imperial rites",
-      "month": 11
+      "month": 11,
+      "ja": "前195年、漢の高祖劉邦は淮南から帰る途中に魯に立ち寄り、太牢の礼をもって孔子を祀った。これは歴代帝王が自ら孔子を祭る始まりとなった。"
     },
     {
       "dynastyKey": "beisong",
@@ -5630,8 +5771,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "曲阜（今山东曲阜）",
       "siteEn": "Qufu (Qufu, Shandong)",
-      "zh": "宋真宗东封泰山毕亲幸曲阜谒孔庙，追谥孔子为玄圣文宣王",
-      "en": "Emperor Zhenzong visits the Temple of Confucius at Qufu after the Mount Tai Fengshan rites"
+      "zh": "1008年、宋の真宗は泰山での封禅の儀を終えた後、曲阜に親幸して孔廟を謁見し、孔子に玄聖文宣王の諡号を追贈した。",
+      "en": "Emperor Zhenzong visits the Temple of Confucius at Qufu after the Mount Tai Fengshan rites",
+      "ja": "1008年、宋の真宗は泰山での封禅の儀を終えた後、曲阜に親幸して孔廟を謁見し、孔子に玄聖文宣王の諡号を追贈した。"
     },
     {
       "dynastyKey": "wudai",
@@ -5642,8 +5784,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "曲阜（今山东曲阜）",
       "siteEn": "Qufu (Qufu, Shandong)",
-      "zh": "后周太祖郭威平兖州后幸曲阜谒孔庙，称孔子“百世帝王之师”并亲行拜礼",
-      "en": "Later Zhou Emperor Guo Wei visits Qufu and bows to Confucius as Teacher of Emperors for All Ages"
+      "zh": "952年、後周の太祖郭威は兗州を平定した後、曲阜に幸して孔廟を謁見し、孔子を「百世帝王の師」と称して自ら拝礼した。",
+      "en": "Later Zhou Emperor Guo Wei visits Qufu and bows to Confucius as Teacher of Emperors for All Ages",
+      "ja": "952年、後周の太祖郭威は兗州を平定した後、曲阜に幸して孔廟を謁見し、孔子を「百世帝王の師」と称して自ら拝礼した。"
     },
     {
       "dynastyKey": "qing",
@@ -5654,8 +5797,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "曲阜（今山东曲阜）",
       "siteEn": "Qufu (Qufu, Shandong)",
-      "zh": "康熙帝南巡回銮亲幸曲阜孔庙，行三跪九叩大礼并御书“万世师表”匾额",
-      "en": "Emperor Kangxi visits Qufu Temple of Confucius, performing full imperial rites and calligraphy"
+      "zh": "1684年、康熙帝は南巡の途次、曲阜の孔廟を親幸し、三跪九叩の礼を行い、「萬世師表」の扁額を御書した。",
+      "en": "Emperor Kangxi visits Qufu Temple of Confucius, performing full imperial rites and calligraphy",
+      "ja": "1684年、康熙帝は南巡の途次、曲阜の孔廟を親幸し、三跪九叩の礼を行い、「萬世師表」の扁額を御書した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -5666,8 +5810,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊（今山东青岛·黄岛）",
       "siteEn": "Langya (Qingdao, Shandong)",
-      "zh": "越王勾践灭吴后北徙都琅琊望东海，至越王翳时始自琅琊南迁返吴",
-      "en": "King Yi of Yue moves his capital south from Langya, ending Yue's northern maritime court era"
+      "zh": "前375年頃、越王勾踐が呉を滅ぼした後、都を琅琊に北遷させ東海を望んだが、越王翳の時代に琅琊から南遷して呉の故地に戻った。",
+      "en": "King Yi of Yue moves his capital south from Langya, ending Yue's northern maritime court era",
+      "ja": "前375年頃、越王勾踐が呉を滅ぼした後、都を琅琊に北遷させ東海を望んだが、越王翳の時代に琅琊から南遷して呉の故地に戻った。"
     },
     {
       "dynastyKey": "qin",
@@ -5678,8 +5823,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊台（今山东青岛·黄岛）",
       "siteEn": "Langya Terrace (Qingdao, Shandong)",
-      "zh": "秦始皇东巡登琅琊山，留三月，徙三万户筑琅琊台立石颂秦德",
-      "en": "Qin Shi Huang ascends Mount Langya, moving 30,000 households to build Langya Terrace and stele"
+      "zh": "前219年、秦始皇は東巡の際、琅琊山に登り、三ヶ月滞在した。三万戸を移住させて琅琊臺を築き、石碑を立てて秦の徳を頌した。",
+      "en": "Qin Shi Huang ascends Mount Langya, moving 30,000 households to build Langya Terrace and stele",
+      "ja": "前219年、秦始皇は東巡の際、琅琊山に登り、三ヶ月滞在した。三万戸を移住させて琅琊臺を築き、石碑を立てて秦の徳を頌した。"
     },
     {
       "dynastyKey": "qin",
@@ -5690,9 +5836,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊（今山东青岛·黄岛）",
       "siteEn": "Langya (Qingdao, Shandong)",
-      "zh": "秦始皇末次东巡至琅琊，遣方士徐福率童男女数千人入海求仙",
+      "zh": "前210年、秦始皇は最後の東巡で琅琊に至り、方士の徐福に童男童女数千人を率いさせ、海に入って仙人を求めさせた。",
       "en": "On his final eastern tour at Langya, Qin Shi Huang sends Xu Fu across the sea for immortals",
-      "month": 3
+      "month": 3,
+      "ja": "前210年、秦始皇は最後の東巡で琅琊に至り、方士の徐福に童男童女数千人を率いさせ、海に入って仙人を求めさせた。"
     },
     {
       "dynastyKey": "xihan",
@@ -5703,8 +5850,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊台（今山东青岛·黄岛）",
       "siteEn": "Langya Terrace (Qingdao, Shandong)",
-      "zh": "汉武帝东巡海上至琅琊，登琅琊台礼祠四时主，遣方士入海求蓬莱",
-      "en": "Emperor Wu of Han tours the coast to Langya, sacrificing at Langya Terrace and seeking Penglai"
+      "zh": "前106年、漢武帝は海上を東巡して琅琊に至り、琅琊臺に登って四時主を礼祠し、方士を海に入らせて蓬萊を求めさせた。",
+      "en": "Emperor Wu of Han tours the coast to Langya, sacrificing at Langya Terrace and seeking Penglai",
+      "ja": "前106年、漢武帝は海上を東巡して琅琊に至り、琅琊臺に登って四時主を礼祠し、方士を海に入らせて蓬萊を求めさせた。"
     },
     {
       "dynastyKey": "xihan",
@@ -5715,8 +5863,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊（今山东诸城·莒县）",
       "siteEn": "Langya (Zhucheng & Ju County, Shandong)",
-      "zh": "琅琊人樊崇起兵反莽，义军以朱涂眉相别号“赤眉军”，终成覆莽主力",
-      "en": "Fan Chong of Langya launches the Red Eyebrows uprising against Wang Mang's Xin dynasty"
+      "zh": "18年、琅琊出身の樊崇が王莽に反抗して挙兵した。義軍は朱色に眉を塗って識別したことから「赤眉軍」と号され、最終的に王莽政権を覆す主力となった。",
+      "en": "Fan Chong of Langya launches the Red Eyebrows uprising against Wang Mang's Xin dynasty",
+      "ja": "18年、琅琊出身の樊崇が王莽に反抗して挙兵した。義軍は朱色に眉を塗って識別したことから「赤眉軍」と号され、最終的に王莽政権を覆す主力となった。"
     },
     {
       "dynastyKey": "xijin",
@@ -5727,8 +5876,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊国（今山东鲁东南）",
       "siteEn": "Langya Principality (SE Shandong)",
-      "zh": "琅琊王司马睿采王导之策南渡镇建邺，偕琅琊王氏奠定东晋基业",
-      "en": "Sima Rui, Prince of Langya, crosses south to Jianye with Wang Dao, founding the Eastern Jin"
+      "zh": "307年、琅琊王司馬睿は王導の献策を受け入れ、南渡して建鄴を鎮守し、琅琊王氏とともに東晉の基盤を築いた。",
+      "en": "Sima Rui, Prince of Langya, crosses south to Jianye with Wang Dao, founding the Eastern Jin",
+      "ja": "307年、琅琊王司馬睿は王導の献策を受け入れ、南渡して建鄴を鎮守し、琅琊王氏とともに東晉の基盤を築いた。"
     },
     {
       "dynastyKey": "beisong",
@@ -5739,8 +5889,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "昌南镇（今江西景德镇）",
       "siteEn": "Changnan Town (Jingdezhen, Jiangxi)",
-      "zh": "宋真宗景德元年诏昌南镇进御瓷底书“景德年制”，景德镇由此得名",
-      "en": "Emperor Zhenzong decrees Changnan imperial porcelain bear the Jingde mark, naming Jingdezhen"
+      "zh": "1004年、宋真宗は景徳元年、昌南鎮に命じて献上する御瓷の底部に「景徳年製」と記させ、これにより昌南鎮は景徳鎮と命名された。",
+      "en": "Emperor Zhenzong decrees Changnan imperial porcelain bear the Jingde mark, naming Jingdezhen",
+      "ja": "1004年、宋真宗は景徳元年、昌南鎮に命じて献上する御瓷の底部に「景徳年製」と記させ、これにより昌南鎮は景徳鎮と命名された。"
     },
     {
       "dynastyKey": "ming",
@@ -5751,8 +5902,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "景德镇（今江西景德镇）",
       "siteEn": "Jingdezhen (Jingdezhen, Jiangxi)",
-      "zh": "明廷于景德镇珠山置御器厂督造宫廷御瓷，永宣青花与成化斗彩冠绝天下",
-      "en": "The Ming court establishes the Zhushan Imperial Kiln Factory at Jingdezhen for royal porcelain"
+      "zh": "1402年、明廷は景徳鎮の珠山に御器廠を設置し、宮廷用の御瓷を監督製造させた。永宣青花と成化闘彩は天下に冠たる名品となった。",
+      "en": "The Ming court establishes the Zhushan Imperial Kiln Factory at Jingdezhen for royal porcelain",
+      "ja": "1402年、明廷は景徳鎮の珠山に御器廠を設置し、宮廷用の御瓷を監督製造させた。永宣青花と成化闘彩は天下に冠たる名品となった。"
     },
     {
       "dynastyKey": "qing",
@@ -5763,8 +5915,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "宁古塔（今黑龙江海林）",
       "siteEn": "Ningguta (Hailin, Heilongjiang)",
-      "zh": "顺治丁酉科场案发，江南才子吴兆骞等流徙宁古塔，塞外苦寒渐兴文教",
-      "en": "After the 1657 exam scandal, Jiangnan literati like Wu Zhaoqian are exiled to frontier Ningguta"
+      "zh": "1658年、順治丁酉科場案が発生し、江南の才子である呉兆騫らが寧古塔へ流刑された。これにより、塞外の厳しい寒さの地にも次第に文教が興った。",
+      "en": "After the 1657 exam scandal, Jiangnan literati like Wu Zhaoqian are exiled to frontier Ningguta",
+      "ja": "1658年、順治丁酉科場案が発生し、江南の才子である呉兆騫らが寧古塔へ流刑された。これにより、塞外の厳しい寒さの地にも次第に文教が興った。"
     },
     {
       "dynastyKey": "qing",
@@ -5775,8 +5928,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "宁古塔城（今黑龙江海林）",
       "siteEn": "Ningguta Garrison (Hailin, Heilongjiang)",
-      "zh": "清廷设镇守宁古塔等处将军，统辖松花江、乌苏里江至库页岛广袤边疆",
-      "en": "The Qing court appoints the General of Ningguta to govern the frontier to Ussuri and Sakhalin"
+      "zh": "1662年、清廷は寧古塔等処鎮守將軍を設置し、松花江、ウスリー江から樺太に至る広大な辺境を統轄させた。",
+      "en": "The Qing court appoints the General of Ningguta to govern the frontier to Ussuri and Sakhalin",
+      "ja": "1662年、清廷は寧古塔等処鎮守將軍を設置し、松花江、ウスリー江から樺太に至る広大な辺境を統轄させた。"
     },
     {
       "dynastyKey": "dongjin",
@@ -5787,8 +5941,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广固（今山东潍坊青州）",
       "siteEn": "Guanggu (Qingzhou, Weifang, Shandong)",
-      "zh": "刘裕北伐攻克南燕都城广固，擒慕容超收复青齐之地",
-      "en": "Liu Yu storms the Southern Yan capital Guanggu, capturing Murong Chao and recovering Shandong"
+      "zh": "410年、劉裕は北伐を行い、南燕の都城である廣固を攻略し、慕容超を捕らえて青齊の地を回復した。",
+      "en": "Liu Yu storms the Southern Yan capital Guanggu, capturing Murong Chao and recovering Shandong",
+      "ja": "410年、劉裕は北伐を行い、南燕の都城である廣固を攻略し、慕容超を捕らえて青齊の地を回復した。"
     },
     {
       "dynastyKey": "beisong",
@@ -5799,8 +5954,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "青州（今山东潍坊青州）",
       "siteEn": "Qing Zhou (Weifang, Shandong)",
-      "zh": "河北大水百万流民南奔，富弼知青州置场劝募赈活饥民五十余万",
-      "en": "Prefect Fu Bi organizes relief in Qing Zhou for Hebei flood refugees, saving over 500,000 lives"
+      "zh": "1048年、河北で大水害が発生し、百万の流民が南下した。青州知事の富弼は救済所を設置して募金活動を行い、50万以上の飢民を救済した。",
+      "en": "Prefect Fu Bi organizes relief in Qing Zhou for Hebei flood refugees, saving over 500,000 lives",
+      "ja": "1048年、河北で大水害が発生し、百万の流民が南下した。青州知事の富弼は救済所を設置して募金活動を行い、50万以上の飢民を救済した。"
     },
     {
       "dynastyKey": "beisong",
@@ -5811,8 +5967,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "密州（今山东潍坊诸城）",
       "siteEn": "Mi Zhou (Zhucheng, Weifang, Shandong)",
-      "zh": "苏轼知密州筑超然台，丙辰中秋欢饮达旦赋《水调歌头》",
-      "en": "Su Shi governs Mi Zhou, composing his Mid-Autumn masterpiece Prelude to Water Melody"
+      "zh": "1076年、密州知事の蘇軾は超然台を築いた。丙辰の年の中秋に夜通し酒を楽しみ、『水調歌頭』を賦した。",
+      "en": "Su Shi governs Mi Zhou, composing his Mid-Autumn masterpiece Prelude to Water Melody",
+      "ja": "1076年、密州知事の蘇軾は超然台を築いた。丙辰の年の中秋に夜通し酒を楽しみ、『水調歌頭』を賦した。"
     },
     {
       "dynastyKey": "donghan",
@@ -5823,8 +5980,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "葭萌（今四川广元）",
       "siteEn": "Jiameng (Guangyuan, Sichuan)",
-      "zh": "刘备自葭萌挥师南下与刘璋决裂，夺取涪城开启益州之战",
-      "en": "Liu Bei marches south from Jiameng to break with Liu Zhang, launching his Yi Province campaign"
+      "zh": "212年、劉備は葭萌から軍を南下させ、劉璋と決裂した。涪城を奪取し、益州の戦いを開始した。",
+      "en": "Liu Bei marches south from Jiameng to break with Liu Zhang, launching his Yi Province campaign",
+      "ja": "212年、劉備は葭萌から軍を南下させ、劉璋と決裂した。涪城を奪取し、益州の戦いを開始した。"
     },
     {
       "dynastyKey": "tang",
@@ -5835,8 +5993,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "利州（今四川广元）",
       "siteEn": "Li Zhou (Guangyuan, Sichuan)",
-      "zh": "利州都督武士彟任上，武则天相传诞于利州嘉陵江畔",
-      "en": "Empress Wu Zetian is traditionally born at Li Zhou while her father Wu Shiyue governs there"
+      "zh": "624年、利州都督の武士彟の在任中、武則天は利州の嘉陵江畔で生まれたと伝えられている。",
+      "en": "Empress Wu Zetian is traditionally born at Li Zhou while her father Wu Shiyue governs there",
+      "ja": "624年、利州都督の武士彟の在任中、武則天は利州の嘉陵江畔で生まれたと伝えられている。"
     },
     {
       "dynastyKey": "beisong",
@@ -5847,8 +6006,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "代州雁门（今山西忻州代县）",
       "siteEn": "Dai Zhou & Yanmen (Daixian, Xinzhou, Shanxi)",
-      "zh": "代州刺史杨业出雁门关背击辽军，杀辽驸马萧咄李获雁门大捷",
-      "en": "Prefect Yang Ye leads cavalry behind Liao lines at Yanmen Pass, winning the Battle of Yanmen"
+      "zh": "980年、代州刺史の楊業は雁門関から出撃して遼軍の背後を襲い、遼の駙馬蕭咄李を討ち取り、雁門大捷を挙げた。",
+      "en": "Prefect Yang Ye leads cavalry behind Liao lines at Yanmen Pass, winning the Battle of Yanmen",
+      "ja": "980年、代州刺史の楊業は雁門関から出撃して遼軍の背後を襲い、遼の駙馬蕭咄李を討ち取り、雁門大捷を挙げた。"
     },
     {
       "dynastyKey": "tang",
@@ -5859,8 +6019,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "灵武（今宁夏吴忠灵武）",
       "siteEn": "Lingwu (Wuzhong, Ningxia)",
-      "zh": "长安失守，太子李亨北上朔方军治所灵武即位为唐肃宗号令平叛",
-      "en": "Crown Prince Li Heng ascends the throne as Emperor Suzong at Lingwu to rally Tang forces"
+      "zh": "756年、長安が失陥すると、太子李亨は朔方軍の治所である霊武に北上し、唐粛宗として即位して反乱鎮圧を号令した。",
+      "en": "Crown Prince Li Heng ascends the throne as Emperor Suzong at Lingwu to rally Tang forces",
+      "ja": "756年、長安が失陥すると、太子李亨は朔方軍の治所である霊武に北上し、唐粛宗として即位して反乱鎮圧を号令した。"
     },
     {
       "dynastyKey": "beisong",
@@ -5871,8 +6032,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "灵州（今宁夏吴忠灵武）",
       "siteEn": "Ling Zhou (Wuzhong, Ningxia)",
-      "zh": "党项李继迁攻陷宋朔方重镇灵州，改灵州为西平府定为西夏陪都",
-      "en": "Tangut leader Li Jiqian captures Ling Zhou, renaming it Xiping Prefecture as a Xia capital"
+      "zh": "1002年、党項の李繼遷は宋の朔方の重鎮である霊州を攻め落とし、霊州を西平府と改名して西夏の陪都とした。",
+      "en": "Tangut leader Li Jiqian captures Ling Zhou, renaming it Xiping Prefecture as a Xia capital",
+      "ja": "1002年、党項の李繼遷は宋の朔方の重鎮である霊州を攻め落とし、霊州を西平府と改名して西夏の陪都とした。"
     },
     {
       "dynastyKey": "dongjin",
@@ -5883,8 +6045,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "龟兹（今新疆阿克苏库车）",
       "siteEn": "Kucha (Kuqa, Aksu, Xinjiang)",
-      "zh": "前秦吕光攻破龟兹城，奉迎高僧鸠摩罗什东入凉州与长安译经",
-      "en": "Former Qin general Lü Guang captures Kucha and escorts Buddhist master Kumarajiva east"
+      "zh": "384年、前秦の呂光は亀茲城を攻め破り、高僧鳩摩羅什を奉迎して涼州、次いで長安へ東入させ、訳経に従事させた。",
+      "en": "Former Qin general Lü Guang captures Kucha and escorts Buddhist master Kumarajiva east",
+      "ja": "384年、前秦の呂光は亀茲城を攻め破り、高僧鳩摩羅什を奉迎して涼州、次いで長安へ東入させ、訳経に従事させた。"
     },
     {
       "dynastyKey": "tang",
@@ -5895,8 +6058,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "龟兹（今新疆阿克苏库车）",
       "siteEn": "Kucha (Kuqa, Aksu, Xinjiang)",
-      "zh": "唐阿史那社尔率军平定龟兹，移安西都护府于龟兹统辖安西四镇",
-      "en": "Tang general Ashina She'er pacifies Kucha, where the Anxi Protectorate is relocated"
+      "zh": "648年、唐の阿史那社爾は軍を率いて亀茲を平定し、安西都護府を亀茲に移して安西四鎮を統轄させた。",
+      "en": "Tang general Ashina She'er pacifies Kucha, where the Anxi Protectorate is relocated",
+      "ja": "648年、唐の阿史那社爾は軍を率いて亀茲を平定し、安西都護府を亀茲に移して安西四鎮を統轄させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -5907,9 +6071,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "于阗（今新疆和田）",
       "siteEn": "Khotan (Hotan, Xinjiang)",
-      "zh": "班超自鄯善西至于阗，诛匈奴使者降服于阗王广德复通西域南道",
+      "zh": "73年、班超は鄯善から西の于阗に至り、匈奴の使者を誅殺して于阗王広徳を降伏させ、西域南道を再び開通させた。",
       "en": "Ban Chao wins the allegiance of King Guangde of Khotan, reopening the southern Silk Road",
-      "month": 8
+      "month": 8,
+      "ja": "73年、班超は鄯善から西の于阗に至り、匈奴の使者を誅殺して于阗王広徳を降伏させ、西域南道を再び開通させた。"
     },
     {
       "dynastyKey": "tang",
@@ -5920,8 +6085,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "于阗（今新疆和田）",
       "siteEn": "Khotan (Hotan, Xinjiang)",
-      "zh": "唐廷于于阗置毗沙都督府，与龟兹、疏勒、碎叶并列安西四镇",
-      "en": "The Tang court establishes the Pisha Area Command at Khotan among the Four Garrisons of Anxi"
+      "zh": "675年、唐廷は于阗に毗沙都督府を設置し、亀茲、疏勒、碎葉と並ぶ安西四鎮の一つとした。",
+      "en": "The Tang court establishes the Pisha Area Command at Khotan among the Four Garrisons of Anxi",
+      "ja": "675年、唐廷は于阗に毗沙都督府を設置し、亀茲、疏勒、碎葉と並ぶ安西四鎮の一つとした。"
     },
     {
       "dynastyKey": "tang",
@@ -5932,8 +6098,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上京龙泉府（今黑龙江牡丹江宁安）",
       "siteEn": "Shangjing Longquanfu (Ning'an, Mudanjiang, Heilongjiang)",
-      "zh": "渤海文王大钦茂迁都上京龙泉府，仿唐长安形制筑城号海东盛国",
-      "en": "King Mun of Balhae moves his capital to Shangjing Longquanfu, modeled on Tang Chang'an"
+      "zh": "755年、渤海の文王大欽茂は上京龍泉府に遷都し、唐の長安の形制を模倣して築城し、「海東盛国」と称した。",
+      "en": "King Mun of Balhae moves his capital to Shangjing Longquanfu, modeled on Tang Chang'an",
+      "ja": "755年、渤海の文王大欽茂は上京龍泉府に遷都し、唐の長安の形制を模倣して築城し、「海東盛国」と称した。"
     },
     {
       "dynastyKey": "wudai",
@@ -5944,8 +6111,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "忽汗城（今黑龙江牡丹江宁安）",
       "siteEn": "Huhancheng (Ning'an, Mudanjiang, Heilongjiang)",
-      "zh": "辽太祖耶律阿保机围困渤海上京忽汗城，大諲譔出降改设东丹国",
-      "en": "Liao founder Abaoji captures Huhancheng (Shangjing), ending Balhae and establishing Dongdan"
+      "zh": "926年、遼太祖耶律阿保機は渤海の上京忽汗城を包囲し、大諲譔が降伏。渤海を滅ぼして東丹国を設置した。",
+      "en": "Liao founder Abaoji captures Huhancheng (Shangjing), ending Balhae and establishing Dongdan",
+      "ja": "926年、遼太祖耶律阿保機は渤海の上京忽汗城を包囲し、大諲譔が降伏。渤海を滅ぼして東丹国を設置した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -5956,8 +6124,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "丸都城（今吉林通化集安）",
       "siteEn": "Wandu City (Ji'an, Tonghua, Jilin)",
-      "zh": "曹魏毌丘俭东征高句丽，登丸都山攻克高句丽王都丸都城刻石纪功",
-      "en": "Cao Wei general Guanqiu Jian storms the Goguryeo capital at Wandu and carves a victory stele"
+      "zh": "244年、曹魏の毌丘儉は高句麗を東征し、丸都山に登って高句麗の王都丸都城を攻略、その功績を石に刻んだ。",
+      "en": "Cao Wei general Guanqiu Jian storms the Goguryeo capital at Wandu and carves a victory stele",
+      "ja": "244年、曹魏の毌丘儉は高句麗を東征し、丸都山に登って高句麗の王都丸都城を攻略、その功績を石に刻んだ。"
     },
     {
       "dynastyKey": "dongjin",
@@ -5968,8 +6137,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "国内城（今吉林通化集安）",
       "siteEn": "Guonei City (Ji'an, Tonghua, Jilin)",
-      "zh": "高句丽长寿王于国都国内城立广开土境好太王碑，铭记开疆史事",
-      "en": "King Jangsu of Goguryeo erects the Gwanggaeto Stele at Guonei City in modern Ji'an, Tonghua"
+      "zh": "414年、高句麗の長壽王は国都國內城に廣開土境好太王碑を建立し、その領土拡大の歴史を銘記した。",
+      "en": "King Jangsu of Goguryeo erects the Gwanggaeto Stele at Guonei City in modern Ji'an, Tonghua",
+      "ja": "414年、高句麗の長壽王は国都國內城に廣開土境好太王碑を建立し、その領土拡大の歴史を銘記した。"
     },
     {
       "dynastyKey": "ming",
@@ -5980,8 +6150,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "凭祥坡垒关（今广西崇左凭祥）",
       "siteEn": "Pingxiang Pass (Chongzuo, Guangxi)",
-      "zh": "明征夷将军张辅率军自广西太平府凭祥度坡垒关（镇南关）南征",
-      "en": "Ming general Zhang Fu marches from Taiping Prefecture through Pingxiang Pass into Jiaozhi"
+      "zh": "1406年、明の征夷將軍張輔は廣西太平府憑祥より坡壘關（鎮南關）を越え、南征を開始した。",
+      "en": "Ming general Zhang Fu marches from Taiping Prefecture through Pingxiang Pass into Jiaozhi",
+      "ja": "1406年、明の征夷將軍張輔は廣西太平府憑祥より坡壘關（鎮南關）を越え、南征を開始した。"
     },
     {
       "dynastyKey": "nansong",
@@ -5992,8 +6163,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "开平（今内蒙古锡林郭勒正蓝旗）",
       "siteEn": "Kaiping / Xanadu (Xilingol, Inner Mongolia)",
-      "zh": "忽必烈于滦河上游开平即大汗位建元中统，旋升开平府为上都",
-      "en": "Kublai Khan is enthroned as Great Khan at Kaiping, soon elevated to summer capital Shangdu"
+      "zh": "1260年、忽必烈は灤河上流の開平で大汗位に即き、元号を中統と定めた。後に開平府は上都に昇格した。",
+      "en": "Kublai Khan is enthroned as Great Khan at Kaiping, soon elevated to summer capital Shangdu",
+      "ja": "1260年、忽必烈は灤河上流の開平で大汗位に即き、元号を中統と定めた。後に開平府は上都に昇格した。"
     },
     {
       "dynastyKey": "qing",
@@ -6004,8 +6176,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "多伦诺尔（今内蒙古锡林郭勒多伦）",
       "siteEn": "Dolon Nor (Xilingol, Inner Mongolia)",
-      "zh": "康熙帝亲赴多伦诺尔会盟喀尔喀三部与漠南诸旗，编旗管辖漠北",
-      "en": "Emperor Kangxi convenes the Dolon Nor Assembly, integrating the Khalkha Mongols into banners"
+      "zh": "1691年、康熙帝は多倫諾爾に親赴し、喀爾喀三部と漠南諸旗と会盟して、漠北を編旗管轄下に置いた。",
+      "en": "Emperor Kangxi convenes the Dolon Nor Assembly, integrating the Khalkha Mongols into banners",
+      "ja": "1691年、康熙帝は多倫諾爾に親赴し、喀爾喀三部と漠南諸旗と会盟して、漠北を編旗管轄下に置いた。"
     },
     {
       "dynastyKey": "xihan",
@@ -6016,8 +6189,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "居延（今内蒙古阿拉善额济纳）",
       "siteEn": "Juyan (Ejin Banner, Alxa, Inner Mongolia)",
-      "zh": "汉武帝遣路博德筑居延遮虏障屯田戍边，遗存万枚居延汉简",
-      "en": "Emperor Wu dispatches Lu Bode to build the Juyan frontier forts, leaving 10,000 Han slips"
+      "zh": "前102年、漢武帝は路博德を派遣して居延に遮虜障を築かせ、屯田戍邊を行った。この地からは万枚の居延漢簡が発見されている。",
+      "en": "Emperor Wu dispatches Lu Bode to build the Juyan frontier forts, leaving 10,000 Han slips",
+      "ja": "前102年、漢武帝は路博德を派遣して居延に遮虜障を築かせ、屯田戍邊を行った。この地からは万枚の居延漢簡が発見されている。"
     },
     {
       "dynastyKey": "nansong",
@@ -6028,8 +6202,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "黑水城（今内蒙古阿拉善额济纳）",
       "siteEn": "Khara-Khoto (Ejin Banner, Alxa, Inner Mongolia)",
-      "zh": "成吉思汗末次亲征西夏首克黑水城，后元朝于此置亦集乃路",
-      "en": "Genghis Khan captures the Western Xia fortress of Khara-Khoto on his final campaign"
+      "zh": "1226年、成吉思汗は西夏への最後の親征で黒水城を初めて攻略した。後に元朝はこの地に亦集乃路を設置した。",
+      "en": "Genghis Khan captures the Western Xia fortress of Khara-Khoto on his final campaign",
+      "ja": "1226年、成吉思汗は西夏への最後の親征で黒水城を初めて攻略した。後に元朝はこの地に亦集乃路を設置した。"
     },
     {
       "dynastyKey": "beisong",
@@ -6040,8 +6215,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "眉州（今四川眉山）",
       "siteEn": "Mei Zhou (Meishan, Sichuan)",
-      "zh": "苏轼生于眉州眉山纱縠行，与苏洵、苏辙同出眉山并列唐宋八大家",
-      "en": "Su Shi is born in Mei Zhou (Meishan), home to the Three Su literary masters of Northern Song"
+      "zh": "1037年、蘇軾は眉州眉山の紗縠行に生まれた。彼は蘇洵、蘇轍と共に眉山出身の唐宋八大家に名を連ねた。",
+      "en": "Su Shi is born in Mei Zhou (Meishan), home to the Three Su literary masters of Northern Song",
+      "ja": "1037年、蘇軾は眉州眉山の紗縠行に生まれた。彼は蘇洵、蘇轍と共に眉山出身の唐宋八大家に名を連ねた。"
     },
     {
       "dynastyKey": "nansong",
@@ -6052,8 +6228,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "信州鹅湖（今江西上饶铅山）",
       "siteEn": "Goose Lake, Xin Zhou (Shangrao, Jiangxi)",
-      "zh": "朱熹与陆九龄、陆九渊会讲于信州铅山鹅湖寺，史称“鹅湖之会”",
-      "en": "Zhu Xi and Lu Jiuyuan debate Neo-Confucian philosophy at Goose Lake Temple in Shangrao"
+      "zh": "1175年、朱熹は陸九齡、陸九淵と信州鉛山の鵝湖寺で会講を行った。これは「鵝湖之會」と称される。",
+      "en": "Zhu Xi and Lu Jiuyuan debate Neo-Confucian philosophy at Goose Lake Temple in Shangrao",
+      "ja": "1175年、朱熹は陸九齡、陸九淵と信州鉛山の鵝湖寺で会講を行った。これは「鵝湖之會」と称される。"
     },
     {
       "dynastyKey": "nansong",
@@ -6064,8 +6241,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "信州上饶（今江西上饶）",
       "siteEn": "Xin Zhou (Shangrao, Jiangxi)",
-      "zh": "辛弃疾罢官隐居信州上饶带湖与瓢泉，赋豪放词抒恢复中原之志",
-      "en": "Patriotic poet Xin Qiji resides in Shangrao for two decades, composing his greatest poems"
+      "zh": "1196年、辛棄疾は官を辞して信州上饒の帶湖と瓢泉に隠居し、豪放詞を賦して中原回復の志を述べた。",
+      "en": "Patriotic poet Xin Qiji resides in Shangrao for two decades, composing his greatest poems",
+      "ja": "1196年、辛棄疾は官を辞して信州上饒の帶湖と瓢泉に隠居し、豪放詞を賦して中原回復の志を述べた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -6076,8 +6254,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武都（今甘肃陇南）",
       "siteEn": "Wudu (Longnan, Gansu)",
-      "zh": "诸葛亮第三次北伐遣陈式进取武都、阴平二郡，收复陇南要冲",
-      "en": "On his third northern expedition, Zhuge Liang captures Wudu and Yinping in modern Longnan"
+      "zh": "229年、諸葛亮は第三次北伐において陳式を派遣し、武都、陰平の二郡を進取させ、隴南の要衝を回復した。",
+      "en": "On his third northern expedition, Zhuge Liang captures Wudu and Yinping in modern Longnan",
+      "ja": "229年、諸葛亮は第三次北伐において陳式を派遣し、武都、陰平の二郡を進取させ、隴南の要衝を回復した。"
     },
     {
       "dynastyKey": "qin",
@@ -6088,8 +6267,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "淮阴（今江苏淮安）",
       "siteEn": "Huaiyin (Huai'an, Jiangsu)",
-      "zh": "韩信少时于淮阴受漂母饭信、胯下之辱，后仗剑从军拜汉大将军",
-      "en": "Han Xin endures early hardship in Huaiyin before rising to become Han's supreme commander"
+      "zh": "韓信は若い頃、淮陰で漂母から食事の施しを受け、また股くぐりの屈辱を経験した。後に剣を帯びて従軍し、漢の大将軍に任じられた。",
+      "en": "Han Xin endures early hardship in Huaiyin before rising to become Han's supreme commander",
+      "ja": "韓信は若い頃、淮陰で漂母から食事の施しを受け、また股くぐりの屈辱を経験した。後に剣を帯びて従軍し、漢の大将軍に任じられた。"
     },
     {
       "dynastyKey": "nansong",
@@ -6100,8 +6280,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "楚州（今江苏淮安）",
       "siteEn": "Chu Zhou (Huai'an, Jiangsu)",
-      "zh": "韩世忠与梁红玉屯兵楚州筑城抚民，扼守淮东门户十余年屏卫南宋",
-      "en": "Han Shizhong and Liang Hongyu garrison Chu Zhou (Huai'an), defending the Huai frontier"
+      "zh": "韓世忠と梁紅玉は楚州に駐屯し、城を築いて民を安撫した。十余年にわたり淮東の要衝を守り、南宋を屏衛した。",
+      "en": "Han Shizhong and Liang Hongyu garrison Chu Zhou (Huai'an), defending the Huai frontier",
+      "ja": "韓世忠と梁紅玉は楚州に駐屯し、城を築いて民を安撫した。十余年にわたり淮東の要衝を守り、南宋を屏衛した。"
     },
     {
       "dynastyKey": "ming",
@@ -6112,8 +6293,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "淮安府（今江苏淮安）",
       "siteEn": "Huai'an Prefecture (Huai'an, Jiangsu)",
-      "zh": "明廷设漕运总督驻节淮安府城，统辖南北大运河四百万石漕粮北运",
-      "en": "The Ming court establishes the Viceroy of Grain Transport at Huai'an on the Grand Canal"
+      "zh": "明廷は漕運総督を淮安府城に駐在させ、南北大運河の漕糧四百万石の北運を統轄させた。",
+      "en": "The Ming court establishes the Viceroy of Grain Transport at Huai'an on the Grand Canal",
+      "ja": "明廷は漕運総督を淮安府城に駐在させ、南北大運河の漕糧四百万石の北運を統轄させた。"
     },
     {
       "dynastyKey": "xihan",
@@ -6124,8 +6306,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东瓯（今浙江温州）",
       "siteEn": "Dong'ou (Wenzhou, Zhejiang)",
-      "zh": "闽越围东瓯，汉武帝遣庄助发会稽兵浮海救东瓯并内徙其众于江淮",
-      "en": "Emperor Wu of Han dispatches naval forces from Kuaiji to relieve Dong'ou (Wenzhou)"
+      "zh": "閩越が東甌を包囲すると、漢武帝は莊助を派遣し、會稽の兵を発して海路で東甌を救援させ、その住民を江淮に移住させた。",
+      "en": "Emperor Wu of Han dispatches naval forces from Kuaiji to relieve Dong'ou (Wenzhou)",
+      "ja": "閩越が東甌を包囲すると、漢武帝は莊助を派遣し、會稽の兵を発して海路で東甌を救援させ、その住民を江淮に移住させた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -6136,8 +6319,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "永嘉郡（今浙江温州）",
       "siteEn": "Yongjia Commandery (Wenzhou, Zhejiang)",
-      "zh": "谢灵运出任永嘉太守，遍游永嘉楠溪江山水，开创中国古典山水诗派",
-      "en": "Xie Lingyun governs Yongjia (Wenzhou), pioneering classical Chinese landscape poetry"
+      "zh": "謝靈運は永嘉太守に任じられ、永嘉の楠溪江の山水を遍く巡り、中國古典山水詩派を創始した。",
+      "en": "Xie Lingyun governs Yongjia (Wenzhou), pioneering classical Chinese landscape poetry",
+      "ja": "謝靈運は永嘉太守に任じられ、永嘉の楠溪江の山水を遍く巡り、中國古典山水詩派を創始した。"
     },
     {
       "dynastyKey": "nansong",
@@ -6148,8 +6332,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "温州（今浙江温州）",
       "siteEn": "Wen Zhou (Wenzhou, Zhejiang)",
-      "zh": "金军渡江南侵搜山检海，宋高宗赵构自明州航海驻跸温州江心屿",
-      "en": "Fleeing Jurchen Jin pursuit by sea, Emperor Gaozong of Song holds court at Wenzhou"
+      "zh": "金軍が江南に渡り侵攻し、山を捜し海を検する中、宋高宗趙構は明州から海路で温州の江心嶼に駐跸した。",
+      "en": "Fleeing Jurchen Jin pursuit by sea, Emperor Gaozong of Song holds court at Wenzhou",
+      "ja": "金軍が江南に渡り侵攻し、山を捜し海を検する中、宋高宗趙構は明州から海路で温州の江心嶼に駐跸した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -6160,8 +6345,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "槜李（今浙江嘉兴）",
       "siteEn": "Zuili (Jiaxing, Zhejiang)",
-      "zh": "吴越争霸古战场槜李（今嘉兴）归越国，扼杭嘉湖水网要冲",
-      "en": "Site of the classic Wu-Yue battle of Zuili, Jiaxing guards the fertile northern Zhejiang plain"
+      "zh": "呉越争覇の古戦場である槜李（現在の嘉興）は越國に帰属し、杭嘉湖水網の要衝を扼した。",
+      "en": "Site of the classic Wu-Yue battle of Zuili, Jiaxing guards the fertile northern Zhejiang plain",
+      "ja": "呉越争覇の古戦場である槜李（現在の嘉興）は越國に帰属し、杭嘉湖水網の要衝を扼した。"
     },
     {
       "dynastyKey": "ming",
@@ -6172,8 +6358,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "嘉兴王江泾（今浙江嘉兴）",
       "siteEn": "Wangjiangjing, Jiaxing (Zhejiang)",
-      "zh": "张经、卢镗与俞大猷统兵于嘉兴王江泾大破倭寇，获抗倭首捷",
-      "en": "Ming commanders Zhang Jing and Yu Dayou crush Wokou pirates at Wangjiangjing in Jiaxing"
+      "zh": "張經、盧𨱔、俞大猷は嘉興の王江涇で兵を率いて倭寇を大破し、抗倭の初勝利を収めた。",
+      "en": "Ming commanders Zhang Jing and Yu Dayou crush Wokou pirates at Wangjiangjing in Jiaxing",
+      "ja": "張經、盧𨱔、俞大猷は嘉興の王江涇で兵を率いて倭寇を大破し、抗倭の初勝利を収めた。"
     },
     {
       "dynastyKey": "roc",
@@ -6184,8 +6371,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "嘉兴南湖（今浙江嘉兴）",
       "siteEn": "South Lake, Jiaxing (Zhejiang)",
-      "zh": "中共一大自上海转移至嘉兴南湖红船续会闭幕，宣告中国共产党成立",
-      "en": "The First National Congress concludes aboard the Red Boat on South Lake in Jiaxing"
+      "zh": "中共一大は上海から嘉興南湖の紅船に移って会議を継続し閉幕、中國共産黨の成立を宣告した。",
+      "en": "The First National Congress concludes aboard the Red Boat on South Lake in Jiaxing",
+      "ja": "中共一大は上海から嘉興南湖の紅船に移って会議を継続し閉幕、中國共産黨の成立を宣告した。"
     },
     {
       "dynastyKey": "yuan",
@@ -6196,8 +6384,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "婺州（今浙江金华）",
       "siteEn": "Wu Zhou (Jinhua, Zhejiang)",
-      "zh": "朱元璋亲率大军攻克婺州改宁越府，延揽宋濂、王祎等浙东名儒",
-      "en": "Zhu Yuanzhang captures Wu Zhou (Jinhua), recruiting Neo-Confucian scholars Song Lian and Wang Yi"
+      "zh": "朱元璋は自ら大軍を率いて婺州を攻略し、寧越府と改称した。宋濂、王禕ら浙東の名儒を招致した。",
+      "en": "Zhu Yuanzhang captures Wu Zhou (Jinhua), recruiting Neo-Confucian scholars Song Lian and Wang Yi",
+      "ja": "朱元璋は自ら大軍を率いて婺州を攻略し、寧越府と改称した。宋濂、王禕ら浙東の名儒を招致した。"
     },
     {
       "dynastyKey": "nansong",
@@ -6208,8 +6397,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "衢州（今浙江衢州）",
       "siteEn": "Qu Zhou (Quzhou, Zhejiang)",
-      "zh": "衍圣公孔端友负楷木圣像随宋高宗南渡，诏赐家衢州形成孔氏南宗",
-      "en": "Duke Yansheng Kong Duanyou escorts sacred Confucian heirlooms south and settles in Quzhou"
+      "zh": "衍聖公孔端友は楷木の聖像を背負い、宋高宗に従って南渡した。詔により衢州に家を賜り、孔氏南宗が形成された。",
+      "en": "Duke Yansheng Kong Duanyou escorts sacred Confucian heirlooms south and settles in Quzhou",
+      "ja": "衍聖公孔端友は楷木の聖像を背負い、宋高宗に従って南渡した。詔により衢州に家を賜り、孔氏南宗が形成された。"
     },
     {
       "dynastyKey": "yuan",
@@ -6220,8 +6410,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "处州（今浙江丽水）",
       "siteEn": "Chu Zhou (Lishui, Zhejiang)",
-      "zh": "朱元璋遣使入处州青田山中礼聘刘基（刘伯温）出山辅佐定天下",
-      "en": "After capturing Chu Zhou (Lishui), Zhu Yuanzhang invites Liu Bowen of Qingtian to his court"
+      "zh": "朱元璋は使者を處州青田の山中へ派遣し、劉基（劉伯温）を礼聘して出仕させ、天下の平定を輔佐させた。",
+      "en": "After capturing Chu Zhou (Lishui), Zhu Yuanzhang invites Liu Bowen of Qingtian to his court",
+      "ja": "朱元璋は使者を處州青田の山中へ派遣し、劉基（劉伯温）を礼聘して出仕させ、天下の平定を輔佐させた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -6232,8 +6423,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "谯县（今安徽亳州）",
       "siteEn": "Qiao County (Bozhou, Anhui)",
-      "zh": "曹丕代汉建魏，尊曹氏故里谯县（今亳州）为陪都，列曹魏五都",
-      "en": "Cao Pi designates the Cao clan's ancestral home of Qiao (Bozhou) among the Five Capitals of Wei"
+      "zh": "220年、曹丕は漢に代わって魏を建国し、曹氏の故郷である譙県（現在の安徽省亳州）を陪都とし、曹魏の五都の一つとした。",
+      "en": "Cao Pi designates the Cao clan's ancestral home of Qiao (Bozhou) among the Five Capitals of Wei",
+      "ja": "220年、曹丕は漢に代わって魏を建国し、曹氏の故郷である譙県（現在の安徽省亳州）を陪都とし、曹魏の五都の一つとした。"
     },
     {
       "dynastyKey": "yuan",
@@ -6244,8 +6436,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "亳州（今安徽亳州）",
       "siteEn": "Bo Zhou (Bozhou, Anhui)",
-      "zh": "刘福通迎韩林儿于亳州称帝，号小明王，建国大宋改元龙凤",
-      "en": "Liu Futong enthrones Han Lin'er at Bozhou as Emperor of the restored Song Red Turban regime"
+      "zh": "1355年、劉福通は亳州で韓林児を迎え帝位に就かせ、小明王と号し、大宋を建国して元号を龍鳳と改めた。",
+      "en": "Liu Futong enthrones Han Lin'er at Bozhou as Emperor of the restored Song Red Turban regime",
+      "ja": "1355年、劉福通は亳州で韓林児を迎え帝位に就かせ、小明王と号し、大宋を建国して元号を龍鳳と改めた。"
     },
     {
       "dynastyKey": "beisong",
@@ -6256,8 +6449,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "徽州（今安徽黄山歙县）",
       "siteEn": "Hui Zhou (Shexian, Huangshan, Anhui)",
-      "zh": "宋廷平定方腊起义后诏改歙州为徽州，统辖一府六县育徽州文化",
-      "en": "After suppressing Fang La's uprising, the Song court renames She Zhou to Hui Zhou"
+      "zh": "1121年、宋朝は方臘の乱を平定した後、詔により歙州を徽州と改称し、一府六県を管轄して徽州文化を育んだ。",
+      "en": "After suppressing Fang La's uprising, the Song court renames She Zhou to Hui Zhou",
+      "ja": "1121年、宋朝は方臘の乱を平定した後、詔により歙州を徽州と改称し、一府六県を管轄して徽州文化を育んだ。"
     },
     {
       "dynastyKey": "yuan",
@@ -6268,8 +6462,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "徽州（今安徽黄山歙县）",
       "siteEn": "Hui Zhou (Shexian, Huangshan, Anhui)",
-      "zh": "朱元璋克徽州访休宁名儒朱升，获“高筑墙、广积粮、缓称王”国策",
-      "en": "At Huizhou, scholar Zhu Sheng counsels Zhu Yuanzhang to build high walls and store grain"
+      "zh": "1357年、朱元璋は徽州を攻略した際、休寧の名儒朱升を訪ね、「高築牆、広積糧、緩称王」の国策を得た。",
+      "en": "At Huizhou, scholar Zhu Sheng counsels Zhu Yuanzhang to build high walls and store grain",
+      "ja": "1357年、朱元璋は徽州を攻略した際、休寧の名儒朱升を訪ね、「高築牆、広積糧、緩称王」の国策を得た。"
     },
     {
       "dynastyKey": "beisong",
@@ -6280,8 +6475,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "颍州（今安徽阜阳）",
       "siteEn": "Ying Zhou (Fuyang, Anhui)",
-      "zh": "欧阳修致仕退居颍州西湖畔，合藏书金石琴棋酒鹤自号六一居士",
-      "en": "Ouyang Xiu retires beside West Lake in Ying Zhou (Fuyang) as the Six-One Lay Buddhist"
+      "zh": "1071年、歐陽修は致仕して潁州の西湖畔に隠居し、蔵書、金石、琴、棋、酒、鶴を合わせて自ら六一居士と号した。",
+      "en": "Ouyang Xiu retires beside West Lake in Ying Zhou (Fuyang) as the Six-One Lay Buddhist",
+      "ja": "1071年、歐陽修は致仕して潁州の西湖畔に隠居し、蔵書、金石、琴、棋、酒、鶴を合わせて自ら六一居士と号した。"
     },
     {
       "dynastyKey": "nansong",
@@ -6292,8 +6488,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "顺昌府（今安徽阜阳）",
       "siteEn": "Shunchang Prefecture (Fuyang, Anhui)",
-      "zh": "刘锜率八字军孤城坚守顺昌（今阜阳），以少击众大破金兀术主力",
-      "en": "Song general Liu Qi defends Shunchang (Fuyang), routing Wuzhu's elite Jin iron cavalry"
+      "zh": "1140年、劉錡は八字軍を率いて孤城順昌（現在の安徽省阜陽）を堅守し、寡兵で金兀術の主力軍を大破した。",
+      "en": "Song general Liu Qi defends Shunchang (Fuyang), routing Wuzhu's elite Jin iron cavalry",
+      "ja": "1140年、劉錡は八字軍を率いて孤城順昌（現在の安徽省阜陽）を堅守し、寡兵で金兀術の主力軍を大破した。"
     },
     {
       "dynastyKey": "nansong",
@@ -6304,8 +6501,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "海州（今江苏连云港）",
       "siteEn": "Hai Zhou (Lianyungang, Jiangsu)",
-      "zh": "魏胜于海州举义收复州城，会合宋水师李宝屡败金兵屏蔽淮海",
-      "en": "Loyalist commander Wei Sheng recovers Hai Zhou (Lianyungang) and repels Jin forces"
+      "zh": "1161年、魏勝は海州で挙兵して州城を回復し、宋水師の李宝と合流して金兵を度々破り、淮海地方を防御した。",
+      "en": "Loyalist commander Wei Sheng recovers Hai Zhou (Lianyungang) and repels Jin forces",
+      "ja": "1161年、魏勝は海州で挙兵して州城を回復し、宋水師の李宝と合流して金兵を度々破り、淮海地方を防御した。"
     },
     {
       "dynastyKey": "wudai",
@@ -6316,8 +6514,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "通州（今江苏南通）",
       "siteEn": "Tong Zhou (Nantong, Jiangsu)",
-      "zh": "后周世宗柴荣南征取江北十四州，升静海始建通州扼长江入海口",
-      "en": "Later Zhou Emperor Chai Rong establishes Tong Zhou (Nantong) at the mouth of the Yangtze"
+      "zh": "958年、後周世宗柴栄は南征して江北十四州を奪取し、静海を昇格させて通州を初めて設置し、長江の河口を扼した。",
+      "en": "Later Zhou Emperor Chai Rong establishes Tong Zhou (Nantong) at the mouth of the Yangtze",
+      "ja": "958年、後周世宗柴栄は南征して江北十四州を奪取し、静海を昇格させて通州を初めて設置し、長江の河口を扼した。"
     },
     {
       "dynastyKey": "qing",
@@ -6328,8 +6527,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "通州唐闸（今江苏南通）",
       "siteEn": "Tong Zhou / Nantong (Jiangsu)",
-      "zh": "状元张謇于通州唐闸建成大生纱厂投产，兴办实业学堂开近代南通",
-      "en": "Optimus scholar Zhang Jian opens the Dasheng Cotton Mill in Nantong, pioneering industry"
+      "zh": "1899年、状元張謇は通州唐閘に大生紡績工場を建設して操業を開始し、実業学堂を興すなどして近代南通の礎を築いた。",
+      "en": "Optimus scholar Zhang Jian opens the Dasheng Cotton Mill in Nantong, pioneering industry",
+      "ja": "1899年、状元張謇は通州唐閘に大生紡績工場を建設して操業を開始し、実業学堂を興すなどして近代南通の礎を築いた。"
     },
     {
       "dynastyKey": "beisong",
@@ -6340,8 +6540,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "楚州盐城（今江苏盐城）",
       "siteEn": "Yancheng (Jiangsu)",
-      "zh": "范仲淹任西溪盐官倡议重修海堰，筑百里范公堤护淮南盐场良田",
-      "en": "Fan Zhongyan initiates construction of the coastal Fan Gong Dike at Yancheng"
+      "zh": "1024年、范仲淹は西渓塩官に任じられ、海堰の再建を提唱し、百里にわたる范公堤を築いて淮南の塩田と良田を保護した。",
+      "en": "Fan Zhongyan initiates construction of the coastal Fan Gong Dike at Yancheng",
+      "ja": "1024年、范仲淹は西渓塩官に任じられ、海堰の再建を提唱し、百里にわたる范公堤を築いて淮南の塩田と良田を保護した。"
     },
     {
       "dynastyKey": "roc",
@@ -6352,8 +6553,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "盐城（今江苏盐城）",
       "siteEn": "Yancheng (Jiangsu)",
-      "zh": "皖南事变后新四军于江苏盐城重建军部，陈毅代军长、刘少奇政委",
-      "en": "After the Southern Anhui Incident, the New Fourth Army rebuilds its headquarters at Yancheng"
+      "zh": "1941年、皖南事変後、新四軍は江蘇塩城で軍部を再建し、陳毅が代理軍長、劉少奇が政治委員に就任した。",
+      "en": "After the Southern Anhui Incident, the New Fourth Army rebuilds its headquarters at Yancheng",
+      "ja": "1941年、皖南事変後、新四軍は江蘇塩城で軍部を再建し、陳毅が代理軍長、劉少奇が政治委員に就任した。"
     },
     {
       "dynastyKey": "ming",
@@ -6364,8 +6566,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "无锡东林书院（今江苏无锡）",
       "siteEn": "Donglin Academy, Wuxi (Jiangsu)",
-      "zh": "顾宪成、高攀龙于无锡重修东林书院讲学议政，撰“风声雨声”名联",
-      "en": "Gu Xiancheng and Gao Panlong restore the Donglin Academy in Wuxi as a center of reform"
+      "zh": "1604年、顧憲成と高攀龍は無錫で東林書院を再建し、講学と政治議論を行い、「風声雨声」の有名な対聯を撰した。",
+      "en": "Gu Xiancheng and Gao Panlong restore the Donglin Academy in Wuxi as a center of reform",
+      "ja": "1604年、顧憲成と高攀龍は無錫で東林書院を再建し、講学と政治議論を行い、「風声雨声」の有名な対聯を撰した。"
     },
     {
       "dynastyKey": "xihan",
@@ -6376,8 +6579,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "巴郡阆中（今四川南充阆中）",
       "siteEn": "Langzhong (Nanchong, Sichuan)",
-      "zh": "巴郡阆中天文学家落下闳入长安造《太初历》，确立正月为岁首",
-      "en": "Astronomer Luoxia Hong of Langzhong authors the Taichu Calendar under Emperor Wu of Han"
+      "zh": "前104年、巴郡閬中の天文学者落下閎は、長安に入り『太初暦』を制定し、正月を歳首と定めた。",
+      "en": "Astronomer Luoxia Hong of Langzhong authors the Taichu Calendar under Emperor Wu of Han",
+      "ja": "前104年、巴郡閬中の天文学者落下閎は、長安に入り『太初暦』を制定し、正月を歳首と定めた。"
     },
     {
       "dynastyKey": "donghan",
@@ -6388,8 +6592,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "巴西阆中（今四川南充阆中）",
       "siteEn": "Langzhong, Baxi (Nanchong, Sichuan)",
-      "zh": "刘备定益州后拜张飞为巴西太守镇守阆中七年，于宕渠大破张郃",
-      "en": "Zhang Fei governs Baxi Commandery from Langzhong for seven years and defeats Zhang He"
+      "zh": "214年、劉備は益州を平定した後、張飛を巴西太守に任じて閬中に七年間鎮守させ、宕渠で張郃を大破した。",
+      "en": "Zhang Fei governs Baxi Commandery from Langzhong for seven years and defeats Zhang He",
+      "ja": "214年、劉備は益州を平定した後、張飛を巴西太守に任じて閬中に七年間鎮守させ、宕渠で張郃を大破した。"
     },
     {
       "dynastyKey": "beisong",
@@ -6400,8 +6605,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "叙州（今四川宜宾）",
       "siteEn": "Xu Zhou (Yibin, Sichuan)",
-      "zh": "宋政和四年改戎州为叙州，控扼金沙江与岷江汇合万里长江第一城",
-      "en": "The Song court renames Rong Zhou to Xu Zhou (Yibin) at the headwaters of the Yangtze River"
+      "zh": "1114年、宋の政和四年、戎州を叙州に改称。金沙江と岷江が合流し万里の長江となる最初の要衝を扼した。",
+      "en": "The Song court renames Rong Zhou to Xu Zhou (Yibin) at the headwaters of the Yangtze River",
+      "ja": "1114年、宋の政和四年、戎州を叙州に改称。金沙江と岷江が合流し万里の長江となる最初の要衝を扼した。"
     },
     {
       "dynastyKey": "tang",
@@ -6412,8 +6618,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "嘉州凌云山（今四川乐山）",
       "siteEn": "Jia Zhou (Leshan, Sichuan)",
-      "zh": "海通禅师于嘉州三江汇流凌云山开凿弥勒大佛，历九十载至韦皋竣工",
-      "en": "Monk Haitong begins carving the 71-meter Leshan Giant Buddha at the confluence in Jia Zhou"
+      "zh": "713年、海通禅師は嘉州の三江合流点にある凌雲山で彌勒大佛の開鑿を開始し、九十年を経て韋皋の代に竣工した。",
+      "en": "Monk Haitong begins carving the 71-meter Leshan Giant Buddha at the confluence in Jia Zhou",
+      "ja": "713年、海通禅師は嘉州の三江合流点にある凌雲山で彌勒大佛の開鑿を開始し、九十年を経て韋皋の代に竣工した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -6424,8 +6631,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江阳（今四川泸州）",
       "siteEn": "Jiangyang (Luzhou, Sichuan)",
-      "zh": "诸葛亮南征自成都率水师顺江至江阳（今泸州）会师，分兵平南中",
-      "en": "Zhuge Liang sails down the Min River to Jiangyang (Luzhou) to assemble his southern expedition"
+      "zh": "225年、諸葛亮は南征に際し、成都から水師を率いて江陽（現在の瀘州）まで江を下り会師し、兵を分けて南中を平定した。",
+      "en": "Zhuge Liang sails down the Min River to Jiangyang (Luzhou) to assemble his southern expedition",
+      "ja": "225年、諸葛亮は南征に際し、成都から水師を率いて江陽（現在の瀘州）まで江を下り会師し、兵を分けて南中を平定した。"
     },
     {
       "dynastyKey": "nansong",
@@ -6436,8 +6644,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泸州神臂城（今四川泸州）",
       "siteEn": "Shenbicheng, Lu Zhou (Luzhou, Sichuan)",
-      "zh": "余玠筑泸州神臂城扼守长江上游，军民拉锯坚守抗蒙长达三十四年",
-      "en": "Song commander Yu Jie fortifies Shenbicheng at Luzhou, resisting Mongol sieges for 34 years"
+      "zh": "1243年、余玠は瀘州に神臂城を築き、長江上流を扼守した。軍民は三十四年にわたり蒙古に抵抗し、堅守を続けた。",
+      "en": "Song commander Yu Jie fortifies Shenbicheng at Luzhou, resisting Mongol sieges for 34 years",
+      "ja": "1243年、余玠は瀘州に神臂城を築き、長江上流を扼守した。軍民は三十四年にわたり蒙古に抵抗し、堅守を続けた。"
     },
     {
       "dynastyKey": "tang",
@@ -6448,8 +6657,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "通州（今四川达州）",
       "siteEn": "Tong Zhou (Dazhou, Sichuan)",
-      "zh": "元稹左迁通州（今达州）司马，与江州司马乐天千里寄诗唱和",
-      "en": "Poet Yuan Zhen serves in exile as Marshal of Tong Zhou (Dazhou), exchanging poems with Bai Juyi"
+      "zh": "815年、元稹は通州（現在の達州）司馬に左遷され、江州司馬の樂天（白居易）と千里を隔てて詩を贈り合い唱和した。",
+      "en": "Poet Yuan Zhen serves in exile as Marshal of Tong Zhou (Dazhou), exchanging poems with Bai Juyi",
+      "ja": "815年、元稹は通州（現在の達州）司馬に左遷され、江州司馬の樂天（白居易）と千里を隔てて詩を贈り合い唱和した。"
     },
     {
       "dynastyKey": "xihan",
@@ -6460,8 +6670,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "越嶲郡（今四川凉山西昌）",
       "siteEn": "Yuexi Commandery (Xichang, Liangshan, Sichuan)",
-      "zh": "汉武帝开西南夷定邛都，置越嶲郡治邛都（今西昌）通川滇古道",
-      "en": "Emperor Wu establishes Yuexi Commandery at Qiongdu (Xichang), opening the Sichuan-Yunnan road"
+      "zh": "前111年、漢武帝は西南夷を開き邛都を平定し、越嶲郡を設置して邛都（現在の西昌）を治所とし、川滇古道を開通させた。",
+      "en": "Emperor Wu establishes Yuexi Commandery at Qiongdu (Xichang), opening the Sichuan-Yunnan road",
+      "ja": "前111年、漢武帝は西南夷を開き邛都を平定し、越嶲郡を設置して邛都（現在の西昌）を治所とし、川滇古道を開通させた。"
     },
     {
       "dynastyKey": "ming",
@@ -6472,8 +6683,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建昌卫（今四川凉山西昌）",
       "siteEn": "Jianchang Garrison (Xichang, Liangshan, Sichuan)",
-      "zh": "蓝玉平建昌卫月鲁帖木儿之乱，明置四川行都司驻节建昌统川西南",
-      "en": "General Lan Yu pacifies Jianchang (Xichang), seat of the Sichuan Branch Military Commission"
+      "zh": "1392年、藍玉は建昌衛における月魯帖木兒の乱を平定し、明は四川行都司を建昌に設置して川西南を統轄させた。",
+      "en": "General Lan Yu pacifies Jianchang (Xichang), seat of the Sichuan Branch Military Commission",
+      "ja": "1392年、藍玉は建昌衛における月魯帖木兒の乱を平定し、明は四川行都司を建昌に設置して川西南を統轄させた。"
     },
     {
       "dynastyKey": "beisong",
@@ -6484,8 +6696,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "抚州临川（今江西抚州）",
       "siteEn": "Linchuan, Fu Zhou (Fuzhou, Jiangxi)",
-      "zh": "王安石诞于抚州临川，与同郡南丰曾巩双双名列“唐宋八大家”",
-      "en": "Reformist statesman and poet Wang Anshi is born in Linchuan, Fuzhou (Jiangxi)"
+      "zh": "1021年、王安石は撫州臨川で生まれ、同郡南豐出身の曾鞏とともに「唐宋八大家」に名を連ねた。",
+      "en": "Reformist statesman and poet Wang Anshi is born in Linchuan, Fuzhou (Jiangxi)",
+      "ja": "1021年、王安石は撫州臨川で生まれ、同郡南豐出身の曾鞏とともに「唐宋八大家」に名を連ねた。"
     },
     {
       "dynastyKey": "ming",
@@ -6496,8 +6709,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "抚州玉茗堂（今江西抚州）",
       "siteEn": "Yuming Hall, Fuzhou (Jiangxi)",
-      "zh": "汤显祖于抚州临川玉茗堂写成《牡丹亭》，“临川四梦”冠绝明代剧坛",
-      "en": "Playwright Tang Xianzu completes The Peony Pavilion at Yuming Hall in Linchuan, Fuzhou"
+      "zh": "1598年、湯顯祖は撫州臨川の玉茗堂で『牡丹亭』を完成させ、「臨川四夢」は明代劇壇で群を抜く傑作となった。",
+      "en": "Playwright Tang Xianzu completes The Peony Pavilion at Yuming Hall in Linchuan, Fuzhou",
+      "ja": "1598年、湯顯祖は撫州臨川の玉茗堂で『牡丹亭』を完成させ、「臨川四夢」は明代劇壇で群を抜く傑作となった。"
     },
     {
       "dynastyKey": "tang",
@@ -6508,8 +6722,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "袁州（今江西宜春）",
       "siteEn": "Yuan Zhou (Yichun, Jiangxi)",
-      "zh": "韩愈由潮州量移袁州（今宜春）刺史，赎放质押奴婢七百余人兴学",
-      "en": "Governing Yuan Zhou (Yichun), Han Yu frees over 700 bonded servants and promotes schooling"
+      "zh": "820年、韓愈は潮州から袁州（現在の宜春）刺史に転任し、質入れされた奴婢七百余人を贖い解放し、学問を振興した。",
+      "en": "Governing Yuan Zhou (Yichun), Han Yu frees over 700 bonded servants and promotes schooling",
+      "ja": "820年、韓愈は潮州から袁州（現在の宜春）刺史に転任し、質入れされた奴婢七百余人を贖い解放し、学問を振興した。"
     },
     {
       "dynastyKey": "ming",
@@ -6520,8 +6735,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "袁州分宜（今江西宜春）",
       "siteEn": "Fenyi, Yuanzhou Prefecture (Yichun, Jiangxi)",
-      "zh": "宋应星任袁州府分宜教谕期间刊印《天工开物》，总结百工技艺",
-      "en": "While teaching in Yuanzhou Prefecture (Yichun), Song Yingxing publishes Tiangong Kaiwu"
+      "zh": "宋應星は袁州府分宜の教諭在任中、『天工開物』を刊行し、百工の技芸を総括した。",
+      "en": "While teaching in Yuanzhou Prefecture (Yichun), Song Yingxing publishes Tiangong Kaiwu",
+      "ja": "宋應星は袁州府分宜の教諭在任中、『天工開物』を刊行し、百工の技芸を総括した。"
     },
     {
       "dynastyKey": "beisong",
@@ -6532,8 +6748,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "兴化军（今福建莆田）",
       "siteEn": "Xinghua Military Prefecture (Putian, Fujian)",
-      "zh": "莆田木兰陂历三代接力合龙建成，拒咸蓄淡灌溉兴化平原万顷良田",
-      "en": "The Mulan Weir irrigation project is completed in Putian, turning the plain into fertile fields"
+      "zh": "莆田の木蘭陂は三代にわたる事業として完成し、塩害を防ぎ淡水を貯水することで、興化平原の広大な良田を灌漑した。",
+      "en": "The Mulan Weir irrigation project is completed in Putian, turning the plain into fertile fields",
+      "ja": "莆田の木蘭陂は三代にわたる事業として完成し、塩害を防ぎ淡水を貯水することで、興化平原の広大な良田を灌漑した。"
     },
     {
       "dynastyKey": "ming",
@@ -6544,8 +6761,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "兴化府（今福建莆田）",
       "siteEn": "Xinghua Prefecture (Putian, Fujian)",
-      "zh": "戚继光率军疾驰入闽，连破横屿、林墩与平海卫倭巢收复莆田",
-      "en": "General Qi Jiguang leads his army into Fujian, routing Wokou pirates to recover Putian"
+      "zh": "1562年、戚継光は軍を率いて閩に急行し、横嶼、林墩、平海衛の倭寇の拠点を次々と撃破して莆田を奪還した。",
+      "en": "General Qi Jiguang leads his army into Fujian, routing Wokou pirates to recover Putian",
+      "ja": "1562年、戚継光は軍を率いて閩に急行し、横嶼、林墩、平海衛の倭寇の拠点を次々と撃破して莆田を奪還した。"
     },
     {
       "dynastyKey": "donghan",
@@ -6556,7 +6774,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "当阳长坂（今湖北荆门当阳）",
       "siteEn": "Changban, Dangyang (Jingmen, Hubei)",
-      "zh": "曹操精骑追刘备于当阳长坂，赵云单骑救主、张飞据水断桥",
+      "zh": "208年、曹操の精鋭騎兵が当陽長坂で劉備を追撃。趙雲は単騎で主君の子を救い、張飛は水を堰き止め橋を断った。",
       "en": "Cao Cao overtakes Liu Bei at Changban in Dangyang (Jingmen), where Zhao Yun rescues Liu Shan",
       "month": 8,
       "persons": [
@@ -6566,7 +6784,8 @@ window.ATLAS_LORE_DATA = {
         "zhangfei",
         "zhaoyun",
         "guanyu"
-      ]
+      ],
+      "ja": "208年、曹操の精鋭騎兵が当陽長坂で劉備を追撃。趙雲は単騎で主君の子を救い、張飛は水を堰き止め橋を断った。"
     },
     {
       "dynastyKey": "donghan",
@@ -6577,14 +6796,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "当阳麦城（今湖北荆门当阳）",
       "siteEn": "Maicheng, Dangyang (Jingmen, Hubei)",
-      "zh": "吕蒙袭取江陵，关羽退保当阳麦城，年底突围至临沮漳乡遇害",
+      "zh": "219年、呂蒙が江陵を襲撃して奪取。關羽は当陽麦城に退却して籠城したが、年末に突囲して臨沮漳郷で討たれた。",
       "en": "Cut off after the fall of Jiangling, Guan Yu retreats to Maicheng in Dangyang before falling",
       "persons": [
         "guanyu",
         "sunquan",
         "luxun"
       ],
-      "month": 12
+      "month": 12,
+      "ja": "219年、呂蒙が江陵を襲撃して奪取。關羽は当陽麦城に退却して籠城したが、年末に突囲して臨沮漳郷で討たれた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -6595,8 +6815,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "随邑（今湖北随州）",
       "siteEn": "Sui / Zeng State (Suizhou, Hubei)",
-      "zh": "曾国（随国）立国汉东，曾侯乙墓六十五件青铜编钟冠绝先秦礼乐",
-      "en": "The Marquis Yi of Zeng bronze chime bells at Suizhou showcase pre-Qin ritual music mastery"
+      "zh": "前400年頃、曾国（随国）が漢東に建国された。曾侯乙墓から出土した六十五件の青銅編鐘は、先秦の礼楽の極致と称される。",
+      "en": "The Marquis Yi of Zeng bronze chime bells at Suizhou showcase pre-Qin ritual music mastery",
+      "ja": "前400年頃、曾国（随国）が漢東に建国された。曾侯乙墓から出土した六十五件の青銅編鐘は、先秦の礼楽の極致と称される。"
     },
     {
       "dynastyKey": "ming",
@@ -6607,8 +6828,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "均州武当山（今湖北十堰丹江口）",
       "siteEn": "Mount Wudang, Jun Zhou (Shiyan, Hubei)",
-      "zh": "明成祖敕调军民三十万大修均州武当山，历十二年建成太和宫道场",
-      "en": "Emperor Yongle mobilizes 300,000 artisans over twelve years to build Mount Wudang's temples"
+      "zh": "1412年、明成祖は軍民三十万人を動員して均州武当山の大修築を命じ、十二年をかけて太和宮道場を完成させた。",
+      "en": "Emperor Yongle mobilizes 300,000 artisans over twelve years to build Mount Wudang's temples",
+      "ja": "1412年、明成祖は軍民三十万人を動員して均州武当山の大修築を命じ、十二年をかけて太和宮道場を完成させた。"
     },
     {
       "dynastyKey": "ming",
@@ -6619,8 +6841,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "郧阳府（今湖北十堰郧阳）",
       "siteEn": "Yunyang Prefecture (Shiyan, Hubei)",
-      "zh": "都御史原杰抚治荆襄流民，于秦鄂豫交界置郧阳府并设郧阳抚治",
-      "en": "Imperial Commissioner Yuan Jie establishes Yunyang Prefecture at Shiyan to settle migrants"
+      "zh": "1476年、都御史の原傑は荊襄の流民を撫治するため、秦・鄂・豫の境界に鄖陽府を設置し、鄖陽撫治を置いた。",
+      "en": "Imperial Commissioner Yuan Jie establishes Yunyang Prefecture at Shiyan to settle migrants",
+      "ja": "1476年、都御史の原傑は荊襄の流民を撫治するため、秦・鄂・豫の境界に鄖陽府を設置し、鄖陽撫治を置いた。"
     },
     {
       "dynastyKey": "nansong",
@@ -6631,8 +6854,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "宝庆府（今湖南邵阳）",
       "siteEn": "Baoqing Prefecture (Shaoyang, Hunan)",
-      "zh": "宋理宗赵昀即位改元宝庆，以潜邸升邵州为宝庆府，控扼湘西南",
-      "en": "Emperor Lizong of Song elevates his former fief Shao Zhou to Baoqing Prefecture (Shaoyang)"
+      "zh": "1225年、宋理宗趙昀は即位して宝慶と改元し、自身の潜邸であった邵州を宝慶府に昇格させ、湘西南を統轄した。",
+      "en": "Emperor Lizong of Song elevates his former fief Shao Zhou to Baoqing Prefecture (Shaoyang)",
+      "ja": "1225年、宋理宗趙昀は即位して宝慶と改元し、自身の潜邸であった邵州を宝慶府に昇格させ、湘西南を統轄した。"
     },
     {
       "dynastyKey": "qing",
@@ -6643,9 +6867,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "宝庆邵阳（今湖南邵阳）",
       "siteEn": "Baoqing / Shaoyang (Hunan)",
-      "zh": "邵阳人魏源据《四洲志》编成《海国图志》，倡“师夷长技以制夷”",
+      "zh": "1842年、邵陽出身の魏源は『四洲志』に基づき『海国図志』を編纂し、「師夷長技以制夷」を提唱した。",
       "en": "Shaoyang scholar Wei Yuan compiles the Illustrated Treatise on the Maritime Kingdoms",
-      "month": 12
+      "month": 12,
+      "ja": "1842年、邵陽出身の魏源は『四洲志』に基づき『海国図志』を編纂し、「師夷長技以制夷」を提唱した。"
     },
     {
       "dynastyKey": "qin",
@@ -6656,9 +6881,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "郴县（今湖南郴州）",
       "siteEn": "Chen County (Chenzhou, Hunan)",
-      "zh": "项羽尊楚怀王心为义帝并徙于江南郴县，旋密令英布弑之于郴江",
+      "zh": "前206年、項羽は楚懐王心を義帝と尊んで江南の郴県に遷したが、まもなく英布に命じて郴江で暗殺させた。",
       "en": "Xiang Yu exiles Emperor Yi of Chu to Chen County (Chenzhou) and orders his assassination",
-      "month": 10
+      "month": 10,
+      "ja": "前206年、項羽は楚懐王心を義帝と尊んで江南の郴県に遷したが、まもなく英布に命じて郴江で暗殺させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -6669,8 +6895,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "桂阳郴县（今湖南郴州）",
       "siteEn": "Chen County, Guiyang (Chenzhou, Hunan)",
-      "zh": "桂阳郡郴县人蔡伦用树皮麻头改良造纸术奏上汉和帝，称“蔡侯纸”",
-      "en": "Cai Lun of Guiyang Commandery (Chenzhou) presents his improved papermaking process to the court"
+      "zh": "105年、桂陽郡郴県出身の蔡倫は、樹皮や麻くずを用いて製紙術を改良し、漢和帝に奏上して「蔡侯紙」と称された。",
+      "en": "Cai Lun of Guiyang Commandery (Chenzhou) presents his improved papermaking process to the court",
+      "ja": "105年、桂陽郡郴県出身の蔡倫は、樹皮や麻くずを用いて製紙術を改良し、漢和帝に奏上して「蔡侯紙」と称された。"
     },
     {
       "dynastyKey": "tang",
@@ -6681,8 +6908,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "龙标（今湖南怀化黔阳）",
       "siteEn": "Longbiao (Huaihua, Hunan)",
-      "zh": "王昌龄贬龙标（今怀化）尉筑芙蓉楼，李白寄诗“随君直到夜郎西”",
-      "en": "Poet Wang Changling is exiled to Longbiao (Huaihua), inspiring Li Bai's famous farewell poem"
+      "zh": "748年、詩人・王昌齡が龍標（現在の懐化市）尉に左遷され芙蓉樓を築くと、李白は「随君直到夜郎西」の詩を贈った。",
+      "en": "Poet Wang Changling is exiled to Longbiao (Huaihua), inspiring Li Bai's famous farewell poem",
+      "ja": "748年、詩人・王昌齡が龍標（現在の懐化市）尉に左遷され芙蓉樓を築くと、李白は「随君直到夜郎西」の詩を贈った。"
     },
     {
       "dynastyKey": "roc",
@@ -6693,8 +6921,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "芷江（今湖南怀化芷江）",
       "siteEn": "Zhijiang (Huaihua, Hunan)",
-      "zh": "中国陆军总司令部于湖南芷江受降堂接受侵华日军今井武夫洽降",
-      "en": "Chinese forces accept the preliminary surrender of Japanese troops in China at Zhijiang"
+      "zh": "1945年、中国陸軍総司令部は湖南省芷江の受降堂において、侵華日本軍の今井武夫による降伏交渉を受諾した。",
+      "en": "Chinese forces accept the preliminary surrender of Japanese troops in China at Zhijiang",
+      "ja": "1945年、中国陸軍総司令部は湖南省芷江の受降堂において、侵華日本軍の今井武夫による降伏交渉を受諾した。"
     },
     {
       "dynastyKey": "tang",
@@ -6705,8 +6934,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "韶州曹溪（今广东韶关）",
       "siteEn": "Caoxi, Shao Zhou (Shaoguan, Guangdong)",
-      "zh": "禅宗六祖慧能驻锡韶州曹溪宝林寺弘法三十七年，口述《六祖坛经》",
-      "en": "Sixth Patriarch Huineng teaches Chan Buddhism for 37 years at Baolin Temple in Shaoguan"
+      "zh": "677年、禅宗六祖・慧能は韶州曹渓の宝林寺に駐錫し、37年間にわたり弘法を行い、『六祖壇経』を口述した。",
+      "en": "Sixth Patriarch Huineng teaches Chan Buddhism for 37 years at Baolin Temple in Shaoguan",
+      "ja": "677年、禅宗六祖・慧能は韶州曹渓の宝林寺に駐錫し、37年間にわたり弘法を行い、『六祖壇経』を口述した。"
     },
     {
       "dynastyKey": "tang",
@@ -6717,8 +6947,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "韶州曲江（今广东韶关）",
       "siteEn": "Qujiang, Shao Zhou (Shaoguan, Guangdong)",
-      "zh": "韶州曲江人张九龄主持开凿大庾岭梅关新道，打通南北商贸坦途",
-      "en": "Chancellor Zhang Jiuling of Qujiang (Shaoguan) cuts the Meiguan Pass road over Dayu Ridge"
+      "zh": "716年、韶州曲江出身の張九齡は、大庾嶺の梅関新道の開鑿を主導し、南北間の商貿路を開通させた。",
+      "en": "Chancellor Zhang Jiuling of Qujiang (Shaoguan) cuts the Meiguan Pass road over Dayu Ridge",
+      "ja": "716年、韶州曲江出身の張九齡は、大庾嶺の梅関新道の開鑿を主導し、南北間の商貿路を開通させた。"
     },
     {
       "dynastyKey": "beisong",
@@ -6729,8 +6960,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "肇庆府（今广东肇庆）",
       "siteEn": "Zhaoqing Prefecture (Zhaoqing, Guangdong)",
-      "zh": "宋徽宗以潜邸端王升端州为肇庆府，亲书“肇庆府”御匾赐之",
-      "en": "Emperor Huizong elevates his former fief Duan Zhou to Zhaoqing Prefecture and inscribes its name"
+      "zh": "1118年、宋徽宗は、自らの潜邸（即位前の居所）であった端王の地、端州を肇慶府に昇格させ、親筆で「肇慶府」の御扁額を揮毫し賜った。",
+      "en": "Emperor Huizong elevates his former fief Duan Zhou to Zhaoqing Prefecture and inscribes its name",
+      "ja": "1118年、宋徽宗は、自らの潜邸（即位前の居所）であった端王の地、端州を肇慶府に昇格させ、親筆で「肇慶府」の御扁額を揮毫し賜った。"
     },
     {
       "dynastyKey": "ming",
@@ -6741,8 +6973,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "肇庆府（今广东肇庆）",
       "siteEn": "Zhaoqing Prefecture (Zhaoqing, Guangdong)",
-      "zh": "利玛窦获准入驻两广总督驻地肇庆，绘成中文世界地图《山海舆地全图》",
-      "en": "Jesuit Matteo Ricci settles at Zhaoqing and produces the first Chinese world map"
+      "zh": "1583年、利瑪竇は両広総督の駐屯地であった肇慶への入居を許され、中国語世界地図『山海輿地全図』を完成させた。",
+      "en": "Jesuit Matteo Ricci settles at Zhaoqing and produces the first Chinese world map",
+      "ja": "1583年、利瑪竇は両広総督の駐屯地であった肇慶への入居を許され、中国語世界地図『山海輿地全図』を完成させた。"
     },
     {
       "dynastyKey": "qing",
@@ -6753,8 +6986,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "肇庆（今广东肇庆）",
       "siteEn": "Zhaoqing (Guangdong)",
-      "zh": "桂王朱由榔于广东肇庆称帝改元永历，以肇庆为南明抗清中枢",
-      "en": "Zhu Youlang, Prince of Gui, is proclaimed the Yongli Emperor at Zhaoqing to resist the Qing"
+      "zh": "1646年、桂王・朱由榔は広東省肇慶で帝位に就き永暦と改元し、肇慶を南明の清朝抵抗運動の中枢とした。",
+      "en": "Zhu Youlang, Prince of Gui, is proclaimed the Yongli Emperor at Zhaoqing to resist the Qing",
+      "ja": "1646年、桂王・朱由榔は広東省肇慶で帝位に就き永暦と改元し、肇慶を南明の清朝抵抗運動の中枢とした。"
     },
     {
       "dynastyKey": "beisong",
@@ -6765,8 +6999,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "雷州（今广东湛江雷州）",
       "siteEn": "Lei Zhou (Zhanjiang, Guangdong)",
-      "zh": "北宋名相寇准贬雷州司户参军卒于任上，州民感其忠直建莱公祠",
-      "en": "Former Song Chancellor Kou Zhun dies in exile at Lei Zhou (Zhanjiang), honored by a local shrine"
+      "zh": "1023年、北宋の名宰相・寇準は雷州司戸参軍に左遷され、任地で死去した。州民はその忠直を慕い、萊公祠を建立した。",
+      "en": "Former Song Chancellor Kou Zhun dies in exile at Lei Zhou (Zhanjiang), honored by a local shrine",
+      "ja": "1023年、北宋の名宰相・寇準は雷州司戸参軍に左遷され、任地で死去した。州民はその忠直を慕い、萊公祠を建立した。"
     },
     {
       "dynastyKey": "sui",
@@ -6777,8 +7012,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "高凉（今广东茂名高州）",
       "siteEn": "Gaoliang (Gaozhou, Maoming, Guangdong)",
-      "zh": "岭南高凉冼夫人率百越诸州奉表归隋，隋文帝册封其为谯国夫人",
-      "en": "Lady Xian of Gaoliang (Maoming) leads Lingnan into peaceful reunification under the Sui"
+      "zh": "589年、嶺南高涼の冼夫人は百越諸州を率いて隋に帰順したため、隋の文帝は彼女を譙国夫人に冊封した。",
+      "en": "Lady Xian of Gaoliang (Maoming) leads Lingnan into peaceful reunification under the Sui",
+      "ja": "589年、嶺南高涼の冼夫人は百越諸州を率いて隋に帰順したため、隋の文帝は彼女を譙国夫人に冊封した。"
     },
     {
       "dynastyKey": "xihan",
@@ -6789,8 +7025,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "苍梧广信（今广西梧州）",
       "siteEn": "Guangxin, Cangwu (Wuzhou, Guangxi)",
-      "zh": "汉武帝置交趾刺史部治苍梧郡广信县（今梧州），广信分界广东广西",
-      "en": "Emperor Wu places the Jiaozhi Inspector at Guangxin (Wuzhou), dividing Guangdong and Guangxi"
+      "zh": "前106年、漢武帝は交趾刺史部を蒼梧郡広信県（現在の梧州市）に設置し、広信が広東と広西の境界を画した。",
+      "en": "Emperor Wu places the Jiaozhi Inspector at Guangxin (Wuzhou), dividing Guangdong and Guangxi",
+      "ja": "前106年、漢武帝は交趾刺史部を蒼梧郡広信県（現在の梧州市）に設置し、広信が広東と広西の境界を画した。"
     },
     {
       "dynastyKey": "ming",
@@ -6801,8 +7038,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "梧州府（今广西梧州）",
       "siteEn": "Wuzhou Prefecture (Wuzhou, Guangxi)",
-      "zh": "明廷于梧州设两广总督府与总镇府，统摄广东广西军政百余年",
-      "en": "The Ming court establishes the Viceroy of Liangguang at Wuzhou to govern Guangdong and Guangxi"
+      "zh": "1470年、明朝は梧州に両広総督府と総鎮府を設置し、100年以上にわたり広東と広西の軍政を統括した。",
+      "en": "The Ming court establishes the Viceroy of Liangguang at Wuzhou to govern Guangdong and Guangxi",
+      "ja": "1470年、明朝は梧州に両広総督府と総鎮府を設置し、100年以上にわたり広東と広西の軍政を統括した。"
     },
     {
       "dynastyKey": "xihan",
@@ -6813,8 +7051,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "合浦（今广西北海合浦）",
       "siteEn": "Hepu (Beihai, Guangxi)",
-      "zh": "汉武帝平南越置合浦郡，合浦港成为汉代海上丝绸之路始发港",
-      "en": "Emperor Wu establishes Hepu Commandery (Beihai), a primary port of the Han Maritime Silk Road"
+      "zh": "前111年、漢武帝は南越を平定して合浦郡を設置し、合浦港は漢代の海上シルクロードの始発港となった。",
+      "en": "Emperor Wu establishes Hepu Commandery (Beihai), a primary port of the Han Maritime Silk Road",
+      "ja": "前111年、漢武帝は南越を平定して合浦郡を設置し、合浦港は漢代の海上シルクロードの始発港となった。"
     },
     {
       "dynastyKey": "donghan",
@@ -6825,8 +7064,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "合浦郡（今广西北海合浦）",
       "siteEn": "Hepu Commandery (Beihai, Guangxi)",
-      "zh": "孟尝出任合浦太守革除滥采海珠弊政，不出岁余“去珠复还”",
-      "en": "Grand Administrator Meng Chang reforms pearl-harvesting in Hepu, restoring the pearl beds"
+      "zh": "孟嘗が合浦太守に就任し、真珠の乱獲による弊害を改革すると、一年余りで「去珠復還」と称されるほど真珠が回復した。",
+      "en": "Grand Administrator Meng Chang reforms pearl-harvesting in Hepu, restoring the pearl beds",
+      "ja": "孟嘗が合浦太守に就任し、真珠の乱獲による弊害を改革すると、一年余りで「去珠復還」と称されるほど真珠が回復した。"
     },
     {
       "dynastyKey": "tang",
@@ -6837,8 +7077,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "振州（今海南三亚崖州）",
       "siteEn": "Zhen Zhou (Yazhou, Sanya, Hainan)",
-      "zh": "鉴真第五次东渡遇飓风漂至海南振州（今三亚），留大云寺传戒一年",
-      "en": "Blown off course by a typhoon, Monk Jianzhen lands at Zhen Zhou (Sanya) and teaches for a year"
+      "zh": "鑑真は五度目の渡日を試みるも、颶風に遭い海南島の振州（現在の三亜）に漂着した。彼は大雲寺に一年間滞在し、戒律を伝えた。",
+      "en": "Blown off course by a typhoon, Monk Jianzhen lands at Zhen Zhou (Sanya) and teaches for a year",
+      "ja": "鑑真は五度目の渡日を試みるも、颶風に遭い海南島の振州（現在の三亜）に漂着した。彼は大雲寺に一年間滞在し、戒律を伝えた。"
     },
     {
       "dynastyKey": "yuan",
@@ -6849,8 +7090,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "崖州（今海南三亚崖州）",
       "siteEn": "Ya Zhou (Sanya, Hainan)",
-      "zh": "黄道婆自崖州水南村习得黎族棉纺织绝技返松江，革新江南棉纺",
-      "en": "After learning Li textile skills in Ya Zhou (Sanya), Huang Daopo revolutionizes cotton weaving"
+      "zh": "黄道婆は崖州水南村で黎族の優れた綿紡織技術を習得し、松江に戻って江南地方の綿紡織を革新した。",
+      "en": "After learning Li textile skills in Ya Zhou (Sanya), Huang Daopo revolutionizes cotton weaving",
+      "ja": "黄道婆は崖州水南村で黎族の優れた綿紡織技術を習得し、松江に戻って江南地方の綿紡織を革新した。"
     },
     {
       "dynastyKey": "donghan",
@@ -6861,8 +7103,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "高平第一城（今甘肃平凉）",
       "siteEn": "Gaoping (Pingliang, Gansu)",
-      "zh": "汉光武帝刘秀亲征陇右至高平第一城（今平凉），会窦融兵合围隗嚣",
-      "en": "Emperor Guangwu marches to Gaoping (Pingliang), joining Dou Rong's forces against Wei Xiao"
+      "zh": "漢光武帝劉秀は隴右へ親征し、高平第一城（現在の平涼）で竇融の軍と合流して隗囂を包囲した。",
+      "en": "Emperor Guangwu marches to Gaoping (Pingliang), joining Dou Rong's forces against Wei Xiao",
+      "ja": "漢光武帝劉秀は隴右へ親征し、高平第一城（現在の平涼）で竇融の軍と合流して隗囂を包囲した。"
     },
     {
       "dynastyKey": "tang",
@@ -6873,8 +7116,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平凉川（今甘肃平凉）",
       "siteEn": "Pingliang (Gansu)",
-      "zh": "唐德宗遣浑瑊与吐蕃会盟于平凉川，吐蕃伏兵劫盟史称平凉劫盟",
-      "en": "Tibetan forces ambush Tang envoy Hun Jian during treaty talks in the Ambush of Pingliang"
+      "zh": "唐徳宗は渾瑊を平涼川に派遣し吐蕃と会盟を行ったが、吐蕃は伏兵を置いて渾瑊を捕らえた。この事件は「平涼劫盟」として知られる。",
+      "en": "Tibetan forces ambush Tang envoy Hun Jian during treaty talks in the Ambush of Pingliang",
+      "ja": "唐徳宗は渾瑊を平涼川に派遣し吐蕃と会盟を行ったが、吐蕃は伏兵を置いて渾瑊を捕らえた。この事件は「平涼劫盟」として知られる。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -6885,8 +7129,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "义渠（今甘肃庆阳）",
       "siteEn": "Yiqu / Beidi (Qingyang, Gansu)",
-      "zh": "秦宣太后诱杀义渠戎王，起兵灭义渠国，于陇东置北地郡筑长城",
-      "en": "Queen Dowager Xuan of Qin eliminates Yiqu, establishing Beidi Commandery at Qingyang"
+      "zh": "秦の宣太后は義渠の戎王を誘殺し、兵を起こして義渠国を滅ぼした。隴東に北地郡を設置し、長城を築いた。",
+      "en": "Queen Dowager Xuan of Qin eliminates Yiqu, establishing Beidi Commandery at Qingyang",
+      "ja": "秦の宣太后は義渠の戎王を誘殺し、兵を起こして義渠国を滅ぼした。隴東に北地郡を設置し、長城を築いた。"
     },
     {
       "dynastyKey": "beisong",
@@ -6897,8 +7142,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "庆州（今甘肃庆阳）",
       "siteEn": "Qing Zhou (Qingyang, Gansu)",
-      "zh": "范仲淹知庆州兼掌环庆路，抢筑大顺城稳固宋夏中路防线",
-      "en": "Fan Zhongyan governs Qing Zhou (Qingyang) and builds Dashun Fortress against Western Xia"
+      "zh": "范仲淹は慶州の知事となり環慶路を兼掌し、大順城を急いで築いて宋と西夏の中路防衛線を強固にした。",
+      "en": "Fan Zhongyan governs Qing Zhou (Qingyang) and builds Dashun Fortress against Western Xia",
+      "ja": "范仲淹は慶州の知事となり環慶路を兼掌し、大順城を急いで築いて宋と西夏の中路防衛線を強固にした。"
     },
     {
       "dynastyKey": "donghan",
@@ -6909,8 +7155,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "永昌郡（今云南保山）",
       "siteEn": "Yongchang Commandery (Baoshan, Yunnan)",
-      "zh": "哀牢王柳貌率五十余万口内属东汉，汉明帝置永昌郡（治今保山）",
-      "en": "King Liumao of Ailao submits to Eastern Han, which establishes Yongchang Commandery at Baoshan"
+      "zh": "哀牢王柳貌は五十余万の民を率いて東漢に帰属し、漢明帝は永昌郡（現在の保山に治所を置く）を設置した。",
+      "en": "King Liumao of Ailao submits to Eastern Han, which establishes Yongchang Commandery at Baoshan",
+      "ja": "哀牢王柳貌は五十余万の民を率いて東漢に帰属し、漢明帝は永昌郡（現在の保山に治所を置く）を設置した。"
     },
     {
       "dynastyKey": "ming",
@@ -6921,8 +7168,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临安府（今云南红河建水）",
       "siteEn": "Lin'an Prefecture (Jianshui, Honghe, Yunnan)",
-      "zh": "明军平滇改临安路为临安府（治建水），拓建砖城文庙号滇南邹鲁",
-      "en": "The Ming court establishes Lin'an Prefecture at Jianshui (Honghe) and builds its brick walls"
+      "zh": "明軍は雲南を平定し、臨安路を臨安府（治所は建水）に改めた。煉瓦造りの城壁と文廟を拡張建設し、「滇南の鄒魯」と称された。",
+      "en": "The Ming court establishes Lin'an Prefecture at Jianshui (Honghe) and builds its brick walls",
+      "ja": "明軍は雲南を平定し、臨安路を臨安府（治所は建水）に改めた。煉瓦造りの城壁と文廟を拡張建設し、「滇南の鄒魯」と称された。"
     },
     {
       "dynastyKey": "tang",
@@ -6933,8 +7181,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "桑耶寺（今西藏山南扎囊）",
       "siteEn": "Samye Monastery (Shannan, Tibet)",
-      "zh": "赤松德赞迎莲花生与寂护于山南建成西藏首座佛法僧俱全桑耶寺",
-      "en": "Tibetan Emperor Trisong Detsen completes Samye Monastery in Shannan, Tibet's first monastery"
+      "zh": "赤松徳賛は蓮花生と寂護を山南に迎え、チベットで初めて仏法僧の三宝が全て揃った桑耶寺を建立した。",
+      "en": "Tibetan Emperor Trisong Detsen completes Samye Monastery in Shannan, Tibet's first monastery",
+      "ja": "赤松徳賛は蓮花生と寂護を山南に迎え、チベットで初めて仏法僧の三宝が全て揃った桑耶寺を建立した。"
     },
     {
       "dynastyKey": "yuan",
@@ -6945,8 +7194,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "乃东（今西藏山南泽当）",
       "siteEn": "Nedong / Tsetang (Shannan, Tibet)",
-      "zh": "帕木竹巴绛曲坚赞统一卫藏，以山南乃东（泽当）为首府建帕竹政权",
-      "en": "Jangchub Gyaltsen unifies Central Tibet from Nedong in Shannan, founding the Phagmodrupa rule"
+      "zh": "パグモドゥパのジャンチュプ・ギャルツェンは衛蔵を統一し、山南の乃東（ツェタン）を首府としてパグモドゥパ政権を樹立した。",
+      "en": "Jangchub Gyaltsen unifies Central Tibet from Nedong in Shannan, founding the Phagmodrupa rule",
+      "ja": "パグモドゥパのジャンチュプ・ギャルツェンは衛蔵を統一し、山南の乃東（ツェタン）を首府としてパグモドゥパ政権を樹立した。"
     },
     {
       "dynastyKey": "tang",
@@ -6957,8 +7207,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "象雄穹窿银城（今西藏阿里噶尔）",
       "siteEn": "Khyunglung, Zhangzhung (Ngari, Tibet)",
-      "zh": "吐蕃赞普松赞干布亲征灭象雄王国，将藏西阿里高原并入吐蕃版图",
-      "en": "Tibetan Emperor Songtsen Gampo conquers Zhangzhung, incorporating Ngari into the Tibetan Empire"
+      "zh": "吐蕃の賛普ソンツェン・ガンポは親征して象雄王国を滅ぼし、チベット西部のアリ高原を吐蕃の版図に編入した。",
+      "en": "Tibetan Emperor Songtsen Gampo conquers Zhangzhung, incorporating Ngari into the Tibetan Empire",
+      "ja": "吐蕃の賛普ソンツェン・ガンポは親征して象雄王国を滅ぼし、チベット西部のアリ高原を吐蕃の版図に編入した。"
     },
     {
       "dynastyKey": "beisong",
@@ -6969,8 +7220,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "古格托林寺（今西藏阿里札达）",
       "siteEn": "Tholing Monastery, Guge (Zanda, Ngari, Tibet)",
-      "zh": "古格王室迎印度高僧阿底峡抵阿里托林寺译经，开启藏传佛教后弘期",
-      "en": "The Guge court welcomes Indian master Atisha to Tholing Monastery in Ngari to translate sutras"
+      "zh": "1042年、グゲ王室はインドの高僧アティーシャをガリのトーリン寺に迎え、訳経を行い、蔵伝仏教の後弘期を開いた。",
+      "en": "The Guge court welcomes Indian master Atisha to Tholing Monastery in Ngari to translate sutras",
+      "ja": "1042年、グゲ王室はインドの高僧アティーシャをガリのトーリン寺に迎え、訳経を行い、蔵伝仏教の後弘期を開いた。"
     },
     {
       "dynastyKey": "qing",
@@ -6981,8 +7233,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "烟台芝罘（今山东烟台）",
       "siteEn": "Chefoo, Yantai (Yantai, Shandong)",
-      "zh": "李鸿章于芝罘签订《烟台条约》，增开宜昌、芜湖、温州、北海通商",
-      "en": "Li Hongzhang signs the Chefoo Convention at Yantai, opening four more treaty ports"
+      "zh": "1876年、李鴻章は芝罘で『煙台条約』を締結し、宜昌、蕪湖、温州、北海の四港を開港した。",
+      "en": "Li Hongzhang signs the Chefoo Convention at Yantai, opening four more treaty ports",
+      "ja": "1876年、李鴻章は芝罘で『煙台条約』を締結し、宜昌、蕪湖、温州、北海の四港を開港した。"
     },
     {
       "dynastyKey": "roc",
@@ -6993,8 +7246,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上杭古田（今福建龙岩）",
       "siteEn": "Gutian, Shanghang (Longyan, Fujian)",
-      "zh": "红四军在闽西龙岩上杭召开古田会议，确立思想建党、政治建军原则",
-      "en": "Gutian Conference in Longyan establishes the foundational principle of political army building"
+      "zh": "1929年、紅四軍は閩西の龍岩上杭で古田会議を開催し、思想による党建設と政治による軍建設の原則を確立した。",
+      "en": "Gutian Conference in Longyan establishes the foundational principle of political army building",
+      "ja": "1929年、紅四軍は閩西の龍岩上杭で古田会議を開催し、思想による党建設と政治による軍建設の原則を確立した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7005,8 +7259,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "日南郡（今越南中部）",
       "siteEn": "Rinan Commandery (Central Vietnam)",
-      "zh": "大秦王安敦遣使自日南徼外献象牙、犀角，中罗首次直接往来",
-      "en": "Envoys of Rome's Marcus Aurelius reach Han via Rinan with ivory and rhino horn"
+      "zh": "166年、大秦王アントンは日南郡の境外から使者を派遣し、象牙や犀角を献上した。これにより中国とローマは初めて直接交流した。",
+      "en": "Envoys of Rome's Marcus Aurelius reach Han via Rinan with ivory and rhino horn",
+      "ja": "166年、大秦王アントンは日南郡の境外から使者を派遣し、象牙や犀角を献上した。これにより中国とローマは初めて直接交流した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7017,8 +7272,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "柳城（今辽宁朝阳）",
       "siteEn": "Liucheng (Chaoyang, Liaoning)",
-      "zh": "曹操出卢龙塞北征乌桓，张辽白狼山阵斩蹋顿，平定辽西",
-      "en": "Cao Cao marches through Lulong Pass; Zhang Liao slays Tadun at White Wolf Mountain"
+      "zh": "207年、曹操は盧龍塞を出て烏桓を北征し、張遼は白狼山で蹋頓を斬り、遼西を平定した。",
+      "en": "Cao Cao marches through Lulong Pass; Zhang Liao slays Tadun at White Wolf Mountain",
+      "ja": "207年、曹操は盧龍塞を出て烏桓を北征し、張遼は白狼山で蹋頓を斬り、遼西を平定した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -7029,8 +7285,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平城武州山（今山西大同云冈）",
       "siteEn": "Wuzhou Hills, Pingcheng (Yungang, Datong, Shanxi)",
-      "zh": "北魏文成帝命沙门昙曜于平城西武州山开凿云冈石窟（昙曜五窟）",
-      "en": "Monk Tanyao begins carving the Yungang Grottoes west of the Northern Wei capital Pingcheng"
+      "zh": "460年、北魏文成帝は沙門曇曜に命じ、平城西の武州山に雲岡石窟（曇曜五窟）を開鑿させた。",
+      "en": "Monk Tanyao begins carving the Yungang Grottoes west of the Northern Wei capital Pingcheng",
+      "ja": "460年、北魏文成帝は沙門曇曜に命じ、平城西の武州山に雲岡石窟（曇曜五窟）を開鑿させた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -7041,8 +7298,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武川镇（今内蒙古呼和浩特武川）",
       "siteEn": "Wuchuan Garrison (Wuchuan, Hohhot, Inner Mongolia)",
-      "zh": "六镇乱起，武川镇军人宇文泰、独孤信、杨忠、李虎由此崛起，开关陇集团",
-      "en": "Wuchuan men Yuwen Tai, Dugu Xin, Yang Zhong and Li Hu rise, seeding the Guanlong elite"
+      "zh": "523年、六鎮の乱が勃発し、武川鎮の軍人である宇文泰、独孤信、楊忠、李虎が台頭し、関隴集団の基礎を築いた。",
+      "en": "Wuchuan men Yuwen Tai, Dugu Xin, Yang Zhong and Li Hu rise, seeding the Guanlong elite",
+      "ja": "523年、六鎮の乱が勃発し、武川鎮の軍人である宇文泰、独孤信、楊忠、李虎が台頭し、関隴集団の基礎を築いた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -7053,8 +7311,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "玉壁城（今山西运城稷山）",
       "siteEn": "Yubi Fortress (Jishan, Yuncheng, Shanxi)",
-      "zh": "韦孝宽死守玉壁五十日，东魏高欢倾国攻城不克，忧愤发病",
-      "en": "Wei Xiaokuan holds Yubi for fifty days; Gao Huan's Eastern Wei siege fails and he falls ill"
+      "zh": "546年、韋孝寛は玉壁城を五十日間死守した。東魏の高歡は国を傾けて攻城したが陥落させられず、憂憤のあまり病に倒れた。",
+      "en": "Wei Xiaokuan holds Yubi for fifty days; Gao Huan's Eastern Wei siege fails and he falls ill",
+      "ja": "546年、韋孝寛は玉壁城を五十日間死守した。東魏の高歡は国を傾けて攻城したが陥落させられず、憂憤のあまり病に倒れた。"
     },
     {
       "dynastyKey": "yuan",
@@ -7065,8 +7324,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "阳城告成（今河南郑州登封）",
       "siteEn": "Gaocheng, Yangcheng (Dengfeng, Zhengzhou, Henan)",
-      "zh": "郭守敬主持四海测验，筑告成观星台测影，编成《授时历》颁行",
-      "en": "Guo Shoujing's empire-wide survey and Gaocheng Observatory yield the Shoushi Calendar"
+      "zh": "1281年、郭守敬は四海測験を主宰し、告成観星台を築いて日影を測定し、『授時暦』を編纂して頒行した。",
+      "en": "Guo Shoujing's empire-wide survey and Gaocheng Observatory yield the Shoushi Calendar",
+      "ja": "1281年、郭守敬は四海測験を主宰し、告成観星台を築いて日影を測定し、『授時暦』を編纂して頒行した。"
     },
     {
       "dynastyKey": "yuan",
@@ -7077,8 +7337,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泉州刺桐港（今福建泉州）",
       "siteEn": "Zayton Harbor (Quanzhou, Fujian)",
-      "zh": "摩洛哥旅行家伊本·白图泰抵刺桐港，盛赞其为世界最大港口之一",
-      "en": "Moroccan traveler Ibn Battuta reaches Zayton and hails it as one of the greatest ports on earth"
+      "zh": "1346年、モロッコ人旅行家イブン・バットゥータは刺桐港に到着し、世界最大の港の一つであると絶賛した。",
+      "en": "Moroccan traveler Ibn Battuta reaches Zayton and hails it as one of the greatest ports on earth",
+      "ja": "1346年、モロッコ人旅行家イブン・バットゥータは刺桐港に到着し、世界最大の港の一つであると絶賛した。"
     },
     {
       "dynastyKey": "yuan",
@@ -7089,8 +7350,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "濠州钟离（今安徽滁州凤阳）",
       "siteEn": "Zhongli, Haozhou (Fengyang, Chuzhou, Anhui)",
-      "zh": "朱元璋自皇觉寺投濠州郭子兴红巾军，娶马氏，起于行伍",
-      "en": "Zhu Yuanzhang leaves Huangjue Temple to join Guo Zixing's Red Turbans at Haozhou"
+      "zh": "1352年、朱元璋は皇覚寺から濠州の郭子興率いる紅巾軍に投じ、馬氏を娶り、兵卒から身を起こした。",
+      "en": "Zhu Yuanzhang leaves Huangjue Temple to join Guo Zixing's Red Turbans at Haozhou",
+      "ja": "1352年、朱元璋は皇覚寺から濠州の郭子興率いる紅巾軍に投じ、馬氏を娶り、兵卒から身を起こした。"
     },
     {
       "dynastyKey": "qing",
@@ -7101,8 +7363,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大小金川（今四川阿坝金川）",
       "siteEn": "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)",
-      "zh": "阿桂历五年平定大小金川，废土司设屯置厅，改土归流",
-      "en": "After a five-year war Agui subdues Greater and Lesser Jinchuan, abolishing its native chiefdoms"
+      "zh": "1776年、阿桂は五年をかけて大小金川を平定し、土司を廃止して屯置庁を設置し、改土帰流を推進した。",
+      "en": "After a five-year war Agui subdues Greater and Lesser Jinchuan, abolishing its native chiefdoms",
+      "ja": "1776年、阿桂は五年をかけて大小金川を平定し、土司を廃止して屯置庁を設置し、改土帰流を推進した。"
     },
     {
       "dynastyKey": "qing",
@@ -7113,8 +7376,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "热河避暑山庄（今河北承德）",
       "siteEn": "Rehe Mountain Resort (Chengde, Hebei)",
-      "zh": "英使马戛尔尼于热河避暑山庄觐见乾隆，通商请求遭拒",
-      "en": "Lord Macartney meets Qianlong at the Chengde Mountain Resort; British trade requests are refused"
+      "zh": "1793年、イギリス使節マカートニーが熱河避暑山荘で乾隆帝に謁見したが、通商要求は拒否された。",
+      "en": "Lord Macartney meets Qianlong at the Chengde Mountain Resort; British trade requests are refused",
+      "ja": "1793年、イギリス使節マカートニーが熱河避暑山荘で乾隆帝に謁見したが、通商要求は拒否された。"
     },
     {
       "dynastyKey": "qing",
@@ -7125,8 +7389,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "香港岛（今香港）",
       "siteEn": "Hong Kong Island (Hong Kong)",
-      "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠",
-      "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded"
+      "zh": "1842年、南京条約により香港島が割譲され、イギリス人はヴィクトリア城を建設し開港した。",
+      "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+      "ja": "1842年、南京条約により香港島が割譲され、イギリス人はヴィクトリア城を建設し開港した。"
     },
     {
       "dynastyKey": "qing",
@@ -7137,8 +7402,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "马尾船政（今福建福州马尾）",
       "siteEn": "Mawei Navy Yard (Mawei, Fuzhou, Fujian)",
-      "zh": "中法马江海战：法舰突袭马尾，福建水师覆没，船政局遭炮毁",
-      "en": "Battle of Fuzhou: French warships ambush Mawei, sinking the Fujian Fleet and shelling the yard"
+      "zh": "1884年、清仏戦争の馬江海戦において、フランス艦隊が馬尾を奇襲し、福建水師は壊滅、船政局も砲撃により破壊された。",
+      "en": "Battle of Fuzhou: French warships ambush Mawei, sinking the Fujian Fleet and shelling the yard",
+      "ja": "1884年、清仏戦争の馬江海戦において、フランス艦隊が馬尾を奇襲し、福建水師は壊滅、船政局も砲撃により破壊された。"
     },
     {
       "dynastyKey": "qing",
@@ -7149,9 +7415,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "刘公岛（今山东威海）",
       "siteEn": "Liugong Island (Weihai, Shandong)",
-      "zh": "日军水陆围攻威海卫，丁汝昌于刘公岛殉国，北洋水师覆没",
+      "zh": "1895年、日本軍が威海衛を水陸から包囲攻撃し、丁汝昌は劉公島で殉国、北洋水師は壊滅した。",
       "en": "Japan besieges Weihaiwei; Ding Ruchang dies on Liugong Island as the Beiyang Fleet is destroyed",
-      "month": 2
+      "month": 2,
+      "ja": "1895年、日本軍が威海衛を水陸から包囲攻撃し、丁汝昌は劉公島で殉国、北洋水師は壊滅した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7162,8 +7429,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "栎阳",
       "siteEn": "Yueyang (Liyang, Shaanxi)",
-      "zh": "秦孝公下求贤令，卫鞅（商鞅）入秦于栎阳南门徙木立信，颁垦草令",
-      "en": "Shang Yang enters Qin at Yueyang and establishes public trust with the South Gate pole decree"
+      "zh": "前359年、秦孝公は求賢令を発し、衛鞅（商鞅）は秦に入り、櫟陽の南門で「徙木立信」を行い、墾草令を頒布した。",
+      "en": "Shang Yang enters Qin at Yueyang and establishes public trust with the South Gate pole decree",
+      "ja": "前359年、秦孝公は求賢令を発し、衛鞅（商鞅）は秦に入り、櫟陽の南門で「徙木立信」を行い、墾草令を頒布した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7174,8 +7442,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "河西吴城",
       "siteEn": "Hexi (Weinan / Hancheng)",
-      "zh": "商鞅率秦军大破魏军，虏魏公子卬，收复河西受封商君十五邑",
-      "en": "Shang Yang defeats Wei forces west of the Yellow River and is enfeoffed as Lord of Shang"
+      "zh": "前340年、商鞅は秦軍を率いて魏軍を大破し、魏公子卬を捕虜とし、河西の地を回復して商君に封じられ十五邑を与えられた。",
+      "en": "Shang Yang defeats Wei forces west of the Yellow River and is enfeoffed as Lord of Shang",
+      "ja": "前340年、商鞅は秦軍を率いて魏軍を大破し、魏公子卬を捕虜とし、河西の地を回復して商君に封じられ十五邑を与えられた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7186,8 +7455,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "商邑·彤地",
       "siteEn": "Shangyi (Danfeng / Huaxian)",
-      "zh": "秦惠文王即位，商鞅出奔商邑起兵败亡于彤地，然“秦法未败”",
-      "en": "Shang Yang falls after Duke Xiao dies, yet his legalist institutions endure in Qin"
+      "zh": "前338年、秦恵文王が即位すると、商鞅は商邑へ逃亡し挙兵したが彤地で敗死した。しかし「秦法は敗れず」とされた。",
+      "en": "Shang Yang falls after Duke Xiao dies, yet his legalist institutions endure in Qin",
+      "ja": "前338年、秦恵文王が即位すると、商鞅は商邑へ逃亡し挙兵したが彤地で敗死した。しかし「秦法は敗れず」とされた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7198,8 +7468,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临淄",
       "siteEn": "Linzi",
-      "zh": "孙膑自魏脱险入齐，以“田忌赛马”上中下驷之策受齐威王拜为军师",
-      "en": "Sun Bin arrives in Linzi and becomes chief strategist to King Wei of Qi"
+      "zh": "前357年、孫臏は魏から脱出して斉に入り、「田忌賽馬」の上中下三等の策により斉威王から軍師に任じられた。",
+      "en": "Sun Bin arrives in Linzi and becomes chief strategist to King Wei of Qi",
+      "ja": "前357年、孫臏は魏から脱出して斉に入り、「田忌賽馬」の上中下三等の策により斉威王から軍師に任じられた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7210,8 +7481,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "郢都",
       "siteEn": "Ying (Jingzhou)",
-      "zh": "屈原任楚怀王左徒草拟宪令，力谏联齐抗秦遭谗被疏，作《离骚》",
-      "en": "Qu Yuan drafts reforms at Ying and composes Li Sao after being sidelined at court"
+      "zh": "前313年、屈原は楚懐王の左徒に任じられ憲令を起草したが、斉と連合して秦に対抗するよう強く諫言したため讒言され疎んじられ、『離騒』を著した。",
+      "en": "Qu Yuan drafts reforms at Ying and composes Li Sao after being sidelined at court",
+      "ja": "前313年、屈原は楚懐王の左徒に任じられ憲令を起草したが、斉と連合して秦に対抗するよう強く諫言したため讒言され疎んじられ、『離騒』を著した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7222,8 +7494,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武关",
       "siteEn": "Wu Pass",
-      "zh": "屈原极谏无果，楚怀王赴武关之会为秦所扣留，客死咸阳",
-      "en": "Despite Qu Yuan warning against it, King Huai of Chu enters Wu Pass and is detained by Qin"
+      "zh": "前299年、屈原の度重なる諫言も虚しく、楚懐王は武関での会盟に赴き秦に拘留され、咸陽で客死した。",
+      "en": "Despite Qu Yuan warning against it, King Huai of Chu enters Wu Pass and is detained by Qin",
+      "ja": "前299年、屈原の度重なる諫言も虚しく、楚懐王は武関での会盟に赴き秦に拘留され、咸陽で客死した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7234,8 +7507,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "溆浦·沧浪",
       "siteEn": "Xupu (Western Hunan)",
-      "zh": "屈原流放沅湘行吟泽畔，作《九歌》《涉江》《天问》",
-      "en": "Exiled south of the Yangtze, Qu Yuan wanders along the Yuan and Xiang rivers composing Nine Songs"
+      "zh": "前285年、屈原は沅湘の地へ流され、沢畔を吟遊しながら『九歌』『渉江』『天問』などを著した。",
+      "en": "Exiled south of the Yangtze, Qu Yuan wanders along the Yuan and Xiang rivers composing Nine Songs",
+      "ja": "前285年、屈原は沅湘の地へ流され、沢畔を吟遊しながら『九歌』『渉江』『天問』などを著した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7246,8 +7520,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "伊阙（龙门）",
       "siteEn": "Yique (Longmen, Luoyang)",
-      "zh": "伊阙之战：秦将白起避实击虚，斩首韩魏联军二十四万，拔五城",
-      "en": "Battle of Yique: Qin general Bai Qi annihilates 240,000 Han-Wei coalition troops"
+      "zh": "前293年、伊闕の戦いにおいて、秦将白起は敵の虚を突き、韓魏連合軍24万を斬首し、五城を攻略した。",
+      "en": "Battle of Yique: Qin general Bai Qi annihilates 240,000 Han-Wei coalition troops",
+      "ja": "前293年、伊闕の戦いにおいて、秦将白起は敵の虚を突き、韓魏連合軍24万を斬首し、五城を攻略した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7258,8 +7533,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "华阳",
       "siteEn": "Huayang (Xinzheng)",
-      "zh": "华阳之战：白起急行军突袭赵魏联军，斩首十三万，沉赵卒二万于河",
-      "en": "Battle of Huayang: Bai Qi routs Zhao-Wei forces on a forced march"
+      "zh": "前273年、華陽の戦い。白起は急行軍で趙魏連合軍を奇襲し、13万を斬首、趙兵2万を河に沈めて大破した。",
+      "en": "Battle of Huayang: Bai Qi routs Zhao-Wei forces on a forced march",
+      "ja": "前273年、華陽の戦い。白起は急行軍で趙魏連合軍を奇襲し、13万を斬首、趙兵2万を河に沈めて大破した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7270,8 +7546,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "杜邮（咸阳西）",
       "siteEn": "Duyou (West of Xianyang)",
-      "zh": "白起拒帅秦军攻邯郸触怒秦昭襄王，行至咸阳西十里杜邮赐剑自尽",
-      "en": "Bai Qi refuses to command the siege of Handan and is ordered to take his own life at Duyou"
+      "zh": "前257年、白起は邯鄲攻撃の秦軍指揮を拒否し、秦の昭襄王の怒りを買った。咸陽西十里の杜郵に至り、剣を賜り自尽した。",
+      "en": "Bai Qi refuses to command the siege of Handan and is ordered to take his own life at Duyou",
+      "ja": "前257年、白起は邯鄲攻撃の秦軍指揮を拒否し、秦の昭襄王の怒りを買った。咸陽西十里の杜郵に至り、剣を賜り自尽した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7282,8 +7559,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "雁门关",
       "siteEn": "Yanmen Pass",
-      "zh": "赵将李牧久守雁门诱敌深入，单日大破匈奴十余万骑",
-      "en": "Zhao general Li Mu lures Xiongnu raiders deep past Yanmen Pass and crushes 100,000 horsemen"
+      "zh": "前244年、趙将の李牧は雁門関を固く守り、匈奴を深く誘い込んだ後、一日で10万余騎を大破した。",
+      "en": "Zhao general Li Mu lures Xiongnu raiders deep past Yanmen Pass and crushes 100,000 horsemen",
+      "ja": "前244年、趙将の李牧は雁門関を固く守り、匈奴を深く誘い込んだ後、一日で10万余騎を大破した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7294,8 +7572,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "肥下（宜安）",
       "siteEn": "Fei (Gaocheng, Hebei)",
-      "zh": "肥之战：李牧统赵军奇袭秦大营，大破秦将桓齮十万军，受封武安君",
-      "en": "Battle of Fei: Li Mu routs Qin general Huan Yi and is enfeoffed as Lord Wu'an"
+      "zh": "前233年、肥の戦い。李牧は趙軍を率いて秦の大営を奇襲し、秦将の桓齮が率いる10万の軍を大破した。これにより武安君に封じられた。",
+      "en": "Battle of Fei: Li Mu routs Qin general Huan Yi and is enfeoffed as Lord Wu'an",
+      "ja": "前233年、肥の戦い。李牧は趙軍を率いて秦の大営を奇襲し、秦将の桓齮が率いる10万の軍を大破した。これにより武安君に封じられた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7306,13 +7585,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邯郸",
       "siteEn": "Handan",
-      "zh": "秦王翦行反间计买通郭开，赵王迁冤杀名将李牧，数月后邯郸陷落",
+      "zh": "前229年、秦の王翦は反間計を用いて郭開を買収し、趙王遷は名将の李牧を冤殺した。その数ヶ月後、邯鄲は陥落した。",
       "en": "Qin intrigue leads King Qian of Zhao to execute Li Mu, sealing the fall of Handan",
       "persons": [
         "qinshihuang",
         "wangjian",
         "limu"
-      ]
+      ],
+      "ja": "前229年、秦の王翦は反間計を用いて郭開を買収し、趙王遷は名将の李牧を冤殺した。その数ヶ月後、邯鄲は陥落した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -7323,8 +7603,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邯郸",
       "siteEn": "Handan",
-      "zh": "秦异人质赵，嬴政生于邯郸；前247年年十三归咸阳即秦王位",
-      "en": "Ying Zheng (future Qin Shi Huang) is born in Handan as son of a Qin royal hostage"
+      "zh": "前259年、秦の異人が趙の人質となっていた際、嬴政（後の秦始皇）が邯鄲で生まれた。前247年、13歳で咸陽に帰還し、秦王の位に即いた。",
+      "en": "Ying Zheng (future Qin Shi Huang) is born in Handan as son of a Qin royal hostage",
+      "ja": "前259年、秦の異人が趙の人質となっていた際、嬴政（後の秦始皇）が邯鄲で生まれた。前247年、13歳で咸陽に帰還し、秦王の位に即いた。"
     },
     {
       "dynastyKey": "qin",
@@ -7335,8 +7616,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "灵渠（兴安）",
       "siteEn": "Lingqu Canal (Guilin)",
-      "zh": "秦始皇命史禄开凿灵渠沟通湘漓二水，屠睢任嚣统军平定岭南置三郡",
-      "en": "Qin Shi Huang orders the Lingqu Canal dug to link the Xiang and Li rivers and conquer Lingnan"
+      "zh": "前214年、秦始皇は史禄に命じて湘水と漓水を繋ぐ霊渠を開鑿させた。また、屠睢と任囂は軍を率いて嶺南を平定し、三郡を設置した。",
+      "en": "Qin Shi Huang orders the Lingqu Canal dug to link the Xiang and Li rivers and conquer Lingnan",
+      "ja": "前214年、秦始皇は史禄に命じて湘水と漓水を繋ぐ霊渠を開鑿させた。また、屠睢と任囂は軍を率いて嶺南を平定し、三郡を設置した。"
     },
     {
       "dynastyKey": "qin",
@@ -7347,13 +7629,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上郡（绥德）",
       "siteEn": "Shangjun (Suide, Shaanxi)",
-      "zh": "胡亥赵高矫诏赐死公子扶苏与大将蒙恬于上郡",
+      "zh": "前210年、胡亥と趙高は偽詔を矯め、公子扶蘇と大将の蒙恬を上郡で賜死させた。",
       "en": "Prince Fusu and General Meng Tian are forced to die by forged edict at frontier Shangjun",
       "persons": [
         "qinshihuang",
         "lisi",
         "mengtian"
-      ]
+      ],
+      "ja": "前210年、胡亥と趙高は偽詔を矯め、公子扶蘇と大将の蒙恬を上郡で賜死させた。"
     },
     {
       "dynastyKey": "qin",
@@ -7364,8 +7647,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "会稽吴中",
       "siteEn": "Kuaiji (Suzhou)",
-      "zh": "项梁、项羽叔侄于吴中斩会稽守通起兵反秦，率八千江东子弟渡江而西",
-      "en": "Xiang Liang and Xiang Yu raise 8,000 Jiangdong warriors in Suzhou against the Qin Empire"
+      "zh": "前209年、項梁と項羽の叔父甥は呉中で會稽の守を斬って秦に反旗を翻し、8千の江東子弟を率いて江を渡り西進した。",
+      "en": "Xiang Liang and Xiang Yu raise 8,000 Jiangdong warriors in Suzhou against the Qin Empire",
+      "ja": "前209年、項梁と項羽の叔父甥は呉中で會稽の守を斬って秦に反旗を翻し、8千の江東子弟を率いて江を渡り西進した。"
     },
     {
       "dynastyKey": "qin",
@@ -7376,8 +7660,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "巨鹿",
       "siteEn": "Julu (Pingxiang, Hebei)",
-      "zh": "巨鹿之战：项羽破釜沉舟渡漳水，九战九捷大破章邯王离秦军主力",
-      "en": "Battle of Julu: Xiang Yu smashes his cooking pots and crushes the main Qin army in nine battles"
+      "zh": "前207年、巨鹿の戦い。項羽は破釜沉舟の覚悟で漳水を渡り、九戦九捷で章邯と王離が率いる秦軍主力部隊を大破した。",
+      "en": "Battle of Julu: Xiang Yu smashes his cooking pots and crushes the main Qin army in nine battles",
+      "ja": "前207年、巨鹿の戦い。項羽は破釜沉舟の覚悟で漳水を渡り、九戦九捷で章邯と王離が率いる秦軍主力部隊を大破した。"
     },
     {
       "dynastyKey": "qin",
@@ -7388,14 +7673,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鸿门（临潼）",
       "siteEn": "Hongmen (Lintong, Xi'an)",
-      "zh": "鸿门宴：项羽设宴新丰鸿门，张良樊哙翼蔽刘邦脱险",
+      "zh": "前206年、鴻門の宴。項羽が新豊の鴻門で宴を設けた際、張良と樊噲は劉邦を庇い、その脱出を助けた。",
       "en": "Feast at Hongmen: Zhang Liang and Fan Kuai help Liu Bang escape Xiang Yu's camp near Xianyang",
       "month": 3,
       "persons": [
         "xiangyu",
         "liubang",
         "zhangliang"
-      ]
+      ],
+      "ja": "前206年、鴻門の宴。項羽が新豊の鴻門で宴を設けた際、張良と樊噲は劉邦を庇い、その脱出を助けた。"
     },
     {
       "dynastyKey": "qin",
@@ -7406,14 +7692,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "彭城",
       "siteEn": "Pengcheng (Xuzhou)",
-      "zh": "彭城之战：项羽率三万精骑自齐南驰，一日大破刘邦五十六万联军于睢水",
+      "zh": "前205年、彭城の戦い。項羽は3万の精鋭騎兵を率いて斉から南下し、一日で劉邦の56万連合軍を睢水で大破した。",
       "en": "Battle of Pengcheng: Xiang Yu leads 30,000 cavalry to rout Liu Bang's 560,000 coalition troops",
       "persons": [
         "xiangyu",
         "liubang",
         "zhangliang",
         "xiaohe"
-      ]
+      ],
+      "ja": "前205年、彭城の戦い。項羽は3万の精鋭騎兵を率いて斉から南下し、一日で劉邦の56万連合軍を睢水で大破した。"
     },
     {
       "dynastyKey": "qin",
@@ -7424,8 +7711,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成皋·广武",
       "siteEn": "Chenggao & Hong Canal",
-      "zh": "楚汉荥阳成皋相持经年，项羽刘邦中分天下订“鸿沟之约”",
-      "en": "Xiang Yu and Liu Bang divide the realm along the Hong Canal before Han launches the final push"
+      "zh": "前203年、楚漢両軍は滎陽・成皋で長年対峙し、項羽と劉邦は天下を二分し、「鴻溝の盟」を結んだ。",
+      "en": "Xiang Yu and Liu Bang divide the realm along the Hong Canal before Han launches the final push",
+      "ja": "前203年、楚漢両軍は滎陽・成皋で長年対峙し、項羽と劉邦は天下を二分し、「鴻溝の盟」を結んだ。"
     },
     {
       "dynastyKey": "xihan",
@@ -7436,7 +7724,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "垓下·乌江",
       "siteEn": "Gaixia & Wujiang",
-      "zh": "垓下之战：韩信十面埋伏、四面楚歌围困楚军，项羽突围至乌江拒渡自刎",
+      "zh": "前202年、垓下の戦い。韓信は十面埋伏の陣を敷き、四面楚歌で楚軍を包囲した。項羽は烏江まで突囲したが、渡河を拒み自刎した。",
       "en": "Battle of Gaixia: Surrounded by Han Xin and Chu songs, Xiang Yu takes his life by the Wu River",
       "persons": [
         "xiangyu",
@@ -7445,7 +7733,8 @@ window.ATLAS_LORE_DATA = {
         "zhangliang",
         "xiaohe"
       ],
-      "month": 1.5
+      "month": 1.5,
+      "ja": "前202年、垓下の戦い。韓信は十面埋伏の陣を敷き、四面楚歌で楚軍を包囲した。項羽は烏江まで突囲したが、渡河を拒み自刎した。"
     },
     {
       "dynastyKey": "qin",
@@ -7456,8 +7745,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "沛县丰西泽",
       "siteEn": "Peixian (Xuzhou)",
-      "zh": "亭长刘邦斩白蛇起义称沛公，萧何曹参樊哙归附",
-      "en": "Pavilion chief Liu Bang rises in rebellion at Peixian backed by Xiao He, Cao Shen, and Fan Kuai"
+      "zh": "前209年、亭長であった劉邦は白蛇を斬り、沛縣で挙兵して沛公と称した。蕭何、曹參、樊噲らが帰順した。",
+      "en": "Pavilion chief Liu Bang rises in rebellion at Peixian backed by Xiao He, Cao Shen, and Fan Kuai",
+      "ja": "前209年、亭長であった劉邦は白蛇を斬り、沛縣で挙兵して沛公と称した。蕭何、曹參、樊噲らが帰順した。"
     },
     {
       "dynastyKey": "qin",
@@ -7468,7 +7758,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "南郑（汉中）",
       "siteEn": "Nanzheng (Hanzhong)",
-      "zh": "刘邦就封汉王入汉中，萧何月下追韩信",
+      "zh": "前206年、劉邦は漢王に封じられ、漢中に入った。蕭何は月下で韓信を追った。",
       "en": "In Hanzhong, Xiao He rides by moonlight to bring back Han Xin as Liu Bang’s Grand General",
       "month": 8,
       "persons": [
@@ -7476,7 +7766,8 @@ window.ATLAS_LORE_DATA = {
         "hanxin",
         "xiaohe",
         "zhangliang"
-      ]
+      ],
+      "ja": "前206年、劉邦は漢王に封じられ、漢中に入った。蕭何は月下で韓信を追った。"
     },
     {
       "dynastyKey": "qin",
@@ -7487,9 +7778,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "陈仓（宝鸡）",
       "siteEn": "Chencang (Baoji)",
-      "zh": "韩信明修褒斜栈道惑章邯，暗度故道袭取陈仓，一举平定三秦之地",
+      "zh": "前206年、韓信は表向きは褒斜棧道を修復して章邯を欺き、密かに故道を進んで陳倉を襲撃し奪取し、一挙に三秦の地を平定した。",
       "en": "Han Xin feints along plank roads while secretly seizing Chencang to conquer the Three Qin",
-      "month": 8
+      "month": 8,
+      "ja": "前206年、韓信は表向きは褒斜棧道を修復して章邯を欺き、密かに故道を進んで陳倉を襲撃し奪取し、一挙に三秦の地を平定した。"
     },
     {
       "dynastyKey": "qin",
@@ -7500,8 +7792,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "夏阳·安邑",
       "siteEn": "Xiayang & Anyi",
-      "zh": "韩信于临晋设疑兵陈船，自夏阳以木罂缻渡黄河奇袭安邑，生擒魏王豹",
-      "en": "Han Xin crosses the Yellow River using wooden jars to outflank and capture King Bao of Wei"
+      "zh": "前205年、韓信は臨晉に偽兵と船を並べ、夏陽から木罌缻で黄河を渡り安邑を奇襲し、魏王豹を生け捕りにした。",
+      "en": "Han Xin crosses the Yellow River using wooden jars to outflank and capture King Bao of Wei",
+      "ja": "前205年、韓信は臨晉に偽兵と船を並べ、夏陽から木罌缻で黄河を渡り安邑を奇襲し、魏王豹を生け捕りにした。"
     },
     {
       "dynastyKey": "qin",
@@ -7512,8 +7805,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潍水（潍坊）",
       "siteEn": "Weishui River (Weifang)",
-      "zh": "潍水之战：韩信囊沙壅水诱敌半渡，决水斩杀楚大将龙且，平定齐地封齐王",
-      "en": "Battle of the Wei River: Han Xin dams the river with sandbags to defeat Chu general Long Ju"
+      "zh": "前204年、濰水の戦い。韓信は砂袋で水を堰き止め、敵が半ば渡ったところで堰を切って楚の大将龍且を斬殺し、齊地を平定して齊王に封じられた。",
+      "en": "Battle of the Wei River: Han Xin dams the river with sandbags to defeat Chu general Long Ju",
+      "ja": "前204年、濰水の戦い。韓信は砂袋で水を堰き止め、敵が半ば渡ったところで堰を切って楚の大将龍且を斬殺し、齊地を平定して齊王に封じられた。"
     },
     {
       "dynastyKey": "xihan",
@@ -7524,13 +7818,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安长乐宫",
       "siteEn": "Changle Palace (Chang'an)",
-      "zh": "吕后与萧何设谋诱淮阴侯韩信入贺，斩韩信于长乐宫钟室",
+      "zh": "前196年、呂后と蕭何は謀を巡らし、淮陰侯韓信を祝賀のために誘い込み、長安の長樂宮の鐘室で韓信を斬殺した。",
       "en": "Empress Lü and Xiao He lure Han Xin into Changle Palace in Chang’an and execute him",
       "persons": [
         "liubang",
         "hanxin",
         "xiaohe"
-      ]
+      ],
+      "ja": "前196年、呂后と蕭何は謀を巡らし、淮陰侯韓信を祝賀のために誘い込み、長安の長樂宮の鐘室で韓信を斬殺した。"
     },
     {
       "dynastyKey": "xihan",
@@ -7541,9 +7836,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "沛宫（沛县）",
       "siteEn": "Peixian",
-      "zh": "汉高祖刘邦讨英布归过故乡沛县，击筑歌《大风歌》",
+      "zh": "前195年、漢高祖劉邦は英布を討伐して故郷の沛縣に立ち寄り、筑を撃ち『大風歌』を歌った。",
       "en": "Returning from crushing Ying Bu, Emperor Gaozu feasts in hometown Peixian singing Great Wind",
-      "month": 10
+      "month": 10,
+      "ja": "前195年、漢高祖劉邦は英布を討伐して故郷の沛縣に立ち寄り、筑を撃ち『大風歌』を歌った。"
     },
     {
       "dynastyKey": "qin",
@@ -7554,8 +7850,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "博浪沙（原阳）",
       "siteEn": "Bolangsha (Yuanyang, Henan)",
-      "zh": "韩贵族张良散尽家财求力士，于博浪沙狙击东巡秦始皇误中副车",
-      "en": "Zhang Liang ambushes Qin Shi Huang’s convoy at Bolangsha and flees into hiding at Xiapi"
+      "zh": "前218年、韓の貴族張良は家財を散じて力士を求め、博浪沙で東巡中の秦始皇を狙撃したが、副車に命中し失敗した。",
+      "en": "Zhang Liang ambushes Qin Shi Huang’s convoy at Bolangsha and flees into hiding at Xiapi",
+      "ja": "前218年、韓の貴族張良は家財を散じて力士を求め、博浪沙で東巡中の秦始皇を狙撃したが、副車に命中し失敗した。"
     },
     {
       "dynastyKey": "xihan",
@@ -7566,8 +7863,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "细柳营（咸阳西南）",
       "siteEn": "Xiliu Camp (Near Chang'an)",
-      "zh": "匈奴寇边，汉文帝劳军细柳营按辔徐行，赞周亚夫真将军",
-      "en": "Emperor Wen inspects Xiliu Camp at a walk, praising strict commander Zhou Yafu as a true general"
+      "zh": "前158年、匈奴が辺境を侵犯した際、漢文帝は細柳營を慰労に訪れたが、周亞夫は馬の轡を引いてゆっくりと進ませた。文帝は周亞夫を「真の将軍」と称賛した。",
+      "en": "Emperor Wen inspects Xiliu Camp at a walk, praising strict commander Zhou Yafu as a true general",
+      "ja": "前158年、匈奴が辺境を侵犯した際、漢文帝は細柳營を慰労に訪れたが、周亞夫は馬の轡を引いてゆっくりと進ませた。文帝は周亞夫を「真の将軍」と称賛した。"
     },
     {
       "dynastyKey": "xihan",
@@ -7578,12 +7876,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "高阙·朔方",
       "siteEn": "Gaoque & Shuofang (Hetao)",
-      "zh": "卫青率汉军自云中西出至陇西，收复河南河套之地，筑朔方城屏卫关中",
+      "zh": "前127年、衛青は漢軍を率いて雲中から西へ隴西に至り、河南（オルドス）と河套の地を奪還した。朔方城を築いて関中の防衛とした。",
       "en": "General Wei Qing retakes the Ordos Loop from the Xiongnu and establishes Shuofang Commandery",
       "persons": [
         "hanwudi",
         "weiqing"
-      ]
+      ],
+      "ja": "前127年、衛青は漢軍を率いて雲中から西へ隴西に至り、河南（オルドス）と河套の地を奪還した。朔方城を築いて関中の防衛とした。"
     },
     {
       "dynastyKey": "xihan",
@@ -7594,8 +7893,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "高阙塞北",
       "siteEn": "North of Gaoque Pass",
-      "zh": "卫青夜行六七百里突袭匈奴右贤王庭，俘获万五千人",
-      "en": "Wei Qing launches a night raid routing the Right Tuqi King and becomes General-in-Chief"
+      "zh": "前124年、衛青は夜間に六、七百里を行軍し、匈奴の右賢王庭を奇襲して一万五千人を捕虜とした。",
+      "en": "Wei Qing launches a night raid routing the Right Tuqi King and becomes General-in-Chief",
+      "ja": "前124年、衛青は夜間に六、七百里を行軍し、匈奴の右賢王庭を奇襲して一万五千人を捕虜とした。"
     },
     {
       "dynastyKey": "xihan",
@@ -7606,8 +7906,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "漠南（定襄北）",
       "siteEn": "South of the Gobi (Inner Mongolia)",
-      "zh": "年十八岁的霍去病率八百轻骑赴利，封冠军侯",
-      "en": "Eighteen-year-old Huo Qubing leads 800 light cavalry deep into Xiongnu lines as Marquis Guanjun"
+      "zh": "前123年、18歳の霍去病は八百の軽騎兵を率いて匈奴の奥深くに進攻し、冠軍侯に封じられた。",
+      "en": "Eighteen-year-old Huo Qubing leads 800 light cavalry deep into Xiongnu lines as Marquis Guanjun",
+      "ja": "前123年、18歳の霍去病は八百の軽騎兵を率いて匈奴の奥深くに進攻し、冠軍侯に封じられた。"
     },
     {
       "dynastyKey": "xihan",
@@ -7618,8 +7919,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "焉支山·祁连山",
       "siteEn": "Mt. Yanzhi & Qilian Corridor",
-      "zh": "河西之战：霍去病连破匈奴五王，受浑邪王四万众降",
-      "en": "Hexi Campaign: Huo Qubing sweeps past Mt. Yanzhi and opens the Hexi Corridor to the West"
+      "zh": "前121年、河西の戦い：霍去病は匈奴の五王を連破し、渾邪王ら四万余りの降伏を受けた。",
+      "en": "Hexi Campaign: Huo Qubing sweeps past Mt. Yanzhi and opens the Hexi Corridor to the West",
+      "ja": "前121年、河西の戦い：霍去病は匈奴の五王を連破し、渾邪王ら四万余りの降伏を受けた。"
     },
     {
       "dynastyKey": "xihan",
@@ -7630,13 +7932,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "漠北·狼居胥山",
       "siteEn": "Mobei & Mt. Langjuxu (Khentii)",
-      "zh": "漠北大战：卫青破单于，霍去病北进封狼居胥山",
+      "zh": "前119年、漠北の戦い：衛青は単于を破り、霍去病は北進して狼居胥山で封禅の儀を行った。",
       "en": "Mobei Campaign: Wei Qing routs the Chanyu while Huo Qubing performs rites atop Mt. Langjuxu",
       "persons": [
         "hanwudi",
         "weiqing",
         "huoqubing"
-      ]
+      ],
+      "ja": "前119年、漠北の戦い：衛青は単于を破り、霍去病は北進して狼居胥山で封禅の儀を行った。"
     },
     {
       "dynastyKey": "xihan",
@@ -7647,8 +7950,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安未央宫",
       "siteEn": "Weiyang Palace (Chang'an)",
-      "zh": "汉武帝晚年罢轮台屯田，下《轮台罪己诏》深陈既往征伐之悔",
-      "en": "In his late reign Emperor Wu issues the Luntai Edict of Self-Reproach, pivoting toward peace"
+      "zh": "前89年、漢武帝は晩年、輪台の屯田を廃止し、『輪台罪己詔』を下して過去の征伐に対する深い悔恨を表明した。",
+      "en": "In his late reign Emperor Wu issues the Luntai Edict of Self-Reproach, pivoting toward peace",
+      "ja": "前89年、漢武帝は晩年、輪台の屯田を廃止し、『輪台罪己詔』を下して過去の征伐に対する深い悔恨を表明した。"
     },
     {
       "dynastyKey": "xihan",
@@ -7659,8 +7963,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "会稽（绍兴）",
       "siteEn": "Kuaiji (Shaoxing)",
-      "zh": "二十岁的司马迁南游江淮，上会稽探禹穴、窥九疑、浮沅湘",
-      "en": "Twenty-year-old Sima Qian travels across Jianghuai, Kuaiji, and Xiang gathering historical lore"
+      "zh": "前126年、20歳の司馬遷は江南を遊歴し、會稽では禹穴を探り、九疑山を訪れ、沅水・湘水に船を浮かべた。",
+      "en": "Twenty-year-old Sima Qian travels across Jianghuai, Kuaiji, and Xiang gathering historical lore",
+      "ja": "前126年、20歳の司馬遷は江南を遊歴し、會稽では禹穴を探り、九疑山を訪れ、沅水・湘水に船を浮かべた。"
     },
     {
       "dynastyKey": "xihan",
@@ -7671,12 +7976,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "太史令司马迁受宫刑后发愤著书，成《史记》百三十篇",
+      "zh": "前91年、太史令司馬遷は宮刑を受けた後、発憤して著述に励み、『史記』百三十篇を完成させた。",
       "en": "Enduring punishment over the Li Ling affair, Grand Historian Sima Qian completes the Shiji",
       "persons": [
         "simaqian",
         "hanwudi"
-      ]
+      ],
+      "ja": "前91年、太史令司馬遷は宮刑を受けた後、発憤して著述に励み、『史記』百三十篇を完成させた。"
     },
     {
       "dynastyKey": "xihan",
@@ -7687,8 +7993,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "王莽废孺子婴代汉建“新”，改王田奴婢币制并频改地名",
-      "en": "Wang Mang proclaims the Xin Dynasty in Chang'an, enacting sweeping land and currency reforms"
+      "zh": "9年、王莽は孺子嬰を廃し、漢に代わって「新」を建国した。王田奴婢幣制を改め、頻繁に地名を変更した。",
+      "en": "Wang Mang proclaims the Xin Dynasty in Chang'an, enacting sweeping land and currency reforms",
+      "ja": "9年、王莽は孺子嬰を廃し、漢に代わって「新」を建国した。王田奴婢幣制を改め、頻繁に地名を変更した。"
     },
     {
       "dynastyKey": "xihan",
@@ -7699,8 +8006,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "昆阳（叶县）",
       "siteEn": "Kunyang (Yexian, Henan)",
-      "zh": "昆阳之战：刘秀率敢死队冲阵大破王莽四十二万大军",
-      "en": "Battle of Kunyang: Liu Xiu leads 3,000 shock troops to rout Wang Mang's 420,000-man army"
+      "zh": "23年、昆陽の戦い：劉秀は決死隊を率いて敵陣に突入し、王莽の四十二万の大軍を大いに破った。",
+      "en": "Battle of Kunyang: Liu Xiu leads 3,000 shock troops to rout Wang Mang's 420,000-man army",
+      "ja": "23年、昆陽の戦い：劉秀は決死隊を率いて敵陣に突入し、王莽の四十二万の大軍を大いに破った。"
     },
     {
       "dynastyKey": "xihan",
@@ -7711,8 +8019,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邯郸",
       "siteEn": "Handan",
-      "zh": "刘秀巡行河北攻拔邯郸诛灭王郎，铜马诸部降附号“铜马帝”",
-      "en": "Liu Xiu captures Handan and absorbs northern peasant armies, securing Hebei as his base"
+      "zh": "24年、劉秀は河北を巡行して邯鄲を攻略し、王郎を誅滅した。銅馬などの諸部が降伏・帰順し、「銅馬帝」と称された。",
+      "en": "Liu Xiu captures Handan and absorbs northern peasant armies, securing Hebei as his base",
+      "ja": "24年、劉秀は河北を巡行して邯鄲を攻略し、王郎を誅滅した。銅馬などの諸部が降伏・帰順し、「銅馬帝」と称された。"
     },
     {
       "dynastyKey": "donghan",
@@ -7723,9 +8032,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鄯善（楼兰）",
       "siteEn": "Shanshan (Lop)",
-      "zh": "班超奉命使鄯善，“不入虎穴焉得虎子”率三十六吏士夜袭火烧匈奴使营",
+      "zh": "73年、班超は命を受けて鄯善に赴き、「虎穴に入らずんば虎子を得ず」の故事に従い、三十六人の吏士を率いて夜襲をかけ、匈奴の使者陣営を焼き払った。",
       "en": "Ban Chao leads 36 men in a daring night raid on Xiongnu envoys, winning Shanshan over to Han",
-      "month": 4
+      "month": 4,
+      "ja": "73年、班超は命を受けて鄯善に赴き、「虎穴に入らずんば虎子を得ず」の故事に従い、三十六人の吏士を率いて夜襲をかけ、匈奴の使者陣営を焼き払った。"
     },
     {
       "dynastyKey": "donghan",
@@ -7736,8 +8046,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "焉耆",
       "siteEn": "Yanqi (Karashahr)",
-      "zh": "西域都护班超发龟兹鄯善等八国兵讨平焉耆，西域五十余国悉纳质内属",
-      "en": "Protector-General Ban Chao subdues Yanqi as fifty Western Regions states submit to Eastern Han"
+      "zh": "94年、西域都護班超は龜茲、鄯善など八カ国の兵を発し、焉耆を討ち平定した。これにより西域の五十余りの国が人質を差し出し、漢に帰属した。",
+      "en": "Protector-General Ban Chao subdues Yanqi as fifty Western Regions states submit to Eastern Han",
+      "ja": "94年、西域都護班超は龜茲、鄯善など八カ国の兵を発し、焉耆を討ち平定した。これにより西域の五十余りの国が人質を差し出し、漢に帰属した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7748,8 +8059,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "玉门关→洛阳",
       "siteEn": "Yumen Pass / Luoyang",
-      "zh": "班超年逾七旬上疏“但愿生入玉门关”，召还洛阳病逝",
-      "en": "Aged seventy, Ban Chao petitions to return alive through Yumen Pass and dies back in Luoyang"
+      "zh": "班超は70歳を超え、「生きて玉門関に入らんことを願う」と上奏し、洛陽に召還された後、病没した。",
+      "en": "Aged seventy, Ban Chao petitions to return alive through Yumen Pass and dies back in Luoyang",
+      "ja": "班超は70歳を超え、「生きて玉門関に入らんことを願う」と上奏し、洛陽に召還された後、病没した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7760,8 +8072,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "兖州昌邑",
       "siteEn": "Yanzhou (Jining, Shandong)",
-      "zh": "曹操入主兖州击败青州黄巾百万众，收编精锐三十余万为“青州兵”",
-      "en": "Cao Cao takes Yanzhou and integrates Yellow Turban veterans into his elite Qingzhou Army"
+      "zh": "192年、曹操は兗州を掌握し、青州の黄巾百万余を撃破、その精鋭30万余を「青州兵」として編入した。",
+      "en": "Cao Cao takes Yanzhou and integrates Yellow Turban veterans into his elite Qingzhou Army",
+      "ja": "192年、曹操は兗州を掌握し、青州の黄巾百万余を撃破、その精鋭30万余を「青州兵」として編入した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7772,14 +8085,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "许都（许昌）",
       "siteEn": "Xuchang",
-      "zh": "曹操自洛阳迎汉献帝迁许都，行屯田“奉天子以令不臣”",
+      "zh": "196年、曹操は洛陽から漢献帝を許都（許昌）に迎え入れ、屯田を実施し、「天子を奉じて不臣を令す」の旗印を掲げた。",
       "en": "Cao Cao escorts Emperor Xian to Xuchang and launches garrison farms to command the realm",
       "persons": [
         "caocao",
         "liubei",
         "guanyu"
       ],
-      "month": 8
+      "month": 8,
+      "ja": "196年、曹操は洛陽から漢献帝を許都（許昌）に迎え入れ、屯田を実施し、「天子を奉じて不臣を令す」の旗印を掲げた。"
     },
     {
       "dynastyKey": "donghan",
@@ -7790,7 +8104,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "下邳",
       "siteEn": "Xiapi (Pizhou, Jiangsu)",
-      "zh": "下邳之战：曹操荀攸决沂泗水灌城生擒吕布，尽得徐州之地",
+      "zh": "198年、下邳の戦い。曹操と荀攸は沂水と泗水の水を決壊させて城を水攻めにし、呂布を生け捕りにした。これにより徐州全域を掌握した。",
       "en": "Battle of Xiapi: Cao Cao diverts the Yi and Si rivers to flood the city and capture Lü Bu",
       "persons": [
         "caocao",
@@ -7798,7 +8112,8 @@ window.ATLAS_LORE_DATA = {
         "liubei",
         "guanyu",
         "zhangfei"
-      ]
+      ],
+      "ja": "198年、下邳の戦い。曹操と荀攸は沂水と泗水の水を決壊させて城を水攻めにし、呂布を生け捕りにした。これにより徐州全域を掌握した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7809,8 +8124,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "白狼山·碣石",
       "siteEn": "Mt. Bailang & Jieshi (Liaoxi)",
-      "zh": "曹操北征乌桓斩蹋顿，归途登碣石山赋《观沧海》",
-      "en": "Returning from crushing the Wuhuan at Mt. Bailang, Cao Cao composes Gazing on the Blue Sea"
+      "zh": "207年、曹操は烏桓を北征し、蹋頓を斬った。帰途、碣石山に登り『観滄海』を賦した。",
+      "en": "Returning from crushing the Wuhuan at Mt. Bailang, Cao Cao composes Gazing on the Blue Sea",
+      "ja": "207年、曹操は烏桓を北征し、蹋頓を斬った。帰途、碣石山に登り『観滄海』を賦した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7821,8 +8137,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潼关",
       "siteEn": "Tong Pass",
-      "zh": "潼关之战：曹操渡渭筑冰城，离间大破马超韩遂联军",
-      "en": "Battle of Tong Pass: Cao Cao crosses the Wei River and sows discord to rout Ma Chao and Han Sui"
+      "zh": "211年、潼関の戦い。曹操は渭水を渡り氷城を築き、離間の計を用いて馬超・韓遂の連合軍を大破した。",
+      "en": "Battle of Tong Pass: Cao Cao crosses the Wei River and sows discord to rout Ma Chao and Han Sui",
+      "ja": "211年、潼関の戦い。曹操は渭水を渡り氷城を築き、離間の計を用いて馬超・韓遂の連合軍を大破した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7833,8 +8150,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "魏王曹操病逝洛阳遗令薄葬；冬子曹丕受禅代汉建魏",
-      "en": "Cao Cao dies in Luoyang ordering a simple burial; that winter his son Cao Pi founds Cao Wei"
+      "zh": "220年、魏王曹操は洛陽で病没し、薄葬を遺命した。同年冬、子の曹丕が禅譲を受け、漢に代わって魏を建国した。",
+      "en": "Cao Cao dies in Luoyang ordering a simple burial; that winter his son Cao Pi founds Cao Wei",
+      "ja": "220年、魏王曹操は洛陽で病没し、薄葬を遺命した。同年冬、子の曹丕が禅譲を受け、漢に代わって魏を建国した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7845,13 +8163,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "涿县（涿州）",
       "siteEn": "Zhuoxian (Hebei)",
-      "zh": "黄巾起义爆发，刘备与关羽、张飞于涿县募兵讨贼",
+      "zh": "184年、黄巾の乱が勃発。劉備は関羽、張飛と共に涿県で募兵し、賊徒討伐に加わった。",
       "en": "Liu Bei joins Guan Yu and Zhang Fei in Zhuoxian to raise volunteers against the Yellow Turbans",
       "persons": [
         "liubei",
         "guanyu",
         "zhangfei"
-      ]
+      ],
+      "ja": "184年、黄巾の乱が勃発。劉備は関羽、張飛と共に涿県で募兵し、賊徒討伐に加わった。"
     },
     {
       "dynastyKey": "donghan",
@@ -7862,7 +8181,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "当阳长坂坡",
       "siteEn": "Changban (Dangyang, Hubei)",
-      "zh": "刘备携荆州十余万百姓南撤，当阳长坂被曹纯虎豹骑追及",
+      "zh": "208年、劉備は荊州の10万余りの民衆を率いて南へ撤退したが、当陽の長坂で曹純の虎豹騎に追撃された。",
       "en": "At Changban Slope Zhao Yun rescues infant Liu Shan while Zhang Fei holds Changban Bridge alone",
       "month": 8,
       "persons": [
@@ -7872,7 +8191,8 @@ window.ATLAS_LORE_DATA = {
         "zhangfei",
         "zhaoyun",
         "guanyu"
-      ]
+      ],
+      "ja": "208年、劉備は荊州の10万余りの民衆を率いて南へ撤退したが、当陽の長坂で曹純の虎豹騎に追撃された。"
     },
     {
       "dynastyKey": "donghan",
@@ -7883,14 +8203,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "刘备自葭萌南下进围成都，刘璋开城出降，刘备领益州牧跨有荆益二州",
+      "zh": "214年、劉備は葭萌から南下して成都を包囲し、劉璋は開城して降伏した。劉備は益州牧となり、荊州と益州の二州を領有した。",
       "en": "Liu Bei captures Chengdu from Liu Zhang, securing Shu as envisioned in the Longzhong Plan",
       "persons": [
         "liubei",
         "zhugeliang",
         "zhangfei",
         "zhaoyun"
-      ]
+      ],
+      "ja": "214年、劉備は葭萌から南下して成都を包囲し、劉璋は開城して降伏した。劉備は益州牧となり、荊州と益州の二州を領有した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7901,7 +8222,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汉中定军山",
       "siteEn": "Mt. Dingjun (Hanzhong)",
-      "zh": "定军山之战：黄忠法正乘高突击阵斩曹魏征西将军夏侯渊，曹操退兵",
+      "zh": "219年、定軍山の戦い。黄忠と法正は高所から奇襲をかけ、曹魏の征西将軍夏侯淵を陣中で斬った。曹操は撤兵した。",
       "en": "Battle of Mt. Dingjun: Huang Zhong slays Wei general Xiahou Yuan, securing Hanzhong for Liu Bei",
       "persons": [
         "liubei",
@@ -7910,7 +8231,8 @@ window.ATLAS_LORE_DATA = {
         "zhaoyun",
         "zhangfei"
       ],
-      "month": 5
+      "month": 5,
+      "ja": "219年、定軍山の戦い。黄忠と法正は高所から奇襲をかけ、曹魏の征西将軍夏侯淵を陣中で斬った。曹操は撤兵した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7921,14 +8243,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "白马坡（滑县）",
       "siteEn": "Baima (Huaxian, Henan)",
-      "zh": "白马之战：关羽策马刺颜良于万众之中斩首而还，解白马之围受封汉寿亭侯",
+      "zh": "200年、白馬の戦い。関羽は馬を駆って万軍の中を突き進み、顔良を斬首して帰還した。これにより白馬の囲みが解かれ、関羽は漢寿亭侯に封じられた。",
       "en": "Battle of Baima: Guan Yu slays Yuan Shao's vanguard general Yan Liang amidst enemy ranks",
       "persons": [
         "caocao",
         "yuanshao",
         "guanyu"
       ],
-      "month": 4
+      "month": 4,
+      "ja": "200年、白馬の戦い。関羽は馬を駆って万軍の中を突き進み、顔良を斬首して帰還した。これにより白馬の囲みが解かれ、関羽は漢寿亭侯に封じられた。"
     },
     {
       "dynastyKey": "donghan",
@@ -7939,7 +8262,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "樊城（襄阳）",
       "siteEn": "Fancheng (Xiangyang)",
-      "zh": "襄樊之战：关羽围曹仁于樊城，汉水秋汛水淹七军",
+      "zh": "襄樊の戦い：關羽が樊城で曹仁を包囲し、漢水の秋の増水により七軍を水没させた。",
       "en": "Battle of Fancheng: Guan Yu floods seven Wei armies with autumn swells of the Han River",
       "persons": [
         "guanyu",
@@ -7948,7 +8271,8 @@ window.ATLAS_LORE_DATA = {
         "sunquan",
         "luxun"
       ],
-      "month": 8.5
+      "month": 8.5,
+      "ja": "襄樊の戦い：關羽が樊城で曹仁を包囲し、漢水の秋の増水により七軍を水没させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -7959,14 +8283,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "麦城·临沮",
       "siteEn": "Maicheng (Dangyang, Hubei)",
-      "zh": "吕蒙白衣渡江袭取江陵，关羽腹背受敌退保麦城，突围西走临沮兵败遇害",
+      "zh": "呂蒙が白衣渡江により江陵を奪取すると、關羽は腹背に敵を受け麦城へ退却した。その後、西へ脱出を図るも臨沮で敗れ殺害された。",
       "en": "After Lu Meng secretly seizes Jiangling, Guan Yu retreats to Maicheng and falls breaking out",
       "persons": [
         "guanyu",
         "sunquan",
         "luxun"
       ],
-      "month": 12
+      "month": 12,
+      "ja": "呂蒙が白衣渡江により江陵を奪取すると、關羽は腹背に敵を受け麦城へ退却した。その後、西へ脱出を図るも臨沮で敗れ殺害された。"
     },
     {
       "dynastyKey": "donghan",
@@ -7977,8 +8302,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "吴郡·京口",
       "siteEn": "Wu Commandery / Jingkou",
-      "zh": "孙策遇刺身亡，年十九岁的孙权继领江东六郡",
-      "en": "Aged nineteen, Sun Quan succeeds his brother Sun Ce and consolidates rule over Jiangdong"
+      "zh": "孫策が刺殺され、19歳の孫權が江東六郡を継承した。",
+      "en": "Aged nineteen, Sun Quan succeeds his brother Sun Ce and consolidates rule over Jiangdong",
+      "ja": "孫策が刺殺され、19歳の孫權が江東六郡を継承した。"
     },
     {
       "dynastyKey": "donghan",
@@ -7989,8 +8315,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵（南郡）",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "江陵之战：周瑜浴血奋战岁余攻克曹仁据守之江陵，出任南郡太守",
-      "en": "Zhou Yu captures strategic Jiangling after a year-long siege and serves as Governor of Nanjun"
+      "zh": "江陵の戦い：周瑜は一年余りの激戦の末、曹仁が守る江陵を攻略し、南郡太守に就任した。",
+      "en": "Zhou Yu captures strategic Jiangling after a year-long siege and serves as Governor of Nanjun",
+      "ja": "江陵の戦い：周瑜は一年余りの激戦の末、曹仁が守る江陵を攻略し、南郡太守に就任した。"
     },
     {
       "dynastyKey": "donghan",
@@ -8001,8 +8328,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "濡须口（无为）",
       "siteEn": "Ruxukou (Anhui)",
-      "zh": "濡须口之战：曹操率大军南攻濡须，孙权乘大船入曹营观军",
-      "en": "At Ruxukou Sun Quan sails boldly past Wei lines; Cao Cao sighs that sons should be like Sun"
+      "zh": "濡須口の戦い：曹操が大軍を率いて濡須へ南下すると、孫權は大型船に乗って曹操の陣営に入り、その軍勢を視察した。",
+      "en": "At Ruxukou Sun Quan sails boldly past Wei lines; Cao Cao sighs that sons should be like Sun",
+      "ja": "濡須口の戦い：曹操が大軍を率いて濡須へ南下すると、孫權は大型船に乗って曹操の陣営に入り、その軍勢を視察した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -8013,8 +8341,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "石亭（潜山）",
       "siteEn": "Shiting (Anhui)",
-      "zh": "石亭之战：东吴大都督陆逊诱曹休深入皖城石亭，合围斩获万余大破魏军",
-      "en": "Battle of Shiting: Eastern Wu commander Lu Xun lures Wei general Cao Xiu deep and routs him"
+      "zh": "石亭の戦い：東呉の大都督陸遜は、魏の曹休を皖城の石亭深くまで誘い込み、包囲して一万余を斬獲し、魏軍を大破した。",
+      "en": "Battle of Shiting: Eastern Wu commander Lu Xun lures Wei general Cao Xiu deep and routs him",
+      "ja": "石亭の戦い：東呉の大都督陸遜は、魏の曹休を皖城の石亭深くまで誘い込み、包囲して一万余を斬獲し、魏軍を大破した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -8025,8 +8354,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄平（辽阳）",
       "siteEn": "Xiangping (Liaoyang)",
-      "zh": "太尉司马懿率四万军日行百里远征辽东，声东击西攻克襄平斩公孙渊",
-      "en": "Sima Yi leads a rapid campaign to conquer Liaodong and crush warlord Gongsun Yuan at Xiangping"
+      "zh": "太尉司馬懿は四万の軍を率いて一日百里の速さで遼東へ遠征し、声東撃西の計を用いて襄平を攻略、公孫淵を斬った。",
+      "en": "Sima Yi leads a rapid campaign to conquer Liaodong and crush warlord Gongsun Yuan at Xiangping",
+      "ja": "太尉司馬懿は四万の軍を率いて一日百里の速さで遼東へ遠征し、声東撃西の計を用いて襄平を攻略、公孫淵を斬った。"
     },
     {
       "dynastyKey": "sanguo",
@@ -8037,8 +8367,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳高平陵",
       "siteEn": "Luoyang (Gaopingling)",
-      "zh": "高平陵之变：太傅司马懿乘曹爽陪魏帝祭高平陵闭城据武库",
-      "en": "Gaoping Tombs Coup: Sima Yi seizes Luoyang arsenals while regent Cao Shuang is outside the city"
+      "zh": "高平陵の変：太傅司馬懿は、曹爽が魏帝に付き添い高平陵で祭祀を行っている隙に、城門を閉鎖し武庫を占拠した。",
+      "en": "Gaoping Tombs Coup: Sima Yi seizes Luoyang arsenals while regent Cao Shuang is outside the city",
+      "ja": "高平陵の変：太傅司馬懿は、曹爽が魏帝に付き添い高平陵で祭祀を行っている隙に、城門を閉鎖し武庫を占拠した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -8049,12 +8380,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "会稽山阴兰亭",
       "siteEn": "Orchid Pavilion (Shaoxing)",
-      "zh": "永和九年上巳，王羲之与谢安等雅集兰亭作《兰亭集序》",
+      "zh": "永和九年の上巳の節句に、王羲之は謝安らと蘭亭に雅集し、『蘭亭集序』を著した。",
       "en": "Wang Xizhi gathers forty-two literati at Orchid Pavilion and brushes the Lantingji Xu preface",
       "persons": [
         "wangxizhi",
         "xiean"
-      ]
+      ],
+      "ja": "永和九年の上巳の節句に、王羲之は謝安らと蘭亭に雅集し、『蘭亭集序』を著した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -8065,8 +8397,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东山（上虞）",
       "siteEn": "Dongshan (Shangyu, Shaoxing)",
-      "zh": "谢安隐居会稽东山四十余年屡辞征辟",
-      "en": "Xie An emerges from forty years of seclusion at Mt. Dongshan to steady the Eastern Jin court"
+      "zh": "謝安は会稽東山に四十余年隠棲し、度々招聘を辞退した。",
+      "en": "Xie An emerges from forty years of seclusion at Mt. Dongshan to steady the Eastern Jin court",
+      "ja": "謝安は会稽東山に四十余年隠棲し、度々招聘を辞退した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -8077,13 +8410,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "淝水（寿春）",
       "siteEn": "Feishui River (Shouxian, Anhui)",
-      "zh": "淝水之战：谢安运筹建康，谢玄率北府兵大破苻坚南征军",
+      "zh": "淝水の戦い：謝安が建康で戦略を練り、謝玄が北府兵を率いて苻堅の南征軍を大破した。",
       "en": "Battle of Fei River: Directed by Xie An, Xie Xuan leads 80,000 troops to rout Fu Jian’s host",
       "persons": [
         "xiean",
         "xiexuan",
         "fujian"
-      ]
+      ],
+      "ja": "淝水の戦い：謝安が建康で戦略を練り、謝玄が北府兵を率いて苻堅の南征軍を大破した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -8094,8 +8428,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "彭泽→浔阳柴桑",
       "siteEn": "Pengze & Chaisang (Jiujiang)",
-      "zh": "彭泽令陶渊明叹“吾不能为五斗米折腰”，解印辞官归隐浔阳南山",
-      "en": "Refusing to bow for five pecks of grain, Tao Yuanming resigns at Pengze for quiet farm life"
+      "zh": "彭澤令であった陶淵明は「吾、五斗米の為に腰を折る能わず」と嘆き、官職を辞して尋陽の南山に隠棲した。",
+      "en": "Refusing to bow for five pecks of grain, Tao Yuanming resigns at Pengze for quiet farm life",
+      "ja": "彭澤令であった陶淵明は「吾、五斗米の為に腰を折る能わず」と嘆き、官職を辞して尋陽の南山に隠棲した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -8106,8 +8441,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "浔阳（九江）",
       "siteEn": "Xunyang (Jiujiang)",
-      "zh": "刘裕代晋建宋后陶渊明隐居浔阳，著《桃花源记》寄志",
-      "en": "Living in seclusion at Xunyang after Jin falls, Tao Yuanming writes Peach Blossom Spring"
+      "zh": "劉裕が晋に代わって宋を建てた後、陶淵明は潯陽に隠棲し、『桃花源記』を著してその志を託した。",
+      "en": "Living in seclusion at Xunyang after Jin falls, Tao Yuanming writes Peach Blossom Spring",
+      "ja": "劉裕が晋に代わって宋を建てた後、陶淵明は潯陽に隠棲し、『桃花源記』を著してその志を託した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -8118,8 +8454,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广固（青州）",
       "siteEn": "Guanggu (Qingzhou, Shandong)",
-      "zh": "刘裕率晋军北伐攻克南燕都城广固，生擒慕容超，收复齐鲁故地",
-      "en": "Liu Yu leads an Eastern Jin northern expedition that storms Guanggu and destroys Southern Yan"
+      "zh": "劉裕は晋軍を率いて北伐を行い、南燕の都城である廣固を攻め落とし、慕容超を生け捕りにして、斉魯の故地を回復した。",
+      "en": "Liu Yu leads an Eastern Jin northern expedition that storms Guanggu and destroys Southern Yan",
+      "ja": "劉裕は晋軍を率いて北伐を行い、南燕の都城である廣固を攻め落とし、慕容超を生け捕りにして、斉魯の故地を回復した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -8130,8 +8467,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "刘裕水陆北伐克洛阳、入潼关攻占长安灭后秦姚泓，收复两京",
-      "en": "Liu Yu retakes Luoyang and Chang'an, destroying Later Qin in the grandest southern expedition"
+      "zh": "劉裕は水陸両面から北伐を行い、洛陽を攻略し、潼關に入って長安を占領し、後秦の姚泓を滅ぼして、両京を回復した。",
+      "en": "Liu Yu retakes Luoyang and Chang'an, destroying Later Qin in the grandest southern expedition",
+      "ja": "劉裕は水陸両面から北伐を行い、洛陽を攻略し、潼關に入って長安を占領し、後秦の姚泓を滅ぼして、両京を回復した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -8142,8 +8480,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平城（大同）",
       "siteEn": "Pingcheng (Datong)",
-      "zh": "北魏孝文帝拓跋宏与冯太后于平城颁行均田制与三长制",
-      "en": "Emperor Xiaowen of Northern Wei promulgates the Equal-Field land system at Pingcheng"
+      "zh": "北魏の孝文帝拓跋宏は、馮太后と共に平城にて均田制と三長制を頒行した。",
+      "en": "Emperor Xiaowen of Northern Wei promulgates the Equal-Field land system at Pingcheng",
+      "ja": "北魏の孝文帝拓跋宏は、馮太后と共に平城にて均田制と三長制を頒行した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -8154,8 +8493,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "北魏孝文帝借南征之名自平城迁都洛阳",
-      "en": "Emperor Xiaowen moves the Northern Wei capital from Datong to Luoyang and enacts Sinicization"
+      "zh": "北魏の孝文帝は、南征を名目として平城から洛陽へ遷都した。",
+      "en": "Emperor Xiaowen moves the Northern Wei capital from Datong to Luoyang and enacts Sinicization",
+      "ja": "北魏の孝文帝は、南征を名目として平城から洛陽へ遷都した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -8166,8 +8506,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳龙门伊阙",
       "siteEn": "Longmen Grottoes (Luoyang)",
-      "zh": "迁都洛阳后，孝文帝开启伊阙龙门石窟营建",
-      "en": "Following the move to Luoyang, Northern Wei begins carving the monumental Longmen Grottoes"
+      "zh": "洛陽への遷都後、孝文帝は伊闕龍門石窟の造営を開始した。",
+      "en": "Following the move to Luoyang, Northern Wei begins carving the monumental Longmen Grottoes",
+      "ja": "洛陽への遷都後、孝文帝は伊闕龍門石窟の造営を開始した。"
     },
     {
       "dynastyKey": "sui",
@@ -8178,8 +8519,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大兴城（西安）",
       "siteEn": "Daxing (Chang'an)",
-      "zh": "隋文帝杨坚命宇文恺营建新都大兴城，确立三省六部制、开皇律",
-      "en": "Emperor Wen of Sui builds Daxing City and codifies the Three Departments and Six Ministries"
+      "zh": "隋文帝楊堅は宇文愷に命じて新都大興城を営建させ、三省六部制と開皇律を確立した。",
+      "en": "Emperor Wen of Sui builds Daxing City and codifies the Three Departments and Six Ministries",
+      "ja": "隋文帝楊堅は宇文愷に命じて新都大興城を営建させ、三省六部制と開皇律を確立した。"
     },
     {
       "dynastyKey": "sui",
@@ -8190,8 +8532,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江都（扬州）",
       "siteEn": "Jiangdu (Yangzhou)",
-      "zh": "天下反隋烽烟四起，宇文化及等于扬州江都宫发动兵变缢杀隋炀帝杨广",
-      "en": "Amid nationwide rebellions, mutinous guards under Yuwen Huaji strangle Emperor Yang in Jiangdu"
+      "zh": "天下で反隋の烽火が各地に上がり、宇文化及らは揚州の江都宮で兵変を起こし、隋煬帝楊廣を縊殺した。",
+      "en": "Amid nationwide rebellions, mutinous guards under Yuwen Huaji strangle Emperor Yang in Jiangdu",
+      "ja": "天下で反隋の烽火が各地に上がり、宇文化及らは揚州の江都宮で兵変を起こし、隋煬帝楊廣を縊殺した。"
     },
     {
       "dynastyKey": "sui",
@@ -8202,8 +8545,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "晋阳（太原）",
       "siteEn": "Jinyang (Taiyuan)",
-      "zh": "李世民劝父唐国公李渊于晋阳起兵西进，十一月攻克大兴城迎立代王",
-      "en": "Li Shimin persuades his father Li Yuan to rise in Taiyuan and march west to capture Chang'an"
+      "zh": "李世民は父である唐国公李淵に晉陽での挙兵と西進を勧め、11月に大興城を攻め落とし、代王を擁立した。",
+      "en": "Li Shimin persuades his father Li Yuan to rise in Taiyuan and march west to capture Chang'an",
+      "ja": "李世民は父である唐国公李淵に晉陽での挙兵と西進を勧め、11月に大興城を攻め落とし、代王を擁立した。"
     },
     {
       "dynastyKey": "tang",
@@ -8214,8 +8558,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "浅水原（长武）",
       "siteEn": "Qianshuiyuan (Changwu, Shaanxi)",
-      "zh": "浅水原之战：秦王李世民歼灭西秦薛仁杲主力，平定陇右",
-      "en": "Battle of Qianshuiyuan: Li Shimin destroys Xue Rengao's Western Qin army to secure Longyou"
+      "zh": "浅水原の戦い：秦王李世民は西秦の薛仁杲の主力軍を殲滅し、隴右を平定した。",
+      "en": "Battle of Qianshuiyuan: Li Shimin destroys Xue Rengao's Western Qin army to secure Longyou",
+      "ja": "浅水原の戦い：秦王李世民は西秦の薛仁杲の主力軍を殲滅し、隴右を平定した。"
     },
     {
       "dynastyKey": "tang",
@@ -8226,8 +8571,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "虎牢关（荥阳）",
       "siteEn": "Hulao Pass (Henan)",
-      "zh": "虎牢之战：李世民率玄甲骑擒窦建德，洛阳王世充出降",
-      "en": "Battle of Hulao: Li Shimin captures Dou Jiande with armored cavalry; Wang Shichong surrenders"
+      "zh": "虎牢の戦い：李世民は玄甲騎を率いて竇建德を捕らえ、洛陽の王世充は降伏した。",
+      "en": "Battle of Hulao: Li Shimin captures Dou Jiande with armored cavalry; Wang Shichong surrenders",
+      "ja": "虎牢の戦い：李世民は玄甲騎を率いて竇建德を捕らえ、洛陽の王世充は降伏した。"
     },
     {
       "dynastyKey": "tang",
@@ -8238,8 +8584,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "青海伏俟城",
       "siteEn": "Lake Qinghai (Tuyuhun)",
-      "zh": "年逾六旬的西海道行军大总管李靖统侯君集等西征吐谷浑",
-      "en": "Sixty-four-year-old Marshal Li Jing leads a Tang expedition past Lake Qinghai to subdue Tuyuhun"
+      "zh": "60歳を超えた西海道行軍大総管李靖は、侯君集らを統率して吐谷渾を西征した。",
+      "en": "Sixty-four-year-old Marshal Li Jing leads a Tang expedition past Lake Qinghai to subdue Tuyuhun",
+      "ja": "60歳を超えた西海道行軍大総管李靖は、侯君集らを統率して吐谷渾を西征した。"
     },
     {
       "dynastyKey": "tang",
@@ -8250,8 +8597,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州",
       "siteEn": "Yangzhou",
-      "zh": "徐敬业扬州起兵，骆宾王草檄讨武，武则天读檄叹宰相过",
-      "en": "Xu Jingye rebels in Yangzhou with Luo Binwang’s manifesto; Empress Wu praises its literary force"
+      "zh": "684年、徐敬業が揚州で挙兵し、駱賓王が武則天を討つ檄文を作成した。武則天はその檄文を読み、宰相の過失を嘆じた。",
+      "en": "Xu Jingye rebels in Yangzhou with Luo Binwang’s manifesto; Empress Wu praises its literary force",
+      "ja": "684年、徐敬業が揚州で挙兵し、駱賓王が武則天を討つ檄文を作成した。武則天はその檄文を読み、宰相の過失を嘆じた。"
     },
     {
       "dynastyKey": "tang",
@@ -8262,8 +8610,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳迎仙宫",
       "siteEn": "Luoyang",
-      "zh": "神龙政变：张柬之等拥李显诛二张，武则天禅位复唐国号",
-      "en": "Shenlong Coup: Zhang Jianzhi restores the Tang house in Luoyang shortly before Empress Wu dies"
+      "zh": "705年、神龍政変が起こり、張柬之らが李顯を擁立して二張（張易之・張昌宗）を誅殺した。武則天は禅位し、唐の国号が復活した。",
+      "en": "Shenlong Coup: Zhang Jianzhi restores the Tang house in Luoyang shortly before Empress Wu dies",
+      "ja": "705年、神龍政変が起こり、張柬之らが李顯を擁立して二張（張易之・張昌宗）を誅殺した。武則天は禅位し、唐の国号が復活した。"
     },
     {
       "dynastyKey": "tang",
@@ -8274,8 +8623,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安隆庆坊",
       "siteEn": "Chang'an",
-      "zh": "唐隆政变：临淄王李隆基联太平公主夜率羽林军诛杀韦后安乐公主",
-      "en": "Prince Li Longji leads palace guards to overthrow Empress Wei in Chang'an, stabilizing Tang"
+      "zh": "710年、唐隆政変が起こり、臨淄王李隆基は太平公主と結び、夜間に羽林軍を率いて韋后と安樂公主を誅殺した。",
+      "en": "Prince Li Longji leads palace guards to overthrow Empress Wei in Chang'an, stabilizing Tang",
+      "ja": "710年、唐隆政変が起こり、臨淄王李隆基は太平公主と結び、夜間に羽林軍を率いて韋后と安樂公主を誅殺した。"
     },
     {
       "dynastyKey": "tang",
@@ -8286,8 +8636,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泰山",
       "siteEn": "Mount Tai",
-      "zh": "开元十三年国富兵强，唐玄宗李隆基率百官与诸蕃使节东封泰山",
-      "en": "At the height of Kaiyuan prosperity, Emperor Xuanzong performs Feng-Shan rites atop Mount Tai"
+      "zh": "725年（開元13年）、国富兵強の時代に、唐玄宗李隆基は百官と諸蕃の使節を率いて泰山で東封（封禅の儀）を行った。",
+      "en": "At the height of Kaiyuan prosperity, Emperor Xuanzong performs Feng-Shan rites atop Mount Tai",
+      "ja": "725年（開元13年）、国富兵強の時代に、唐玄宗李隆基は百官と諸蕃の使節を率いて泰山で東封（封禅の儀）を行った。"
     },
     {
       "dynastyKey": "tang",
@@ -8298,9 +8649,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "马嵬驿（兴平）",
       "siteEn": "Mawei Post (Xingping, Shaanxi)",
-      "zh": "潼关失守唐玄宗弃长安奔蜀，至马嵬驿禁军哗变诛宰相杨国忠",
+      "zh": "756年、潼關が失守し、唐玄宗は長安を捨てて蜀へ逃れた。馬嵬驛に至ると、禁軍が嘩変を起こし、宰相楊國忠を誅殺した。",
       "en": "Fleeing toward Sichuan, imperial guards mutiny at Mawei and slay Chancellor Yang Guozhong",
-      "month": 6.5
+      "month": 6.5,
+      "ja": "756年、潼關が失守し、唐玄宗は長安を捨てて蜀へ逃れた。馬嵬驛に至ると、禁軍が嘩変を起こし、宰相楊國忠を誅殺した。"
     },
     {
       "dynastyKey": "tang",
@@ -8311,8 +8663,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "居延塞（额济纳）",
       "siteEn": "Juyan Frontier (Ejin)",
-      "zh": "监察御史王维出塞途经居延泽，赋“大漠孤烟直，长河落日圆”",
-      "en": "Envoy Wang Wei crosses the Juyan desert frontier, writing A solitary plume rises over desert"
+      "zh": "737年、監察御史王維は塞外へ出て居延澤を通り、「大漠孤煙直、長河落日圓」の詩を賦した。",
+      "en": "Envoy Wang Wei crosses the Juyan desert frontier, writing A solitary plume rises over desert",
+      "ja": "737年、監察御史王維は塞外へ出て居延澤を通り、「大漠孤煙直、長河落日圓」の詩を賦した。"
     },
     {
       "dynastyKey": "tang",
@@ -8323,8 +8676,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓝田辋川",
       "siteEn": "Wangchuan Villa (Lantian, Xi'an)",
-      "zh": "王维购得宋之问蓝田辋川别业，与裴迪泛舟弹琴赋《辋川集》二十首",
-      "en": "Wang Wei retreats to his Wangchuan mountain estate near Lantian, composing the Wangchuan River poems"
+      "zh": "750年、王維は宋之問の藍田輞川別業を買い取り、裴迪と共に舟を浮かべ、琴を弾き、『輞川集』二十首を賦した。",
+      "en": "Wang Wei retreats to his Wangchuan mountain estate near Lantian, composing the Wangchuan River poems",
+      "ja": "750年、王維は宋之問の藍田輞川別業を買い取り、裴迪と共に舟を浮かべ、琴を弾き、『輞川集』二十首を賦した。"
     },
     {
       "dynastyKey": "tang",
@@ -8335,12 +8689,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳普施寺",
       "siteEn": "Luoyang",
-      "zh": "安禄山陷京执王维送洛阳普施寺，王维服药称喑暗赋悲诗",
+      "zh": "756年、安祿山が都を陥落させ、王維を捕らえて洛陽の普施寺に送った。王維は薬を服して口がきけないふりをし、悲しみの詩を賦した。",
       "en": "Held captive at Pushi Temple in Luoyang by rebels, Wang Wei feigns illness and writes loyal verse",
       "persons": [
         "anlushan",
         "wangwei"
-      ]
+      ],
+      "ja": "756年、安祿山が都を陥落させ、王維を捕らえて洛陽の普施寺に送った。王維は薬を服して口がきけないふりをし、悲しみの詩を賦した。"
     },
     {
       "dynastyKey": "tang",
@@ -8351,8 +8706,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泰山（兖州）",
       "siteEn": "Mount Tai",
-      "zh": "青年杜甫壮游齐鲁仰望东岳，豪吟《望岳》“会当凌绝顶，一览众山小”",
-      "en": "Young Du Fu travels Shandong and composes Gazing on Mount Tai, vowing to scale its highest peak"
+      "zh": "736年、青年期の杜甫は齊魯を壮遊し、東岳（泰山）を仰ぎ見て、「會當凌絶頂、一覽衆山小」と『望岳』を豪吟した。",
+      "en": "Young Du Fu travels Shandong and composes Gazing on Mount Tai, vowing to scale its highest peak",
+      "ja": "736年、青年期の杜甫は齊魯を壮遊し、東岳（泰山）を仰ぎ見て、「會當凌絶頂、一覽衆山小」と『望岳』を豪吟した。"
     },
     {
       "dynastyKey": "tang",
@@ -8363,12 +8719,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳→梁宋",
       "siteEn": "Luoyang & Shangqiu",
-      "zh": "李白与杜甫于洛阳初次相遇，偕高适同游梁宋猎酒赋诗",
+      "zh": "744年、李白と杜甫は洛陽で初めて相遇し、高適と共に梁宋を遊歴し、狩猟や酒宴、詩作を楽しんだ。",
       "en": "Li Bai and Du Fu meet for the first time in Luoyang and travel across Henan with Gao Shi",
       "persons": [
         "libai",
         "dufu"
-      ]
+      ],
+      "ja": "744年、李白と杜甫は洛陽で初めて相遇し、高適と共に梁宋を遊歴し、狩猟や酒宴、詩作を楽しんだ。"
     },
     {
       "dynastyKey": "tang",
@@ -8379,8 +8736,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安→奉先",
       "siteEn": "Chang'an & Pucheng",
-      "zh": "杜甫困守长安十年，赴奉先探亲闻幼子饿死作咏怀长诗",
-      "en": "After ten poor years in Chang'an, Du Fu journeys to Fengxian and laments pre-rebellion inequality"
+      "zh": "755年、杜甫は長安に十年困窮した後、奉先へ親族を訪ねた際、幼子が餓死したことを聞き、詠懐の長詩を作った。",
+      "en": "After ten poor years in Chang'an, Du Fu journeys to Fengxian and laments pre-rebellion inequality",
+      "ja": "755年、杜甫は長安に十年困窮した後、奉先へ親族を訪ねた際、幼子が餓死したことを聞き、詠懐の長詩を作った。"
     },
     {
       "dynastyKey": "tang",
@@ -8391,13 +8749,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都浣花溪草堂",
       "siteEn": "Thatched Cottage, Chengdu",
-      "zh": "杜甫入蜀于成都浣花溪畔营建草堂，与彭州刺史高适唱和往还",
+      "zh": "760年、杜甫は蜀に入り、成都の浣花溪畔に草堂を営建し、彭州刺史高適と詩を唱和し往来した。",
       "en": "Refugeeing in Sichuan, Du Fu builds his Chengdu Thatched Cottage and exchanges verse with Gao Shi",
       "persons": [
         "dufu",
         "gaoshi"
       ],
-      "month": 4
+      "month": 4,
+      "ja": "760年、杜甫は蜀に入り、成都の浣花溪畔に草堂を営建し、彭州刺史高適と詩を唱和し往来した。"
     },
     {
       "dynastyKey": "tang",
@@ -8408,11 +8767,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓟州（今天津蓟州）",
       "siteEn": "Jizhou (Jizhou, Tianjin)",
-      "zh": "高适北游燕赵边塞体察军情，归作千古边塞名篇《燕歌行》",
+      "zh": "738年、高適は燕趙の辺塞を巡り軍情を視察し、帰郷後、不朽の辺塞詩『燕歌行』を著した。",
       "en": "After touring the Yan-Zhao frontier, Gao Shi composes his famous frontier ballad Song of Yan",
       "persons": [
         "gaoshi"
-      ]
+      ],
+      "ja": "738年、高適は燕趙の辺塞を巡り軍情を視察し、帰郷後、不朽の辺塞詩『燕歌行』を著した。"
     },
     {
       "dynastyKey": "tang",
@@ -8423,13 +8783,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an, Shaanxi)",
-      "zh": "高适与杜甫、岑参、薛据同登长安慈恩寺浮图，赋诗凭高抒怀",
+      "zh": "752年、高適は杜甫、岑參、薛據と共に長安の慈恩寺浮圖（大雁塔）に登り、詩を賦して高所からの感慨を述べた。",
       "en": "Gao Shi, Du Fu, Cen Shen, and Xue Ju ascend the Giant Wild Goose Pagoda in Chang'an and trade poems",
       "persons": [
         "gaoshi",
         "dufu"
       ],
-      "month": 9
+      "month": 9,
+      "ja": "752年、高適は杜甫、岑參、薛據と共に長安の慈恩寺浮圖（大雁塔）に登り、詩を賦して高所からの感慨を述べた。"
     },
     {
       "dynastyKey": "tang",
@@ -8440,12 +8801,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州（今江苏扬州）",
       "siteEn": "Yangzhou (Yangzhou, Jiangsu)",
-      "zh": "高适擢任淮南节度使坐镇扬州，与来瑱会师平定永王李璘之乱",
+      "zh": "757年、高適は淮南節度使に抜擢され揚州に駐屯し、來瑱と合流して永王李璘の乱を平定した。",
       "en": "Appointed Military Governor of Huainan at Yangzhou, Gao Shi suppresses Prince Li Lin's rebellion",
       "persons": [
         "gaoshi"
       ],
-      "month": 2
+      "month": 2,
+      "ja": "757年、高適は淮南節度使に抜擢され揚州に駐屯し、來瑱と合流して永王李璘の乱を平定した。"
     },
     {
       "dynastyKey": "tang",
@@ -8456,8 +8818,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "夔州白帝城",
       "siteEn": "Kuizhou (Fengjie, Three Gorges)",
-      "zh": "杜甫寓居夔州两年诗兴大发，秋日登高赋千古七律《登高》",
-      "en": "Living at Kuizhou above the Three Gorges, aging Du Fu composes his autumn masterpiece Climbing High"
+      "zh": "767年、杜甫は夔州に二年寓居し詩興が大いに湧き、秋の日に高所に登り、不朽の七言律詩『登高』を賦した。",
+      "en": "Living at Kuizhou above the Three Gorges, aging Du Fu composes his autumn masterpiece Climbing High",
+      "ja": "767年、杜甫は夔州に二年寓居し詩興が大いに湧き、秋の日に高所に登り、不朽の七言律詩『登高』を賦した。"
     },
     {
       "dynastyKey": "tang",
@@ -8468,8 +8831,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "岳阳→潭州湘江",
       "siteEn": "Yueyang & Changsha",
-      "zh": "杜甫出峡登岳阳楼凭轩涕泗，暮年漂泊湘江病逝舟中",
-      "en": "Sailing past Yueyang Tower out of the gorges, Du Fu spends his final days drifting on the Xiang River"
+      "zh": "770年、杜甫は峡を出て岳陽樓に登り、軒に凭れて涙を流し、晩年は湘江を漂泊し、舟中で病没した。",
+      "en": "Sailing past Yueyang Tower out of the gorges, Du Fu spends his final days drifting on the Xiang River",
+      "ja": "770年、杜甫は峡を出て岳陽樓に登り、軒に凭れて涙を流し、晩年は湘江を漂泊し、舟中で病没した。"
     },
     {
       "dynastyKey": "tang",
@@ -8480,9 +8844,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "灵武",
       "siteEn": "Lingwu (Ningxia)",
-      "zh": "朔方节度使郭子仪与李光弼率五万精兵赴灵武勤王辅佐唐肃宗即位",
+      "zh": "756年、朔方節度使の郭子儀と李光弼は五万の精兵を率いて靈武に赴き、勤王して唐肅宗の即位を輔佐した。",
       "en": "General Guo Ziyi marches from Shuofang to Lingwu to rally Tang armies around Emperor Suzong",
-      "month": 7
+      "month": 7,
+      "ja": "756年、朔方節度使の郭子儀と李光弼は五万の精兵を率いて靈武に赴き、勤王して唐肅宗の即位を輔佐した。"
     },
     {
       "dynastyKey": "tang",
@@ -8493,14 +8858,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安香积寺",
       "siteEn": "Xiangji Temple (Chang'an)",
-      "zh": "郭子仪统唐军与回纥援骑血战长安城南香积寺斩首六万",
+      "zh": "757年、郭子儀は唐軍を率い、回紇の援軍騎兵と共に長安城南の香積寺で血戦を繰り広げ、六万の首級を挙げた。",
       "en": "Guo Ziyi wins a fierce battle south of Chang'an at Xiangji Temple, retaking both Tang capitals",
       "persons": [
         "guoziyi",
         "dufu",
         "wangwei",
         "yanzhenqing"
-      ]
+      ],
+      "ja": "757年、郭子儀は唐軍を率い、回紇の援軍騎兵と共に長安城南の香積寺で血戦を繰り広げ、六万の首級を挙げた。"
     },
     {
       "dynastyKey": "tang",
@@ -8511,8 +8877,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泾阳",
       "siteEn": "Jingyang (Shaanxi)",
-      "zh": "仆固怀恩引回纥逼京，郭子仪免胄单骑见虏说服回纥退兵",
-      "en": "Aged nearly seventy, Guo Ziyi rides unarmored alone into the Uyghur camp at Jingyang to win peace"
+      "zh": "765年、仆固懷恩が回紇を率いて京師に迫った際、郭子儀は兜を脱ぎ単騎で敵陣に入り、回紇を説得して撤兵させた。",
+      "en": "Aged nearly seventy, Guo Ziyi rides unarmored alone into the Uyghur camp at Jingyang to win peace",
+      "ja": "765年、仆固懷恩が回紇を率いて京師に迫った際、郭子儀は兜を脱ぎ単騎で敵陣に入り、回紇を説得して撤兵させた。"
     },
     {
       "dynastyKey": "tang",
@@ -8523,8 +8890,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平原郡（陵县）",
       "siteEn": "Pingyuan (Dezhou, Shandong)",
-      "zh": "范阳叛军南下河北瓦解，平原太守颜真卿首举义旗传檄讨贼",
-      "en": "Prefect Yan Zhenqing raises the loyalist banner at Pingyuan, rallying seventeen Hebei commanderies"
+      "zh": "755年、范陽の叛軍が南下し河北が瓦解する中、平原太守の顏真卿は率先して義旗を掲げ、檄文を伝えて賊を討った。",
+      "en": "Prefect Yan Zhenqing raises the loyalist banner at Pingyuan, rallying seventeen Hebei commanderies",
+      "ja": "755年、范陽の叛軍が南下し河北が瓦解する中、平原太守の顏真卿は率先して義旗を掲げ、檄文を伝えて賊を討った。"
     },
     {
       "dynastyKey": "tang",
@@ -8535,8 +8903,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "凤翔→蒲州",
       "siteEn": "Fengxiang",
-      "zh": "颜真卿寻得殉国侄颜季明遗骸，悲愤挥毫草《祭侄文稿》",
-      "en": "Mourning his martyred nephew, Yan Zhenqing brushes the immortal Draft of a Requiem to My Nephew"
+      "zh": "758年、顏真卿は殉国した甥の顏季明の遺骸を見つけ、悲憤の念を込めて筆を揮い『祭侄文稿』を草した。",
+      "en": "Mourning his martyred nephew, Yan Zhenqing brushes the immortal Draft of a Requiem to My Nephew",
+      "ja": "758年、顏真卿は殉国した甥の顏季明の遺骸を見つけ、悲憤の念を込めて筆を揮い『祭侄文稿』を草した。"
     },
     {
       "dynastyKey": "tang",
@@ -8547,8 +8916,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蔡州（汝南）",
       "siteEn": "Caizhou (Runan, Henan)",
-      "zh": "七十七岁的太师颜真卿奉命孤身赴蔡州宣慰叛将李希烈，囚禁逾年凛然不屈",
-      "en": "Seventy-seven-year-old elder statesman Yan Zhenqing defies warlord Li Xilie at Caizhou unto death"
+      "zh": "785年、七十七歳の太師顏真卿は命を受けて単身蔡州に赴き、叛将李希烈を慰撫しようとしたが、一年余り幽閉され、凛として屈しなかった。",
+      "en": "Seventy-seven-year-old elder statesman Yan Zhenqing defies warlord Li Xilie at Caizhou unto death",
+      "ja": "785年、七十七歳の太師顏真卿は命を受けて単身蔡州に赴き、叛将李希烈を慰撫しようとしたが、一年余り幽閉され、凛として屈しなかった。"
     },
     {
       "dynastyKey": "tang",
@@ -8559,8 +8929,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蔡州（汝南）",
       "siteEn": "Caizhou (Runan, Henan)",
-      "zh": "韩愈任行军司马随宰相裴度督师淮西，李愬雪夜入蔡州擒吴元济",
-      "en": "Serving under Pei Du, Han Yu witnesses the snow-night capture of Caizhou and writes its stele"
+      "zh": "817年、韓愈は行軍司馬として宰相裴度に随行し淮西の軍を督し、李愬が雪の夜に蔡州に突入して吳元濟を捕らえた。",
+      "en": "Serving under Pei Du, Han Yu witnesses the snow-night capture of Caizhou and writes its stele",
+      "ja": "817年、韓愈は行軍司馬として宰相裴度に随行し淮西の軍を督し、李愬が雪の夜に蔡州に突入して吳元濟を捕らえた。"
     },
     {
       "dynastyKey": "tang",
@@ -8571,8 +8942,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓝田关（今陕西蓝田）",
       "siteEn": "Lantian Pass (Lantian, Shaanxi)",
-      "zh": "韩愈谏迎佛骨贬潮州，过蓝田关赋“云横秦岭家何在”",
-      "en": "Exiled to Chaozhou over the Buddha-bone memorial, Han Yu crosses snowy Lantian Pass in verse"
+      "zh": "819年、韓愈は佛骨を諫めたことで潮州に左遷され、藍田關を越える際に「雲横秦嶺家何在」と詠んだ。",
+      "en": "Exiled to Chaozhou over the Buddha-bone memorial, Han Yu crosses snowy Lantian Pass in verse",
+      "ja": "819年、韓愈は佛骨を諫めたことで潮州に左遷され、藍田關を越える際に「雲横秦嶺家何在」と詠んだ。"
     },
     {
       "dynastyKey": "tang",
@@ -8583,8 +8955,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "盩厔仙游寺",
       "siteEn": "Zhouzhi (West of Chang'an)",
-      "zh": "盩厔县尉白居易感玄宗贵妃往事，作长诗《长恨歌》传诵京师",
-      "en": "Young magistrate Bai Juyi composes the narrative poem Song of Everlasting Regret west of Chang’an"
+      "zh": "806年、盩厔県尉であった白居易は、玄宗と楊貴妃の故事に感じ入り、長詩『長恨歌』を創作し、京師で広く伝誦された。",
+      "en": "Young magistrate Bai Juyi composes the narrative poem Song of Everlasting Regret west of Chang’an",
+      "ja": "806年、盩厔県尉であった白居易は、玄宗と楊貴妃の故事に感じ入り、長詩『長恨歌』を創作し、京師で広く伝誦された。"
     },
     {
       "dynastyKey": "tang",
@@ -8595,8 +8968,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江州浔阳江（九江）",
       "siteEn": "Jiangzhou (Jiujiang)",
-      "zh": "江州司马白居易秋夜浔阳江头闻琵琶，作长诗《琵琶行》",
-      "en": "Exiled to Jiangzhou on the Yangtze, Bai Juyi hears a former capital lute player and writes Pipa Song"
+      "zh": "816年、江州司馬であった白居易は、秋の夜に潯陽江のほとりで琵琶の音を聞き、長詩『琵琶行』を創作した。",
+      "en": "Exiled to Jiangzhou on the Yangtze, Bai Juyi hears a former capital lute player and writes Pipa Song",
+      "ja": "816年、江州司馬であった白居易は、秋の夜に潯陽江のほとりで琵琶の音を聞き、長詩『琵琶行』を創作した。"
     },
     {
       "dynastyKey": "tang",
@@ -8607,8 +8981,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "杭州西湖",
       "siteEn": "West Lake, Hangzhou",
-      "zh": "白居易任杭州刺史主持疏浚西湖、修筑石函蓄水灌田千顷",
-      "en": "As Prefect of Hangzhou, Bai Juyi dredges West Lake and builds causeways irrigating vast farmland"
+      "zh": "822年、白居易は杭州刺史として西湖の疏浚を指揮し、石函を築いて水を蓄え、千頃の田を灌漑した。",
+      "en": "As Prefect of Hangzhou, Bai Juyi dredges West Lake and builds causeways irrigating vast farmland",
+      "ja": "822年、白居易は杭州刺史として西湖の疏浚を指揮し、石函を築いて水を蓄え、千頃の田を灌漑した。"
     },
     {
       "dynastyKey": "tang",
@@ -8619,8 +8994,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳香山寺",
       "siteEn": "Fragrant Mountain, Luoyang",
-      "zh": "白居易晚年定居洛阳履道里，重修龙门香山寺自号“香山居士”",
-      "en": "Retiring in Luoyang, Bai Juyi takes the name Layman of Xiangshan by Longmen Fragrant Mountain"
+      "zh": "832年、白居易は晩年、洛陽の履道里に定住し、龍門の香山寺を重修して自ら「香山居士」と号した。",
+      "en": "Retiring in Luoyang, Bai Juyi takes the name Layman of Xiangshan by Longmen Fragrant Mountain",
+      "ja": "832年、白居易は晩年、洛陽の履道里に定住し、龍門の香山寺を重修して自ら「香山居士」と号した。"
     },
     {
       "dynastyKey": "tang",
@@ -8631,8 +9007,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "永州（零陵）",
       "siteEn": "Yongzhou (Hunan)",
-      "zh": "永贞革新败后柳宗元贬永州司马十年，作《永州八记》",
-      "en": "After the Yongzhen Reform fails, Liu Zongyuan spends ten years in Yongzhou writing Eight Records"
+      "zh": "805年、永貞革新の失敗後、柳宗元は永州司馬に左遷され十年を過ごし、『永州八記』を著した。",
+      "en": "After the Yongzhen Reform fails, Liu Zongyuan spends ten years in Yongzhou writing Eight Records",
+      "ja": "805年、永貞革新の失敗後、柳宗元は永州司馬に左遷され十年を過ごし、『永州八記』を著した。"
     },
     {
       "dynastyKey": "tang",
@@ -8643,8 +9020,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "柳州",
       "siteEn": "Liuzhou (Guangxi)",
-      "zh": "柳宗元出任柳州刺史，颁令赎免童奴、凿井种柑兴办州学，病逝任所",
-      "en": "Appointed Prefect of Liuzhou, Liu Zongyuan frees debt slaves, digs wells, and plants orchards"
+      "zh": "815年、柳宗元は柳州刺史に就任し、童奴の贖免、井戸の鑿井、柑橘の栽培、州学の興辦を命じ、任地で病没した。",
+      "en": "Appointed Prefect of Liuzhou, Liu Zongyuan frees debt slaves, digs wells, and plants orchards",
+      "ja": "815年、柳宗元は柳州刺史に就任し、童奴の贖免、井戸の鑿井、柑橘の栽培、州学の興辦を命じ、任地で病没した。"
     },
     {
       "dynastyKey": "tang",
@@ -8655,8 +9033,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "朗州（常德）",
       "siteEn": "Langzhou (Changde, Hunan)",
-      "zh": "刘禹锡坐永贞革新贬朗州司马十年",
-      "en": "Exiled for ten years to Langzhou, poet Liu Yuxi adapts folk songs into Bamboo Branch Lyrics"
+      "zh": "805年、劉禹錫は永貞革新に連座して朗州司馬に十年左遷された。",
+      "en": "Exiled for ten years to Langzhou, poet Liu Yuxi adapts folk songs into Bamboo Branch Lyrics",
+      "ja": "805年、劉禹錫は永貞革新に連座して朗州司馬に十年左遷された。"
     },
     {
       "dynastyKey": "tang",
@@ -8667,8 +9046,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "和州（马鞍山和县）",
       "siteEn": "Hezhou (Hexian, Anhui)",
-      "zh": "和州刺史刘禹锡居斗室泰然处之，撰铭《陋室铭》传世",
-      "en": "As Prefect of Hezhou, Liu Yuxi writes Inscription on My Humble Room celebrating inner virtue"
+      "zh": "824年、和州刺史であった劉禹錫は、狭い部屋に住みながらも泰然自若とし、銘文『陋室銘』を著して後世に伝えた。",
+      "en": "As Prefect of Hezhou, Liu Yuxi writes Inscription on My Humble Room celebrating inner virtue",
+      "ja": "824年、和州刺史であった劉禹錫は、狭い部屋に住みながらも泰然自若とし、銘文『陋室銘』を著して後世に伝えた。"
     },
     {
       "dynastyKey": "tang",
@@ -8679,12 +9059,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州",
       "siteEn": "Yangzhou",
-      "zh": "刘禹锡扬州席上酬白居易，赋“沉舟侧畔千帆过，病树前头万木春”",
+      "zh": "826年、劉禹錫は揚州の宴席で白居易に酬い、「沉舟側畔千帆過，病樹前頭万木春」と賦した。",
       "en": "Meeting Bai Juyi in Yangzhou, Liu Yuxi writes “Past the sunken boat a thousand sails speed by”",
       "persons": [
         "baijuyi",
         "liuyuxi"
-      ]
+      ],
+      "ja": "826年、劉禹錫は揚州の宴席で白居易に酬い、「沉舟側畔千帆過，病樹前頭万木春」と賦した。"
     },
     {
       "dynastyKey": "wudai",
@@ -8695,12 +9076,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "高平（巴公原）",
       "siteEn": "Gaoping (Shanxi)",
-      "zh": "高平之战：赵匡胤身先士卒稳住后周阵脚，反击大破北汉军",
+      "zh": "954年、高平の戦い：趙匡胤は身先士卒して後周軍の陣脚を固め、反撃して北漢軍を大破した。",
       "en": "Battle of Gaoping: Guard commander Zhao Kuangyin rallies Later Zhou lines to crush Northern Han",
       "persons": [
         "chairong",
         "zhaokuangyin"
-      ]
+      ],
+      "ja": "954年、高平の戦い：趙匡胤は身先士卒して後周軍の陣脚を固め、反撃して北漢軍を大破した。"
     },
     {
       "dynastyKey": "beisong",
@@ -8711,12 +9093,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金陵（南京）",
       "siteEn": "Jinling (Nanjing)",
-      "zh": "曹彬奉赵匡胤命克金陵勿伤生灵，南唐后主李煜出降",
+      "zh": "975年、曹彬は趙匡胤の命を受け、金陵を攻略するも生霊を傷つけず、南唐後主の李煜は降伏した。",
       "en": "Song forces under Cao Bin capture Jinling sparing civilians; Southern Tang ruler Li Yu surrenders",
       "persons": [
         "zhaokuangyin",
         "liyu_nt"
-      ]
+      ],
+      "ja": "975年、曹彬は趙匡胤の命を受け、金陵を攻略するも生霊を傷つけず、南唐後主の李煜は降伏した。"
     },
     {
       "dynastyKey": "beisong",
@@ -8727,8 +9110,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "延州（延安）",
       "siteEn": "Yan'an (Shaanxi)",
-      "zh": "西夏元昊大举犯边，范仲淹自请知延州筑大顺城固防",
-      "en": "Guarding frontier Yan'an against Western Xia, Fan Zhongyan fortifies forts and writes autumn ci"
+      "zh": "西夏（せいか）の元昊（げんこう）が大挙して辺境を侵犯した際、范仲淹（はんちゅうえん）は自ら延州（えんしゅう）（延安）の知事を志願し、大順城（だいじゅんじょう）を築いて防備を固めた。",
+      "en": "Guarding frontier Yan'an against Western Xia, Fan Zhongyan fortifies forts and writes autumn ci",
+      "ja": "西夏（せいか）の元昊（げんこう）が大挙して辺境を侵犯した際、范仲淹（はんちゅうえん）は自ら延州（えんしゅう）（延安）の知事を志願し、大順城（だいじゅんじょう）を築いて防備を固めた。"
     },
     {
       "dynastyKey": "beisong",
@@ -8739,13 +9123,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封",
       "siteEn": "Kaifeng",
-      "zh": "参知政事范仲淹联富弼、欧阳修上《答手诏条陈十事》推行“庆历新政”",
+      "zh": "参知政事（さんちせいじ）の范仲淹は、富弼（ふひつ）、歐陽修（おうようしゅう）らと協力し、『答手詔条陳十事（とうしゅしょうじょうちんじゅうじ）』を上奏して「慶暦新政（けいれきしんせい）」を推進した。",
       "en": "Vice Chancellor Fan Zhongyan, joined by Ouyang Xiu, launches the ten-point Qingli New Policies",
       "persons": [
         "fanzhongyan",
         "ouyangxiu",
         "baozheng"
-      ]
+      ],
+      "ja": "参知政事（さんちせいじ）の范仲淹は、富弼（ふひつ）、歐陽修（おうようしゅう）らと協力し、『答手詔条陳十事（とうしゅしょうじょうちんじゅうじ）』を上奏して「慶暦新政（けいれきしんせい）」を推進した。"
     },
     {
       "dynastyKey": "beisong",
@@ -8756,8 +9141,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邓州→巴陵岳阳楼",
       "siteEn": "Dengzhou & Yueyang Tower",
-      "zh": "范仲淹贬邓州作《岳阳楼记》，铸就“先天下之忧而忧”名篇",
-      "en": "In Dengzhou, Fan Zhongyan writes Memorial to Yueyang Tower: “Worry before the world worries”"
+      "zh": "鄧州（とうしゅう）に左遷された范仲淹は、『岳陽楼記（がくようろうき）』を著し、「天下の憂いに先んじて憂う（先天下之憂而憂）」という名句を生み出した。",
+      "en": "In Dengzhou, Fan Zhongyan writes Memorial to Yueyang Tower: “Worry before the world worries”",
+      "ja": "鄧州（とうしゅう）に左遷された范仲淹は、『岳陽楼記（がくようろうき）』を著し、「天下の憂いに先んじて憂う（先天下之憂而憂）」という名句を生み出した。"
     },
     {
       "dynastyKey": "beisong",
@@ -8768,8 +9154,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "滁州琅琊山",
       "siteEn": "Langya Mountain, Chuzhou",
-      "zh": "欧阳修左迁知滁州宽简治民，作《醉翁亭记》与民同乐",
-      "en": "Prefect Ouyang Xiu governs Chuzhou lightly and writes Pavilion of the Old Drunkard on Mt. Langya"
+      "zh": "左遷されて滁州（じょしゅう）の知事となった歐陽修は、寛大な政治で民を治め、『酔翁亭記（すいおうていき）』を著して民と共に楽しんだ。",
+      "en": "Prefect Ouyang Xiu governs Chuzhou lightly and writes Pavilion of the Old Drunkard on Mt. Langya",
+      "ja": "左遷されて滁州（じょしゅう）の知事となった歐陽修は、寛大な政治で民を治め、『酔翁亭記（すいおうていき）』を著して民と共に楽しんだ。"
     },
     {
       "dynastyKey": "beisong",
@@ -8780,13 +9167,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京礼部贡院",
       "siteEn": "Imperial Examination Hall, Kaifeng",
-      "zh": "欧阳修主考嘉祐贡举革正文风，一榜擢苏轼苏辙曾巩诸贤",
+      "zh": "東京（とうけい）の礼部貢院（れいぶこういん）で嘉祐（かゆう）の貢挙（こうきょ）の主考を務めた歐陽修は、文風の改革を推進し、蘇軾（そしょく）、蘇轍（そてつ）、曾鞏（そうきょう）ら多くの賢才を合格させた。",
       "en": "Chief examiner Ouyang Xiu reforms prose style in Kaifeng, passing Su Shi, Su Zhe, and Zeng Gong",
       "persons": [
         "ouyangxiu",
         "sushi",
         "baozheng"
-      ]
+      ],
+      "ja": "東京（とうけい）の礼部貢院（れいぶこういん）で嘉祐（かゆう）の貢挙（こうきょ）の主考を務めた歐陽修は、文風の改革を推進し、蘇軾（そしょく）、蘇轍（そてつ）、曾鞏（そうきょう）ら多くの賢才を合格させた。"
     },
     {
       "dynastyKey": "beisong",
@@ -8797,8 +9185,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "明州鄞县（宁波）",
       "siteEn": "Yinxian (Ningbo)",
-      "zh": "二十七岁的王安石知鄞县，亲自踏勘浚湖筑堤、青黄不接贷官谷于民",
-      "en": "Young magistrate Wang Anshi dredges lakes and pioneers low-interest grain loans in Ningbo"
+      "zh": "27歳の王安石（おうあんせき）は鄞県（ぎんけん）（寧波）の知事となり、自ら湖の浚渫や堤防の築造を視察し、端境期には官倉の穀物を民に貸し付けた。",
+      "en": "Young magistrate Wang Anshi dredges lakes and pioneers low-interest grain loans in Ningbo",
+      "ja": "27歳の王安石（おうあんせき）は鄞県（ぎんけん）（寧波）の知事となり、自ら湖の浚渫や堤防の築造を視察し、端境期には官倉の穀物を民に貸し付けた。"
     },
     {
       "dynastyKey": "beisong",
@@ -8809,8 +9198,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江宁半山园",
       "siteEn": "Banshan Garden, Nanjing",
-      "zh": "王安石二度罢相退居江宁钟山半山园，骑驴游山吟咏绝句",
-      "en": "Retiring twice from office to Banshan Garden in Nanjing, Wang Anshi roams Bell Mountain writing verse"
+      "zh": "王安石は二度目の宰相罷免後、江寧（こうねい）の鍾山（しょうざん）にある半山園（はんざんえん）に隠棲し、驢馬に乗って山を巡りながら絶句を吟詠した。",
+      "en": "Retiring twice from office to Banshan Garden in Nanjing, Wang Anshi roams Bell Mountain writing verse",
+      "ja": "王安石は二度目の宰相罷免後、江寧（こうねい）の鍾山（しょうざん）にある半山園（はんざんえん）に隠棲し、驢馬に乗って山を巡りながら絶句を吟詠した。"
     },
     {
       "dynastyKey": "beisong",
@@ -8821,8 +9211,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳独乐园",
       "siteEn": "Garden of Solitary Joy, Luoyang",
-      "zh": "司马光退居洛阳独乐园十五载，主编成《资治通鉴》二百九十四卷",
-      "en": "After fifteen years at Luoyang's Garden of Solitary Joy, Sima Guang completes the Zizhi Tongjian"
+      "zh": "司馬光（しばこう）は洛陽（らくよう）の独楽園（どくらくえん）に隠棲すること15年、主編者として『資治通鑑（しじつがん）』294巻を完成させた。",
+      "en": "After fifteen years at Luoyang's Garden of Solitary Joy, Sima Guang completes the Zizhi Tongjian",
+      "ja": "司馬光（しばこう）は洛陽（らくよう）の独楽園（どくらくえん）に隠棲すること15年、主編者として『資治通鑑（しじつがん）』294巻を完成させた。"
     },
     {
       "dynastyKey": "beisong",
@@ -8833,8 +9224,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "青州归来堂",
       "siteEn": "Qingzhou (Shandong)",
-      "zh": "李清照与夫赵明诚屏居青州十年搜集金石书画盈十余屋",
-      "en": "Poet Li Qingzhao and husband Zhao Mingcheng spend ten peaceful years in Qingzhou cataloguing bronzes"
+      "zh": "李清照（りせいしょう）は夫の趙明誠（ちょうめいせい）と共に青州（せいしゅう）の帰来堂（きらいどう）に隠棲すること10年、金石書画（きんせきしょが）を収集し、十余りの部屋を満たした。",
+      "en": "Poet Li Qingzhao and husband Zhao Mingcheng spend ten peaceful years in Qingzhou cataloguing bronzes",
+      "ja": "李清照（りせいしょう）は夫の趙明誠（ちょうめいせい）と共に青州（せいしゅう）の帰来堂（きらいどう）に隠棲すること10年、金石書画（きんせきしょが）を収集し、十余りの部屋を満たした。"
     },
     {
       "dynastyKey": "nansong",
@@ -8845,8 +9237,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "乌江（和县）",
       "siteEn": "Wujiang (Hexian, Anhui)",
-      "zh": "靖康乱后李清照南渡过乌江，赋“生当作人杰，死亦为鬼雄”",
-      "en": "Crossing south past Wujiang, Li Qingzhao writes “In life be a hero,” chiding the fleeing court"
+      "zh": "靖康（せいこう）の乱後、李清照は南渡して烏江（うこう）を越え、「生きては人傑となるべし、死しては鬼雄となるべし（生当作人傑、死亦為鬼雄）」と賦した。",
+      "en": "Crossing south past Wujiang, Li Qingzhao writes “In life be a hero,” chiding the fleeing court",
+      "ja": "靖康（せいこう）の乱後、李清照は南渡して烏江（うこう）を越え、「生きては人傑となるべし、死しては鬼雄となるべし（生当作人傑、死亦為鬼雄）」と賦した。"
     },
     {
       "dynastyKey": "nansong",
@@ -8857,8 +9250,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金华→临安",
       "siteEn": "Jinhua & Lin'an (Hangzhou)",
-      "zh": "李清照避金兵流寓婺州金华，登八咏楼浩叹“江山留与后人愁”",
-      "en": "Refugeeing in Jinhua, widowed Li Qingzhao climbs Bayong Tower lamenting lost northern rivers"
+      "zh": "李清照は金兵を避けて婺州（ぶしゅう）金華（きんか）に流寓し、八詠楼（はちえいろう）に登り「江山は後人の愁いを留む（江山留与後人愁）」と浩嘆した。",
+      "en": "Refugeeing in Jinhua, widowed Li Qingzhao climbs Bayong Tower lamenting lost northern rivers",
+      "ja": "李清照は金兵を避けて婺州（ぶしゅう）金華（きんか）に流寓し、八詠楼（はちえいろう）に登り「江山は後人の愁いを留む（江山留与後人愁）」と浩嘆した。"
     },
     {
       "dynastyKey": "nansong",
@@ -8869,12 +9263,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康牛头山",
       "siteEn": "Niutoushan, Jiankang (Nanjing)",
-      "zh": "建康牛头山之战：岳飞设伏夜袭大破金兀术，收复建康",
+      "zh": "建康（けんこう）牛頭山（ぎゅうとうざん）の戦い：岳飛（がくひ）は伏兵を設けて夜襲をかけ、金の兀朮（うじゅつ）を大いに破り、建康を奪還した。",
       "en": "Yue Fei ambushes Jin commander Wuzhu at Mt. Niutou and retakes Jiankang, steadying Southern Song",
       "persons": [
         "hanshizhong",
         "yuefei"
-      ]
+      ],
+      "ja": "建康（けんこう）牛頭山（ぎゅうとうざん）の戦い：岳飛（がくひ）は伏兵を設けて夜襲をかけ、金の兀朮（うじゅつ）を大いに破り、建康を奪還した。"
     },
     {
       "dynastyKey": "nansong",
@@ -8885,9 +9280,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳→鄂州",
       "siteEn": "Xiangyang & Ezhou (Wuchang)",
-      "zh": "年三十二岁的岳飞首次北伐两月连克襄阳、信阳等荆襄六郡",
+      "zh": "三十二歳となった岳飛は、初の北伐で襄陽、信陽など荊襄六郡を二ヶ月で連破した。",
       "en": "Aged thirty-two, Yue Fei recaptures the six commanderies around Xiangyang in his first northern push",
-      "month": 5
+      "month": 5,
+      "ja": "三十二歳となった岳飛は、初の北伐で襄陽、信陽など荊襄六郡を二ヶ月で連破した。"
     },
     {
       "dynastyKey": "nansong",
@@ -8898,8 +9294,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "济南→建康",
       "siteEn": "Jinan to Jiankang (Nanjing)",
-      "zh": "二十三岁的辛弃疾率五十骑夜突金军五万大营生擒叛徒张安国",
-      "en": "Twenty-three-year-old Xin Qiji leads fifty horsemen into a 50,000-man Jin camp to seize a traitor"
+      "zh": "二十三歳の辛棄疾は五十騎を率いて夜間に金軍五万の大営を急襲し、叛徒張安国を生け捕りにした。",
+      "en": "Twenty-three-year-old Xin Qiji leads fifty horsemen into a 50,000-man Jin camp to seize a traitor",
+      "ja": "二十三歳の辛棄疾は五十騎を率いて夜間に金軍五万の大営を急襲し、叛徒張安国を生け捕りにした。"
     },
     {
       "dynastyKey": "nansong",
@@ -8910,8 +9307,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "铅山鹅湖寺",
       "siteEn": "Goose Lake Temple (Qianshan, Jiangxi)",
-      "zh": "辛弃疾与思想家陈亮于江西铅山鹅湖十日纵论恢复大略",
-      "en": "Xin Qiji and Chen Liang meet for ten days at Goose Lake in Jiangxi planning northern recovery"
+      "zh": "辛棄疾は思想家陳亮と江西鉛山の鵝湖で十日間、中原回復の大略を縦論した。",
+      "en": "Xin Qiji and Chen Liang meet for ten days at Goose Lake in Jiangxi planning northern recovery",
+      "ja": "辛棄疾は思想家陳亮と江西鉛山の鵝湖で十日間、中原回復の大略を縦論した。"
     },
     {
       "dynastyKey": "nansong",
@@ -8922,8 +9320,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "镇江京口北固亭",
       "siteEn": "Beigu Pavilion, Zhenjiang",
-      "zh": "辛弃疾知镇江府整军备战，登北固亭赋《永遇乐·京口北固亭怀古》",
-      "en": "Sixty-six-year-old Xin Qiji gazes north from Beigu Pavilion in Zhenjiang composing Yongyule"
+      "zh": "辛棄疾は鎮江府の知事として軍を整え戦備を固め、北固亭に登り『永遇樂・京口北固亭懐古』を賦した。",
+      "en": "Sixty-six-year-old Xin Qiji gazes north from Beigu Pavilion in Zhenjiang composing Yongyule",
+      "ja": "辛棄疾は鎮江府の知事として軍を整え戦備を固め、北固亭に登り『永遇樂・京口北固亭懐古』を賦した。"
     },
     {
       "dynastyKey": "nansong",
@@ -8934,8 +9333,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "南郑·剑门关",
       "siteEn": "Nanzheng & Jianmen Pass",
-      "zh": "陆游应四川宣抚使王炎幕亲临汉中南郑抗金前线射虎观兵",
-      "en": "Poet Lu You serves on the Hanzhong frontier against Jin before riding south through Sword Gate Pass"
+      "zh": "陸游は四川宣撫使王炎の幕僚として漢中南鄭の抗金前線に親臨し、虎を射て兵を観た。",
+      "en": "Poet Lu You serves on the Hanzhong frontier against Jin before riding south through Sword Gate Pass",
+      "ja": "陸游は四川宣撫使王炎の幕僚として漢中南鄭の抗金前線に親臨し、虎を射て兵を観た。"
     },
     {
       "dynastyKey": "nansong",
@@ -8946,8 +9346,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "山阴三山村（绍兴）",
       "siteEn": "Shanyin (Shaoxing)",
-      "zh": "八十六岁的陆游病逝山阴故里，遗绝笔《示儿》盼王师北定中原",
-      "en": "Dying at eighty-six in Shaoxing, patriot poet Lu You leaves his final testament poem To My Sons"
+      "zh": "八十六歳の陸游は山陰の故里で病逝し、絶筆『示児』を遺して王師による中原平定を願った。",
+      "en": "Dying at eighty-six in Shaoxing, patriot poet Lu You leaves his final testament poem To My Sons",
+      "ja": "八十六歳の陸游は山陰の故里で病逝し、絶筆『示児』を遺して王師による中原平定を願った。"
     },
     {
       "dynastyKey": "nansong",
@@ -8958,8 +9359,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "赣州→惶恐滩",
       "siteEn": "Ganzhou (Jiangxi)",
-      "zh": "元军渡江临安危急，赣州知州文天祥散尽家财募义军勤王",
-      "en": "As Yuan armies cross the Yangtze, prefect Wen Tianxiang sells his estate in Ganzhou to raise troops"
+      "zh": "元軍が長江を渡り臨安が危急に瀕すると、贛州知州文天祥は家財を散じて義軍を募り勤王に尽くした。",
+      "en": "As Yuan armies cross the Yangtze, prefect Wen Tianxiang sells his estate in Ganzhou to raise troops",
+      "ja": "元軍が長江を渡り臨安が危急に瀕すると、贛州知州文天祥は家財を散じて義軍を募り勤王に尽くした。"
     },
     {
       "dynastyKey": "nansong",
@@ -8970,8 +9372,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "零丁洋（珠江口）",
       "siteEn": "Lingdingyang Sea (Pearl River Estuary)",
-      "zh": "文天祥潮阳兵败被执，过零丁洋赋“留取丹心照汗青”",
-      "en": "Captive crossing Lingdingyang Sea, Wen Tianxiang writes Let my loyal heart shine in history"
+      "zh": "文天祥は潮陽で兵敗して捕らえられ、零丁洋を過ぎる際に「留取丹心照汗青（丹心を留め取りて汗青を照らさん）」と賦した。",
+      "en": "Captive crossing Lingdingyang Sea, Wen Tianxiang writes Let my loyal heart shine in history",
+      "ja": "文天祥は潮陽で兵敗して捕らえられ、零丁洋を過ぎる際に「留取丹心照汗青（丹心を留め取りて汗青を照らさん）」と賦した。"
     },
     {
       "dynastyKey": "yuan",
@@ -8982,8 +9385,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大都柴市口",
       "siteEn": "Chaishikou, Dadu (Beijing)",
-      "zh": "文天祥囚元大都土室四年作《正气歌》，于柴市口南向再拜从容就义",
-      "en": "Wen Tianxiang composes Song of Righteousness in prison and goes to his death calmly at Dadu Execution Ground"
+      "zh": "文天祥は元の大都の土室に四年囚われ『正氣歌』を作り、柴市口で南に向かって再拝し、従容として義に就いた。",
+      "en": "Wen Tianxiang composes Song of Righteousness in prison and goes to his death calmly at Dadu Execution Ground",
+      "ja": "文天祥は元の大都の土室に四年囚われ『正氣歌』を作り、柴市口で南に向かって再拝し、従容として義に就いた。"
     },
     {
       "dynastyKey": "nansong",
@@ -8994,8 +9398,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "斡难河源",
       "siteEn": "Source of the Onon River (Mongolia)",
-      "zh": "铁木真统一蒙古高原诸部，于斡难河源召开忽里勒台大会建大蒙古国",
-      "en": "Temujin unites the Mongol tribes at an Onon River kurultai and takes the title Genghis Khan"
+      "zh": "テムジンはモンゴル高原の諸部族を統一し、オノン川源流でクリルタイを開催して大モンゴル国を建国した。",
+      "en": "Temujin unites the Mongol tribes at an Onon River kurultai and takes the title Genghis Khan",
+      "ja": "テムジンはモンゴル高原の諸部族を統一し、オノン川源流でクリルタイを開催して大モンゴル国を建国した。"
     },
     {
       "dynastyKey": "nansong",
@@ -9006,8 +9411,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "野狐岭（张北）",
       "siteEn": "Yehuling Ridge (Zhangbei, Hebei)",
-      "zh": "野狐岭之战：成吉思汗集中铁骑冲阵，歼灭金军四十万主力",
-      "en": "Battle of Yehuling: Genghis Khan smashes a 400,000-man Jin army north of Zhangjiakou Pass"
+      "zh": "野狐嶺の戦い。チンギス・ハンは鉄騎兵を集結させて敵陣に突撃し、金軍の主力四十万を殲滅した。",
+      "en": "Battle of Yehuling: Genghis Khan smashes a 400,000-man Jin army north of Zhangjiakou Pass",
+      "ja": "野狐嶺の戦い。チンギス・ハンは鉄騎兵を集結させて敵陣に突撃し、金軍の主力四十万を殲滅した。"
     },
     {
       "dynastyKey": "nansong",
@@ -9018,8 +9424,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "六盘山",
       "siteEn": "Mount Liupan (Ningxia / Gansu)",
-      "zh": "成吉思汗东征西夏围困中兴府，盛夏避暑于六盘山病逝",
-      "en": "Genghis Khan dies at Mount Liupan during his final campaign crushing the Western Xia Kingdom"
+      "zh": "チンギス・ハンは西夏を東征し興慶府を包囲したが、盛夏に六盤山で避暑中に病没した。",
+      "en": "Genghis Khan dies at Mount Liupan during his final campaign crushing the Western Xia Kingdom",
+      "ja": "チンギス・ハンは西夏を東征し興慶府を包囲したが、盛夏に六盤山で避暑中に病没した。"
     },
     {
       "dynastyKey": "nansong",
@@ -9030,8 +9437,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大理苍山",
       "siteEn": "Dali (Yunnan)",
-      "zh": "忽必烈率蒙古大军自临洮革囊渡金沙江，千里奇袭攻灭大理国",
-      "en": "Kublai Khan crosses the Jinsha River on inflated sheepskin rafts to conquer Dali in Yunnan"
+      "zh": "忽必烈はモンゴル大軍を率い、臨洮より革嚢を用いて金沙江を渡り、千里の奇襲により大理國を攻め滅ぼした。",
+      "en": "Kublai Khan crosses the Jinsha River on inflated sheepskin rafts to conquer Dali in Yunnan",
+      "ja": "忽必烈はモンゴル大軍を率い、臨洮より革嚢を用いて金沙江を渡り、千里の奇襲により大理國を攻め滅ぼした。"
     },
     {
       "dynastyKey": "nansong",
@@ -9042,8 +9450,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳",
       "siteEn": "Xiangyang",
-      "zh": "襄阳之战：忽必烈调回回炮攻破坚守六年的襄樊，长江门户洞开",
-      "en": "After a six-year siege Kublai Khan uses counterweight trebuchets to breach Fancheng and Xiangyang"
+      "zh": "襄陽の戦い：忽必烈は回回砲を投入し、六年間の堅守を続けた襄樊を攻め破り、長江の要衝を開いた。",
+      "en": "After a six-year siege Kublai Khan uses counterweight trebuchets to breach Fancheng and Xiangyang",
+      "ja": "襄陽の戦い：忽必烈は回回砲を投入し、六年間の堅守を続けた襄樊を攻め破り、長江の要衝を開いた。"
     },
     {
       "dynastyKey": "yuan",
@@ -9054,8 +9463,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "集庆→应天（南京）",
       "siteEn": "Jiqing / Yingtian (Nanjing)",
-      "zh": "濠州红巾将朱元璋渡长江攻克元集庆路改名应天府",
-      "en": "Rebel commander Zhu Yuanzhang captures Nanjing across the Yangtze and makes Yingtian his base"
+      "zh": "濠州の紅巾軍の将、朱元璋は長江を渡り、元の集慶路を攻略し、應天府と改名した。",
+      "en": "Rebel commander Zhu Yuanzhang captures Nanjing across the Yangtze and makes Yingtian his base",
+      "ja": "濠州の紅巾軍の将、朱元璋は長江を渡り、元の集慶路を攻略し、應天府と改名した。"
     },
     {
       "dynastyKey": "yuan",
@@ -9066,8 +9476,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鄱阳湖康郎山",
       "siteEn": "Poyang Lake (Jiangxi)",
-      "zh": "鄱阳湖水战：朱元璋率二十万水军火攻决战三十六日，击毙汉主陈友谅",
-      "en": "Battle of Lake Poyang: Zhu Yuanzhang uses fire ships over 36 days to defeat rival Chen Youliang"
+      "zh": "鄱陽湖の戦い：朱元璋は二十万の水軍を率い、三十六日にわたる火攻めの決戦の末、漢の主、陳友諒を討ち取った。",
+      "en": "Battle of Lake Poyang: Zhu Yuanzhang uses fire ships over 36 days to defeat rival Chen Youliang",
+      "ja": "鄱陽湖の戦い：朱元璋は二十万の水軍を率い、三十六日にわたる火攻めの決戦の末、漢の主、陳友諒を討ち取った。"
     },
     {
       "dynastyKey": "ming",
@@ -9078,12 +9489,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "苏州太仓刘家港",
       "siteEn": "Liujiagang Port (Taicang, Jiangsu)",
-      "zh": "明成祖命郑和率巨型宝船队自太仓刘家港扬帆首下西洋",
+      "zh": "明成祖は鄭和に命じ、巨大な宝船隊を率いさせ、太倉の劉家港より帆を上げ、初めて西洋へ遠征させた。",
       "en": "Admiral Zheng He sets sail from Liujiagang with 27,000 men aboard treasure ships on his first voyage",
       "persons": [
         "zhudi",
         "zhenghe"
-      ]
+      ],
+      "ja": "明成祖は鄭和に命じ、巨大な宝船隊を率いさせ、太倉の劉家港より帆を上げ、初めて西洋へ遠征させた。"
     },
     {
       "dynastyKey": "ming",
@@ -9094,8 +9506,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "占城新州港",
       "siteEn": "Champa Coast",
-      "zh": "郑和船队立满剌加官厂中转，于锡兰山立三体文字碑",
-      "en": "Zheng He builds a maritime depot at Malacca and erects the trilingual Galle Stele in Sri Lanka"
+      "zh": "鄭和の船隊は、満剌加に官営の交易拠点を設け中継地とし、錫蘭山に三体文字碑を建立した。",
+      "en": "Zheng He builds a maritime depot at Malacca and erects the trilingual Galle Stele in Sri Lanka",
+      "ja": "鄭和の船隊は、満剌加に官営の交易拠点を設け中継地とし、錫蘭山に三体文字碑を建立した。"
     },
     {
       "dynastyKey": "ming",
@@ -9106,8 +9519,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "榆木川（多伦西北）",
       "siteEn": "Yumuchuan (Inner Mongolia)",
-      "zh": "六十五岁的明成祖朱棣第五次亲征漠北阿鲁台班师途中，病逝于塞外榆木川",
-      "en": "Returning from his fifth expedition across the Gobi Steppe, Yongle Emperor Zhu Di dies at Yumuchuan"
+      "zh": "六十五歳の明成祖朱棣は、五度目の漠北遠征で阿魯台を親征し、帰還の途上、塞外の楡木川で病没した。",
+      "en": "Returning from his fifth expedition across the Gobi Steppe, Yongle Emperor Zhu Di dies at Yumuchuan",
+      "ja": "六十五歳の明成祖朱棣は、五度目の漠北遠征で阿魯台を親征し、帰還の途上、塞外の楡木川で病没した。"
     },
     {
       "dynastyKey": "ming",
@@ -9118,9 +9532,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "南海归航道",
       "siteEn": "Maritime Silk Sea Route",
-      "zh": "六十二岁的三宝太监郑和第七次下西洋途中病逝于印度西海岸古里",
+      "zh": "六十二歳の三宝太監鄭和は、七度目の西洋遠征の途上、インド西海岸の古里で病没した。",
       "en": "On his seventh voyage Admiral Zheng He dies at Calicut on the Malabar Coast of India aged 62",
-      "month": 8
+      "month": 8,
+      "ja": "六十二歳の三宝太監鄭和は、七度目の西洋遠征の途上、インド西海岸の古里で病没した。"
     },
     {
       "dynastyKey": "ming",
@@ -9131,8 +9546,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京德胜门",
       "siteEn": "Deshengmen Gate, Beijing",
-      "zh": "北京保卫战：兵部尚书于谦拥立景泰帝，德胜门外大破瓦剌军",
-      "en": "Defense of Beijing: War Minister Yu Qian enthrones Jingtai and routs Oirat cavalry at Deshengmen"
+      "zh": "北京防衛戦：兵部尚書于謙は景泰帝を擁立し、徳勝門外で瓦剌軍を大破した。",
+      "en": "Defense of Beijing: War Minister Yu Qian enthrones Jingtai and routs Oirat cavalry at Deshengmen",
+      "ja": "北京防衛戦：兵部尚書于謙は景泰帝を擁立し、徳勝門外で瓦剌軍を大破した。"
     },
     {
       "dynastyKey": "ming",
@@ -9143,8 +9559,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "台州（临海）",
       "siteEn": "Taizhou (Zhejiang)",
-      "zh": "参将戚继光练义乌矿徒成“戚家军”创鸳鸯阵",
-      "en": "General Qi Jiguang trains Yiwu miners into his Mandarin-Duck Formation army, winning nine battles"
+      "zh": "参将戚継光は、義烏の鉱夫を訓練して「戚家軍」を組織し、鴛鴦陣を編み出した。",
+      "en": "General Qi Jiguang trains Yiwu miners into his Mandarin-Duck Formation army, winning nine battles",
+      "ja": "参将戚継光は、義烏の鉱夫を訓練して「戚家軍」を組織し、鴛鴦陣を編み出した。"
     },
     {
       "dynastyKey": "ming",
@@ -9155,8 +9572,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "兴化平海卫（莆田）",
       "siteEn": "Pinghaiwei, Putian (Fujian)",
-      "zh": "戚继光与俞大猷会师福建攻克平海卫倭巢斩首二千余",
-      "en": "Qi Jiguang and Yu Dayou storm the pirate stronghold at Putian, restoring peace to Fujian coasts"
+      "zh": "戚継光は俞大猷と福建で合流し、平海衛の倭寇の巣窟を攻略し、二千余りの首を斬った。",
+      "en": "Qi Jiguang and Yu Dayou storm the pirate stronghold at Putian, restoring peace to Fujian coasts",
+      "ja": "戚継光は俞大猷と福建で合流し、平海衛の倭寇の巣窟を攻略し、二千余りの首を斬った。"
     },
     {
       "dynastyKey": "ming",
@@ -9167,8 +9585,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓟镇古北口",
       "siteEn": "Jizhou Great Wall (Hebei / Beijing)",
-      "zh": "戚继光镇守蓟镇北方十六年，增筑空心敌台重修明长城",
-      "en": "Guarding the northern frontier sixteen years, Qi Jiguang builds hollow watchtowers along the Wall"
+      "zh": "戚継光は十六年間、薊鎮の北方防衛に当たり、空心敵台を増築し、明長城を修築した。",
+      "en": "Guarding the northern frontier sixteen years, Qi Jiguang builds hollow watchtowers along the Wall",
+      "ja": "戚継光は十六年間、薊鎮の北方防衛に当たり、空心敵台を増築し、明長城を修築した。"
     },
     {
       "dynastyKey": "ming",
@@ -9179,8 +9598,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京内阁",
       "siteEn": "Grand Secretariat, Beijing",
-      "zh": "内阁首辅张居正辅十岁万历帝颁行“考成法”综核名实",
-      "en": "Grand Secretary Zhang Juzheng enacts strict administrative audits under the young Wanli Emperor"
+      "zh": "内閣首輔の張居正は、十歳の萬曆帝を補佐し、「考成法」を頒布して名実の厳格な査定を行った。",
+      "en": "Grand Secretary Zhang Juzheng enacts strict administrative audits under the young Wanli Emperor",
+      "ja": "内閣首輔の張居正は、十歳の萬曆帝を補佐し、「考成法」を頒布して名実の厳格な査定を行った。"
     },
     {
       "dynastyKey": "ming",
@@ -9191,8 +9611,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京→全国各省",
       "siteEn": "Beijing & Ming Provinces",
-      "zh": "张居正清丈全国田亩七百万顷，全面推行“一条鞭法”赋役改革",
-      "en": "After a nationwide land survey, Zhang Juzheng enacts the Single Whip tax reform in silver"
+      "zh": "張居正は全国の田畝七百万頃を清丈し、「一条鞭法」による賦役改革を全面的に推し進めた。",
+      "en": "After a nationwide land survey, Zhang Juzheng enacts the Single Whip tax reform in silver",
+      "ja": "張居正は全国の田畝七百万頃を清丈し、「一条鞭法」による賦役改革を全面的に推し進めた。"
     },
     {
       "dynastyKey": "qing",
@@ -9203,8 +9624,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "镇江·南京城下",
       "siteEn": "Zhenjiang & Nanjing",
-      "zh": "延平王郑成功统十余万水陆大军自厦门北伐溯长江而上",
-      "en": "Zheng Chenggong leads a massive fleet up the Yangtze, capturing Zhenjiang and besieging Nanjing"
+      "zh": "延平王鄭成功は十余万の水陸大軍を率いて廈門より北伐し、長江を遡上した。",
+      "en": "Zheng Chenggong leads a massive fleet up the Yangtze, capturing Zhenjiang and besieging Nanjing",
+      "ja": "延平王鄭成功は十余万の水陸大軍を率いて廈門より北伐し、長江を遡上した。"
     },
     {
       "dynastyKey": "qing",
@@ -9215,8 +9637,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京紫禁城武英殿",
       "siteEn": "Forbidden City, Beijing",
-      "zh": "十六岁的少年康熙帝玄烨训练布库侍卫，于武英殿迅雷智擒专权辅臣鳌拜",
-      "en": "Sixteen-year-old Kangxi Emperor Xuanye uses palace wrestlers to arrest overbearing regent Oboi"
+      "zh": "十六歳の少年康熙帝玄燁は、布庫侍衛を訓練し、武英殿で専権を振るう輔臣鳌拜を電光石火の如く智略をもって捕らえた。",
+      "en": "Sixteen-year-old Kangxi Emperor Xuanye uses palace wrestlers to arrest overbearing regent Oboi",
+      "ja": "十六歳の少年康熙帝玄燁は、布庫侍衛を訓練し、武英殿で専権を振るう輔臣鳌拜を電光石火の如く智略をもって捕らえた。"
     },
     {
       "dynastyKey": "qing",
@@ -9227,8 +9650,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "昭莫多（乌兰巴托东）",
       "siteEn": "Jao Modo (Mongolia)",
-      "zh": "康熙帝亲征朔漠，昭莫多之战清军火器大破准噶尔噶尔丹主力",
-      "en": "Battle of Jao Modo: Kangxi leads Qing forces across the Gobi to crush Zunghar khan Galdan"
+      "zh": "康熙帝は朔漠に親征し、昭莫多の戦いにおいて清軍の火器が準噶爾の噶爾丹主力軍を大破した。",
+      "en": "Battle of Jao Modo: Kangxi leads Qing forces across the Gobi to crush Zunghar khan Galdan",
+      "ja": "康熙帝は朔漠に親征し、昭莫多の戦いにおいて清軍の火器が準噶爾の噶爾丹主力軍を大破した。"
     },
     {
       "dynastyKey": "qing",
@@ -9239,8 +9663,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州虎门海滩",
       "siteEn": "Humen Beach (Dongguan, Guangdong)",
-      "zh": "钦差大臣林则徐于广东虎门海滩当众销毁鸦片二百三十七万斤",
-      "en": "Imperial Commissioner Lin Zexu destroys over 20,000 chests of opium in lime pits at Humen Beach"
+      "zh": "欽差大臣林則徐は、廣東虎門の海灘で、衆人環視のもと鴉片二百三十七万斤を銷毀した。",
+      "en": "Imperial Commissioner Lin Zexu destroys over 20,000 chests of opium in lime pits at Humen Beach",
+      "ja": "欽差大臣林則徐は、廣東虎門の海灘で、衆人環視のもと鴉片二百三十七万斤を銷毀した。"
     },
     {
       "dynastyKey": "qing",
@@ -9251,8 +9676,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "伊犁惠远城",
       "siteEn": "Yili (Xinjiang)",
-      "zh": "林则徐遭革职“从重发往伊犁效力赎罪”，途经西安赠魏源《四洲志》",
-      "en": "Exiled to Yili after the Opium War, Lin Zexu builds irrigation canals and warns of border threats"
+      "zh": "林則徐は官職を革され、「重罪として伊犁に発遣され贖罪に努める」こととなり、西安を途経する際に魏源に『四洲志』を贈った。",
+      "en": "Exiled to Yili after the Opium War, Lin Zexu builds irrigation canals and warns of border threats",
+      "ja": "林則徐は官職を革され、「重罪として伊犁に発遣され贖罪に努める」こととなり、西安を途経する際に魏源に『四洲志』を贈った。"
     },
     {
       "dynastyKey": "qing",
@@ -9263,8 +9689,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "衡州→岳州湘潭",
       "siteEn": "Hengyang & Xiangtan (Hunan)",
-      "zh": "曾国藩于湖南衡州创办湘军水陆师颁《讨粤匪檄》",
-      "en": "Zeng Guofan organizes the regional Xiang Army and flotilla at Hengyang, retaking Wuchang and Hanyang"
+      "zh": "曾國藩は湖南衡州で湘軍水陸師を創設し、『討粤匪檄』を頒布した。",
+      "en": "Zeng Guofan organizes the regional Xiang Army and flotilla at Hengyang, retaking Wuchang and Hanyang",
+      "ja": "曾國藩は湖南衡州で湘軍水陸師を創設し、『討粤匪檄』を頒布した。"
     },
     {
       "dynastyKey": "qing",
@@ -9275,8 +9702,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "安庆",
       "siteEn": "Anqing (Anhui)",
-      "zh": "曾国藩、曾国荃围攻数年攻克太平军长江咽喉安庆",
-      "en": "Capturing strategic Anqing on the Yangtze, Zeng Guofan founds China's first modern ordnance works"
+      "zh": "曾國藩と曾國荃は数年にわたり太平軍の長江の要衝である安慶を包囲し、これを攻略した。",
+      "en": "Capturing strategic Anqing on the Yangtze, Zeng Guofan founds China's first modern ordnance works",
+      "ja": "曾國藩と曾國荃は数年にわたり太平軍の長江の要衝である安慶を包囲し、これを攻略した。"
     },
     {
       "dynastyKey": "qing",
@@ -9287,8 +9715,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "福州马尾",
       "siteEn": "Mawei Shipyard, Fuzhou",
-      "zh": "闽浙总督左宗棠奏设福州船政局与求是堂艺局（船政学堂）",
-      "en": "Viceroy Zuo Zongtang founds the Fuzhou Navy Yard and Academy at Mawei, cradle of modern Chinese sea power"
+      "zh": "閩浙総督左宗棠は、福州船政局と求是堂藝局（船政學堂）の設置を上奏した。",
+      "en": "Viceroy Zuo Zongtang founds the Fuzhou Navy Yard and Academy at Mawei, cradle of modern Chinese sea power",
+      "ja": "閩浙総督左宗棠は、福州船政局と求是堂藝局（船政學堂）の設置を上奏した。"
     },
     {
       "dynastyKey": "qing",
@@ -9299,9 +9728,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "喀什噶尔（今新疆喀什）",
       "siteEn": "Kashgar (Southern Xinjiang)",
-      "zh": "左宗棠督师南征克复喀什噶尔，天山南北除伊犁外尽数收复",
+      "zh": "左宗棠は南征を督師し喀什噶爾を克復、天山山脈の南北は伊犁を除き全て回復された。",
       "en": "Under Zuo Zongtang's command, Qing forces retake Kashgar, recovering all Xinjiang save Ili",
-      "month": 1
+      "month": 1,
+      "ja": "左宗棠は南征を督師し喀什噶爾を克復、天山山脈の南北は伊犁を除き全て回復された。"
     },
     {
       "dynastyKey": "qing",
@@ -9312,8 +9742,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州（乙未起义）",
       "siteEn": "Guangzhou",
-      "zh": "孙中山返广州策划兴中会首次武装反清起义，陆皓东殉难",
-      "en": "Sun Yat-sen launches the first armed Guangzhou Uprising of the Revive China Society"
+      "zh": "孫中山は廣州に戻り、興中會による初の武装反清起義を策動し、陸皓東が殉難した。",
+      "en": "Sun Yat-sen launches the first armed Guangzhou Uprising of the Revive China Society",
+      "ja": "孫中山は廣州に戻り、興中會による初の武装反清起義を策動し、陸皓東が殉難した。"
     },
     {
       "dynastyKey": "qing",
@@ -9324,8 +9755,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "武昌楚望台",
       "siteEn": "Wuchang (Wuhan)",
-      "zh": "辛亥革命武昌起义：湖北新军工程营打响第一枪光复武汉三镇",
-      "en": "Wuchang Uprising: New Army engineers seize Wuchang sparking nationwide provincial secessions"
+      "zh": "辛亥革命の武昌起義において、湖北新軍工兵營が最初に蜂起し、武漢三鎮を回復した。",
+      "en": "Wuchang Uprising: New Army engineers seize Wuchang sparking nationwide provincial secessions",
+      "ja": "辛亥革命の武昌起義において、湖北新軍工兵營が最初に蜂起し、武漢三鎮を回復した。"
     },
     {
       "dynastyKey": "roc",
@@ -9336,8 +9768,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京铁狮子胡同",
       "siteEn": "Beijing",
-      "zh": "孙中山扶病北上主张召开国民会议废除不平等条约",
-      "en": "Traveling north for national reunification talks, Sun Yat-sen dies in Beijing leaving his Will"
+      "zh": "孫中山は病をおして北上し、国民会議の開催と不平等条約の廃止を主張した。",
+      "en": "Traveling north for national reunification talks, Sun Yat-sen dies in Beijing leaving his Will",
+      "ja": "孫中山は病をおして北上し、国民会議の開催と不平等条約の廃止を主張した。"
     },
     {
       "dynastyKey": "roc",
@@ -9348,8 +9781,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "文家市→井冈山茨坪",
       "siteEn": "Jinggangshan (Jiangxi-Hunan Border)",
-      "zh": "毛泽东领导湘赣边界秋收起义，三湾改编确立党对军队领导",
-      "en": "Following the Autumn Harvest Uprising, Mao Zedong leads forces into the Jinggang Mountains"
+      "zh": "毛沢東は湘贛辺境で秋収起義を指導し、三湾改編によって党の軍隊に対する指導権を確立した。",
+      "en": "Following the Autumn Harvest Uprising, Mao Zedong leads forces into the Jinggang Mountains",
+      "ja": "毛沢東は湘贛辺境で秋収起義を指導し、三湾改編によって党の軍隊に対する指導権を確立した。"
     },
     {
       "dynastyKey": "roc",
@@ -9360,12 +9794,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "遵义",
       "siteEn": "Zunyi (Guizhou)",
-      "zh": "中央红军长征突破乌江占领遵义，召开遵义会议确立毛泽东领导地位",
+      "zh": "中央紅軍は長征中に烏江を突破して遵義を占領し、遵義会議を開催して毛沢東の指導的地位を確立した。",
       "en": "During the Long March, the Zunyi Conference establishes Mao Zedong’s leadership of the Red Army",
       "persons": [
         "maozedong",
         "dengxiaoping"
-      ]
+      ],
+      "ja": "中央紅軍は長征中に烏江を突破して遵義を占領し、遵義会議を開催して毛沢東の指導的地位を確立した。"
     },
     {
       "dynastyKey": "roc",
@@ -9376,8 +9811,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "延安杨家岭",
       "siteEn": "Yan'an (Shaanxi)",
-      "zh": "毛泽东于延安窑洞著《论持久战》，系统阐明抗日战略三阶段",
-      "en": "In Yan'an cave dwellings, Mao Zedong writes On Protracted War outlining China's strategy"
+      "zh": "毛沢東は延安の窯洞で『持久戦論』を著し、抗日戦略の三段階を体系的に闡明した。",
+      "en": "In Yan'an cave dwellings, Mao Zedong writes On Protracted War outlining China's strategy",
+      "ja": "毛沢東は延安の窯洞で『持久戦論』を著し、抗日戦略の三段階を体系的に闡明した。"
     },
     {
       "dynastyKey": "roc",
@@ -9388,13 +9824,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "西柏坡（平山）",
       "siteEn": "Xibaipo (Hebei)",
-      "zh": "毛泽东与中共中央在太行山麓西柏坡运筹指挥辽沈、淮海、平津三大战役",
+      "zh": "毛沢東と中共中央は太行山麓の西柏坡で、遼瀋、淮海、平津の三大戦役を運籌指揮した。",
       "en": "From Xibaipo headquarters Mao Zedong directs the Liaoshen, Huaihai, and Pingjin campaigns",
       "persons": [
         "maozedong",
         "dengxiaoping",
         "jiangjieshi"
-      ]
+      ],
+      "ja": "毛沢東と中共中央は太行山麓の西柏坡で、遼瀋、淮海、平津の三大戦役を運籌指揮した。"
     },
     {
       "dynastyKey": "xihan",
@@ -9405,8 +9842,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "夏阳龙门（韩城）",
       "siteEn": "Longmen (Hancheng, Shaanxi)",
-      "zh": "司马迁生于黄河龙门之阳，早年耕牧诵读承父太史遗志",
-      "en": "Sima Qian is born at Longmen overlooking the Yellow River in Shaanxi"
+      "zh": "前145年、司馬遷は黄河の龍門の陽に生まれ、早年に耕牧と誦読に励み、父太史の遺志を継いだ。",
+      "en": "Sima Qian is born at Longmen overlooking the Yellow River in Shaanxi",
+      "ja": "前145年、司馬遷は黄河の龍門の陽に生まれ、早年に耕牧と誦読に励み、父太史の遺志を継いだ。"
     },
     {
       "dynastyKey": "xihan",
@@ -9417,13 +9855,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泰山→梁父",
       "siteEn": "Mount Tai",
-      "zh": "汉武帝东巡封禅泰山，司马谈滞留周南临终执司马迁手托付修史大业",
+      "zh": "前110年、漢武帝が東巡して泰山で封禅を行った際、司馬談は周南に滞留し、臨終に際して司馬遷の手を取り修史の大業を託した。",
       "en": "As Emperor Wu ascends Mount Tai, dying Sima Tan charges his son Sima Qian to complete his history",
       "month": 4,
       "persons": [
         "hanwudi",
         "simaqian"
-      ]
+      ],
+      "ja": "前110年、漢武帝が東巡して泰山で封禅を行った際、司馬談は周南に滞留し、臨終に際して司馬遷の手を取り修史の大業を託した。"
     },
     {
       "dynastyKey": "donghan",
@@ -9434,14 +9873,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "陆口（嘉鱼）",
       "siteEn": "Lukou (Hubei)",
-      "zh": "偏将军陆逊屯驻陆口致书骄矜关羽以麻痹其防备",
+      "zh": "219年、偏将軍の陸遜は陸口に駐屯し、驕慢な関羽に書簡を送ってその警戒心を麻痺させた。",
       "en": "Young commander Lu Xun lulls Guan Yu with humble letters from Lukou before seizing Jingzhou",
       "persons": [
         "luxun",
         "guanyu",
         "sunquan"
       ],
-      "month": 10
+      "month": 10,
+      "ja": "219年、偏将軍の陸遜は陸口に駐屯し、驕慢な関羽に書簡を送ってその警戒心を麻痺させた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -9452,8 +9892,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建业（南京）",
       "siteEn": "Jianye (Nanjing)",
-      "zh": "陆逊出任东吴丞相辅佐孙权，直言谏阻两宫太子废立之争，次年愤懑卒于建业",
-      "en": "Appointed Chancellor of Eastern Wu in Nanjing, Lu Xun remonstrates over the succession dispute"
+      "zh": "244年、陸遜は東呉の丞相に就任して孫権を補佐し、両宮の太子廃立の争いを直言して諫止したが、翌年憤死して建業で没した。",
+      "en": "Appointed Chancellor of Eastern Wu in Nanjing, Lu Xun remonstrates over the succession dispute",
+      "ja": "244年、陸遜は東呉の丞相に就任して孫権を補佐し、両宮の太子廃立の争いを直言して諫止したが、翌年憤死して建業で没した。"
     },
     {
       "dynastyKey": "xijin",
@@ -9464,8 +9905,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "琅琊临沂→建康",
       "siteEn": "Langya Linyi to Jiankang",
-      "zh": "王羲之随琅琊王氏衣冠南渡居建康乌衣巷，少学书博采众长",
-      "en": "Migrating south with the aristocratic Wang clan of Langya, young Wang Xizhi masters calligraphy"
+      "zh": "307年、王羲之は琅邪王氏と共に衣冠南渡し、建康の烏衣巷に住み、幼少より書を学び衆長を博採した。",
+      "en": "Migrating south with the aristocratic Wang clan of Langya, young Wang Xizhi masters calligraphy",
+      "ja": "307年、王羲之は琅邪王氏と共に衣冠南渡し、建康の烏衣巷に住み、幼少より書を学び衆長を博採した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -9476,8 +9918,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "剡县金庭（嵊州）",
       "siteEn": "Jinting (Shengzhou, Zhejiang)",
-      "zh": "王羲之誓墓辞官退居剡县金庭，遍游浙东山水安度晚年",
-      "en": "Swearing at his parents’ tomb never to serve again, Wang Xizhi retires among Zhejiang hills"
+      "zh": "355年、王羲之は誓墓して官を辞し、剡県金庭に隠居し、浙東の山水を遍遊して晩年を安らかに過ごした。",
+      "en": "Swearing at his parents’ tomb never to serve again, Wang Xizhi retires among Zhejiang hills",
+      "ja": "355年、王羲之は誓墓して官を辞し、剡県金庭に隠居し、浙東の山水を遍遊して晩年を安らかに過ごした。"
     },
     {
       "dynastyKey": "dongjin",
@@ -9488,8 +9931,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "庐山栗里（柴桑）",
       "siteEn": "Chestnut Lane, Mt. Lu",
-      "zh": "陶渊明归隐庐山栗里躬耕垄亩，赋“采菊东篱下，悠然见南山”",
-      "en": "Tao Yuanming farms beneath Mount Lu, writing Picking chrysanthemums by the eastern hedge"
+      "zh": "陶淵明は廬山栗里に隠棲し、自ら田畑を耕しながら、「采菊東籬下、悠然見南山」の詩を詠んだ。",
+      "en": "Tao Yuanming farms beneath Mount Lu, writing Picking chrysanthemums by the eastern hedge",
+      "ja": "陶淵明は廬山栗里に隠棲し、自ら田畑を耕しながら、「采菊東籬下、悠然見南山」の詩を詠んだ。"
     },
     {
       "dynastyKey": "beisong",
@@ -9500,8 +9944,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "陕州夏县涑水",
       "siteEn": "Xiaxian (Yuncheng, Shanxi)",
-      "zh": "少年司马光于庭院击破大瓮救出溺水幼童，“司马光砸缸”机智沉着传为美谈",
-      "en": "Young Sima Guang smashes a giant water vat with a stone to save a drowning playmate in Shanxi"
+      "zh": "少年時代の司馬光が庭で大きな甕を割って溺れた幼い友人を救った。この「司馬光砸缸」の逸話は、彼の機知と沈着さを伝える美談として後世に語り継がれた。",
+      "en": "Young Sima Guang smashes a giant water vat with a stone to save a drowning playmate in Shanxi",
+      "ja": "少年時代の司馬光が庭で大きな甕を割って溺れた幼い友人を救った。この「司馬光砸缸」の逸話は、彼の機知と沈着さを伝える美談として後世に語り継がれた。"
     },
     {
       "dynastyKey": "beisong",
@@ -9512,12 +9957,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封",
       "siteEn": "Kaifeng",
-      "zh": "翰林学士司马光与故友王安石三致长书激辩青苗新法利弊",
+      "zh": "翰林學士の司馬光は旧友の王安石と三度にわたる長文の書簡を交わし、青苗新法の利弊について激論を繰り広げた。",
       "en": "Sima Guang exchanges three famous letters with friend Wang Anshi debating fiscal reforms",
       "persons": [
         "simaguang",
         "wanganshi"
-      ]
+      ],
+      "ja": "翰林學士の司馬光は旧友の王安石と三度にわたる長文の書簡を交わし、青苗新法の利弊について激論を繰り広げた。"
     },
     {
       "dynastyKey": "nansong",
@@ -9528,8 +9974,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "绍兴沈园",
       "siteEn": "Shen Garden, Shaoxing",
-      "zh": "陆游春日重游绍兴沈园偶遇唐琬，题词《钗头凤》凄婉千古",
-      "en": "Revisiting Shen Garden in Shaoxing, Lu You meets former wife Tang Wan and brushes Phoenix Hairpin"
+      "zh": "陸游は春に紹興の沈園を再訪した際、偶然にも元妻の唐琬と出会い、その悲痛な思いを「釵頭鳳」の詞に託し、千古にわたる哀切な名作として残された。",
+      "en": "Revisiting Shen Garden in Shaoxing, Lu You meets former wife Tang Wan and brushes Phoenix Hairpin",
+      "ja": "陸游は春に紹興の沈園を再訪した際、偶然にも元妻の唐琬と出会い、その悲痛な思いを「釵頭鳳」の詞に託し、千古にわたる哀切な名作として残された。"
     },
     {
       "dynastyKey": "nansong",
@@ -9540,8 +9987,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "嘉州·蜀州（乐山崇州）",
       "siteEn": "Jiazhou & Shuzhou (Sichuan)",
-      "zh": "陆游权知嘉州、通判蜀州纵览巴蜀奇山异水，诗风雄放自号“放翁”",
-      "en": "Serving across western Sichuan, Lu You embraces a bold poetic style and takes the name Fangweng"
+      "zh": "陸游は嘉州の権知事、蜀州の通判を務め、巴蜀の奇山異水を巡覧した。その雄放な詩風から、自ら「放翁」と号した。",
+      "en": "Serving across western Sichuan, Lu You embraces a bold poetic style and takes the name Fangweng",
+      "ja": "陸游は嘉州の権知事、蜀州の通判を務め、巴蜀の奇山異水を巡覧した。その雄放な詩風から、自ら「放翁」と号した。"
     },
     {
       "dynastyKey": "ming",
@@ -9552,8 +10000,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "荆州江陵",
       "siteEn": "Jiangling (Jingzhou, Hubei)",
-      "zh": "张居正生于湖广江陵，十二岁考中秀才荆州知府李士翱奇之赐名“居正”",
-      "en": "Child prodigy Zhang Juzheng passes the prefectural exam at twelve in his native Jiangling"
+      "zh": "張居正は湖広の江陵に生まれ、十二歳で秀才に合格した。荊州知府の李士翱はその才を奇とし、「居正」の名を与えた。",
+      "en": "Child prodigy Zhang Juzheng passes the prefectural exam at twelve in his native Jiangling",
+      "ja": "張居正は湖広の江陵に生まれ、十二歳で秀才に合格した。荊州知府の李士翱はその才を奇とし、「居正」の名を与えた。"
     },
     {
       "dynastyKey": "ming",
@@ -9564,8 +10013,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵张文忠公祠",
       "siteEn": "Jiangling, Hubei",
-      "zh": "首辅张居正病逝归葬江陵，两年后遭清算抄家削谥",
-      "en": "Buried in Jiangling, Zhang Juzheng suffers posthumous impeachment as his reforms begin to unravel"
+      "zh": "首輔の張居正は病没し江陵に帰葬されたが、その二年後には清算され、家財を没収され、諡号を削られるに至った。",
+      "en": "Buried in Jiangling, Zhang Juzheng suffers posthumous impeachment as his reforms begin to unravel",
+      "ja": "首輔の張居正は病没し江陵に帰葬されたが、その二年後には清算され、家財を没収され、諡号を削られるに至った。"
     },
     {
       "dynastyKey": "qing",
@@ -9576,8 +10026,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泉州南安→南澳",
       "siteEn": "Nan'an & Nan'ao (Fujian)",
-      "zh": "父郑芝龙降清后，二十三岁的郑成功于南安孔庙焚烧儒服痛哭拜辞",
-      "en": "After his father submits to Qing, young Zheng Chenggong burns his scholar robes and raises a fleet"
+      "zh": "父の鄭芝龍が清に降伏した後、二十三歳の鄭成功は南安の孔廟で儒服を焼き、慟哭しながら別れを告げた。",
+      "en": "After his father submits to Qing, young Zheng Chenggong burns his scholar robes and raises a fleet",
+      "ja": "父の鄭芝龍が清に降伏した後、二十三歳の鄭成功は南安の孔廟で儒服を焼き、慟哭しながら別れを告げた。"
     },
     {
       "dynastyKey": "qing",
@@ -9588,8 +10039,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "中左所→思明州（厦门）",
       "siteEn": "Simingzhou (Xiamen, Fujian)",
-      "zh": "郑成功夺取厦门与金门并改厦门为“思明州”，整编五军水师与东西洋通商",
-      "en": "Zheng Chenggong bases his naval command at Xiamen, renaming it Siming Prefecture for overseas trade"
+      "zh": "鄭成功は廈門と金門を奪取し、廈門を「思明州」と改称した。彼は五軍水師を整編し、東西洋との通商を推進した。",
+      "en": "Zheng Chenggong bases his naval command at Xiamen, renaming it Siming Prefecture for overseas trade",
+      "ja": "鄭成功は廈門と金門を奪取し、廈門を「思明州」と改称した。彼は五軍水師を整編し、東西洋との通商を推進した。"
     },
     {
       "dynastyKey": "qin",
@@ -9600,8 +10052,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "陈县（淮阳）",
       "siteEn": "Chenxian (Huaiyang, Henan)",
-      "zh": "陈胜率起义军攻克楚故都陈县自立为王，国号“张楚”",
-      "en": "Chen Sheng captures ancient Chu capital Chenxian and proclaims the Kingdom of Rising Chu"
+      "zh": "陳勝は起義軍を率いて楚の旧都である陳県を攻略し、自ら王を称して国号を「張楚」とした。",
+      "en": "Chen Sheng captures ancient Chu capital Chenxian and proclaims the Kingdom of Rising Chu",
+      "ja": "陳勝は起義軍を率いて楚の旧都である陳県を攻略し、自ら王を称して国号を「張楚」とした。"
     },
     {
       "dynastyKey": "qin",
@@ -9612,8 +10065,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "城父（亳州东南）",
       "siteEn": "Chengfu (Bozhou, Anhui)",
-      "zh": "秦将章邯大破张楚西进军，陈胜退至下城父遭车夫庄贾背叛遇害，葬砀山",
-      "en": "Hard-pressed by Qin general Zhang Han, rebel king Chen Sheng is slain by his driver at Chengfu"
+      "zh": "秦将の章邯が張楚の西進軍を大破した。陳勝は下城父に退却したが、車夫の荘賈に裏切られて殺害され、碭山に葬られた。",
+      "en": "Hard-pressed by Qin general Zhang Han, rebel king Chen Sheng is slain by his driver at Chengfu",
+      "ja": "秦将の章邯が張楚の西進軍を大破した。陳勝は下城父に退却したが、車夫の荘賈に裏切られて殺害され、碭山に葬られた。"
     },
     {
       "dynastyKey": "donghan",
@@ -9624,8 +10078,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安未央宫门",
       "siteEn": "Chang'an",
-      "zh": "司徒王允设连环计策反中郎将吕布，于未央宫掖门诛杀专权乱政之董卓",
-      "en": "Minister Wang Yun persuades warrior Lü Bu to slay tyrant Dong Zhuo at Weiyang Palace in Chang'an"
+      "zh": "司徒の王允は連環の計を設け、中郎将の呂布を策反させ、未央宮の掖門で専横な政治を行った董卓を誅殺した。",
+      "en": "Minister Wang Yun persuades warrior Lü Bu to slay tyrant Dong Zhuo at Weiyang Palace in Chang'an",
+      "ja": "司徒の王允は連環の計を設け、中郎将の呂布を策反させ、未央宮の掖門で専横な政治を行った董卓を誅殺した。"
     },
     {
       "dynastyKey": "donghan",
@@ -9636,7 +10091,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "徐州辕门",
       "siteEn": "Xuzhou",
-      "zh": "辕门射戟：吕布百五十步外射中戟支，化解纪灵攻刘备之围",
+      "zh": "轅門射戟：呂布が百五十歩の距離から戟の穂先に命中させ、紀霊による劉備攻囲の危機を解消した。",
       "en": "Shooting the Halberd at Camp Gate: Lü Bu hits a halberd prong from 150 paces to save Liu Bei",
       "persons": [
         "lvbu",
@@ -9644,7 +10099,8 @@ window.ATLAS_LORE_DATA = {
         "guanyu",
         "zhangfei"
       ],
-      "month": 4
+      "month": 4,
+      "ja": "轅門射戟：呂布が百五十歩の距離から戟の穂先に命中させ、紀霊による劉備攻囲の危機を解消した。"
     },
     {
       "dynastyKey": "donghan",
@@ -9655,8 +10111,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "界桥（威县）",
       "siteEn": "Jieqiao (Hebei)",
-      "zh": "界桥之战：袁绍命麴义以八百先登强弩大破公孙瓒白马义从",
-      "en": "Battle of Jieqiao: Yuan Shao's crossbowmen crush Gongsun Zan's cavalry, winning control of Hebei"
+      "zh": "界橋の戦い：袁紹は麴義に八百の先登強弩兵をもって公孫瓚の白馬義従を大破させた。",
+      "en": "Battle of Jieqiao: Yuan Shao's crossbowmen crush Gongsun Zan's cavalry, winning control of Hebei",
+      "ja": "界橋の戦い：袁紹は麴義に八百の先登強弩兵をもって公孫瓚の白馬義従を大破させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -9667,8 +10124,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "易京（雄县）",
       "siteEn": "Yijing (Xiongxian, Hebei)",
-      "zh": "袁绍掘地道攻破公孙瓒易京铁楼，尽并幽冀青并四州带甲百万",
-      "en": "Yuan Shao storms Gongsun Zan's fortress at Yijing, uniting the four northern provinces of Han"
+      "zh": "袁紹は坑道を掘って公孫瓚の易京の鉄楼を攻め破り、幽・冀・青・并の四州を併呑して百万の兵力を擁した。",
+      "en": "Yuan Shao storms Gongsun Zan's fortress at Yijing, uniting the four northern provinces of Han",
+      "ja": "袁紹は坑道を掘って公孫瓚の易京の鉄楼を攻め破り、幽・冀・青・并の四州を併呑して百万の兵力を擁した。"
     },
     {
       "dynastyKey": "donghan",
@@ -9679,7 +10137,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汉水偃月营（汉中）",
       "siteEn": "Han River Camp (Hanzhong)",
-      "zh": "汉水之战：赵云救黄忠后大开营门偃旗息鼓，退曹操追兵",
+      "zh": "漢水の戦い：趙雲は黄忠を救出した後、陣門を大きく開け偃旗息鼓の計を用いて、曹操の追撃兵を退けた。",
       "en": "Zhao Yun flings wide his camp gates by the Han River in an empty-camp bluff against Cao Cao's host",
       "persons": [
         "liubei",
@@ -9688,7 +10146,8 @@ window.ATLAS_LORE_DATA = {
         "zhaoyun",
         "zhangfei"
       ],
-      "month": 5
+      "month": 5,
+      "ja": "漢水の戦い：趙雲は黄忠を救出した後、陣門を大きく開け偃旗息鼓の計を用いて、曹操の追撃兵を退けた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -9699,12 +10158,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "箕谷（褒城北）",
       "siteEn": "Jigu Valley (Shaanxi)",
-      "zh": "年近六旬的镇东将军赵云与邓芝设疑兵据箕谷牵制曹真主力",
+      "zh": "六十歳に近かった鎮東将軍趙雲は鄧芝と共に、箕谷に疑兵を配置して曹真の主力軍を牽制した。",
       "en": "Sixty-year-old veteran Zhao Yun holds Jigu Valley as decoy force and retreats in intact order",
       "persons": [
         "zhaoyun",
         "zhugeliang"
-      ]
+      ],
+      "ja": "六十歳に近かった鎮東将軍趙雲は鄧芝と共に、箕谷に疑兵を配置して曹真の主力軍を牽制した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -9715,8 +10175,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洮西（临洮）",
       "siteEn": "Taoxi (Lintao, Gansu)",
-      "zh": "洮西之战：姜维背水列阵大破曹魏雍州刺史王经斩首数万",
-      "en": "Battle of Taoxi: Shu general Jiang Wei wins a major victory routing Wei governor Wang Jing"
+      "zh": "洮西の戦い：姜維は背水の陣を敷いて曹魏の雍州刺史王経を大破し、数万を斬首した。",
+      "en": "Battle of Taoxi: Shu general Jiang Wei wins a major victory routing Wei governor Wang Jing",
+      "ja": "洮西の戦い：姜維は背水の陣を敷いて曹魏の雍州刺史王経を大破し、数万を斬首した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -9727,13 +10188,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "阴平摩天岭→绵竹",
       "siteEn": "Yinping Trail & Mianzhu",
-      "zh": "征西将军邓艾率精兵自阴平无人之地裹毡滚崖七百里奇袭江油",
+      "zh": "征西将軍鄧艾は精兵を率い、陰平の無人地帯から氈に身を包んで崖を転がり七百里を進み、江油を奇襲した。",
       "en": "Wei general Deng Ai wraps soldiers in felt to roll down sheer cliffs along Yinping Trail",
       "month": 5,
       "persons": [
         "jiangwei",
         "dengai"
-      ]
+      ],
+      "ja": "征西将軍鄧艾は精兵を率い、陰平の無人地帯から氈に身を包んで崖を転がり七百里を進み、江油を奇襲した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -9744,8 +10206,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广陵·京口",
       "siteEn": "Guangling & Jingkou (Yangzhou / Zhenjiang)",
-      "zh": "兖州刺史谢玄于广陵京口募北方流民劲卒组建“北府兵”",
-      "en": "Xie Xuan recruits northern refugees at Guangling and Jingkou to forge the elite Northern Garrison"
+      "zh": "兗州刺史謝玄は廣陵と京口で北方からの流民や精鋭兵を募り、「北府兵」を組織した。",
+      "en": "Xie Xuan recruits northern refugees at Guangling and Jingkou to forge the elite Northern Garrison",
+      "ja": "兗州刺史謝玄は廣陵と京口で北方からの流民や精鋭兵を募り、「北府兵」を組織した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -9756,8 +10219,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳·青兖",
       "siteEn": "Luoyang & Shandong",
-      "zh": "淝水大捷后谢玄乘胜北伐，收复兖青司豫四州及洛阳诸陵",
-      "en": "Pressing his Fei River triumph, Xie Xuan marches north to recover Henan, Shandong, and Luoyang"
+      "zh": "淝水の戦いでの大勝後、謝玄は勢いに乗じて北伐を行い、兗・青・司・豫の四州および洛陽の諸陵を回復した。",
+      "en": "Pressing his Fei River triumph, Xie Xuan marches north to recover Henan, Shandong, and Luoyang",
+      "ja": "淝水の戦いでの大勝後、謝玄は勢いに乗じて北伐を行い、兗・青・司・豫の四州および洛陽の諸陵を回復した。"
     },
     {
       "dynastyKey": "tang",
@@ -9768,8 +10232,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州→桂州",
       "siteEn": "Guangzhou & Guilin",
-      "zh": "黄巢转战岭南攻占广州，旋自桂州编筏沿湘江北进荆襄",
-      "en": "Rebel commander Huang Chao captures Guangzhou in the far south before rafting north into Hubei"
+      "zh": "黄巣は嶺南を転戦して廣州を攻め落とし、その後、桂州から筏を組んで湘江に沿って北上し荊襄地方へ進出した。",
+      "en": "Rebel commander Huang Chao captures Guangzhou in the far south before rafting north into Hubei",
+      "ja": "黄巣は嶺南を転戦して廣州を攻め落とし、その後、桂州から筏を組んで湘江に沿って北上し荊襄地方へ進出した。"
     },
     {
       "dynastyKey": "ming",
@@ -9780,8 +10245,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "元大都→北平",
       "siteEn": "Dadu / Beiping (Beijing)",
-      "zh": "大将军徐达与常遇春北伐攻克元大都，改置北平府",
-      "en": "Ming generals Xu Da and Chang Yuchun capture Yuan capital Dadu and rename it Beiping Prefecture"
+      "zh": "大将軍徐達と常遇春は北伐を行い元の大都を攻め落とし、北平府と改称した。",
+      "en": "Ming generals Xu Da and Chang Yuchun capture Yuan capital Dadu and rename it Beiping Prefecture",
+      "ja": "大将軍徐達と常遇春は北伐を行い元の大都を攻め落とし、北平府と改称した。"
     },
     {
       "dynastyKey": "ming",
@@ -9792,13 +10258,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "宁远→盛京（兴城沈阳）",
       "siteEn": "Ningyuan & Mukden (Shenyang)",
-      "zh": "努尔哈赤攻宁远受挫，同年八月病逝于沈阳近郊叆鸡堡",
+      "zh": "ヌルハチは寧遠城攻めで挫折し、同年八月、沈陽近郊の叆鶏堡で病死した。",
       "en": "Repulsed at Ningyuan, Nurhaci dies that August near Mukden (Shenyang)",
       "persons": [
         "yuanchonghuan",
         "nurhaci",
         "huangtaiji"
-      ]
+      ],
+      "ja": "ヌルハチは寧遠城攻めで挫折し、同年八月、沈陽近郊の叆鶏堡で病死した。"
     },
     {
       "dynastyKey": "ming",
@@ -9809,8 +10276,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "松山·锦州",
       "siteEn": "Songshan & Jinzhou (Liaoning)",
-      "zh": "松锦大战：皇太极围点打援生擒明督师洪承畴与大将祖大寿",
-      "en": "Battle of Song-Jin: Hong Taiji crushes the last Ming field armies outside Shanhaiguan Pass"
+      "zh": "1642年、松錦大戦において、皇太極は明の督師洪承疇と大将祖大壽を包囲し、援軍を撃破して生け捕りにした。",
+      "en": "Battle of Song-Jin: Hong Taiji crushes the last Ming field armies outside Shanhaiguan Pass",
+      "ja": "1642年、松錦大戦において、皇太極は明の督師洪承疇と大将祖大壽を包囲し、援軍を撃破して生け捕りにした。"
     },
     {
       "dynastyKey": "qing",
@@ -9821,8 +10289,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "云贵川边区",
       "siteEn": "Yunnan, Guizhou & Guangxi",
-      "zh": "雍正帝重用鄂尔泰于西南大规模推行“改土归流”",
-      "en": "Yongzheng Emperor empowers Ortai to replace hereditary chieftains with regular prefectures"
+      "zh": "雍正帝は鄂爾泰を重用し、西南地方で大規模な「改土帰流」を推し進めた。",
+      "en": "Yongzheng Emperor empowers Ortai to replace hereditary chieftains with regular prefectures",
+      "ja": "雍正帝は鄂爾泰を重用し、西南地方で大規模な「改土帰流」を推し進めた。"
     },
     {
       "dynastyKey": "qing",
@@ -9833,8 +10302,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "天京（南京）",
       "siteEn": "Tianjing (Nanjing)",
-      "zh": "洪秀全统太平军顺长江东下攻占江宁改名“天京”定为都城",
-      "en": "Hong Xiuquan captures Nanjing, renames it Heavenly Capital Tianjing, and proclaims land reform"
+      "zh": "1853年、洪秀全は太平軍を率いて長江を下り、江寧を攻め落とし「天京」と改名して都とした。",
+      "en": "Hong Xiuquan captures Nanjing, renames it Heavenly Capital Tianjing, and proclaims land reform",
+      "ja": "1853年、洪秀全は太平軍を率いて長江を下り、江寧を攻め落とし「天京」と改名して都とした。"
     },
     {
       "dynastyKey": "qing",
@@ -9845,14 +10315,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "天京陷落（南京）",
       "siteEn": "Tianjing (Nanjing)",
-      "zh": "洪秀全在曾国荃湘军合围断粮中病逝，月余湘军轰塌城墙攻陷天京",
+      "zh": "1864年、洪秀全は曾國荃率いる湘軍の包囲と兵糧攻めの中で病死し、その一ヶ月余り後、湘軍は城壁を破壊して天京を陥落させた。",
       "en": "Hong Xiuquan dies during the siege of Nanjing shortly before Hunan Army sappers breach the walls",
       "persons": [
         "zengguofan",
         "hongxiuquan",
         "lihongzhang",
         "zuozongtang"
-      ]
+      ],
+      "ja": "1864年、洪秀全は曾國荃率いる湘軍の包囲と兵糧攻めの中で病死し、その一ヶ月余り後、湘軍は城壁を破壊して天京を陥落させた。"
     },
     {
       "dynastyKey": "xihan",
@@ -9864,8 +10335,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "留县（沛县东南）",
       "siteEn": "Liu County (Peixian)",
-      "zh": "刘邦赞张良“运筹帷帐之中，决胜千里之外”，封为留侯",
-      "en": "Liu Bang praises Zhang Liang for winning battles a thousand li away and enfeoffs him at Liu"
+      "zh": "前201年、劉邦は張良を「帷幄の中に計を巡らし、千里の外に勝利を決す」と称賛し、留侯に封じた。",
+      "en": "Liu Bang praises Zhang Liang for winning battles a thousand li away and enfeoffs him at Liu",
+      "ja": "前201年、劉邦は張良を「帷幄の中に計を巡らし、千里の外に勝利を決す」と称賛し、留侯に封じた。"
     },
     {
       "dynastyKey": "donghan",
@@ -9876,8 +10348,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "巴丘（岳阳）",
       "siteEn": "Baqiu (Yueyang)",
-      "zh": "东吴大都督周瑜西取巴蜀途中病逝巴丘，临终荐鲁肃自代",
-      "en": "Eastern Wu commander Zhou Yu dies aged 36 at Baqiu on the march to Shu, recommending Lu Su"
+      "zh": "東呉の大都督周瑜は、巴蜀を西征する途上、巴丘にて病没し、臨終に際して魯粛を後任に推挙した。",
+      "en": "Eastern Wu commander Zhou Yu dies aged 36 at Baqiu on the march to Shu, recommending Lu Su",
+      "ja": "東呉の大都督周瑜は、巴蜀を西征する途上、巴丘にて病没し、臨終に際して魯粛を後任に推挙した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -9888,8 +10361,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "寿春（淮南）",
       "siteEn": "Shouchun (Huainan)",
-      "zh": "邓艾著《济河论》，主持淮南屯田开广漕渠，积粮平吴灭蜀",
-      "en": "Deng Ai authors On Canal Irrigation and builds vast military-farm colonies across Huainan"
+      "zh": "243年、鄧艾は『済河論』を著し、淮南で屯田を主宰して漕渠を拡張し、呉平定と蜀滅亡のための兵糧を蓄えた。",
+      "en": "Deng Ai authors On Canal Irrigation and builds vast military-farm colonies across Huainan",
+      "ja": "243年、鄧艾は『済河論』を著し、淮南で屯田を主宰して漕渠を拡張し、呉平定と蜀滅亡のための兵糧を蓄えた。"
     },
     {
       "dynastyKey": "dongjin",
@@ -9900,13 +10374,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "枋头（浚县）",
       "siteEn": "Fangtou (Xunxian)",
-      "zh": "桓温第三次北伐前燕进抵枋头，遭慕容垂断粮大败而还",
+      "zh": "369年、桓温は第三次北伐で前燕に侵攻し枋頭まで進んだが、慕容垂に兵糧を断たれて大敗し撤退した。",
       "en": "Huan Wen leads 50,000 Jin troops north to Fangtou, where Murong Chui cuts his supply lines",
       "persons": [
         "huanwen",
         "xiean",
         "xiexuan"
-      ]
+      ],
+      "ja": "369年、桓温は第三次北伐で前燕に侵攻し枋頭まで進んだが、慕容垂に兵糧を断たれて大敗し撤退した。"
     },
     {
       "dynastyKey": "ming",
@@ -9918,12 +10393,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "喜峰口→京师广渠门",
       "siteEn": "Xifengkou / Beijing",
-      "zh": "己巳之变：皇太极绕道破喜峰口逼北京，袁崇焕驰援广渠门",
+      "zh": "1629年、己巳の変において、皇太極は喜峰口を迂回して突破し北京に迫り、袁崇煥は廣渠門へ急行して救援した。",
       "en": "Jisi Incident: Hong Taiji bypasses Shanhaiguan to besiege Beijing; Yuan Chonghuan defends the gates",
       "persons": [
         "yuanchonghuan",
         "huangtaiji"
-      ]
+      ],
+      "ja": "1629年、己巳の変において、皇太極は喜峰口を迂回して突破し北京に迫り、袁崇煥は廣渠門へ急行して救援した。"
     },
     {
       "dynastyKey": "tang",
@@ -9935,8 +10411,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳宫",
       "siteEn": "Luoyang Palace",
-      "zh": "安禄山据洛阳称燕帝后双目失明，正月为子安庆绪夜袭所弑",
-      "en": "Blind and tyrannical in Luoyang, Yan emperor An Lushan is assassinated at night by his son"
+      "zh": "757年、洛陽を拠点に燕帝を称した安祿山は双目を失明し、正月、子の安慶緒に夜襲されて殺害された。",
+      "en": "Blind and tyrannical in Luoyang, Yan emperor An Lushan is assassinated at night by his son",
+      "ja": "757年、洛陽を拠点に燕帝を称した安祿山は双目を失明し、正月、子の安慶緒に夜襲されて殺害された。"
     },
     {
       "dynastyKey": "beisong",
@@ -9948,8 +10425,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金陵（江宁）",
       "siteEn": "Jinling (Nanjing)",
-      "zh": "南唐太子李煜于金陵嗣位，词章书画名冠五代十国",
-      "en": "Li Yu ascends the Southern Tang throne in Jinling, presiding over a refined court of poetry and art"
+      "zh": "961年、南唐の太子李煜は金陵で即位し、その詞章、書画は五代十国時代に冠たる名声を得た。",
+      "en": "Li Yu ascends the Southern Tang throne in Jinling, presiding over a refined court of poetry and art",
+      "ja": "961年、南唐の太子李煜は金陵で即位し、その詞章、書画は五代十国時代に冠たる名声を得た。"
     },
     {
       "dynastyKey": "beisong",
@@ -9961,8 +10439,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汴京（开封）",
       "siteEn": "Bianjing (Kaifeng)",
-      "zh": "七夕之夜李煜于汴京歌《虞美人》追怀故国，旋卒于开封",
-      "en": "Captive in Kaifeng on Qixi night, Li Yu composes his immortal lyric Yu Meiren before his death"
+      "zh": "978年、七夕の夜、李煜は汴京で『虞美人』を詠んで故国を追懐し、間もなく開封で死去した。",
+      "en": "Captive in Kaifeng on Qixi night, Li Yu composes his immortal lyric Yu Meiren before his death",
+      "ja": "978年、七夕の夜、李煜は汴京で『虞美人』を詠んで故国を追懐し、間もなく開封で死去した。"
     },
     {
       "dynastyKey": "qin",
@@ -9974,8 +10453,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "下城父（今安徽涡阳）",
       "siteEn": "Xiachengfu (Guoyang, Anhui)",
-      "zh": "秦将章邯破张楚军，陈胜退至下城父遇害，葬于芒砀山",
-      "en": "Defeated by Qin general Zhang Han, rebel king Chen Sheng is betrayed at Xiachengfu"
+      "zh": "前208年、秦の将軍章邯が張楚軍を破り、陳勝は下城父に退却したがそこで殺害され、芒砀山に葬られた。",
+      "en": "Defeated by Qin general Zhang Han, rebel king Chen Sheng is betrayed at Xiachengfu",
+      "ja": "前208年、秦の将軍章邯が張楚軍を破り、陳勝は下城父に退却したがそこで殺害され、芒砀山に葬られた。"
     },
     {
       "dynastyKey": "ming",
@@ -9986,8 +10466,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "开封（巡抚河南山西）",
       "siteEn": "Kaifeng (Henan & Shanxi)",
-      "zh": "于谦巡抚河南山西十九载，平反冤狱赈济灾黎，赋诗“两袖清风”",
-      "en": "Yu Qian governs Henan and Shanxi nineteen years with incorruptible integrity and famine relief"
+      "zh": "1430年、于謙は河南・山西両省の巡撫を19年間務め、冤罪を晴らし、被災者を救済した。その清廉潔白な姿勢は「両袖清風」の詩に詠まれた。",
+      "en": "Yu Qian governs Henan and Shanxi nineteen years with incorruptible integrity and famine relief",
+      "ja": "1430年、于謙は河南・山西両省の巡撫を19年間務め、冤罪を晴らし、被災者を救済した。その清廉潔白な姿勢は「両袖清風」の詩に詠まれた。"
     },
     {
       "dynastyKey": "ming",
@@ -9999,8 +10480,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京德胜门",
       "siteEn": "Desheng Gate, Beijing",
-      "zh": "北京保卫战：于谦亲督二十二万军背城血战，于德胜门大破瓦剌也先",
-      "en": "Defense of Beijing: Yu Qian rallies 220,000 troops outside Desheng Gate to rout Esen's host"
+      "zh": "1449年、北京防衛戦において、于謙は22万の軍を自ら指揮し、城を背にして血戦を展開。德勝門で瓦剌の也先を大いに破った。",
+      "en": "Defense of Beijing: Yu Qian rallies 220,000 troops outside Desheng Gate to rout Esen's host",
+      "ja": "1449年、北京防衛戦において、于謙は22万の軍を自ら指揮し、城を背にして血戦を展開。德勝門で瓦剌の也先を大いに破った。"
     },
     {
       "dynastyKey": "qing",
@@ -10011,8 +10493,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "昆明（云贵总督署）",
       "siteEn": "Kunming (Yunnan)",
-      "zh": "林则徐任云贵总督平定滇西纷争整顿边防，旋奉诏督师卒于普宁",
-      "en": "Appointed Viceroy of Yun-Gui in Kunming, Lin Zexu pacifies frontier unrest and strengthens defenses"
+      "zh": "1847年、林則徐は雲貴総督に任じられ、昆明で滇西の紛争を平定し、辺境防衛を強化した。その後、詔を奉じて軍を監督中に普寧で死去した。",
+      "en": "Appointed Viceroy of Yun-Gui in Kunming, Lin Zexu pacifies frontier unrest and strengthens defenses",
+      "ja": "1847年、林則徐は雲貴総督に任じられ、昆明で滇西の紛争を平定し、辺境防衛を強化した。その後、詔を奉じて軍を監督中に普寧で死去した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -10023,8 +10506,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大梁（今河南开封）",
       "siteEn": "Daliang (Kaifeng, Henan)",
-      "zh": "孟子游魏都大梁见梁惠王，首倡“何必曰利，亦有仁义而已矣”",
-      "en": "Mencius visits King Hui of Liang in Daliang, advocating benevolent governance over narrow profit"
+      "zh": "前320年、孟子は魏の都大梁を訪れ梁惠王に謁見し、「何必曰利、亦有仁義而已矣（どうして利益ばかりを口にするのか、ただ仁義があるだけだ）」と初めて提唱した。",
+      "en": "Mencius visits King Hui of Liang in Daliang, advocating benevolent governance over narrow profit",
+      "ja": "前320年、孟子は魏の都大梁を訪れ梁惠王に謁見し、「何必曰利、亦有仁義而已矣（どうして利益ばかりを口にするのか、ただ仁義があるだけだ）」と初めて提唱した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -10035,8 +10519,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临淄稷下学宫",
       "siteEn": "Jixia Academy, Linzi",
-      "zh": "孟子适齐任客卿游学稷下学宫，向齐宣王系统阐述王道与民本思想",
-      "en": "Serving as senior scholar at Linzi's Jixia Academy, Mencius expounds humane kingship to King Xuan"
+      "zh": "孟子は斉に赴き客卿として稷下學宮に遊学し、斉宣王に王道と民本思想を体系的に闡述した。",
+      "en": "Serving as senior scholar at Linzi's Jixia Academy, Mencius expounds humane kingship to King Xuan",
+      "ja": "孟子は斉に赴き客卿として稷下學宮に遊学し、斉宣王に王道と民本思想を体系的に闡述した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -10047,8 +10532,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邹邑（今山东邹城）",
       "siteEn": "Zou (Zoucheng, Shandong)",
-      "zh": "孟子去齐返故里邹邑讲学终老，与万章诸弟子编撰《孟子》七篇",
-      "en": "Returning home to Zou, Mencius teaches disciples and compiles the seven-book classic Mencius"
+      "zh": "孟子は斉を去り故郷の鄒邑に帰り講学して生涯を終え、萬章ら諸弟子と共に『孟子』七篇を編纂した。",
+      "en": "Returning home to Zou, Mencius teaches disciples and compiles the seven-book classic Mencius",
+      "ja": "孟子は斉を去り故郷の鄒邑に帰り講学して生涯を終え、萬章ら諸弟子と共に『孟子』七篇を編纂した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10060,8 +10546,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邺城丞相府（今河北临漳）",
       "siteEn": "Ye City (Linzhang, Hebei)",
-      "zh": "曹操任丞相辟河内司马懿为文学掾，随幕府参赞军谋",
-      "en": "Chancellor Cao Cao summons Sima Yi of Henei to Ye as literary clerk and military advisor"
+      "zh": "曹操は丞相に任じられると、河内の司馬懿を文學掾として招き、幕府に随行して軍謀に参画させた。",
+      "en": "Chancellor Cao Cao summons Sima Yi of Henei to Ye as literary clerk and military advisor",
+      "ja": "曹操は丞相に任じられると、河内の司馬懿を文學掾として招き、幕府に随行して軍謀に参画させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -10073,8 +10560,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "合肥逍遥津（今安徽合肥）",
       "siteEn": "Xiaoyao Ford, Hefei (Anhui)",
-      "zh": "合肥之战：张辽率八百勇士冲阵大破孙权十万军，威震逍遥津",
-      "en": "Battle of Hefei: Zhang Liao leads 800 vanguard riders to rout Sun Quan's army at Xiaoyao Ford"
+      "zh": "215年、合肥の戦いにおいて、張遼は800の勇士を率いて敵陣に突撃し、孫権の10万の軍を大いに破り、逍遙津にその威名を轟かせた。",
+      "en": "Battle of Hefei: Zhang Liao leads 800 vanguard riders to rout Sun Quan's army at Xiaoyao Ford",
+      "ja": "215年、合肥の戦いにおいて、張遼は800の勇士を率いて敵陣に突撃し、孫権の10万の軍を大いに破り、逍遙津にその威名を轟かせた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -10086,8 +10574,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上庸新城（今湖北竹山）",
       "siteEn": "Xincheng, Shangyong (Zhushan, Hubei)",
-      "zh": "司马懿自宛城八日急行千二百里，奇袭上庸新城斩叛将孟达",
-      "en": "Sima Yi marches 1,200 li from Wan in eight days, storming Xincheng to capture rebel Meng Da"
+      "zh": "228年、司馬懿は宛城から八日間で1200里を急行し、上庸新城を奇襲して叛将孟達を斬った。",
+      "en": "Sima Yi marches 1,200 li from Wan in eight days, storming Xincheng to capture rebel Meng Da",
+      "ja": "228年、司馬懿は宛城から八日間で1200里を急行し、上庸新城を奇襲して叛将孟達を斬った。"
     },
     {
       "dynastyKey": "sanguo",
@@ -10099,8 +10588,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "樊城（今湖北襄阳）",
       "siteEn": "Fancheng (Xiangyang, Hubei)",
-      "zh": "东吴四路攻魏，太尉司马懿亲率轻骑疾驰南下解樊城之围",
-      "en": "Grand Commandant Sima Yi leads light cavalry south to relieve besieged Fancheng from Wu forces"
+      "zh": "東呉が四路から魏を攻撃した際、太尉司馬懿は自ら軽騎兵を率いて南下を急ぎ、樊城の包囲を解いた。",
+      "en": "Grand Commandant Sima Yi leads light cavalry south to relieve besieged Fancheng from Wu forces",
+      "ja": "東呉が四路から魏を攻撃した際、太尉司馬懿は自ら軽騎兵を率いて南下を急ぎ、樊城の包囲を解いた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -10111,8 +10601,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康（今江苏南京）",
       "siteEn": "Jiankang (Nanjing, Jiangsu)",
-      "zh": "祖冲之于建康推算圆周率至小数点后七位，创制《大明历》",
-      "en": "Zu Chongzhi calculates pi to seven decimal places in Jiankang and compiles the Daming Calendar"
+      "zh": "462年、祖冲之は建康で円周率を小数点以下七桁まで算出し、『大明暦』を創制した。",
+      "en": "Zu Chongzhi calculates pi to seven decimal places in Jiankang and compiles the Daming Calendar",
+      "ja": "462年、祖冲之は建康で円周率を小数点以下七桁まで算出し、『大明暦』を創制した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -10123,8 +10614,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "青州益都（今山东青州）",
       "siteEn": "Qingzhou (Shandong)",
-      "zh": "高阳太守贾思勰总结北方农牧经验，撰成农学巨著《齐民要术》",
-      "en": "Governor Jia Sixie compiles Qimin Yaoshu in Shandong, the earliest intact Chinese agronomy manual"
+      "zh": "高陽太守の賈思勰が北方の農牧経験をまとめ、農学の巨著『齊民要術』を撰述した。",
+      "en": "Governor Jia Sixie compiles Qimin Yaoshu in Shandong, the earliest intact Chinese agronomy manual",
+      "ja": "高陽太守の賈思勰が北方の農牧経験をまとめ、農学の巨著『齊民要術』を撰述した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -10135,8 +10627,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康台城（今江苏南京）",
       "siteEn": "Taicheng Palace, Jiankang (Nanjing)",
-      "zh": "侯景攻陷建康台城，八十六岁的梁武帝萧衍饥病交加饿死台城",
-      "en": "Rebel general Hou Jing storms Jiankang Palace, where aged Emperor Wu of Liang starves to death"
+      "zh": "侯景が建康臺城を攻め落とし、八十六歳の梁武帝蕭衍は飢えと病に苦しみ臺城で餓死した。",
+      "en": "Rebel general Hou Jing storms Jiankang Palace, where aged Emperor Wu of Liang starves to death",
+      "ja": "侯景が建康臺城を攻め落とし、八十六歳の梁武帝蕭衍は飢えと病に苦しみ臺城で餓死した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -10147,8 +10640,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳金墉城（今河南洛阳）",
       "siteEn": "Jinyong Fortress, Luoyang",
-      "zh": "邙山之战兰陵王高长恭率五百骑破周军解围，军中作《兰陵王入阵曲》",
-      "en": "Prince of Lanling Gao Changgong breaks the siege of Luoyang with 500 riders, inspiring a battle hymn"
+      "zh": "邙山の戦いにおいて、蘭陵王高長恭が五百騎を率いて周軍を破り包囲を解いた。軍中では『蘭陵王入陣曲』が作られた。",
+      "en": "Prince of Lanling Gao Changgong breaks the siege of Luoyang with 500 riders, inspiring a battle hymn",
+      "ja": "邙山の戦いにおいて、蘭陵王高長恭が五百騎を率いて周軍を破り包囲を解いた。軍中では『蘭陵王入陣曲』が作られた。"
     },
     {
       "dynastyKey": "sui",
@@ -10160,8 +10654,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "荥阳洛口仓（今河南郑州巩义）",
       "siteEn": "Luokou Granary, Xingyang (Henan)",
-      "zh": "瓦岗军翟让、李密攻克兴洛仓开仓赈粮，秦叔宝程咬金归附",
-      "en": "Wagang rebels Zhai Rang and Li Mi seize Luokou Granary to feed the poor as heroes rally to their banner"
+      "zh": "瓦崗軍の翟讓と李密が興洛倉を攻め落とし、倉を開いて食糧を賑恤した。秦叔寶と程咬金がこれに帰順した。",
+      "en": "Wagang rebels Zhai Rang and Li Mi seize Luokou Granary to feed the poor as heroes rally to their banner",
+      "ja": "瓦崗軍の翟讓と李密が興洛倉を攻め落とし、倉を開いて食糧を賑恤した。秦叔寶と程咬金がこれに帰順した。"
     },
     {
       "dynastyKey": "tang",
@@ -10172,8 +10667,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "天山·金山（今阿尔泰山南麓）",
       "siteEn": "Altai / Tianshan Frontier",
-      "zh": "薛仁贵北征九姓铁勒“三箭定天山”，军中传唱长歌入汉关",
-      "en": "Xue Rengui fells three Tiele chieftains with three arrows, pacifying the northern steppe frontier"
+      "zh": "薛仁貴が九姓鐵勒を北征し、「三箭で天山を定めた」と称された。軍中では長歌が漢關へと伝唱された。",
+      "en": "Xue Rengui fells three Tiele chieftains with three arrows, pacifying the northern steppe frontier",
+      "ja": "薛仁貴が九姓鐵勒を北征し、「三箭で天山を定めた」と称された。軍中では長歌が漢關へと伝唱された。"
     },
     {
       "dynastyKey": "tang",
@@ -10184,8 +10680,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洪州滕王阁（今江西南昌）",
       "siteEn": "Pavilion of Prince Teng, Nanchang",
-      "zh": "王勃省亲过洪州登滕王阁，即席挥毫赋千古骈文《滕王阁序》",
-      "en": "Young poet Wang Bo composes the immortal Preface to the Pavilion of Prince Teng at Nanchang banquet"
+      "zh": "王勃が省親のため洪州を訪れ滕王閣に登り、即席で筆を揮い千古の駢文『滕王閣序』を賦した。",
+      "en": "Young poet Wang Bo composes the immortal Preface to the Pavilion of Prince Teng at Nanchang banquet",
+      "ja": "王勃が省親のため洪州を訪れ滕王閣に登り、即席で筆を揮い千古の駢文『滕王閣序』を賦した。"
     },
     {
       "dynastyKey": "beisong",
@@ -10196,8 +10693,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京汴梁（今河南开封）",
       "siteEn": "Dongjing Bianliang (Kaifeng, Henan)",
-      "zh": "布衣毕昇于汴京发明胶泥活字印刷术，后载入《梦溪笔谈》传世",
-      "en": "Artisan Bi Sheng invents ceramic movable-type printing in Kaifeng, recorded in Dream Pool Essays"
+      "zh": "布衣の畢昇が汴京で膠泥活字印刷術を発明し、後に『夢溪筆談』に記載され後世に伝えられた。",
+      "en": "Artisan Bi Sheng invents ceramic movable-type printing in Kaifeng, recorded in Dream Pool Essays",
+      "ja": "布衣の畢昇が汴京で膠泥活字印刷術を発明し、後に『夢溪筆談』に記載され後世に伝えられた。"
     },
     {
       "dynastyKey": "beisong",
@@ -10208,8 +10706,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封府（今河南开封）",
       "siteEn": "Kaifeng Prefecture (Henan)",
-      "zh": "包拯拜枢密副使，立朝刚毅，贵戚宦官为之敛手",
-      "en": "Bao Zheng is named Vice Commissioner of Military Affairs; nobles and eunuchs dread his rigor"
+      "zh": "包拯が樞密副使に任じられ、朝廷に立つや剛毅な態度で臨んだため、貴戚や宦官も彼に畏敬の念を抱いた。",
+      "en": "Bao Zheng is named Vice Commissioner of Military Affairs; nobles and eunuchs dread his rigor",
+      "ja": "包拯が樞密副使に任じられ、朝廷に立つや剛毅な態度で臨んだため、貴戚や宦官も彼に畏敬の念を抱いた。"
     },
     {
       "dynastyKey": "beisong",
@@ -10268,8 +10767,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "商州（今陕西商洛）",
       "siteEn": "Shangzhou (Shangluo, Shaanxi)",
-      "zh": "岳飞自鄂州孤军北伐连克伊阳商州，愤孤军无援矢志收复河山",
-      "en": "Yue Fei launches a northern counteroffensive from Ezhou, retaking Shangzhou on the Qinling frontier"
+      "zh": "岳飛は鄂州より孤軍で北伐を開始し、伊陽、商州を連破した。援軍なき孤軍に憤り、河山回復を誓う。",
+      "en": "Yue Fei launches a northern counteroffensive from Ezhou, retaking Shangzhou on the Qinling frontier",
+      "ja": "岳飛は鄂州より孤軍で北伐を開始し、伊陽、商州を連破した。援軍なき孤軍に憤り、河山回復を誓う。"
     },
     {
       "dynastyKey": "ming",
@@ -10280,8 +10780,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蕲州（今湖北黄冈蕲春）",
       "siteEn": "Qizhou (Qichun, Hubei)",
-      "zh": "李时珍历二十七载三易其稿，于蕲州撰成药物学巨著《本草纲目》",
-      "en": "Physician Li Shizhen completes Compendium of Materia Medica in Qizhou after twenty-seven years of work"
+      "zh": "李時珍は二十七年の歳月をかけ、三度稿を改め、蘄州にて薬学の巨著『本草綱目』を撰述した。",
+      "en": "Physician Li Shizhen completes Compendium of Materia Medica in Qizhou after twenty-seven years of work",
+      "ja": "李時珍は二十七年の歳月をかけ、三度稿を改め、蘄州にて薬学の巨著『本草綱目』を撰述した。"
     },
     {
       "dynastyKey": "ming",
@@ -10292,8 +10793,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京西市",
       "siteEn": "Western Market, Beijing",
-      "zh": "崇祯帝中皇太极反间计，于北京西市磔杀督师袁崇焕自毁长城",
-      "en": "Deceived by Hong Taiji's ruse, the Chongzhen Emperor executes commander Yuan Chonghuan in Beijing"
+      "zh": "崇禎帝は皇太極の反間計にかかり、北京西市で督師袁崇煥を磔殺し、自ら長城を毀つ結果となった。",
+      "en": "Deceived by Hong Taiji's ruse, the Chongzhen Emperor executes commander Yuan Chonghuan in Beijing",
+      "ja": "崇禎帝は皇太極の反間計にかかり、北京西市で督師袁崇煥を磔殺し、自ら長城を毀つ結果となった。"
     },
     {
       "dynastyKey": "qing",
@@ -10304,8 +10806,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京西山黄叶村",
       "siteEn": "Western Hills, Beijing",
-      "zh": "曹雪芹于北京西山贫病交加中逝世，遗千古文学巅峰《红楼梦》",
-      "en": "Cao Xueqin dies in poverty in the Western Hills of Beijing, leaving behind Dream of the Red Chamber"
+      "zh": "曹雪芹は北京西山で貧病交加の末に逝去し、千古の文学の最高峰『紅楼夢』を遺した。",
+      "en": "Cao Xueqin dies in poverty in the Western Hills of Beijing, leaving behind Dream of the Red Chamber",
+      "ja": "曹雪芹は北京西山で貧病交加の末に逝去し、千古の文学の最高峰『紅楼夢』を遺した。"
     },
     {
       "dynastyKey": "qing",
@@ -10317,8 +10820,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长沙城（今湖南长沙）",
       "siteEn": "Changsha (Hunan)",
-      "zh": "四十岁的湘阴举人左宗棠出山入幕长沙，运筹死守孤城退太平军",
-      "en": "At forty, Zuo Zongtang joins the defense staff at Changsha, successfully holding off Taiping forces"
+      "zh": "四十歳の湘陰挙人左宗棠は世に出て長沙の幕僚となり、計略を巡らして孤城を死守し、太平軍を退けた。",
+      "en": "At forty, Zuo Zongtang joins the defense staff at Changsha, successfully holding off Taiping forces",
+      "ja": "四十歳の湘陰挙人左宗棠は世に出て長沙の幕僚となり、計略を巡らして孤城を死守し、太平軍を退けた。"
     },
     {
       "dynastyKey": "qing",
@@ -10330,8 +10834,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大渡河安顺场（今四川雅安石棉）",
       "siteEn": "Anshunchang, Dadu River (Sichuan)",
-      "zh": "太平天国翼王石达开抢渡大渡河遇山洪绝境，舍生保部众就义",
-      "en": "Trapped by flash floods along the Dadu River, Taiping Prince Shi Dakai surrenders himself to save his men"
+      "zh": "太平天國の翼王石達開は大渡河を強行渡河中に山津波に遭い絶境に陥る。部下を守るため自ら命を捨てて義に就いた。",
+      "en": "Trapped by flash floods along the Dadu River, Taiping Prince Shi Dakai surrenders himself to save his men",
+      "ja": "太平天國の翼王石達開は大渡河を強行渡河中に山津波に遭い絶境に陥る。部下を守るため自ら命を捨てて義に就いた。"
     },
     {
       "dynastyKey": "qing",
@@ -10343,8 +10848,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "杭州府（今浙江杭州）",
       "siteEn": "Hangzhou (Zhejiang)",
-      "zh": "闽浙总督左宗棠率楚军收复杭州平定浙江，兴修水利恢复蚕桑",
-      "en": "Viceroy Zuo Zongtang retakes Hangzhou with the Chu Army and restores Zhejiang dikes and sericulture"
+      "zh": "閩浙総督左宗棠は楚軍を率いて杭州を奪還し浙江を平定、水利を興修し蚕桑を回復させた。",
+      "en": "Viceroy Zuo Zongtang retakes Hangzhou with the Chu Army and restores Zhejiang dikes and sericulture",
+      "ja": "閩浙総督左宗棠は楚軍を率いて杭州を奪還し浙江を平定、水利を興修し蚕桑を回復させた。"
     },
     {
       "dynastyKey": "qing",
@@ -10356,8 +10862,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "肃州（今甘肃酒泉）",
       "siteEn": "Suzhou (Jiuquan, Gansu)",
-      "zh": "陕甘总督左宗棠攻克肃州肃清关内，沿驿道绵延千里广植左公柳",
-      "en": "Viceroy Zuo Zongtang captures Jiuquan and plants thousands of li of roadside willows across Gansu"
+      "zh": "陝甘総督左宗棠は肅州を攻略し関内を粛清、駅道沿いに千里にわたって左公柳を広く植えた。",
+      "en": "Viceroy Zuo Zongtang captures Jiuquan and plants thousands of li of roadside willows across Gansu",
+      "ja": "陝甘総督左宗棠は肅州を攻略し関内を粛清、駅道沿いに千里にわたって左公柳を広く植えた。"
     },
     {
       "dynastyKey": "qing",
@@ -10369,8 +10876,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "哈密大营（今新疆哈密）",
       "siteEn": "Hami Camp (Xinjiang)",
-      "zh": "六十八岁的左宗棠再舁榇进驻哈密备战，助曾纪泽争回伊犁九城",
-      "en": "Aged sixty-eight, Zuo Zongtang marches with his coffin to Hami, backing diplomatic recovery of Ili"
+      "zh": "六十八歳の左宗棠は再び棺を舁いて哈密に進駐し備戦、曾紀澤を助けて伊犁九城の奪還に貢献した。",
+      "en": "Aged sixty-eight, Zuo Zongtang marches with his coffin to Hami, backing diplomatic recovery of Ili",
+      "ja": "六十八歳の左宗棠は再び棺を舁いて哈密に進駐し備戦、曾紀澤を助けて伊犁九城の奪還に貢献した。"
     },
     {
       "dynastyKey": "qing",
@@ -10382,8 +10890,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "福州钦差行辕（今福建福州）",
       "siteEn": "Imperial Commissioner Headquarters, Fuzhou",
-      "zh": "七十三岁的左宗棠抱病督师福建抗法，中法议和后病逝福州行辕",
-      "en": "Aged seventy-three, Zuo Zongtang oversees coastal defense in Fujian against France and dies in Fuzhou"
+      "zh": "七十三歳の左宗棠は病を抱えながら福建でフランスに抗戦する督師を務め、清仏講和後に福州の行轅で病逝した。",
+      "en": "Aged seventy-three, Zuo Zongtang oversees coastal defense in Fujian against France and dies in Fuzhou",
+      "ja": "七十三歳の左宗棠は病を抱えながら福建でフランスに抗戦する督師を務め、清仏講和後に福州の行轅で病逝した。"
     },
     {
       "dynastyKey": "qing",
@@ -10395,8 +10904,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "敦煌莫高窟（今甘肃敦煌）",
       "siteEn": "Mogao Caves, Dunhuang (Gansu)",
-      "zh": "道士王圆箓于莫高窟偶然发现藏经洞，五万件中古遗书重见天日",
-      "en": "Taoist Wang Yuanlu uncovers the Library Cave at Mogao, revealing 50,000 medieval manuscripts"
+      "zh": "道士王圓籙は莫高窟で偶然蔵経洞を発見し、五万点の中古遺書が重見天日となった。",
+      "en": "Taoist Wang Yuanlu uncovers the Library Cave at Mogao, revealing 50,000 medieval manuscripts",
+      "ja": "道士王圓籙は莫高窟で偶然蔵経洞を発見し、五万点の中古遺書が重見天日となった。"
     },
     {
       "dynastyKey": "qing",
@@ -10408,8 +10918,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "八达岭青龙桥（今北京延庆）",
       "siteEn": "Badaling / Qinglongqiao (Beijing)",
-      "zh": "詹天佑主持建成中国人自建首条干线京张铁路，创八达岭人字形线",
-      "en": "Chief engineer Zhan Tianyou completes the self-built Beijing-Zhangjiakou Railway with switchback tracks"
+      "zh": "詹天佑は中国人自身が建設した初の幹線である京張鉄道を主導して完成させ、八達嶺に人字形線路を創設した。",
+      "en": "Chief engineer Zhan Tianyou completes the self-built Beijing-Zhangjiakou Railway with switchback tracks",
+      "ja": "詹天佑は中国人自身が建設した初の幹線である京張鉄道を主導して完成させ、八達嶺に人字形線路を創設した。"
     },
     {
       "dynastyKey": "qing",
@@ -10421,8 +10932,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州黄花岗（今广东广州）",
       "siteEn": "Huanghuagang, Guangzhou",
-      "zh": "黄兴率同盟会敢死队猛攻两广总督署，七十二烈士合葬广州黄花岗",
-      "en": "Huang Xing leads revolutionaries storming the Viceroy Yamen in Guangzhou; 72 martyrs rest at Huanghuagang"
+      "zh": "1911年、黄興が同盟會の敢死隊を率いて兩廣総督署を猛攻し、七十二烈士が廣州黄花崗に合葬された。",
+      "en": "Huang Xing leads revolutionaries storming the Viceroy Yamen in Guangzhou; 72 martyrs rest at Huanghuagang",
+      "ja": "1911年、黄興が同盟會の敢死隊を率いて兩廣総督署を猛攻し、七十二烈士が廣州黄花崗に合葬された。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -10433,8 +10945,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "邯郸回车巷（今河北邯郸）",
       "siteEn": "Huiche Lane, Handan (Hebei)",
-      "zh": "蔺相如完璧归赵、渑池会挫秦王，老将廉颇肉袒负荆请罪成将相和",
-      "en": "Lin Xiangru outwits Qin at Mianchi; general Lian Po bears thorns on his back to reconcile in Handan"
+      "zh": "前279年、藺相如が完璧歸趙を果たし、澠池の會で秦王を挫き、老将廉頗は肉袒負荊して謝罪し、将相和すの故事が生まれた。",
+      "en": "Lin Xiangru outwits Qin at Mianchi; general Lian Po bears thorns on his back to reconcile in Handan",
+      "ja": "前279年、藺相如が完璧歸趙を果たし、澠池の會で秦王を挫き、老将廉頗は肉袒負荊して謝罪し、将相和すの故事が生まれた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -10445,8 +10958,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "易水岸（今河北保定易县）",
       "siteEn": "Yi River (Yixian, Hebei)",
-      "zh": "燕太子丹于易水白衣送别荆轲，高渐离击筑歌“风萧萧兮易水寒”",
-      "en": "Crown Prince Dan of Yan bids farewell to assassin Jing Ke by the icy Yi River as music echoes"
+      "zh": "前227年、燕の太子丹が易水のほとりで白衣を纏い荊軻を見送り、高漸離は筑を撃ち「風蕭々として易水寒し」と歌った。",
+      "en": "Crown Prince Dan of Yan bids farewell to assassin Jing Ke by the icy Yi River as music echoes",
+      "ja": "前227年、燕の太子丹が易水のほとりで白衣を纏い荊軻を見送り、高漸離は筑を撃ち「風蕭々として易水寒し」と歌った。"
     },
     {
       "dynastyKey": "xihan",
@@ -10458,8 +10972,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "祁连山（今甘肃张掖南）",
       "siteEn": "Qilian Mountains (Zhangye, Gansu)",
-      "zh": "霍去病夏越居延海深入二千里，大破祁连山受浑邪王四万众降",
-      "en": "Huo Qubing marches 2,000 li past Juyan Lake to rout Xiongnu at Mt. Qilian and accept surrender"
+      "zh": "前121年、霍去病が夏に居延海を越え二千里深く侵攻し、祁連山で匈奴を大破し、渾邪王から四万余の降伏を受けた。",
+      "en": "Huo Qubing marches 2,000 li past Juyan Lake to rout Xiongnu at Mt. Qilian and accept surrender",
+      "ja": "前121年、霍去病が夏に居延海を越え二千里深く侵攻し、祁連山で匈奴を大破し、渾邪王から四万余の降伏を受けた。"
     },
     {
       "dynastyKey": "xihan",
@@ -10470,8 +10985,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "茂陵（今陕西咸阳兴平）",
       "siteEn": "Maoling Mausoleum (Xingping, Shaanxi)",
-      "zh": "二十四岁的冠军侯霍去病病逝长安，武帝筑祁连山冢陪葬茂陵",
-      "en": "Young general Huo Qubing dies at twenty-four; Emperor Wu builds a Qilian-shaped mound beside Maoling"
+      "zh": "前117年、二十四歳の冠軍侯霍去病が長安で病没し、武帝は祁連山を模した墳墓を築き茂陵に陪葬した。",
+      "en": "Young general Huo Qubing dies at twenty-four; Emperor Wu builds a Qilian-shaped mound beside Maoling",
+      "ja": "前117年、二十四歳の冠軍侯霍去病が長安で病没し、武帝は祁連山を模した墳墓を築き茂陵に陪葬した。"
     },
     {
       "dynastyKey": "xihan",
@@ -10482,8 +10998,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北海（今贝加尔湖畔）",
       "siteEn": "Lake Baikal (Northern Steppe)",
-      "zh": "中郎将苏武出使匈奴被扣，持汉节牧羊北海十九载白发归汉",
-      "en": "Han envoy Su Wu is detained by Xiongnu and tends sheep by Lake Baikal for nineteen years unbroken"
+      "zh": "前100年、中郎将蘇武が匈奴への使節中に拘束され、漢の節を携え北海（バイカル湖）で羊を牧すること十九年、白髪となって漢に帰還した。",
+      "en": "Han envoy Su Wu is detained by Xiongnu and tends sheep by Lake Baikal for nineteen years unbroken",
+      "ja": "前100年、中郎将蘇武が匈奴への使節中に拘束され、漢の節を携え北海（バイカル湖）で羊を牧すること十九年、白髪となって漢に帰還した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10494,8 +11011,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳兰台（今河南洛阳）",
       "siteEn": "Lantai Imperial Library, Luoyang",
-      "zh": "兰台令史班固历二十余载撰成中国第一部纪传体断代史《汉书》",
-      "en": "Court historian Ban Gu completes the Book of Han in Luoyang, inaugurating dynastic history writing"
+      "zh": "82年、洛陽の蘭臺令史班固が二十余年を費やして中国初の紀伝体断代史である『漢書』を撰述した。",
+      "en": "Court historian Ban Gu completes the Book of Han in Luoyang, inaugurating dynastic history writing",
+      "ja": "82年、洛陽の蘭臺令史班固が二十余年を費やして中国初の紀伝体断代史である『漢書』を撰述した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10506,8 +11024,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汝南召陵（今河南漯河）",
       "siteEn": "Shaoling, Runan (Luohe, Henan)",
-      "zh": "经学家许慎博采篆文古籀，撰成世界首部系统字书《说文解字》",
-      "en": "Scholar Xu Shen compiles Analytical Dictionary of Characters, the foundational lexicon of Chinese script"
+      "zh": "100年、経学家許慎が篆文や古籀を広く集め、世界初の体系的な字書である『説文解字』を撰述した。",
+      "en": "Scholar Xu Shen compiles Analytical Dictionary of Characters, the foundational lexicon of Chinese script",
+      "ja": "100年、経学家許慎が篆文や古籀を広く集め、世界初の体系的な字書である『説文解字』を撰述した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10518,8 +11037,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "南阳（今河南南阳）",
       "siteEn": "Nanyang (Henan)",
-      "zh": "南阳名医张仲景总结汉代临床方证，撰成“医圣”经典《伤寒杂病论》",
-      "en": "Master physician Zhang Zhongjing of Nanyang compiles Treatise on Cold Damage and Miscellaneous Diseases"
+      "zh": "205年、南陽の名医張仲景が漢代の臨床方証をまとめ、「医聖」と称される古典『傷寒雑病論』を撰述した。",
+      "en": "Master physician Zhang Zhongjing of Nanyang compiles Treatise on Cold Damage and Miscellaneous Diseases",
+      "ja": "205年、南陽の名医張仲景が漢代の臨床方証をまとめ、「医聖」と称される古典『傷寒雑病論』を撰述した。"
     },
     {
       "dynastyKey": "xijin",
@@ -10530,8 +11050,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳金谷园（今河南洛阳）",
       "siteEn": "Golden Valley Garden, Luoyang",
-      "zh": "卫尉石崇于洛阳金谷涧筑园雅集二十四友，与王恺斗富传世",
-      "en": "Magnate Shi Chong hosts literati at Golden Valley Garden in Luoyang, vying in lavish wealth"
+      "zh": "296年、衛尉石崇が洛陽の金谷澗に園を築き二十四友と雅集し、王愷と富を競いその逸話が後世に伝わった。",
+      "en": "Magnate Shi Chong hosts literati at Golden Valley Garden in Luoyang, vying in lavish wealth",
+      "ja": "296年、衛尉石崇が洛陽の金谷澗に園を築き二十四友と雅集し、王愷と富を競いその逸話が後世に伝わった。"
     },
     {
       "dynastyKey": "xijin",
@@ -10542,8 +11063,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "华亭（今上海松江）",
       "siteEn": "Huating (Songjiang, Shanghai)",
-      "zh": "江东才子陆机兵败遇害，临终浩叹“华亭鹤唳，岂可复闻乎”",
-      "en": "Poet-general Lu Ji laments never again hearing the cranes of Huating in Songjiang before execution"
+      "zh": "303年、江東の才子陸機が兵敗して殺害され、臨終に「華亭の鶴唳、豈復た聞くべけんや」と浩嘆した。",
+      "en": "Poet-general Lu Ji laments never again hearing the cranes of Huating in Songjiang before execution",
+      "ja": "303年、江東の才子陸機が兵敗して殺害され、臨終に「華亭の鶴唳、豈復た聞くべけんや」と浩嘆した。"
     },
     {
       "dynastyKey": "wudai",
@@ -10554,8 +11076,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "金陵（今江苏南京）",
       "siteEn": "Jinling (Nanjing)",
-      "zh": "南唐画家顾闳中奉李煜命夜窥韩府，绘成传世名画《韩熙载夜宴图》",
-      "en": "Court painter Gu Hongzhong paints Night Revels of Han Xizai in Jinling for ruler Li Yu"
+      "zh": "960年、南唐の画家顧閎中が李煜の命を受け韓熙載の邸宅を夜間に覗き見し、伝世の名画『韓熙載夜宴図』を完成させた。",
+      "en": "Court painter Gu Hongzhong paints Night Revels of Han Xizai in Jinling for ruler Li Yu",
+      "ja": "960年、南唐の画家顧閎中が李煜の命を受け韓熙載の邸宅を夜間に覗き見し、伝世の名画『韓熙載夜宴図』を完成させた。"
     },
     {
       "dynastyKey": "beisong",
@@ -10566,8 +11089,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都府（今四川成都）",
       "siteEn": "Chengdu (Sichuan)",
-      "zh": "宋师灭后蜀孟昶降，花蕊夫人赋“十四万人齐解甲，更无一个是男儿”",
-      "en": "Later Shu surrenders to Song at Chengdu as Consort Huarui laments 140,000 troops laying down arms"
+      "zh": "965年、宋軍が後蜀を滅ぼし、孟昶が降伏した際、花蕊夫人は「十四万人斉解甲、更無一个是男児」と賦した。",
+      "en": "Later Shu surrenders to Song at Chengdu as Consort Huarui laments 140,000 troops laying down arms",
+      "ja": "965年、宋軍が後蜀を滅ぼし、孟昶が降伏した際、花蕊夫人は「十四万人斉解甲、更無一个是男児」と賦した。"
     },
     {
       "dynastyKey": "nansong",
@@ -10579,8 +11103,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "济南历城（今山东济南）",
       "siteEn": "Licheng, Jinan (Shandong)",
-      "zh": "二十二岁的辛弃疾于历城聚两千义军投耿京起兵抗金，掌书记印",
-      "en": "Aged twenty-two, Xin Qiji raises two thousand volunteers in Jinan to join resistance against Jin"
+      "zh": "1161年、22歳の辛棄疾は歴城で2千の義軍を集め、耿京の金への抗戦に加わり、書記の印を掌った。",
+      "en": "Aged twenty-two, Xin Qiji raises two thousand volunteers in Jinan to join resistance against Jin",
+      "ja": "1161年、22歳の辛棄疾は歴城で2千の義軍を集め、耿京の金への抗戦に加わり、書記の印を掌った。"
     },
     {
       "dynastyKey": "nansong",
@@ -10591,8 +11116,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "南康白鹿洞书院（今江西九江庐山）",
       "siteEn": "White Deer Grotto Academy, Mt. Lu",
-      "zh": "朱熹知南康军重兴庐山白鹿洞书院，手订《白鹿洞书院揭示》垂范学林",
-      "en": "Neo-Confucian master Zhu Xi revives White Deer Grotto Academy at Mt. Lu and drafts academy rules"
+      "zh": "1179年、朱熹は南康軍の知事として廬山の白鹿洞書院を再興し、自ら『白鹿洞書院掲示』を制定して学林の規範とした。",
+      "en": "Neo-Confucian master Zhu Xi revives White Deer Grotto Academy at Mt. Lu and drafts academy rules",
+      "ja": "1179年、朱熹は南康軍の知事として廬山の白鹿洞書院を再興し、自ら『白鹿洞書院掲示』を制定して学林の規範とした。"
     },
     {
       "dynastyKey": "nansong",
@@ -10603,8 +11129,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潭州（今湖南长沙）",
       "siteEn": "Tanzhou (Changsha, Hunan)",
-      "zh": "辛弃疾知潭州兼湖南安抚使，创建精锐“飞虎军”雄镇荆湖",
-      "en": "Governor Xin Qiji founds the elite Flying Tiger Army in Changsha, securing the middle Yangtze"
+      "zh": "1180年、辛棄疾は潭州の知事兼湖南安撫使として、精鋭「飛虎軍」を創設し、荊湖地方を強固に鎮撫した。",
+      "en": "Governor Xin Qiji founds the elite Flying Tiger Army in Changsha, securing the middle Yangtze",
+      "ja": "1180年、辛棄疾は潭州の知事兼湖南安撫使として、精鋭「飛虎軍」を創設し、荊湖地方を強固に鎮撫した。"
     },
     {
       "dynastyKey": "nansong",
@@ -10615,8 +11142,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潭州提刑司（今湖南长沙）",
       "siteEn": "Judicial Commissioner Office, Changsha",
-      "zh": "提点刑狱宋慈总结检验经验，撰成世界首部法医学专著《洗冤集录》",
-      "en": "Judicial commissioner Song Ci completes Collected Cases of Injustice Rectified, founding forensic medicine"
+      "zh": "1247年、提点刑獄の宋慈は、検死の経験をまとめ、世界初の法医学専門書『洗冤集録』を撰述した。",
+      "en": "Judicial commissioner Song Ci completes Collected Cases of Injustice Rectified, founding forensic medicine",
+      "ja": "1247年、提点刑獄の宋慈は、検死の経験をまとめ、世界初の法医学専門書『洗冤集録』を撰述した。"
     },
     {
       "dynastyKey": "nansong",
@@ -10628,8 +11156,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "临安集英殿（今浙江杭州）",
       "siteEn": "Jiying Hall, Lin'an (Hangzhou)",
-      "zh": "二十岁的文天祥于临安殿试对策万言，宋理宗亲拔为第一状元",
-      "en": "Aged twenty, Wen Tianxiang tops the palace examination in Hangzhou as Imperially Ranked First Scholar"
+      "zh": "1256年、20歳の文天祥は臨安での殿試で万言の対策を提出し、宋理宗が自ら第一の状元に抜擢した。",
+      "en": "Aged twenty, Wen Tianxiang tops the palace examination in Hangzhou as Imperially Ranked First Scholar",
+      "ja": "1256年、20歳の文天祥は臨安での殿試で万言の対策を提出し、宋理宗が自ら第一の状元に抜擢した。"
     },
     {
       "dynastyKey": "nansong",
@@ -10641,8 +11170,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "京口（今江苏镇江）",
       "siteEn": "Jingkou (Zhenjiang, Jiangsu)",
-      "zh": "文天祥使元营慷慨抗辞被扣，押赴北上途中于京口乘夜脱险南归",
-      "en": "Detained while parleying in the Yuan camp, Wen Tianxiang escapes under cover of night at Zhenjiang"
+      "zh": "1276年、文天祥は元営に赴き、慷慨として抗弁したため拘束されたが、北上途中の京口で夜に乗じて脱出し、南へ帰還した。",
+      "en": "Detained while parleying in the Yuan camp, Wen Tianxiang escapes under cover of night at Zhenjiang",
+      "ja": "1276年、文天祥は元営に赴き、慷慨として抗弁したため拘束されたが、北上途中の京口で夜に乗じて脱出し、南へ帰還した。"
     },
     {
       "dynastyKey": "yuan",
@@ -10653,8 +11183,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "元大都（今北京）",
       "siteEn": "Khanbaliq / Dadu (Beijing)",
-      "zh": "元曲大家关汉卿于大都创作杂剧代表作《感天动地窦娥冤》流传千古",
-      "en": "Playwright Guan Hanqing composes the masterpiece tragedy The Injustice to Dou E in Yuan Dadu"
+      "zh": "1291年、元曲の大家である関漢卿は大都で雑劇の代表作『感天動地竇娥冤』を創作し、千古に伝わる名作となった。",
+      "en": "Playwright Guan Hanqing composes the masterpiece tragedy The Injustice to Dou E in Yuan Dadu",
+      "ja": "1291年、元曲の大家である関漢卿は大都で雑劇の代表作『感天動地竇娥冤』を創作し、千古に伝わる名作となった。"
     },
     {
       "dynastyKey": "yuan",
@@ -10665,8 +11196,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "松江乌泥泾（今上海徐汇华泾）",
       "siteEn": "Wunijing, Songjiang (Shanghai)",
-      "zh": "黄道婆归故里松江乌泥泾传授捍弹纺织新法，松江布遂“衣被天下”",
-      "en": "Huang Daopo returns to Songjiang in Shanghai to innovate cotton spinning and weaving technology"
+      "zh": "1296年、黄道婆は故郷の松江烏泥涇に帰り、捍弾紡織の新法を伝授し、松江布は「衣被天下」と称されるようになった。",
+      "en": "Huang Daopo returns to Songjiang in Shanghai to innovate cotton spinning and weaving technology",
+      "ja": "1296年、黄道婆は故郷の松江烏泥涇に帰り、捍弾紡織の新法を伝授し、松江布は「衣被天下」と称されるようになった。"
     },
     {
       "dynastyKey": "yuan",
@@ -10677,8 +11209,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "富春江（今浙江杭州富阳）",
       "siteEn": "Fuchun River, Fuyang (Zhejiang)",
-      "zh": "八十二岁的“元四家”之首黄公望结庐富春江，绘成旷世《富春山居图》",
-      "en": "Aged eighty-two, master painter Huang Gongwang completes Dwelling in the Fuchun Mountains scroll"
+      "zh": "1350年、82歳の「元四家」の筆頭である黄公望は富春江に庵を結び、曠世の傑作『富春山居図』を完成させた。",
+      "en": "Aged eighty-two, master painter Huang Gongwang completes Dwelling in the Fuchun Mountains scroll",
+      "ja": "1350年、82歳の「元四家」の筆頭である黄公望は富春江に庵を結び、曠世の傑作『富春山居図』を完成させた。"
     },
     {
       "dynastyKey": "tang",
@@ -10689,9 +11222,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "杜甫困居叛军所陷长安赋《春望》“国破山河在”，夏潜奔凤翔",
+      "zh": "757年、杜甫は叛軍に占領された長安に閉じ込められ、『春望』を賦し「国破山河在」と詠んだ後、夏に密かに鳳翔へ奔った。",
       "en": "Trapped in rebel-held Chang'an, Du Fu writes “Spring View”, then escapes to Fengxiang",
-      "month": 3
+      "month": 3,
+      "ja": "757年、杜甫は叛軍に占領された長安に閉じ込められ、『春望』を賦し「国破山河在」と詠んだ後、夏に密かに鳳翔へ奔った。"
     },
     {
       "dynastyKey": "tang",
@@ -10702,9 +11236,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "秦州（今甘肃天水）",
       "siteEn": "Qinzhou (Tianshui, Gansu)",
-      "zh": "杜甫途经新安石壕作“三吏”“三别”，秋弃官携家客居秦州",
+      "zh": "759年、杜甫は新安、石壕を通り「三吏」「三別」を創作し、秋には官を捨て家族を連れて秦州に客居した。",
       "en": "Du Fu writes the “Three Officials” and “Three Partings”, then resigns and moves his family to Qinzhou",
-      "month": 7
+      "month": 7,
+      "ja": "759年、杜甫は新安、石壕を通り「三吏」「三別」を創作し、秋には官を捨て家族を連れて秦州に客居した。"
     },
     {
       "dynastyKey": "tang",
@@ -10715,9 +11250,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "梓州（今四川三台）",
       "siteEn": "Zizhou (Santai, Sichuan)",
-      "zh": "杜甫客居梓州闻官军收复河南河北，狂喜赋“便下襄阳向洛阳”",
+      "zh": "763年、杜甫は梓州に滞在中、官軍が河南・河北を回復した報を聞き、狂喜して「便下襄陽向洛陽」の詩を賦した。",
       "en": "In Zizhou, Du Fu hears the imperial army has retaken Henan and Hebei and writes his most joyous poem",
-      "month": 3
+      "month": 3,
+      "ja": "763年、杜甫は梓州に滞在中、官軍が河南・河北を回復した報を聞き、狂喜して「便下襄陽向洛陽」の詩を賦した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10728,13 +11264,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "许都（今河南许昌）",
       "siteEn": "Xu (Xuchang, Henan)",
-      "zh": "关羽斩颜良报曹，尽封所赐拜书告辞，北奔袁营寻故主",
+      "zh": "200年、關羽は顏良を斬って曹操への恩に報いると、受けた賜物を全て封印し、書状を残して辞去した。そして北の袁紹陣営へ向かい、故主である劉備を捜した。",
       "en": "Having repaid Cao Cao by slaying Yan Liang, Guan Yu seals away Cao's gifts and leaves to rejoin Liu Bei",
       "month": 5,
       "persons": [
         "guanyu",
         "caocao"
-      ]
+      ],
+      "ja": "200年、關羽は顏良を斬って曹操への恩に報いると、受けた賜物を全て封印し、書状を残して辞去した。そして北の袁紹陣営へ向かい、故主である劉備を捜した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10745,9 +11282,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "益阳（今湖南益阳）",
       "siteEn": "Yiyang (Hunan)",
-      "zh": "鲁肃邀关羽于益阳“单刀俱会”争荆州，旋孙刘以湘水为界",
+      "zh": "215年、魯肅は益陽で關羽を招き「單刀會」を開いて荊州の領有を争った。その後、孫權と劉備は湘水を境界として荊州を分割した。",
       "en": "At Yiyang, Lu Su meets Guan Yu “each bearing only a sword”; Jing is then split along the Xiang River",
-      "month": 6
+      "month": 6,
+      "ja": "215年、魯肅は益陽で關羽を招き「單刀會」を開いて荊州の領有を争った。その後、孫權と劉備は湘水を境界として荊州を分割した。"
     },
     {
       "dynastyKey": "donghan",
@@ -10758,9 +11296,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江州（今重庆）",
       "siteEn": "Jiangzhou (Chongqing)",
-      "zh": "张飞溯江破江州，生擒严颜，感其“断头将军”之节释为宾客",
+      "zh": "214年、張飛は長江を遡って江州を攻め落とし、嚴顏を生け捕りにした。嚴顏の「首を斬られても屈しない」という節義に感じ入り、彼を賓客として釈放した。",
       "en": "Zhang Fei captures Jiangzhou and its governor Yan Yan, then frees him, moved by his refusal to yield",
-      "month": 5
+      "month": 5,
+      "ja": "214年、張飛は長江を遡って江州を攻め落とし、嚴顏を生け捕りにした。嚴顏の「首を斬られても屈しない」という節義に感じ入り、彼を賓客として釈放した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -10771,9 +11310,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "阆中（今四川阆中）",
       "siteEn": "Langzhong (Sichuan)",
-      "zh": "张飞将率万人自阆中东伐孙吴，临发为帐下张达、范强所害",
+      "zh": "221年、張飛は閬中から東へ孫吳を討つべく1万の兵を率いて出陣しようとしたが、その直前に帳下の張達と范強に殺害された。",
       "en": "About to lead 10,000 troops from Langzhong against Wu, Zhang Fei is murdered by his own officers",
-      "month": 6
+      "month": 6,
+      "ja": "221年、張飛は閬中から東へ孫吳を討つべく1万の兵を率いて出陣しようとしたが、その直前に帳下の張達と范強に殺害された。"
     },
     {
       "dynastyKey": "donghan",
@@ -10784,8 +11324,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "历阳（今安徽和县）",
       "siteEn": "Liyang (He County, Anhui)",
-      "zh": "周瑜率兵资粮迎孙策于历阳，助其渡江连克秣陵、曲阿",
-      "en": "Zhou Yu brings troops and grain to Sun Ce at Liyang, helping him cross the Yangtze and take Moling and Qu'e"
+      "zh": "195年、周瑜は兵と兵糧を率いて歷陽で孫策を迎え、彼が長江を渡って秣陵、曲阿を連破するのを助けた。",
+      "en": "Zhou Yu brings troops and grain to Sun Ce at Liyang, helping him cross the Yangtze and take Moling and Qu'e",
+      "ja": "195年、周瑜は兵と兵糧を率いて歷陽で孫策を迎え、彼が長江を渡って秣陵、曲阿を連破するのを助けた。"
     },
     {
       "dynastyKey": "donghan",
@@ -10796,9 +11337,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "皖城（今安徽潜山）",
       "siteEn": "Wancheng (Qianshan, Anhui)",
-      "zh": "周瑜随孙策攻克皖城，孙策纳大乔、周瑜纳小乔",
+      "zh": "199年、周瑜は孫策に従って皖城を攻め落とし、孫策は大喬を、周瑜は小喬をそれぞれ妻に迎えた。",
       "en": "Zhou Yu and Sun Ce capture Wancheng; Sun Ce weds the elder Qiao sister and Zhou Yu the younger",
-      "month": 11
+      "month": 11,
+      "ja": "199年、周瑜は孫策に従って皖城を攻め落とし、孫策は大喬を、周瑜は小喬をそれぞれ妻に迎えた。"
     },
     {
       "dynastyKey": "qin",
@@ -10809,9 +11351,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "下邳圯桥（今江苏睢宁）",
       "siteEn": "Xiapi Bridge (Suining, Jiangsu)",
-      "zh": "张良匿居下邳，于圯桥为老父三度纳履，得授《太公兵法》",
+      "zh": "前218年、張良は下邳に身を隠していた際、圯橋で老父のために三度履を拾い上げ、その礼として『太公兵法』を授けられた。",
       "en": "Hiding in Xiapi, Zhang Liang fetches an old man's shoe on a bridge and receives a book of strategy",
-      "month": 10
+      "month": 10,
+      "ja": "前218年、張良は下邳に身を隠していた際、圯橋で老父のために三度履を拾い上げ、その礼として『太公兵法』を授けられた。"
     },
     {
       "dynastyKey": "qin",
@@ -10822,9 +11365,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "褒斜栈道（今陕西留坝）",
       "siteEn": "Baoxie Plank Road (Liuba, Shaanxi)",
-      "zh": "张良送刘邦入汉中，劝烧绝所过栈道以示无东归之意",
+      "zh": "前206年、張良は劉邦を漢中へ送り届ける際、通過した棧道を焼き払うよう進言し、東へ帰還する意思がないことを項羽に示すよう促した。",
       "en": "Seeing Liu Bang into Hanzhong, Zhang Liang urges him to burn the plank roads to reassure Xiang Yu",
-      "month": 4
+      "month": 4,
+      "ja": "前206年、張良は劉邦を漢中へ送り届ける際、通過した棧道を焼き払うよう進言し、東へ帰還する意思がないことを項羽に示すよう促した。"
     },
     {
       "dynastyKey": "xihan",
@@ -10835,12 +11379,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "司马迁为降匈奴的李陵辩护获罪，受腐刑后发愤续撰《史记》",
+      "zh": "前99年、司馬遷は匈奴に降伏した李陵を弁護して罪を得、腐刑を受けた後、発憤して『史記』の撰述を続けた。",
       "en": "Sima Qian defends the defeated general Li Ling, suffers castration, and resolves to finish his history",
       "persons": [
         "simaqian",
         "hanwudi"
-      ]
+      ],
+      "ja": "前99年、司馬遷は匈奴に降伏した李陵を弁護して罪を得、腐刑を受けた後、発憤して『史記』の撰述を続けた。"
     },
     {
       "dynastyKey": "tang",
@@ -10851,9 +11396,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潮州（今广东潮州）",
       "siteEn": "Chaozhou (Guangdong)",
-      "zh": "韩愈贬潮州刺史作《祭鳄鱼文》、释奴兴学，潮人名山水曰韩山韩江",
+      "zh": "819年、韓愈は潮州刺史に左遷され、『祭鱷魚文』を著し、奴隷を解放して学問を興した。潮州の人々は、その地の山水を韓山、韓江と名付けた。",
       "en": "Exiled to Chaozhou, Han Yu writes “Address to the Crocodiles”; locals name the Han River after him",
-      "month": 8
+      "month": 8,
+      "ja": "819年、韓愈は潮州刺史に左遷され、『祭鱷魚文』を著し、奴隷を解放して学問を興した。潮州の人々は、その地の山水を韓山、韓江と名付けた。"
     },
     {
       "dynastyKey": "tang",
@@ -10864,8 +11410,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "夔州（今重庆奉节）",
       "siteEn": "Kuizhou (Fengjie, Chongqing)",
-      "zh": "夔州刺史刘禹锡采巴渝民歌作《竹枝词》“东边日出西边雨”",
-      "en": "As prefect of Kuizhou, Liu Yuxi turns Ba folk tunes into his “Bamboo Branch Songs”"
+      "zh": "822年、夔州刺史の劉禹錫は巴渝の民歌を採集し、「東邊日出西邊雨」などの『竹枝詞』を創作した。",
+      "en": "As prefect of Kuizhou, Liu Yuxi turns Ba folk tunes into his “Bamboo Branch Songs”",
+      "ja": "822年、夔州刺史の劉禹錫は巴渝の民歌を採集し、「東邊日出西邊雨」などの『竹枝詞』を創作した。"
     },
     {
       "dynastyKey": "beisong",
@@ -10876,8 +11423,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汴京（今河南开封）",
       "siteEn": "Bianjing (Kaifeng, Henan)",
-      "zh": "李清照于汴京嫁赵明诚，夫妇典衣购碑、共治金石，词名初动京师",
-      "en": "Li Qingzhao marries Zhao Mingcheng in Kaifeng; the couple pawn clothes to buy rubbings and antiquities"
+      "zh": "1101年、汴京にて李清照が趙明誠と結婚し、夫婦で衣服を質に入れ碑文や金石を収集・研究し、詞人としての名声が京師に広まり始めた。",
+      "en": "Li Qingzhao marries Zhao Mingcheng in Kaifeng; the couple pawn clothes to buy rubbings and antiquities",
+      "ja": "1101年、汴京にて李清照が趙明誠と結婚し、夫婦で衣服を質に入れ碑文や金石を収集・研究し、詞人としての名声が京師に広まり始めた。"
     },
     {
       "dynastyKey": "ming",
@@ -10888,13 +11436,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "锦州（今辽宁锦州）",
       "siteEn": "Jinzhou (Liaoning)",
-      "zh": "宁锦大捷：袁崇焕坐镇宁远、赵率教守锦州，击退皇太极",
+      "zh": "1627年、寧錦大捷。袁崇煥が寧遠に、趙率教が錦州にそれぞれ拠り、皇太極の攻撃を撃退した。",
       "en": "Ningyuan–Jinzhou victory: Yuan Chonghuan and Zhao Shuaijiao repel Hong Taiji's assault",
       "month": 5,
       "persons": [
         "yuanchonghuan",
         "huangtaiji"
-      ]
+      ],
+      "ja": "1627年、寧錦大捷。袁崇煥が寧遠に、趙率教が錦州にそれぞれ拠り、皇太極の攻撃を撃退した。"
     },
     {
       "dynastyKey": "beisong",
@@ -10905,8 +11454,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "巴东（今湖北巴东）",
       "siteEn": "Badong (Hubei)",
-      "zh": "十九岁的寇准进士及第知巴东，赋“野水无人渡，孤舟尽日横”",
-      "en": "Newly a jinshi at nineteen, Kou Zhun governs Badong and writes “a lone boat drifts all day long”"
+      "zh": "980年、19歳の寇準が科挙の進士に及第し、巴東の知事となり、「野水に人渡るなく、孤舟尽日横たわる」の詩を詠んだ。",
+      "en": "Newly a jinshi at nineteen, Kou Zhun governs Badong and writes “a lone boat drifts all day long”",
+      "ja": "980年、19歳の寇準が科挙の進士に及第し、巴東の知事となり、「野水に人渡るなく、孤舟尽日横たわる」の詩を詠んだ。"
     },
     {
       "dynastyKey": "xihan",
@@ -10917,14 +11467,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "中郎将苏武持汉节出使匈奴，护送扣留的匈奴使者北归",
+      "zh": "前100年、中郎将の蘇武が漢節を携え匈奴へ使者として赴き、抑留されていた匈奴の使者を護送して北へ帰還させた。",
       "en": "Palace general Su Wu sets out from Chang'an bearing the Han tally as envoy to the Xiongnu",
       "month": 3,
       "persons": [
         "hanwudi",
         "suwu",
         "simaqian"
-      ]
+      ],
+      "ja": "前100年、中郎将の蘇武が漢節を携え匈奴へ使者として赴き、抑留されていた匈奴の使者を護送して北へ帰還させた。"
     },
     {
       "dynastyKey": "xihan",
@@ -10935,9 +11486,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "苏武持节十九载白发归长安，拜典属国，汉节旄尽落",
+      "zh": "前81年、蘇武が漢節を携え19年の歳月を経て白髪となり長安へ帰還し、典属国に任じられた。その漢節の旄（飾り）は全て落ちていた。",
       "en": "After nineteen years in captivity, a white-haired Su Wu returns to Chang'an, his envoy's tally bare",
-      "month": 2
+      "month": 2,
+      "ja": "前81年、蘇武が漢節を携え19年の歳月を経て白髪となり長安へ帰還し、典属国に任じられた。その漢節の旄（飾り）は全て落ちていた。"
     },
     {
       "dynastyKey": "sui",
@@ -10948,8 +11500,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛口（今河南巩义）",
       "siteEn": "Luokou (Gongyi, Henan)",
-      "zh": "魏征投瓦岗军首领李密，任元帅府文学参军掌记室",
-      "en": "Wei Zheng joins the Wagang rebel leader Li Mi at Luokou as his secretary"
+      "zh": "617年、魏徵が瓦崗軍の首領李密に投じ、元帥府文学参軍として記室を掌った。",
+      "en": "Wei Zheng joins the Wagang rebel leader Li Mi at Luokou as his secretary",
+      "ja": "617年、魏徵が瓦崗軍の首領李密に投じ、元帥府文学参軍として記室を掌った。"
     },
     {
       "dynastyKey": "tang",
@@ -10960,14 +11513,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "玄武门之变后李世民责问魏征，魏征从容直对，获擢为詹事主簿",
+      "zh": "626年、玄武門の変後、李世民が魏徵を詰問したが、魏徵は落ち着いて率直に答え、詹事主簿に抜擢された。",
       "en": "After the Xuanwu Gate coup, Wei Zheng answers Li Shimin's rebuke with candor and is promoted",
       "month": 7,
       "persons": [
         "lishimin",
         "weizheng",
         "lijing"
-      ]
+      ],
+      "ja": "626年、玄武門の変後、李世民が魏徵を詰問したが、魏徵は落ち着いて率直に答え、詹事主簿に抜擢された。"
     },
     {
       "dynastyKey": "tang",
@@ -10978,9 +11532,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "魏征病逝长安，唐太宗叹“以人为镜，可以明得失”，痛失一镜",
+      "zh": "643年、魏徵が長安で病没した。唐太宗は「人を以て鏡と為せば、得失を明らかにすべし」と嘆き、一つの鏡を失ったと深く悲しんだ。",
       "en": "Wei Zheng dies; Emperor Taizong mourns that he has lost the “mirror” that showed his faults",
-      "month": 2
+      "month": 2,
+      "ja": "643年、魏徵が長安で病没した。唐太宗は「人を以て鏡と為せば、得失を明らかにすべし」と嘆き、一つの鏡を失ったと深く悲しんだ。"
     },
     {
       "dynastyKey": "tang",
@@ -10991,8 +11546,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安（今陕西西安）",
       "siteEn": "Chang'an (Xi'an)",
-      "zh": "大理丞狄仁杰一年断决积案一万七千人，无一冤诉",
-      "en": "As judge of the Court of Revision, Di Renjie clears 17,000 backlogged cases in a year without complaint"
+      "zh": "676年、大理丞の狄仁傑が一年で1万7千件の積滞した訴訟を裁決し、一件の冤罪もなかった。",
+      "en": "As judge of the Court of Revision, Di Renjie clears 17,000 backlogged cases in a year without complaint",
+      "ja": "676年、大理丞の狄仁傑が一年で1万7千件の積滞した訴訟を裁決し、一件の冤罪もなかった。"
     },
     {
       "dynastyKey": "tang",
@@ -11003,8 +11559,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "彭泽（今江西彭泽）",
       "siteEn": "Pengze (Jiangxi)",
-      "zh": "狄仁杰遭来俊臣诬陷下狱，以帛书申冤得免，贬彭泽令",
-      "en": "Framed by Lai Junchen, Di Renjie smuggles out a plea on silk, escapes death and is demoted to Pengze"
+      "zh": "692年、狄仁傑が来俊臣の誣告により投獄されたが、帛書で冤罪を訴え死罪を免れ、彭澤令に左遷された。",
+      "en": "Framed by Lai Junchen, Di Renjie smuggles out a plea on silk, escapes death and is demoted to Pengze",
+      "ja": "692年、狄仁傑が来俊臣の誣告により投獄されたが、帛書で冤罪を訴え死罪を免れ、彭澤令に左遷された。"
     },
     {
       "dynastyKey": "tang",
@@ -11015,8 +11572,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "魏州（今河北大名）",
       "siteEn": "Weizhou (Daming, Hebei)",
-      "zh": "魏州刺史狄仁杰撤守归农安民，契丹闻风退去，百姓立生祠",
-      "en": "Prefect Di Renjie calms Weizhou as the Khitans retreat; grateful locals build him a living shrine"
+      "zh": "697年、魏州刺史の狄仁傑が防衛を解き、農民を帰還させ民衆を安堵させたため、契丹軍はこれを聞いて退却し、民衆は彼のために生祠を建てた。",
+      "en": "Prefect Di Renjie calms Weizhou as the Khitans retreat; grateful locals build him a living shrine",
+      "ja": "697年、魏州刺史の狄仁傑が防衛を解き、農民を帰還させ民衆を安堵させたため、契丹軍はこれを聞いて退却し、民衆は彼のために生祠を建てた。"
     },
     {
       "dynastyKey": "tang",
@@ -11027,13 +11585,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "神都洛阳（今河南洛阳）",
       "siteEn": "Shendu Luoyang (Henan)",
-      "zh": "狄仁杰卒于神都，生前荐张柬之、姚崇等，武则天叹“朝堂空矣”",
+      "zh": "700年、狄仁傑が神都洛陽で死去した。生前、張柬之や姚崇らを推挙しており、武則天は「朝堂空し」と嘆いた。",
       "en": "Di Renjie dies in Luoyang after recommending Zhang Jianzhi; Empress Wu weeps that “the court is empty”",
       "month": 9,
       "persons": [
         "direnjie",
         "wuzetian"
-      ]
+      ],
+      "ja": "700年、狄仁傑が神都洛陽で死去した。生前、張柬之や姚崇らを推挙しており、武則天は「朝堂空し」と嘆いた。"
     },
     {
       "dynastyKey": "beisong",
@@ -11044,8 +11603,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "天长（今安徽天长）",
       "siteEn": "Tianchang (Anhui)",
-      "zh": "包拯知天长县，以“宰牛引告”之计智破割牛舌案",
-      "en": "Magistrate Bao Zheng of Tianchang cleverly unmasks a culprit who cut out a farmer's ox tongue"
+      "zh": "包拯が天長県知事となり、「宰牛引告の計」を用いて牛の舌を切り取った事件を見事に解決した。",
+      "en": "Magistrate Bao Zheng of Tianchang cleverly unmasks a culprit who cut out a farmer's ox tongue",
+      "ja": "包拯が天長県知事となり、「宰牛引告の計」を用いて牛の舌を切り取った事件を見事に解決した。"
     },
     {
       "dynastyKey": "beisong",
@@ -11056,8 +11616,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "端州（今广东肇庆）",
       "siteEn": "Duanzhou (Zhaoqing, Guangdong)",
-      "zh": "包拯知端州，端砚岁贡之外不多取，任满“不持一砚归”",
-      "en": "Governing Duanzhou, home of famed inkstones, Bao Zheng leaves office without taking a single one"
+      "zh": "包拯が端州知事となり、端硯の歳貢以外には何も受け取らず、任期満了時には「一つの硯も持ち帰らなかった」。",
+      "en": "Governing Duanzhou, home of famed inkstones, Bao Zheng leaves office without taking a single one",
+      "ja": "包拯が端州知事となり、端硯の歳貢以外には何も受け取らず、任期満了時には「一つの硯も持ち帰らなかった」。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11068,12 +11629,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "咸阳（今陕西咸阳）",
       "siteEn": "Xianyang (Shaanxi)",
-      "zh": "秦下逐客令，李斯上《谏逐客书》“泰山不让土壤”，秦王收回成命",
+      "zh": "前237年、秦が逐客令を発布すると、李斯は「泰山は土壌を譲らず」と説く『諫逐客書』を上奏し、秦王は命令を撤回した。",
       "en": "When Qin expels foreign advisers, Li Si's memorial persuades the King to revoke the order",
       "persons": [
         "qinshihuang",
         "lisi"
-      ]
+      ],
+      "ja": "前237年、秦が逐客令を発布すると、李斯は「泰山は土壌を譲らず」と説く『諫逐客書』を上奏し、秦王は命令を撤回した。"
     },
     {
       "dynastyKey": "qin",
@@ -11084,9 +11646,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "咸阳（今陕西咸阳）",
       "siteEn": "Xianyang (Shaanxi)",
-      "zh": "李斯遭赵高诬陷腰斩咸阳，临刑叹“牵黄犬出上蔡东门”不可得",
+      "zh": "前208年、李斯は趙高の誣告により咸陽で腰斬に処され、処刑に臨み「黄犬を牽いて上蔡の東門を出る」ことは叶わぬと嘆いた。",
       "en": "Framed by Zhao Gao, Li Si is executed in Xianyang, longing to hunt hares with his son once more",
-      "month": 7
+      "month": 7,
+      "ja": "前208年、李斯は趙高の誣告により咸陽で腰斬に処され、処刑に臨み「黄犬を牽いて上蔡の東門を出る」ことは叶わぬと嘆いた。"
     },
     {
       "dynastyKey": "ming",
@@ -11097,9 +11660,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "天台山（今浙江天台）",
       "siteEn": "Mount Tiantai (Zhejiang)",
-      "zh": "徐霞客游天台山写下游记开篇，首日五月十九日今为中国旅游日",
+      "zh": "1613年、徐霞客が天台山を遊歴し、その遊記の冒頭を記した。その初日である5月19日は、現在「中国旅游日」とされている。",
       "en": "Xu Xiake explores Mount Tiantai and opens his travel diaries; that May 19 is now China Tourism Day",
-      "month": 5
+      "month": 5,
+      "ja": "1613年、徐霞客が天台山を遊歴し、その遊記の冒頭を記した。その初日である5月19日は、現在「中国旅游日」とされている。"
     },
     {
       "dynastyKey": "ming",
@@ -11110,9 +11674,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "黄山（今安徽黄山）",
       "siteEn": "Mount Huangshan (Anhui)",
-      "zh": "徐霞客再游黄山，攀登天都、莲花二峰，作《游黄山日后记》",
+      "zh": "1618年、徐霞客は再び黄山を訪れ、天都峰と蓮花峰の二峰に登頂し、『遊黄山日後記』を著した。",
       "en": "On his second Huangshan trip, Xu Xiake scales Tiandu and Lotus peaks and records the climb",
-      "month": 9
+      "month": 9,
+      "ja": "1618年、徐霞客は再び黄山を訪れ、天都峰と蓮花峰の二峰に登頂し、『遊黄山日後記』を著した。"
     },
     {
       "dynastyKey": "ming",
@@ -11123,9 +11688,10 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "腾越（今云南腾冲）",
       "siteEn": "Tengyue (Tengchong, Yunnan)",
-      "zh": "徐霞客万里遐征西抵腾越，考察打鹰山火山与热泉",
+      "zh": "1639年、徐霞客は万里の旅の末、西方の騰越に到達し、打鷹山の火山と熱泉を調査した。",
       "en": "Xu Xiake's great southwest journey reaches Tengyue, where he documents volcanic rock and hot springs",
-      "month": 4
+      "month": 4,
+      "ja": "1639年、徐霞客は万里の旅の末、西方の騰越に到達し、打鷹山の火山と熱泉を調査した。"
     },
     {
       "dynastyKey": "ming",
@@ -11149,7 +11715,7 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封府（今河南开封）",
       "siteEn": "Kaifeng Prefecture (Henan)",
-      "zh": "包拯权知开封府，开正门许百姓直诉，京师号“关节不到，有阎罗包老”",
+      "zh": "1057年、包拯が権知開封府事となり、正門を開いて庶民の直訴を許した。京師では「コネが効かずとも、閻羅包老がいる」と称された。",
       "en": "As prefect of Kaifeng, Bao Zheng opens the gates to direct petitions and becomes a byword for integrity",
       "persons": [
         "ouyangxiu",
@@ -11157,7 +11723,8 @@ window.ATLAS_LORE_DATA = {
         "baozheng",
         "wanganshi",
         "simaguang"
-      ]
+      ],
+      "ja": "1057年、包拯が権知開封府事となり、正門を開いて庶民の直訴を許した。京師では「コネが効かずとも、閻羅包老がいる」と称された。"
     },
     {
       "dynastyKey": "xihan",
@@ -11168,8 +11735,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安",
       "siteEn": "Chang'an",
-      "zh": "汉武帝罢三铢钱改铸五铢钱，推行盐铁官营与算缗充实国库",
-      "en": "Emperor Wu standardizes the five-zhu bronze coin and institutes state salt and iron monopolies"
+      "zh": "前118年、漢武帝は三銖銭を廃止して五銖銭を改鋳し、塩鉄官営と算缗を推し進めて国庫を充実させた。",
+      "en": "Emperor Wu standardizes the five-zhu bronze coin and institutes state salt and iron monopolies",
+      "ja": "前118年、漢武帝は三銖銭を廃止して五銖銭を改鋳し、塩鉄官営と算缗を推し進めて国庫を充実させた。"
     },
     {
       "dynastyKey": "donghan",
@@ -11180,8 +11748,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "汉光武帝赐倭奴国使者“汉委奴国王”金印，开启中日信史交往",
-      "en": "Emperor Guangwu grants the King of Na gold seal to the Wa envoy in Luoyang"
+      "zh": "57年、漢光武帝は洛陽で倭奴国の使者に「漢委奴国王」の金印を授け、これにより中日間の確実な歴史的交流が始まった。",
+      "en": "Emperor Guangwu grants the King of Na gold seal to the Wa envoy in Luoyang",
+      "ja": "57年、漢光武帝は洛陽で倭奴国の使者に「漢委奴国王」の金印を授け、これにより中日間の確実な歴史的交流が始まった。"
     },
     {
       "dynastyKey": "beisong",
@@ -11192,8 +11761,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京汴梁（今河南开封）",
       "siteEn": "Dongjing Bianliang (Kaifeng, Henan)",
-      "zh": "曾公亮等编成官修兵书《武经总要》，首载火药配方与指南鱼制法",
-      "en": "Zeng Gongliang compiles Wujing Zongyao, first recording gunpowder formulas and compass needles"
+      "zh": "1044年、曾公亮らが官修兵書『武経総要』を編纂した。この書には火薬の配合と指南魚の製法が初めて記載された。",
+      "en": "Zeng Gongliang compiles Wujing Zongyao, first recording gunpowder formulas and compass needles",
+      "ja": "1044年、曾公亮らが官修兵書『武経総要』を編纂した。この書には火薬の配合と指南魚の製法が初めて記載された。"
     },
     {
       "dynastyKey": "ming",
@@ -11204,8 +11774,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "乌思藏（拉萨）",
       "siteEn": "U-Tsang (Lhasa)",
-      "zh": "明太祖设乌思藏、朵甘二都司，以茶马互市与册封维系藏地",
-      "en": "Hongwu Emperor establishes U-Tsang and Dokham regional military commissions and tea-horse trade"
+      "zh": "1373年、明太祖は烏思藏と朵甘の二都司を設置し、茶馬互市と冊封によってチベット地域との関係を維持した。",
+      "en": "Hongwu Emperor establishes U-Tsang and Dokham regional military commissions and tea-horse trade",
+      "ja": "1373年、明太祖は烏思藏と朵甘の二都司を設置し、茶馬互市と冊封によってチベット地域との関係を維持した。"
     },
     {
       "dynastyKey": "ming",
@@ -11216,8 +11787,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "澳门",
       "siteEn": "Macau",
-      "zh": "葡萄牙商船借口曝晒水渍贡物获准租居澳门，开启中西海贸门户",
-      "en": "Portuguese merchants obtain permission to lease ashore at Macau, opening Sino-European maritime trade"
+      "zh": "1553年、葡萄牙商船は、水濡れした貢物を乾燥させるという名目で澳門への居住を許可され、中国と西洋の海上貿易の門戸を開いた。",
+      "en": "Portuguese merchants obtain permission to lease ashore at Macau, opening Sino-European maritime trade",
+      "ja": "1553年、葡萄牙商船は、水濡れした貢物を乾燥させるという名目で澳門への居住を許可され、中国と西洋の海上貿易の門戸を開いた。"
     },
     {
       "dynastyKey": "qing",
@@ -11228,8 +11800,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京畅春园",
       "siteEn": "Changchunyuan, Beijing",
-      "zh": "康熙帝历时十年组织全国经纬实测，绘成巨制《皇舆全览图》",
-      "en": "Kangxi Emperor completes the ten-year nationwide geodetic survey for the Huangyu Quanlan Atlas"
+      "zh": "1718年、康熙帝は十年をかけて全国の経緯度を実測させ、大作『皇輿全覽圖』を完成させた。",
+      "en": "Kangxi Emperor completes the ten-year nationwide geodetic survey for the Huangyu Quanlan Atlas",
+      "ja": "1718年、康熙帝は十年をかけて全国の経緯度を実測させ、大作『皇輿全覽圖』を完成させた。"
     },
     {
       "dynastyKey": "qing",
@@ -11240,8 +11813,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上海",
       "siteEn": "Shanghai",
-      "zh": "李鸿章于上海创办轮船招商局，开中国近代民族航运企业先河",
-      "en": "Li Hongzhang founds the China Merchants Steam Navigation Company in Shanghai, pioneering modern shipping"
+      "zh": "1872年、李鴻章は上海に輪船招商局を創設し、中国近代の民族航運企業の先駆けとなった。",
+      "en": "Li Hongzhang founds the China Merchants Steam Navigation Company in Shanghai, pioneering modern shipping",
+      "ja": "1872年、李鴻章は上海に輪船招商局を創設し、中国近代の民族航運企業の先駆けとなった。"
     },
     {
       "dynastyKey": "qing",
@@ -11253,8 +11827,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "四川保路同志会掀动全川保路风潮，清廷调鄂军入川触发武昌起义",
-      "en": "Sichuan Railway Protection Movement erupts in Chengdu, draining Qing garrisons from Wuchang"
+      "zh": "1911年、四川保路同志會が全四川で保路運動を巻き起こし、清廷が鄂軍を四川に派遣したことが武昌起義の引き金となった。",
+      "en": "Sichuan Railway Protection Movement erupts in Chengdu, draining Qing garrisons from Wuchang",
+      "ja": "1911年、四川保路同志會が全四川で保路運動を巻き起こし、清廷が鄂軍を四川に派遣したことが武昌起義の引き金となった。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11265,11 +11840,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汉中",
       "siteEn": "Hanzhong",
-      "zh": "钟会伐蜀辟杜预为镇西长史，参赞军机进克汉中平定巴蜀",
+      "zh": "263年、鍾會が蜀を討伐する際、杜預を鎮西長史に起用し、軍機を参賛させて漢中を攻略し巴蜀を平定した。",
       "en": "Serving as Zhong Hui's chief clerk, Du Yu helps direct the conquest of Hanzhong and Shu",
       "persons": [
         "duyu"
-      ]
+      ],
+      "ja": "263年、鍾會が蜀を討伐する際、杜預を鎮西長史に起用し、軍機を参賛させて漢中を攻略し巴蜀を平定した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11280,12 +11856,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "晋武帝于洛阳筹议灭吴方略，倚重羊祜与杜预经略荆襄",
+      "zh": "268年、晉武帝は洛陽で呉討滅の戦略を協議し、羊祜と杜預を重用して荊襄地方の経営に当たらせた。",
       "en": "Emperor Wu of Jin plans the conquest of Eastern Wu in Luoyang with Yang Hu and Du Yu",
       "persons": [
         "yanghu",
         "duyu"
-      ]
+      ],
+      "ja": "268年、晉武帝は洛陽で呉討滅の戦略を協議し、羊祜と杜預を重用して荊襄地方の経営に当たらせた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11296,11 +11873,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳",
       "siteEn": "Xiangyang",
-      "zh": "羊祜镇守襄阳垦田八百余顷，与吴将陆抗对境推诚怀柔江汉",
+      "zh": "274年、羊祜は襄陽に鎮守し、八百余頃の土地を開墾した。呉将の陸抗と国境を接しながらも、誠意をもって江漢地方を懐柔した。",
       "en": "Yang Hu garrisons Xiangyang with vast military farms, winning hearts across the Wu frontier",
       "persons": [
         "yanghu"
-      ]
+      ],
+      "ja": "274年、羊祜は襄陽に鎮守し、八百余頃の土地を開墾した。呉将の陸抗と国境を接しながらも、誠意をもって江漢地方を懐柔した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11311,11 +11889,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "孟津（今河南孟津）",
       "siteEn": "Mengjin (Luoyang, Henan)",
-      "zh": "杜预奏请于富平津架设孟津黄河浮桥，贯通南北漕运咽喉",
+      "zh": "274年、杜預は富平津に孟津黄河浮橋の架設を奏請し、南北の漕運の要衝を貫通させた。",
       "en": "Du Yu engineers the Fupingjin pontoon bridge at Mengjin, linking Yellow River grain transport",
       "persons": [
         "duyu"
-      ]
+      ],
+      "ja": "274年、杜預は富平津に孟津黄河浮橋の架設を奏請し、南北の漕運の要衝を貫通させた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11327,12 +11906,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳岘山",
       "siteEn": "Mount Xianshan, Xiangyang",
-      "zh": "羊祜病笃举杜预自代，卒后襄阳百姓于岘山立碑望之堕泪",
+      "zh": "278年、羊祜は病篤く、杜預を後任に推挙した。彼の死後、襄陽の民は峴山に碑を立て、それを見て涙を流した。",
       "en": "Dying Yang Hu recommends Du Yu as successor; mourners erect the Monument of Tears on Mount Xianshan",
       "persons": [
         "yanghu",
         "duyu"
-      ]
+      ],
+      "ja": "278年、羊祜は病篤く、杜預を後任に推挙した。彼の死後、襄陽の民は峴山に碑を立て、それを見て涙を流した。"
     },
     {
       "dynastyKey": "xijin",
@@ -11344,11 +11924,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵",
       "siteEn": "Jiangling",
-      "zh": "镇南大将军杜预自襄阳挥师克江陵，“势如破竹”席卷江南灭吴",
+      "zh": "280年、鎮南大將軍杜預は襄陽から兵を率いて江陵を攻略し、「勢如破竹」の勢いで江南を席巻して呉を滅ぼした。",
       "en": "General Du Yu captures Jiangling like splitting bamboo, sweeping down the Yangtze to conquer Wu",
       "persons": [
         "duyu"
-      ]
+      ],
+      "ja": "280年、鎮南大將軍杜預は襄陽から兵を率いて江陵を攻略し、「勢如破竹」の勢いで江南を席巻して呉を滅ぼした。"
     },
     {
       "dynastyKey": "xijin",
@@ -11359,11 +11940,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "“杜武库”杜预于洛阳撰成《春秋左氏经传集解》传世",
+      "zh": "282年、「杜武庫」と称された杜預は、洛陽で『春秋左氏經傳集解』を撰述し、後世に伝えた。",
       "en": "Polymath general Du Yu completes his classic commentary on the Zuo Zhuan in Luoyang",
       "persons": [
         "duyu"
-      ]
+      ],
+      "ja": "282年、「杜武庫」と称された杜預は、洛陽で『春秋左氏經傳集解』を撰述し、後世に伝えた。"
     },
     {
       "dynastyKey": "xijin",
@@ -11374,12 +11956,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "祖逖与刘琨于洛阳共任司州主簿，中夜“闻鸡起舞”砺志匡世",
+      "zh": "298年、祖逖と劉琨は洛陽で司州主簿を務め、中夜に「鶏鳴を聞いて舞い起つ」と励まし合い、世を匡す志を磨いた。",
       "en": "Fellow clerks Zu Ti and Liu Kun rise at rooster crow in Luoyang to practice swordplay",
       "persons": [
         "zuti",
         "liukun"
-      ]
+      ],
+      "ja": "298年、祖逖と劉琨は洛陽で司州主簿を務め、中夜に「鶏鳴を聞いて舞い起つ」と励まし合い、世を匡す志を磨いた。"
     },
     {
       "dynastyKey": "xijin",
@@ -11390,11 +11973,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "范阳（今河北涿州）",
       "siteEn": "Fanyang (Zhuozhou, Hebei)",
-      "zh": "八王之乱中刘琨北赴范阳乞师得骑兵，合军南下迎晋惠帝还洛阳",
+      "zh": "306年、八王の乱の最中、劉琨は北の范陽へ赴き援軍の騎兵を得た。その軍を率いて南下し、晋恵帝を洛陽へ迎え入れた。",
       "en": "Amid the War of the Eight Princes, Liu Kun rides to Fanyang for cavalry to escort Emperor Hui home",
       "persons": [
         "liukun"
-      ]
+      ],
+      "ja": "306年、八王の乱の最中、劉琨は北の范陽へ赴き援軍の騎兵を得た。その軍を率いて南下し、晋恵帝を洛陽へ迎え入れた。"
     },
     {
       "dynastyKey": "xijin",
@@ -11405,11 +11989,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "晋阳（今山西太原）",
       "siteEn": "Jinyang (Taiyuan, Shanxi)",
-      "zh": "刘琨出任并州刺史，于晋阳废墟披荆斩棘抚集流亡孤守北疆",
+      "zh": "307年、劉琨は並州刺史に任じられ、晋陽の廃墟で荊を披き棘を斬り、流民を慰撫して北の国境を孤立して守り抜いた。",
       "en": "Appointed Inspector of Bingzhou, Liu Kun rebuilds ruined Jinyang and rallies refugees on the frontier",
       "persons": [
         "liukun"
-      ]
+      ],
+      "ja": "307年、劉琨は並州刺史に任じられ、晋陽の廃墟で荊を披き棘を斬り、流民を慰撫して北の国境を孤立して守り抜いた。"
     },
     {
       "dynastyKey": "xijin",
@@ -11420,11 +12005,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "淮阴（今江苏淮安）",
       "siteEn": "Huaiyin (Huai'an, Jiangsu)",
-      "zh": "永嘉丧乱洛阳倾覆，祖逖率亲党数百家避乱南迁屯居泗口淮阴",
+      "zh": "311年、永嘉の乱により洛陽が陥落すると、祖逖は親族数百家を率いて戦乱を避け南遷し、泗口の淮陰に屯居した。",
       "en": "After Luoyang falls in the Disaster of Yongjia, Zu Ti leads clansmen south to settle at Huaiyin",
       "persons": [
         "zuti"
-      ]
+      ],
+      "ja": "311年、永嘉の乱により洛陽が陥落すると、祖逖は親族数百家を率いて戦乱を避け南遷し、泗口の淮陰に屯居した。"
     },
     {
       "dynastyKey": "xijin",
@@ -11435,11 +12021,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "晋阳（今山西太原）",
       "siteEn": "Jinyang (Taiyuan, Shanxi)",
-      "zh": "大司马刘琨孤守晋阳抗击石勒，慷慨陈志“吾枕戈待旦，志枭逆虏”",
+      "zh": "314年、大司馬の劉琨は晋陽を孤立して守り石勒に抗戦し、「吾は戈を枕として旦を待ち、逆虜を梟首する志あり」と慷慨して志を述べた。",
       "en": "Grand Marshal Liu Kun defends Jinyang against Shi Le, vowing to sleep on his spear until dawn",
       "persons": [
         "liukun"
-      ]
+      ],
+      "ja": "314年、大司馬の劉琨は晋陽を孤立して守り石勒に抗戦し、「吾は戈を枕として旦を待ち、逆虜を梟首する志あり」と慷慨して志を述べた。"
     },
     {
       "dynastyKey": "dongjin",
@@ -11450,11 +12037,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "谯城（今安徽亳州）",
       "siteEn": "Qiaocheng (Bozhou, Anhui)",
-      "zh": "祖逖北伐进据谯城屯田练兵，屡破石勒收复黄河以南大片故土",
+      "zh": "317年、祖逖は北伐を進め譙城に進駐して屯田し兵を練った。石勒を度々破り、黄河以南の広大な故土を回復した。",
       "en": "Zu Ti establishes his northern headquarters at Qiaocheng, defeating Shi Le south of the Yellow River",
       "persons": [
         "zuti"
-      ]
+      ],
+      "ja": "317年、祖逖は北伐を進め譙城に進駐して屯田し兵を練った。石勒を度々破り、黄河以南の広大な故土を回復した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -11465,11 +12053,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "蓟城（今北京西南）",
       "siteEn": "Jicheng (Beijing)",
-      "zh": "刘琨于幽州蓟城蒙冤系狱，临终赋绝命诗“何意百炼钢，化为绕指柔”",
+      "zh": "318年、劉琨は幽州の薊城で冤罪により投獄され、臨終に際して「何ぞ意わん百錬の鋼、指を繞る柔と化すを」という絶命詩を賦した。",
       "en": "Wrongfully imprisoned at Jicheng, Liu Kun composes his farewell lament on hundred-times-forged steel",
       "persons": [
         "liukun"
-      ]
+      ],
+      "ja": "318年、劉琨は幽州の薊城で冤罪により投獄され、臨終に際して「何ぞ意わん百錬の鋼、指を繞る柔と化すを」という絶命詩を賦した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -11480,11 +12069,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "雍丘（今河南杞县）",
       "siteEn": "Yongqiu (Qixian, Henan)",
-      "zh": "祖逖进驻雍丘威震黄河两岸，旋忧愤东晋内乱病卒于军中",
+      "zh": "320年、祖逖は雍丘に進駐して黄河両岸に威名を轟かせたが、間もなく東晋の内乱を憂憤し、軍中で病没した。",
       "en": "Zu Ti advances his garrison to Yongqiu along the Yellow River before dying in camp amid court strife",
       "persons": [
         "zuti"
-      ]
+      ],
+      "ja": "320年、祖逖は雍丘に進駐して黄河両岸に威名を轟かせたが、間もなく東晋の内乱を憂憤し、軍中で病没した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -11495,11 +12085,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "京口（今江苏镇江）",
       "siteEn": "Jingkou (Zhenjiang, Jiangsu)",
-      "zh": "祖冲之任南徐州从事史驻京口，实测冬至晷影起草《大明历》",
+      "zh": "461年、祖沖之は南徐州従事史として京口に駐在し、冬至の晷影を実測して『大明暦』を起草した。",
       "en": "Serving at Jingkou, Zu Chongzhi measures winter solstice gnomon shadows and drafts the Daming Calendar",
       "persons": [
         "zuchongzhi"
-      ]
+      ],
+      "ja": "461年、祖沖之は南徐州従事史として京口に駐在し、冬至の晷影を実測して『大明暦』を起草した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -11510,11 +12101,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "娄县（今江苏昆山）",
       "siteEn": "Louxian (Kunshan, Jiangsu)",
-      "zh": "祖冲之出任吴郡娄县令勤政恤民，公务之暇潜心精研算学《缀术》",
+      "zh": "466年、祖沖之は呉郡婁県令に就任し、勤勉に政務を執り民を恤んだ。公務の暇には算学『綴術』の精研に潜心した。",
       "en": "As magistrate of Louxian, Zu Chongzhi governs humanely while advancing his mathematical treatise Zhui Shu",
       "persons": [
         "zuchongzhi"
-      ]
+      ],
+      "ja": "466年、祖沖之は呉郡婁県令に就任し、勤勉に政務を執り民を恤んだ。公務の暇には算学『綴術』の精研に潜心した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -11525,11 +12117,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "建康乐游苑",
       "siteEn": "Leyou Park, Jiankang (Nanjing)",
-      "zh": "长水校尉祖冲之于建康重造铜机指南车，又试航日行百里千里船",
+      "zh": "494年、長水校尉の祖沖之は建康で銅製の指南車を再造し、また日行百里の千里船を試航した。",
       "en": "In Jiankang, Zu Chongzhi reconstructs the bronze south-pointing chariot and tests his paddle-wheel boat",
       "persons": [
         "zuchongzhi"
-      ]
+      ],
+      "ja": "494年、長水校尉の祖沖之は建康で銅製の指南車を再造し、また日行百里の千里船を試航した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -11540,11 +12133,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东阳（今山东青州）",
       "siteEn": "Dongyang (Qingzhou, Shandong)",
-      "zh": "少年郦道元随父宦游青州，踏勘齐鲁山川古迹启蒙地理之志",
+      "zh": "480年、少年期の酈道元は父に随い青州を宦遊し、斉魯の山川や古跡を踏査して地理学の志を啓蒙された。",
       "en": "Young Li Daoyuan accompanies his father in Qingzhou, surveying Shandong rivers and ancient sites",
       "persons": [
         "lidaoyuan"
-      ]
+      ],
+      "ja": "480年、少年期の酈道元は父に随い青州を宦遊し、斉魯の山川や古跡を踏査して地理学の志を啓蒙された。"
     },
     {
       "dynastyKey": "nanbei",
@@ -11556,11 +12150,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "平城（大同）",
       "siteEn": "Pingcheng (Datong)",
-      "zh": "尚书主客郎郦道元扈从魏主巡察阴山塞北，旋随朝廷自平城迁洛阳",
+      "zh": "494年、尚書主客郎の酈道元は魏主に扈従して陰山塞北を巡察し、その後、朝廷と共に平城から洛陽へ遷都した。",
       "en": "Imperial secretary Li Daoyuan inspects the Yinshan frontier before moving south from Pingcheng to Luoyang",
       "persons": [
         "lidaoyuan"
-      ]
+      ],
+      "ja": "494年、尚書主客郎の酈道元は魏主に扈従して陰山塞北を巡察し、その後、朝廷と共に平城から洛陽へ遷都した。"
     },
     {
       "dynastyKey": "nanbei",
@@ -11601,11 +12196,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京开封",
       "siteEn": "Dongjing Kaifeng",
-      "zh": "钱塘沈括于东京登嘉祐八年进士第，旋入馆阁编校昭文书籍",
+      "zh": "銭塘の沈括は東京（開封）で嘉祐八年（1063年）に進士に及第し、間もなく館閣に入って昭文書籍の編校に従事した。",
       "en": "Shen Kuo passes the imperial examination in Kaifeng and enters the court academies to collate texts",
       "persons": [
         "shenkuo"
-      ]
+      ],
+      "ja": "銭塘の沈括は東京（開封）で嘉祐八年（1063年）に進士に及第し、間もなく館閣に入って昭文書籍の編校に従事した。"
     },
     {
       "dynastyKey": "beisong",
@@ -11616,11 +12212,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东京司天监",
       "siteEn": "Astronomical Bureau, Kaifeng",
-      "zh": "沈括提举司天监革新浑仪浮漏，主持疏浚汴渠实测分层水准",
+      "zh": "沈括は司天監の提挙（長官）となり、渾儀や浮漏（水時計）を革新した。また、汴渠の疏浚を主導し、その水準を実測した。",
       "en": "Shen Kuo heads the Kaifeng Astronomical Bureau, reforming instruments and surveying Bian Canal",
       "persons": [
         "shenkuo"
-      ]
+      ],
+      "ja": "沈括は司天監の提挙（長官）となり、渾儀や浮漏（水時計）を革新した。また、汴渠の疏浚を主導し、その水準を実測した。"
     },
     {
       "dynastyKey": "beisong",
@@ -11631,11 +12228,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上京临潢府",
       "siteEn": "Liao Supreme Capital (Bairin Left Banner)",
-      "zh": "沈括奉使契丹抵辽上京据理折冲，沿途聚米山川绘《使契丹图抄》",
+      "zh": "沈括は契丹への使者として遼の上京臨潢府に赴き、理路整然と交渉した。道中、山川の地形を米粒で表現する聚米法を用いて『使契丹図抄』を作成した。",
       "en": "Envoy Shen Kuo negotiates border disputes at the Liao Supreme Capital and compiles raised-relief maps",
       "persons": [
         "shenkuo"
-      ]
+      ],
+      "ja": "沈括は契丹への使者として遼の上京臨潢府に赴き、理路整然と交渉した。道中、山川の地形を米粒で表現する聚米法を用いて『使契丹図抄』を作成した。"
     },
     {
       "dynastyKey": "beisong",
@@ -11646,11 +12244,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "延州（延安）",
       "siteEn": "Yanzhou (Yan'an)",
-      "zh": "鄜延路经略使沈括镇守延州抗夏，首记陕北“石油”并命名传世",
+      "zh": "鄜延路経略使の沈括は延州（延安）に鎮守して西夏に抵抗した。この時、陝北の「石油」を初めて記録し、その名を後世に伝えた。",
       "en": "Commanding Yanzhou against Western Xia, Shen Kuo coins the Chinese term shiyou for petroleum",
       "persons": [
         "shenkuo"
-      ]
+      ],
+      "ja": "鄜延路経略使の沈括は延州（延安）に鎮守して西夏に抵抗した。この時、陝北の「石油」を初めて記録し、その名を後世に伝えた。"
     },
     {
       "dynastyKey": "nansong",
@@ -11661,12 +12260,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "克鲁伦河幕府",
       "siteEn": "Kerulen Steppe Ordo",
-      "zh": "成吉思汗于漠北召见辽宗室耶律楚材，赞誉“吾图撒合里”留赞军国",
+      "zh": "チンギス・ハンは漠北（モンゴル高原）で遼の宗室である耶律楚材を召見し、「吾図撒合里」（長髯）と称賛して軍国の顧問として留めた。",
       "en": "Genghis Khan summons Khitan scholar Yelu Chucai on the steppe to counsel the Mongol court",
       "persons": [
         "yeluchucai",
         "genghiskhan"
-      ]
+      ],
+      "ja": "チンギス・ハンは漠北（モンゴル高原）で遼の宗室である耶律楚材を召見し、「吾図撒合里」（長髯）と称賛して軍国の顧問として留めた。"
     },
     {
       "dynastyKey": "nansong",
@@ -11677,12 +12277,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "撒马尔罕（河中）",
       "siteEn": "Samarkand (Transoxiana)",
-      "zh": "耶律楚材随成吉思汗西征驻撒马尔罕，观测月食创制《西征庚午元历》",
+      "zh": "耶律楚材はチンギス・ハンの西方遠征に随行してサマルカンドに滞在し、月食を観測して『西征庚午元暦』を制定した。",
       "en": "Accompanying Genghis Khan to Samarkand, Yelu Chucai observes lunar eclipses and creates a new calendar",
       "persons": [
         "yeluchucai",
         "genghiskhan"
-      ]
+      ],
+      "ja": "耶律楚材はチンギス・ハンの西方遠征に随行してサマルカンドに滞在し、月食を観測して『西征庚午元暦』を制定した。"
     },
     {
       "dynastyKey": "nansong",
@@ -11693,11 +12294,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "汴京（开封）",
       "siteEn": "Bianjing (Kaifeng)",
-      "zh": "蒙古军围攻金汴京欲屠城，中书令耶律楚材力谏窝阔台汗保全百万生灵",
+      "zh": "モンゴル軍が金の汴京（開封）を包囲し、城の住民を皆殺しにしようとした際、中書令の耶律楚材はオゴデイ・ハンに強く諫言し、百万の生霊を保全させた。",
       "en": "Chancellor Yelu Chucai persuades Ogedei Khan to spare over a million lives at fallen Kaifeng",
       "persons": [
         "yeluchucai"
-      ]
+      ],
+      "ja": "モンゴル軍が金の汴京（開封）を包囲し、城の住民を皆殺しにしようとした際、中書令の耶律楚材はオゴデイ・ハンに強く諫言し、百万の生霊を保全させた。"
     },
     {
       "dynastyKey": "nansong",
@@ -11708,11 +12310,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "哈拉和林",
       "siteEn": "Karakorum",
-      "zh": "耶律楚材于哈拉和林定赋税立制度，倡行戊戌选试拔擢中原儒士",
+      "zh": "耶律楚材はハラホリンで賦税制度を確立した。また、戊戌選試を提唱し、中原の儒士を登用した。",
       "en": "In Karakorum, Yelu Chucai regularizes taxation and holds civil examinations to recruit Confucian scholars",
       "persons": [
         "yeluchucai"
-      ]
+      ],
+      "ja": "耶律楚材はハラホリンで賦税制度を確立した。また、戊戌選試を提唱し、中原の儒士を登用した。"
     },
     {
       "dynastyKey": "nansong",
@@ -11723,11 +12326,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "沙州（敦煌）",
       "siteEn": "Shazhou (Dunhuang)",
-      "zh": "马可·波罗父子越葱岭抵河西沙州，沿丝绸之路东赴元廷",
+      "zh": "マルコ・ポーロ父子は葱嶺を越えて河西の沙州に到着し、シルクロードに沿って東へ元朝の朝廷へ赴いた。",
       "en": "Venetian traveler Marco Polo crosses the Pamirs to Shazhou and journeys east along the Hexi Corridor",
       "persons": [
         "marcopolo"
-      ]
+      ],
+      "ja": "マルコ・ポーロ父子は葱嶺を越えて河西の沙州に到着し、シルクロードに沿って東へ元朝の朝廷へ赴いた。"
     },
     {
       "dynastyKey": "nansong",
@@ -11739,12 +12343,13 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "上都（开平）",
       "siteEn": "Shangdu (Xanadu)",
-      "zh": "马可·波罗抵滦河上都觐见元世祖忽必烈，奉命入仕出使四方",
+      "zh": "マルコ・ポーロは滦河の上都に到着し、元世祖忽必烈に謁見した。彼は命を受けて元朝に仕え、各地へ使者として派遣された。",
       "en": "Marco Polo reaches the summer capital Shangdu, enters Kublai Khan's service, and undertakes missions",
       "persons": [
         "marcopolo",
         "kublaikhan"
-      ]
+      ],
+      "ja": "マルコ・ポーロは滦河の上都に到着し、元世祖忽必烈に謁見した。彼は命を受けて元朝に仕え、各地へ使者として派遣された。"
     },
     {
       "dynastyKey": "yuan",
@@ -11755,11 +12360,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州",
       "siteEn": "Yangzhou",
-      "zh": "马可·波罗旅居运河枢纽扬州，惊叹东南漕运百工与临安繁华",
+      "zh": "マルコ・ポーロは運河の要衝である揚州に滞在し、江南の漕運や諸産業、そして臨安の繁栄に驚嘆した。",
       "en": "Marco Polo resides along the Grand Canal at Yangzhou, marveling at Jiangnan's commerce and crafts",
       "persons": [
         "marcopolo"
-      ]
+      ],
+      "ja": "マルコ・ポーロは運河の要衝である揚州に滞在し、江南の漕運や諸産業、そして臨安の繁栄に驚嘆した。"
     },
     {
       "dynastyKey": "yuan",
@@ -11770,11 +12376,12 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泉州刺桐港",
       "siteEn": "Zayton Port (Quanzhou)",
-      "zh": "马可·波罗奉命护送阔阔真公主自泉州刺桐港扬帆西归波斯",
+      "zh": "マルコ・ポーロは命を受け、コケジン公主を護送して泉州の刺桐港からペルシアへ向けて西へ出航した。",
       "en": "Marco Polo sets sail from Quanzhou port escorting Mongol princess Kokechin westward to Persia",
       "persons": [
         "marcopolo"
-      ]
+      ],
+      "ja": "マルコ・ポーロは命を受け、コケジン公主を護送して泉州の刺桐港からペルシアへ向けて西へ出航した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11785,8 +12392,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛邑（成周）",
       "siteEn": "Luoyi (Luoyang)",
-      "zh": "秦将摎攻入东周洛邑，周赧王卒，秦迁九鼎",
-      "en": "Qin forces capture the Eastern Zhou royal capital Luoyi and carry off the Nine Tripods"
+      "zh": "秦の将軍摎が東周の都洛邑に攻め入り、周赧王が死去した。秦は九鼎を咸陽へ移した。",
+      "en": "Qin forces capture the Eastern Zhou royal capital Luoyi and carry off the Nine Tripods",
+      "ja": "秦の将軍摎が東周の都洛邑に攻め入り、周赧王が死去した。秦は九鼎を咸陽へ移した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11797,8 +12405,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "商丘·彭城",
       "siteEn": "Shangqiu / Pengcheng",
-      "zh": "宋公偃自立为宋康王，东败齐南败楚号“五千乘之劲宋”",
-      "en": "Lord Yan of Song proclaims himself King Kang of Song and defeats Qi, Chu, and Wei"
+      "zh": "宋の偃公は自ら宋康王と称し、東は斉を、南は楚を破り、「五千乗の勁宋」と号した。",
+      "en": "Lord Yan of Song proclaims himself King Kang of Song and defeats Qi, Chu, and Wei",
+      "ja": "宋の偃公は自ら宋康王と称し、東は斉を、南は楚を破り、「五千乗の勁宋」と号した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11809,8 +12418,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "宋国蒙邑",
       "siteEn": "Meng (Shangqiu)",
-      "zh": "道家宗师庄周诞于宋国蒙邑，任漆园吏著《庄子》逍遥游",
-      "en": "Daoist philosopher Zhuangzi is born at Meng in the State of Song and authors the Zhuangzi"
+      "zh": "道家の宗師である荘周が宋国の蒙邑に生まれ、漆園吏を務め、『荘子』の「逍遥遊」などを著した。",
+      "en": "Daoist philosopher Zhuangzi is born at Meng in the State of Song and authors the Zhuangzi",
+      "ja": "道家の宗師である荘周が宋国の蒙邑に生まれ、漆園吏を務め、『荘子』の「逍遥遊」などを著した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11821,8 +12431,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "曲阜",
       "siteEn": "Qufu",
-      "zh": "鲁穆公于曲阜推行变法抑三桓，尊礼子思、墨子等大儒名贤",
-      "en": "Duke Mu of Lu reforms the Three Huan clans in Qufu and honors Zisi and Mozi"
+      "zh": "魯の穆公は曲阜で変法を推し進め、三桓の勢力を抑制し、子思や墨子などの大儒や名賢を尊んだ。",
+      "en": "Duke Mu of Lu reforms the Three Huan clans in Qufu and honors Zisi and Mozi",
+      "ja": "魯の穆公は曲阜で変法を推し進め、三桓の勢力を抑制し、子思や墨子などの大儒や名賢を尊んだ。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11833,8 +12444,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "灵寿",
       "siteEn": "Lingshou",
-      "zh": "中山桓公复国迁都灵寿，铸铁足大鼎与兆域图铜版传世",
-      "en": "Duke Huan of Zhongshan restores his state at Lingshou and casts royal bronzes"
+      "zh": "中山桓公は国を復興し、都を霊寿に遷した。鉄足大鼎や兆域図銅版などが鋳造され、後世に伝えられた。",
+      "en": "Duke Huan of Zhongshan restores his state at Lingshou and casts royal bronzes",
+      "ja": "中山桓公は国を復興し、都を霊寿に遷した。鉄足大鼎や兆域図銅版などが鋳造され、後世に伝えられた。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11845,8 +12457,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "捍关（宜昌）",
       "siteEn": "Hanguan (Yichang)",
-      "zh": "巴国与古蜀联兵东攻楚国兹方，楚肃王筑捍关扼守三峡水道",
-      "en": "Ba and Ancient Shu jointly attack Chu at Zifang, prompting King Su of Chu to fortify Hanguan"
+      "zh": "巴国と古蜀が連合して東方から楚国の茲方を攻撃したため、楚粛王は捍関を築いて三峡の水路を扼守した。",
+      "en": "Ba and Ancient Shu jointly attack Chu at Zifang, prompting King Su of Chu to fortify Hanguan",
+      "ja": "巴国と古蜀が連合して東方から楚国の茲方を攻撃したため、楚粛王は捍関を築いて三峡の水路を扼守した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11857,8 +12470,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "古蜀开明氏九世王始立宗庙定都成都，北取汉中南郑之地",
-      "en": "The Kaiming king of Ancient Shu establishes his ancestral temple at Chengdu and takes Hanzhong"
+      "zh": "古蜀の開明氏九世王は宗廟を建立して成都に定都し、北方では漢中の南鄭の地を奪取した。",
+      "en": "The Kaiming king of Ancient Shu establishes his ancestral temple at Chengdu and takes Hanzhong",
+      "ja": "古蜀の開明氏九世王は宗廟を建立して成都に定都し、北方では漢中の南鄭の地を奪取した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11869,8 +12483,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江州（重庆）",
       "siteEn": "Jiangzhou (Chongqing)",
-      "zh": "巴国控扼川东三峡盐铁水道，因楚国西逼自江州北徙阆中",
-      "en": "Controlling Three Gorges salt waterways, the State of Ba shifts its seat from Jiangzhou to Langzhong"
+      "zh": "巴国は川東の三峡の塩鉄水路を掌握していたが、楚国に西方から迫られたため、江州から閬中へ北遷した。",
+      "en": "Controlling Three Gorges salt waterways, the State of Ba shifts its seat from Jiangzhou to Langzhong",
+      "ja": "巴国は川東の三峡の塩鉄水路を掌握していたが、楚国に西方から迫られたため、江州から閬中へ北遷した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11881,8 +12496,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "义渠城（庆阳）",
       "siteEn": "Yiqu (Qingyang)",
-      "zh": "秦惠文王征义渠，义渠王始称臣于秦，秦置义渠县",
-      "en": "King Huiwen of Qin campaigns against Yiqu, compelling the King of Yiqu to submit as vassal"
+      "zh": "秦恵文王が義渠を征伐し、義渠王は初めて秦に称臣した。秦は義渠県を設置した。",
+      "en": "King Huiwen of Qin campaigns against Yiqu, compelling the King of Yiqu to submit as vassal",
+      "ja": "秦恵文王が義渠を征伐し、義渠王は初めて秦に称臣した。秦は義渠県を設置した。"
     },
     {
       "dynastyKey": "zhanguo",
@@ -11893,8 +12509,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "义渠（陇东）",
       "siteEn": "Yiqu (Eastern Gansu)",
-      "zh": "秦乘义渠内乱发兵攻取义渠二十五城，拓地至泾水上游",
-      "en": "Qin exploits internal strife in Yiqu to capture twenty-five cities along the upper Jing River"
+      "zh": "前314年、秦は義渠の内乱に乗じて兵を発し、義渠の二十五城を攻め取り、涇水上流まで領土を広げた。",
+      "en": "Qin exploits internal strife in Yiqu to capture twenty-five cities along the upper Jing River",
+      "ja": "前314年、秦は義渠の内乱に乗じて兵を発し、義渠の二十五城を攻め取り、涇水上流まで領土を広げた。"
     },
     {
       "dynastyKey": "qin",
@@ -11905,8 +12522,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "番禺（广州）",
       "siteEn": "Panyu (Guangzhou)",
-      "zh": "秦南海郡尉赵佗兼并桂林、象郡，于番禺称南越武王",
-      "en": "Former Qin magistrate Zhao Tuo unites Lingnan and proclaims the Nanyue Kingdom at Panyu"
+      "zh": "前204年、秦の南海郡尉であった趙佗は、桂林郡と象郡を併合し、番禺で南越武王を称した。",
+      "en": "Former Qin magistrate Zhao Tuo unites Lingnan and proclaims the Nanyue Kingdom at Panyu",
+      "ja": "前204年、秦の南海郡尉であった趙佗は、桂林郡と象郡を併合し、番禺で南越武王を称した。"
     },
     {
       "dynastyKey": "xihan",
@@ -11917,8 +12535,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "番禺（广州）",
       "siteEn": "Panyu (Guangzhou)",
-      "zh": "汉高祖遣大中大夫陆贾使南越，册封赵佗为南越王和集百越",
-      "en": "Emperor Gaozu of Han sends Lu Jia as envoy to invest Zhao Tuo as King of Nanyue"
+      "zh": "前196年、漢高祖は、大中大夫の陸賈を南越に派遣し、趙佗を南越王に冊封し、百越を統治させた。",
+      "en": "Emperor Gaozu of Han sends Lu Jia as envoy to invest Zhao Tuo as King of Nanyue",
+      "ja": "前196年、漢高祖は、大中大夫の陸賈を南越に派遣し、趙佗を南越王に冊封し、百越を統治させた。"
     },
     {
       "dynastyKey": "xihan",
@@ -11929,8 +12548,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "常安（长安）",
       "siteEn": "Chang'an",
-      "zh": "新莽始建国元年王莽颁行“王田私属”与五均六筦托古改制",
-      "en": "Wang Mang decrees the King's Fields land system and state monopolies from Chang'an"
+      "zh": "9年、新の王莽は始建国元年、長安で「王田私属」と「五均六筦」を頒布し、古制を託して改革を行った。",
+      "en": "Wang Mang decrees the King's Fields land system and state monopolies from Chang'an",
+      "ja": "9年、新の王莽は始建国元年、長安で「王田私属」と「五均六筦」を頒布し、古制を託して改革を行った。"
     },
     {
       "dynastyKey": "xihan",
@@ -11941,8 +12561,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "白帝城（鱼复）",
       "siteEn": "Baidicheng (Fengjie)",
-      "zh": "公孙述据益州自称蜀王，于瞿塘峡口鱼复筑白帝城扼守三峡",
-      "en": "Holding Sichuan, Gongsun Shu fortifies Baidicheng at Qutang Gorge to guard the Three Gorges"
+      "zh": "24年、公孫述は益州を拠点に蜀王を自称し、瞿塘峡口の魚復に白帝城を築いて三峡を扼守した。",
+      "en": "Holding Sichuan, Gongsun Shu fortifies Baidicheng at Qutang Gorge to guard the Three Gorges",
+      "ja": "24年、公孫述は益州を拠点に蜀王を自称し、瞿塘峡口の魚復に白帝城を築いて三峡を扼守した。"
     },
     {
       "dynastyKey": "donghan",
@@ -11953,8 +12574,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "公孙述于成都称成家皇帝建元龙兴，保境息民据蜀十二载",
-      "en": "Gongsun Shu proclaims himself Emperor of Chengjia at Chengdu, ruling Sichuan for twelve years"
+      "zh": "25年、公孫述は成都で成家皇帝を称し、元号を龍興と定め、領土を保ち民を安んじて、蜀を十二年間統治した。",
+      "en": "Gongsun Shu proclaims himself Emperor of Chengjia at Chengdu, ruling Sichuan for twelve years",
+      "ja": "25年、公孫述は成都で成家皇帝を称し、元号を龍興と定め、領土を保ち民を安んじて、蜀を十二年間統治した。"
     },
     {
       "dynastyKey": "donghan",
@@ -11965,8 +12587,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄平（辽阳）",
       "siteEn": "Xiangping (Liaoyang)",
-      "zh": "辽东太守公孙度东伐高句丽、西击乌桓，自立为辽东侯平州牧",
-      "en": "Liaodong Governor Gongsun Du defeats Goguryeo and the Wuhuan, ruling autonomously at Xiangping"
+      "zh": "190年、遼東太守の公孫度は、東に高句麗を伐ち、西に烏桓を撃ち、襄平で自ら遼東侯平州牧を称した。",
+      "en": "Liaodong Governor Gongsun Du defeats Goguryeo and the Wuhuan, ruling autonomously at Xiangping",
+      "ja": "190年、遼東太守の公孫度は、東に高句麗を伐ち、西に烏桓を撃ち、襄平で自ら遼東侯平州牧を称した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11977,8 +12600,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄平（辽阳）",
       "siteEn": "Xiangping (Liaoyang)",
-      "zh": "公孙渊于辽东襄平自立为燕王，改元绍汉置百官抗拒曹魏",
-      "en": "Gongsun Yuan proclaims himself King of Yan at Xiangping in defiance of Cao Wei"
+      "zh": "237年、公孫淵は遼東の襄平で自ら燕王を称し、元号を紹漢と改め、百官を置いて曹魏に抗拒した。",
+      "en": "Gongsun Yuan proclaims himself King of Yan at Xiangping in defiance of Cao Wei",
+      "ja": "237年、公孫淵は遼東の襄平で自ら燕王を称し、元号を紹漢と改め、百官を置いて曹魏に抗拒した。"
     },
     {
       "dynastyKey": "sanguo",
@@ -11989,8 +12613,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄阳",
       "siteEn": "Xiangyang",
-      "zh": "晋武帝命羊祜都督荆州诸军事镇襄阳，屯田怀远筹划平吴",
-      "en": "Emperor Wu of Jin appoints Yang Hu to command Xiangyang and prepare the conquest of Wu"
+      "zh": "269年、晋武帝は羊祜に荊州諸軍事都督を命じ、襄陽に鎮して屯田を行い、呉平定の計画を進めた。",
+      "en": "Emperor Wu of Jin appoints Yang Hu to command Xiangyang and prepare the conquest of Wu",
+      "ja": "269年、晋武帝は羊祜に荊州諸軍事都督を命じ、襄陽に鎮して屯田を行い、呉平定の計画を進めた。"
     },
     {
       "dynastyKey": "sanguo",
@@ -12001,8 +12626,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都·洛阳",
       "siteEn": "Chengdu / Luoyang",
-      "zh": "晋武帝司马炎采杜预、王濬之议，发兵二十万水陆六路伐吴",
-      "en": "Emperor Wu of Jin launches a 200,000-strong six-column land and naval invasion of Eastern Wu"
+      "zh": "279年、晋武帝司馬炎は杜預と王濬の献策を採り入れ、二十万の兵を水陸六路に分けて呉を伐った。",
+      "en": "Emperor Wu of Jin launches a 200,000-strong six-column land and naval invasion of Eastern Wu",
+      "ja": "279年、晋武帝司馬炎は杜預と王濬の献策を採り入れ、二十万の兵を水陸六路に分けて呉を伐った。"
     },
     {
       "dynastyKey": "xijin",
@@ -12013,8 +12639,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "姑臧（武威）",
       "siteEn": "Guzang (Wuwei)",
-      "zh": "张轨出任凉州刺史镇姑臧保境安民，奠定河西前凉七十年基业",
-      "en": "Appointed Governor of Liangzhou at Guzang, Zhang Gui lays the foundation of Former Liang"
+      "zh": "301年、張軌は涼州刺史に任じられ、姑臧に鎮して領土を保ち民を安んじ、河西における前涼七十年の基盤を築いた。",
+      "en": "Appointed Governor of Liangzhou at Guzang, Zhang Gui lays the foundation of Former Liang",
+      "ja": "301年、張軌は涼州刺史に任じられ、姑臧に鎮して領土を保ち民を安んじ、河西における前涼七十年の基盤を築いた。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12025,8 +12652,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "襄国（邢台）",
       "siteEn": "Xiangguo (Xingtai)",
-      "zh": "冉闵率冉魏大军攻克襄国，后赵末主石祗被部将所杀，后赵亡",
-      "en": "Ran Min's forces storm Xiangguo and eliminate the last Later Zhao ruler Shi Zhi"
+      "zh": "351年、冉閔は冉魏の大軍を率いて襄国を攻め落とし、後趙の末主石祗は部将に殺され、後趙は滅亡した。",
+      "en": "Ran Min's forces storm Xiangguo and eliminate the last Later Zhao ruler Shi Zhi",
+      "ja": "351年、冉閔は冉魏の大軍を率いて襄国を攻め落とし、後趙の末主石祗は部将に殺され、後趙は滅亡した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12037,8 +12665,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "中山（定州）",
       "siteEn": "Zhongshan (Dingzhou)",
-      "zh": "北魏道武帝攻克后燕国都中山，慕容宝率部北奔龙城，后燕中衰",
-      "en": "Emperor Daowu of Northern Wei captures the Later Yan capital Zhongshan; Murong Bao flees to Longcheng"
+      "zh": "397年、北魏の道武帝が後燕の都中山を攻め落とし、慕容宝は部隊を率いて北方の龍城へ逃走したため、後燕は中衰した。",
+      "en": "Emperor Daowu of Northern Wei captures the Later Yan capital Zhongshan; Murong Bao flees to Longcheng",
+      "ja": "397年、北魏の道武帝が後燕の都中山を攻め落とし、慕容宝は部隊を率いて北方の龍城へ逃走したため、後燕は中衰した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12049,8 +12678,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "滑台（滑县）",
       "siteEn": "Huatai (Hua County)",
-      "zh": "后燕范阳王慕容德自邺城南徙滑台称燕王，建立南燕政权",
-      "en": "Murong De leads his followers south from Ye to Huatai and proclaims himself King of Southern Yan"
+      "zh": "398年、後燕の范陽王慕容徳は、鄴城から南の滑台へ移り、燕王を称して南燕政権を樹立した。",
+      "en": "Murong De leads his followers south from Ye to Huatai and proclaims himself King of Southern Yan",
+      "ja": "398年、後燕の范陽王慕容徳は、鄴城から南の滑台へ移り、燕王を称して南燕政権を樹立した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12061,8 +12691,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长安草堂寺",
       "siteEn": "Chang'an",
-      "zh": "后秦姚兴伐破后凉迎鸠摩罗什入长安，于草堂寺译经三百余卷",
-      "en": "Yao Xing of Later Qin welcomes Kumārajīva from Guzang to Chang'an to translate Buddhist sutras"
+      "zh": "401年、後秦の姚興は後涼を伐ち破り、鳩摩羅什を長安に迎え入れ、草堂寺にて三百余巻の経典を翻訳した。",
+      "en": "Yao Xing of Later Qin welcomes Kumārajīva from Guzang to Chang'an to translate Buddhist sutras",
+      "ja": "401年、後秦の姚興は後涼を伐ち破り、鳩摩羅什を長安に迎え入れ、草堂寺にて三百余巻の経典を翻訳した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12073,8 +12704,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "乐都",
       "siteEn": "Ledu",
-      "zh": "南凉秃发利鹿孤、傉檀兄弟据乐都经营河湟，屡破后凉、北凉军",
-      "en": "Southern Liang rulers Tufa Lilugu and Tufa Rutan expand across the Huangshui valley from Ledu"
+      "zh": "402年、南涼の禿髪利鹿孤と傉檀の兄弟は、楽都を拠点に河湟地方を経営し、後涼や北涼の軍をたびたび破った。",
+      "en": "Southern Liang rulers Tufa Lilugu and Tufa Rutan expand across the Huangshui valley from Ledu",
+      "ja": "402年、南涼の禿髪利鹿孤と傉檀の兄弟は、楽都を拠点に河湟地方を経営し、後涼や北涼の軍をたびたび破った。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12085,8 +12717,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都",
       "siteEn": "Chengdu",
-      "zh": "东晋西征兵哗变推谯纵为主，攻克成都自称成都王建立谯蜀",
-      "en": "Mutinous troops enthrone Qiao Zong as Prince of Chengdu, founding the Western Shu regime"
+      "zh": "405年、東晋の西征軍が兵変を起こし、譙縦を主と推戴し、成都を攻め落として自ら成都王を称し、譙蜀を建立した。",
+      "en": "Mutinous troops enthrone Qiao Zong as Prince of Chengdu, founding the Western Shu regime",
+      "ja": "405年、東晋の西征軍が兵変を起こし、譙縦を主と推戴し、成都を攻め落として自ら成都王を称し、譙蜀を建立した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12097,8 +12730,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "龙城（朝阳）",
       "siteEn": "Longcheng (Chaoyang)",
-      "zh": "冯跋于龙城即北燕天王位改元太平，省役薄赋安定辽西二十余载",
-      "en": "Feng Ba ascends as Heavenly King of Northern Yan at Longcheng, bringing two decades of stability"
+      "zh": "409年、馮跋は龍城にて北燕の天王位に即き、元号を太平と改め、労役を減らし賦税を軽くして遼西を二十余年にわたり安定させた。",
+      "en": "Feng Ba ascends as Heavenly King of Northern Yan at Longcheng, bringing two decades of stability",
+      "ja": "409年、馮跋は龍城にて北燕の天王位に即き、元号を太平と改め、労役を減らし賦税を軽くして遼西を二十余年にわたり安定させた。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12109,8 +12743,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "姑臧（武威）",
       "siteEn": "Guzang (Wuwei)",
-      "zh": "北凉沮渠蒙逊自张掖迁都姑臧称河西王，开凿凉州天梯山石窟",
-      "en": "Juqu Mengxun of Northern Liang moves his capital to Guzang and initiates the Tiantishan Grottoes"
+      "zh": "412年、北涼の沮渠蒙遜は張掖から姑臧へ遷都し河西王を称し、涼州天梯山石窟の開鑿を開始した。",
+      "en": "Juqu Mengxun of Northern Liang moves his capital to Guzang and initiates the Tiantishan Grottoes",
+      "ja": "412年、北涼の沮渠蒙遜は張掖から姑臧へ遷都し河西王を称し、涼州天梯山石窟の開鑿を開始した。"
     },
     {
       "dynastyKey": "dongjin",
@@ -12121,8 +12756,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "乐都",
       "siteEn": "Ledu",
-      "zh": "西秦王乞伏炽盘率军袭破南凉都城乐都，俘秃发傉檀，南凉亡",
-      "en": "Western Qin ruler Qifu Chipan captures the Southern Liang capital Ledu and annexes the state"
+      "zh": "414年、西秦王乞伏熾盤は軍を率いて南涼の都城楽都を襲撃し破り、禿髪傉檀を捕虜とし、南涼を滅亡させた。",
+      "en": "Western Qin ruler Qifu Chipan captures the Southern Liang capital Ledu and annexes the state",
+      "ja": "414年、西秦王乞伏熾盤は軍を率いて南涼の都城楽都を襲撃し破り、禿髪傉檀を捕虜とし、南涼を滅亡させた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -12133,8 +12769,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "梁岳阳王萧詧于江陵即皇帝位建立西梁，存续梁室衣冠三十三载",
-      "en": "Liang prince Xiao Cha ascends as emperor at Jiangling, founding the Western Liang court"
+      "zh": "555年、梁の岳陽王蕭詧は江陵にて皇帝位に即き西梁を建立し、梁室の衣冠を三十三年にわたり存続させた。",
+      "en": "Liang prince Xiao Cha ascends as emperor at Jiangling, founding the Western Liang court",
+      "ja": "555年、梁の岳陽王蕭詧は江陵にて皇帝位に即き西梁を建立し、梁室の衣冠を三十三年にわたり存続させた。"
     },
     {
       "dynastyKey": "nanbei",
@@ -12145,8 +12782,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "西梁世宗萧岿于江陵即位，兴办国学、与北周及隋室联姻保境",
-      "en": "Emperor Ming (Xiao Kui) ascends in Jiangling, patronizing classical scholarship and peace with the north"
+      "zh": "562年、西梁の世宗蕭巋は江陵にて即位し、国学を興し、北周および隋室と婚姻を結んで国境を保った。",
+      "en": "Emperor Ming (Xiao Kui) ascends in Jiangling, patronizing classical scholarship and peace with the north",
+      "ja": "562年、西梁の世宗蕭巋は江陵にて即位し、国学を興し、北周および隋室と婚姻を結んで国境を保った。"
     },
     {
       "dynastyKey": "tang",
@@ -12157,8 +12795,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "乐寿（献县）",
       "siteEn": "Leshou (Hebei)",
-      "zh": "河北义军首领窦建德于乐寿称夏王建元五凤，次年迁都洺州",
-      "en": "Hebei rebel leader Dou Jiande proclaims himself King of Xia at Leshou and moves his seat to Mingzhou"
+      "zh": "618年、河北義軍の首領竇建徳は楽寿にて夏王を称し元号を五鳳と定め、翌年洺州へ遷都した。",
+      "en": "Hebei rebel leader Dou Jiande proclaims himself King of Xia at Leshou and moves his seat to Mingzhou",
+      "ja": "618年、河北義軍の首領竇建徳は楽寿にて夏王を称し元号を五鳳と定め、翌年洺州へ遷都した。"
     },
     {
       "dynastyKey": "tang",
@@ -12169,8 +12808,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳",
       "siteEn": "Luoyang",
-      "zh": "王世充于洛阳废隋越王杨侗自立为郑帝，与关中李唐争衡中原",
-      "en": "Wang Shichong deposes Sui prince Yang Tong at Luoyang and proclaims the Empire of Zheng"
+      "zh": "619年、王世充は洛陽にて隋の越王楊侗を廃し自ら鄭帝を称し、関中の李唐と中原の覇権を争った。",
+      "en": "Wang Shichong deposes Sui prince Yang Tong at Luoyang and proclaims the Empire of Zheng",
+      "ja": "619年、王世充は洛陽にて隋の越王楊侗を廃し自ら鄭帝を称し、関中の李唐と中原の覇権を争った。"
     },
     {
       "dynastyKey": "tang",
@@ -12181,8 +12821,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "西梁后裔萧铣称梁帝自巴陵迁都江陵，统有荆襄岭南四十万众",
-      "en": "Xiao Xian proclaims the Liang Empire and moves his capital to Jiangling, ruling southern China"
+      "zh": "西梁の末裔である蕭銑は梁帝を称し、巴陵より江陵に遷都し、荊襄・嶺南の地を統べ、四十万の兵を擁した。",
+      "en": "Xiao Xian proclaims the Liang Empire and moves his capital to Jiangling, ruling southern China",
+      "ja": "西梁の末裔である蕭銑は梁帝を称し、巴陵より江陵に遷都し、荊襄・嶺南の地を統べ、四十万の兵を擁した。"
     },
     {
       "dynastyKey": "tang",
@@ -12193,8 +12834,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "唐将李靖乘秋水泛涨率舟师顺三峡直抵江陵，萧铣降唐江南平定",
-      "en": "Tang general Li Jing sails down the Yangtze gorges during autumn floods to receive Xiao Xian's surrender"
+      "zh": "唐将の李靖は秋の増水に乗じ、舟師を率いて三峽を下り、江陵に直抵した。蕭銑は唐に降伏し、江南は平定された。",
+      "en": "Tang general Li Jing sails down the Yangtze gorges during autumn floods to receive Xiao Xian's surrender",
+      "ja": "唐将の李靖は秋の増水に乗じ、舟師を率いて三峽を下り、江陵に直抵した。蕭銑は唐に降伏し、江南は平定された。"
     },
     {
       "dynastyKey": "tang",
@@ -12205,8 +12847,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "洛阳北邙山",
       "siteEn": "Mount Mang (Luoyang)",
-      "zh": "邙山之战：王世充率东都精兵击败李密瓦岗军，独揽洛阳朝政",
-      "en": "Battle of Mount Mang: Wang Shichong defeats Li Mi's Wagang army north of Luoyang"
+      "zh": "邙山の戦い：王世充は東都の精兵を率いて李密の瓦崗軍を撃破し、洛陽の朝政を独裁した。",
+      "en": "Battle of Mount Mang: Wang Shichong defeats Li Mi's Wagang army north of Luoyang",
+      "ja": "邙山の戦い：王世充は東都の精兵を率いて李密の瓦崗軍を撃破し、洛陽の朝政を独裁した。"
     },
     {
       "dynastyKey": "tang",
@@ -12217,8 +12860,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "聊城",
       "siteEn": "Liaocheng",
-      "zh": "夏王窦建德率军南下聊城诛宇文化及，尽收河北山东之地",
-      "en": "King of Xia Dou Jiande marches south to Liaocheng and executes the regicide Yuwen Huaji"
+      "zh": "夏王竇建德は軍を率いて聊城に南下し、宇文化及を誅殺した。河北・山東の地をことごとく手中に収めた。",
+      "en": "King of Xia Dou Jiande marches south to Liaocheng and executes the regicide Yuwen Huaji",
+      "ja": "夏王竇建德は軍を率いて聊城に南下し、宇文化及を誅殺した。河北・山東の地をことごとく手中に収めた。"
     },
     {
       "dynastyKey": "tang",
@@ -12229,8 +12873,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "郁督军山（漠北）",
       "siteEn": "Mount Ötüken (Mongolia)",
-      "zh": "唐太宗遣李世勣北破薛延陀汗国，铁勒诸部奉表尊“天可汗”",
-      "en": "Emperor Taizong sends Li Shiji to defeat the Xueyantuo Khanate; Tiele tribes hail the Heavenly Khan"
+      "zh": "唐太宗は李世勣を派遣して北方の薛延陀汗國を撃破させた。鐵勒諸部は上表して唐太宗を「天可汗」と尊称した。",
+      "en": "Emperor Taizong sends Li Shiji to defeat the Xueyantuo Khanate; Tiele tribes hail the Heavenly Khan",
+      "ja": "唐太宗は李世勣を派遣して北方の薛延陀汗國を撃破させた。鐵勒諸部は上表して唐太宗を「天可汗」と尊称した。"
     },
     {
       "dynastyKey": "tang",
@@ -12241,8 +12886,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "龟兹（库车）",
       "siteEn": "Kucha (Anxi)",
-      "zh": "武威道总管王孝杰大破吐蕃收复安西四镇，复置安西都护府于龟兹",
-      "en": "General Wang Xiaojie defeats Tibet to recover the Four Garrisons and restores the Anxi Protectorate at Kucha"
+      "zh": "武威道総管の王孝傑は吐蕃を大破し、安西四鎮を回復した。龜茲に安西都護府を再設置した。",
+      "en": "General Wang Xiaojie defeats Tibet to recover the Four Garrisons and restores the Anxi Protectorate at Kucha",
+      "ja": "武威道総管の王孝傑は吐蕃を大破し、安西四鎮を回復した。龜茲に安西都護府を再設置した。"
     },
     {
       "dynastyKey": "tang",
@@ -12253,8 +12899,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北庭（庭州）",
       "siteEn": "Beiting (Jimsar)",
-      "zh": "北庭都护郭虔瓘据守北庭故城，奇兵击斩后突厥同俄特勤固守天山",
-      "en": "Beiting Protector Guo Qianguan defends Beiting and routs the Eastern Turkic siege force"
+      "zh": "北庭都護の郭虔瓘は北庭故城に拠って守り、奇兵をもって後突厥の同俄特勤を撃ち斬り、天山を防衛した。",
+      "en": "Beiting Protector Guo Qianguan defends Beiting and routs the Eastern Turkic siege force",
+      "ja": "北庭都護の郭虔瓘は北庭故城に拠って守り、奇兵をもって後突厥の同俄特勤を撃ち斬り、天山を防衛した。"
     },
     {
       "dynastyKey": "tang",
@@ -12265,8 +12912,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "太和城（大理）",
       "siteEn": "Taihe (Dali)",
-      "zh": "天宝战争：南诏王阁罗凤于太和城大败唐军，立《南诏德化碑》",
-      "en": "King Geluofeng of Nanzhao defeats the Tang expedition at Taihe and erects the Nanzhao Dehua Stele"
+      "zh": "天寶戰爭：南詔王閣羅鳳は太和城において唐軍を大敗させ、『南詔德化碑』を建立した。",
+      "en": "King Geluofeng of Nanzhao defeats the Tang expedition at Taihe and erects the Nanzhao Dehua Stele",
+      "ja": "天寶戰爭：南詔王閣羅鳳は太和城において唐軍を大敗させ、『南詔德化碑』を建立した。"
     },
     {
       "dynastyKey": "tang",
@@ -12277,8 +12925,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "点苍山（大理）",
       "siteEn": "Mount Diancang (Dali)",
-      "zh": "南诏王异牟寻与唐剑南西川节度使韦皋使者订立点苍山会盟归唐",
-      "en": "King Yimouxun of Nanzhao concludes the Mount Diancang Covenant with Tang governor Wei Gao"
+      "zh": "南詔王異牟尋は唐の劍南西川節度使韋皋の使者と點蒼山で盟約を結び、唐に帰順した。",
+      "en": "King Yimouxun of Nanzhao concludes the Mount Diancang Covenant with Tang governor Wei Gao",
+      "ja": "南詔王異牟尋は唐の劍南西川節度使韋皋の使者と點蒼山で盟約を結び、唐に帰順した。"
     },
     {
       "dynastyKey": "tang",
@@ -12289,8 +12938,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "凉州（武威）",
       "siteEn": "Liangzhou (Wuwei)",
-      "zh": "归义军节度使张议潮率军攻克凉州，河西走廊千里故地尽复归唐",
-      "en": "Guiyi Military Governor Zhang Yichao recovers Liangzhou, restoring the Hexi Corridor to Tang allegiance"
+      "zh": "歸義軍節度使の張議潮は軍を率いて涼州を攻略し、河西走廊の千里にわたる旧領をことごとく唐に回復させた。",
+      "en": "Guiyi Military Governor Zhang Yichao recovers Liangzhou, restoring the Hexi Corridor to Tang allegiance",
+      "ja": "歸義軍節度使の張議潮は軍を率いて涼州を攻略し、河西走廊の千里にわたる旧領をことごとく唐に回復させた。"
     },
     {
       "dynastyKey": "tang",
@@ -12301,8 +12951,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "泰山狼虎谷（莱芜）",
       "siteEn": "Langhugu (Laiwu)",
-      "zh": "李克用沙陀骑兵急追破敌，大齐皇帝黄巢退至泰山狼虎谷兵败自刎",
-      "en": "Pursued by Li Keyong's Shatuo cavalry, Great Qi emperor Huang Chao perishes at Wolf-Tiger Valley"
+      "zh": "李克用の沙陀騎兵が急追して敵を破り、大齊皇帝黃巢は泰山狼虎谷に退却して敗死し、自刎した。",
+      "en": "Pursued by Li Keyong's Shatuo cavalry, Great Qi emperor Huang Chao perishes at Wolf-Tiger Valley",
+      "ja": "李克用の沙陀騎兵が急追して敵を破り、大齊皇帝黃巢は泰山狼虎谷に退却して敗死し、自刎した。"
     },
     {
       "dynastyKey": "tang",
@@ -12313,8 +12964,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "扬州（广陵）",
       "siteEn": "Yangzhou (Guangling)",
-      "zh": "唐昭宗册封淮南节度使杨行密为吴王，都广陵，奠定杨吴与南唐基业",
-      "en": "Emperor Zhaozong of Tang invests Huainan governor Yang Xingmi as Prince of Wu at Yangzhou"
+      "zh": "唐昭宗は淮南節度使楊行密を吳王に冊封し、廣陵に都を置かせ、楊吳と南唐の基礎を築かせた。",
+      "en": "Emperor Zhaozong of Tang invests Huainan governor Yang Xingmi as Prince of Wu at Yangzhou",
+      "ja": "唐昭宗は淮南節度使楊行密を吳王に冊封し、廣陵に都を置かせ、楊吳と南唐の基礎を築かせた。"
     },
     {
       "dynastyKey": "wudai",
@@ -12325,8 +12977,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "潭州（长沙）",
       "siteEn": "Tanzhou (Changsha)",
-      "zh": "后梁册封武安节度使马殷为楚王都潭州，兴茶贸铸铅铁钱富甲一方",
-      "en": "Later Liang invests Ma Yin as King of Chu at Tanzhou, where tea trade and coinage bring prosperity"
+      "zh": "後梁は武安節度使の馬殷を楚王に冊封し、潭州に都を置いた。茶貿易と鉛鉄銭の鋳造により、潭州は一大富を築いた。",
+      "en": "Later Liang invests Ma Yin as King of Chu at Tanzhou, where tea trade and coinage bring prosperity",
+      "ja": "後梁は武安節度使の馬殷を楚王に冊封し、潭州に都を置いた。茶貿易と鉛鉄銭の鋳造により、潭州は一大富を築いた。"
     },
     {
       "dynastyKey": "wudai",
@@ -12337,8 +12990,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "羊苴咩城（大理）",
       "siteEn": "Yangjumie (Dali)",
-      "zh": "南诏权臣郑买嗣夺位所建大长和国据有云南，都羊苴咩城",
-      "en": "Founded by former Nanzhao regent Zheng Maisi, the Dachanghe Kingdom rules Yunnan from Yangjumie"
+      "zh": "南詔の権臣であった鄭買嗣が位を奪って大長和国を建国し、雲南を支配した。都は羊苴咩城に置かれた。",
+      "en": "Founded by former Nanzhao regent Zheng Maisi, the Dachanghe Kingdom rules Yunnan from Yangjumie",
+      "ja": "南詔の権臣であった鄭買嗣が位を奪って大長和国を建国し、雲南を支配した。都は羊苴咩城に置かれた。"
     },
     {
       "dynastyKey": "wudai",
@@ -12349,8 +13003,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "沙州（敦煌）",
       "siteEn": "Shazhou (Dunhuang)",
-      "zh": "沙州长史曹议金继任归义军节度使，保境通商世代营建莫高窟",
-      "en": "Cao Yijin becomes Military Governor of the Guiyi Circuit at Dunhuang, patronizing the Mogao Caves"
+      "zh": "沙州長史の曹議金が歸義軍節度使を継承し、境域を保ち通商を促進した。また、代々莫高窟の営建を続けた。",
+      "en": "Cao Yijin becomes Military Governor of the Guiyi Circuit at Dunhuang, patronizing the Mogao Caves",
+      "ja": "沙州長史の曹議金が歸義軍節度使を継承し、境域を保ち通商を促進した。また、代々莫高窟の営建を続けた。"
     },
     {
       "dynastyKey": "wudai",
@@ -12361,8 +13016,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵（荆州）",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "后唐庄宗册封荆南节度使高季兴为南平王，都江陵建立十国之荆南",
-      "en": "Later Tang invests Jingnan governor Gao Jixing as Prince of Nanping at Jiangling"
+      "zh": "後唐荘宗は荊南節度使の高季興を南平王に冊封し、高季興は江陵に都を置いて十国の一つである荊南を建国した。",
+      "en": "Later Tang invests Jingnan governor Gao Jixing as Prince of Nanping at Jiangling",
+      "ja": "後唐荘宗は荊南節度使の高季興を南平王に冊封し、高季興は江陵に都を置いて十国の一つである荊南を建国した。"
     },
     {
       "dynastyKey": "wudai",
@@ -12373,8 +13029,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "江陵（荆州）",
       "siteEn": "Jiangling (Jingzhou)",
-      "zh": "高从诲嗣位荆南奉行“事大保境”，向诸国称臣纳贡转输南北商贸",
-      "en": "Gao Conghui succeeds in Jingnan, paying tribute to all neighboring courts to prosper as a trade hub"
+      "zh": "高從誨が荊南の位を継承し、「事大保境」の政策を奉行した。諸国に称臣し貢納することで、南北の商貿の中継地として繁栄した。",
+      "en": "Gao Conghui succeeds in Jingnan, paying tribute to all neighboring courts to prosper as a trade hub",
+      "ja": "高從誨が荊南の位を継承し、「事大保境」の政策を奉行した。諸国に称臣し貢納することで、南北の商貿の中継地として繁栄した。"
     },
     {
       "dynastyKey": "wudai",
@@ -12385,8 +13042,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长乐府（福州）",
       "siteEn": "Changle Fu (Fuzhou)",
-      "zh": "闽王王延钧于福州称帝建国号大闽，改元龙启并升福州为长乐府",
-      "en": "Wang Yanjun proclaims himself Emperor of Great Min and elevates Fuzhou to Changle Prefecture"
+      "zh": "閩王の王延鈞が福州で帝を称し、国号を大閩とした。元号を龍啓と改め、福州を長楽府に昇格させた。",
+      "en": "Wang Yanjun proclaims himself Emperor of Great Min and elevates Fuzhou to Changle Prefecture",
+      "ja": "閩王の王延鈞が福州で帝を称し、国号を大閩とした。元号を龍啓と改め、福州を長楽府に昇格させた。"
     },
     {
       "dynastyKey": "wudai",
@@ -12397,8 +13055,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "羊苴咩城（大理）",
       "siteEn": "Yangjumie (Dali)",
-      "zh": "通海节度使段思平率滇东三十七部起兵，于羊苴咩城建立大理国",
-      "en": "Duan Siping leads thirty-seven tribes to capture Yangjumie and found the Kingdom of Dali"
+      "zh": "通海節度使の段思平が滇東三十七部を率いて挙兵し、羊苴咩城において大理国を建国した。",
+      "en": "Duan Siping leads thirty-seven tribes to capture Yangjumie and found the Kingdom of Dali",
+      "ja": "通海節度使の段思平が滇東三十七部を率いて挙兵し、羊苴咩城において大理国を建国した。"
     },
     {
       "dynastyKey": "wudai",
@@ -12409,8 +13068,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "东都开封府",
       "siteEn": "Kaifeng",
-      "zh": "后汉隐帝刘承祐于开封诛枢密使杨邠等并害郭威家眷，郭威自邺举兵",
-      "en": "Later Han emperor Liu Chengyou purges his senior ministers in Kaifeng, provoking Guo Wei's march south"
+      "zh": "後漢隠帝の劉承祐は開封で枢密使の楊邠らを誅殺し、さらに郭威の家眷を害した。これに対し、郭威は鄴より挙兵した。",
+      "en": "Later Han emperor Liu Chengyou purges his senior ministers in Kaifeng, provoking Guo Wei's march south",
+      "ja": "後漢隠帝の劉承祐は開封で枢密使の楊邠らを誅殺し、さらに郭威の家眷を害した。これに対し、郭威は鄴より挙兵した。"
     },
     {
       "dynastyKey": "beisong",
@@ -12421,8 +13081,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大理崇圣寺",
       "siteEn": "Chongsheng Temple (Dali)",
-      "zh": "大理国崇奉佛教定为国教，段氏诸帝多禅位为僧修行于点苍崇圣寺",
-      "en": "Dali venerates Buddhism as state religion, with several Duan kings retiring as monks at Chongsheng Temple"
+      "zh": "大理国は仏教を崇奉して国教と定めた。段氏の歴代皇帝の多くは位を禅譲して僧となり、点蒼崇聖寺で修行した。",
+      "en": "Dali venerates Buddhism as state religion, with several Duan kings retiring as monks at Chongsheng Temple",
+      "ja": "大理国は仏教を崇奉して国教と定めた。段氏の歴代皇帝の多くは位を禅譲して僧となり、点蒼崇聖寺で修行した。"
     },
     {
       "dynastyKey": "nansong",
@@ -12433,8 +13094,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "鄂州（武昌）",
       "siteEn": "Ezhou (Wuchang)",
-      "zh": "元帅伯颜统大元水陆军自襄阳南下渡江克鄂州，顺长江东取临安",
-      "en": "Yuan commander Bayan crosses the Yangtze to capture Ezhou and advances downstream on Lin'an"
+      "zh": "元帥伯顔は大元の水陸軍を率いて襄陽から南下し、長江を渡って鄂州を攻略した。さらに長江を下り、臨安を奪取した。",
+      "en": "Yuan commander Bayan crosses the Yangtze to capture Ezhou and advances downstream on Lin'an",
+      "ja": "元帥伯顔は大元の水陸軍を率いて襄陽から南下し、長江を渡って鄂州を攻略した。さらに長江を下り、臨安を奪取した。"
     },
     {
       "dynastyKey": "yuan",
@@ -12445,8 +13107,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "重庆",
       "siteEn": "Chongqing",
-      "zh": "明玉珍率军自巫峡入蜀攻克重庆、成都，奠定巴蜀明夏立国基业",
-      "en": "Ming Yuzhen sails through the Wu Gorge to capture Chongqing and Chengdu, laying the base for Ming Xia"
+      "zh": "明玉珍は軍を率いて巫峡から蜀に入り、重慶、成都を攻略した。これにより巴蜀における明夏の建国の基礎を築いた。",
+      "en": "Ming Yuzhen sails through the Wu Gorge to capture Chongqing and Chengdu, laying the base for Ming Xia",
+      "ja": "明玉珍は軍を率いて巫峡から蜀に入り、重慶、成都を攻略した。これにより巴蜀における明夏の建国の基礎を築いた。"
     },
     {
       "dynastyKey": "ming",
@@ -12457,8 +13120,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "松山·锦州",
       "siteEn": "Songshan / Jinzhou",
-      "zh": "松锦大战：清太宗皇太极击溃明蓟辽总督洪承畴十三万军，尽取关外",
-      "en": "Battle of Song-Jin: Hong Taiji crushes Ming governor Hong Chengchou's army and takes all of Liaoxi"
+      "zh": "松錦大戦：清太宗の皇太極は明の薊遼総督洪承疇が率いる十三万の軍を撃破し、関外の地を全て奪取した。",
+      "en": "Battle of Song-Jin: Hong Taiji crushes Ming governor Hong Chengchou's army and takes all of Liaoxi",
+      "ja": "松錦大戦：清太宗の皇太極は明の薊遼総督洪承疇が率いる十三万の軍を撃破し、関外の地を全て奪取した。"
     },
     {
       "dynastyKey": "ming",
@@ -12469,8 +13133,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "盛京（沈阳）",
       "siteEn": "Shengjing (Shenyang)",
-      "zh": "清太宗皇太极崩于盛京，六岁福临即位，多尔衮与济尔哈朗摄政",
-      "en": "Hong Taiji dies at Shengjing; six-year-old Fulin (Shunzhi) succeeds with Dorgon as regent"
+      "zh": "1643年、清の太宗・皇太極が盛京で崩御し、6歳の福臨が即位、多爾袞と濟爾哈朗が摂政となった。",
+      "en": "Hong Taiji dies at Shengjing; six-year-old Fulin (Shunzhi) succeeds with Dorgon as regent",
+      "ja": "1643年、清の太宗・皇太極が盛京で崩御し、6歳の福臨が即位、多爾袞と濟爾哈朗が摂政となった。"
     },
     {
       "dynastyKey": "ming",
@@ -12481,8 +13146,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "成都（西京）",
       "siteEn": "Chengdu",
-      "zh": "张献忠率军自武昌入蜀攻克成都，称大西皇帝建元大顺，号成都西京",
-      "en": "Zhang Xianzhong captures Chengdu and proclaims the Great Xi Empire with Chengdu as Western Capital"
+      "zh": "1644年、張獻忠は武昌から蜀に入り成都を攻略、大西皇帝を称し、元号を大順とし、成都を西京と号した。",
+      "en": "Zhang Xianzhong captures Chengdu and proclaims the Great Xi Empire with Chengdu as Western Capital",
+      "ja": "1644年、張獻忠は武昌から蜀に入り成都を攻略、大西皇帝を称し、元号を大順とし、成都を西京と号した。"
     },
     {
       "dynastyKey": "qing",
@@ -12493,8 +13159,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "通山九宫山",
       "siteEn": "Mount Jiugong (Hubei)",
-      "zh": "大顺帝李自成自西安南撤转战湖广，于湖北通山九宫山遭伏遇害",
-      "en": "Retreating from Xi'an into Hubei, Great Shun emperor Li Zicheng perishes at Mount Jiugong"
+      "zh": "1645年、大順帝・李自成は西安から南へ撤退し湖廣を転戦、湖北省通山の九宮山で伏兵に遭い殺害された。",
+      "en": "Retreating from Xi'an into Hubei, Great Shun emperor Li Zicheng perishes at Mount Jiugong",
+      "ja": "1645年、大順帝・李自成は西安から南へ撤退し湖廣を転戦、湖北省通山の九宮山で伏兵に遭い殺害された。"
     },
     {
       "dynastyKey": "qing",
@@ -12505,8 +13172,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "西充凤凰山",
       "siteEn": "Mount Fenghuang (Xichong)",
-      "zh": "清肃亲王豪格统兵入川，大西帝张献忠于西充凤凰山拒战中箭身亡",
-      "en": "Fighting Qing prince Haoge's invasion of Sichuan, Zhang Xianzhong is killed by an arrow at Mount Fenghuang"
+      "zh": "1646年、清の粛親王・豪格が兵を率いて四川に入り、大西帝・張獻忠は西充の鳳凰山で抗戦中に矢に当たって戦死した。",
+      "en": "Fighting Qing prince Haoge's invasion of Sichuan, Zhang Xianzhong is killed by an arrow at Mount Fenghuang",
+      "ja": "1646年、清の粛親王・豪格が兵を率いて四川に入り、大西帝・張獻忠は西充の鳳凰山で抗戦中に矢に当たって戦死した。"
     },
     {
       "dynastyKey": "roc",
@@ -12517,8 +13185,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "广州",
       "siteEn": "Guangzhou",
-      "zh": "孙中山率驻沪海军南下广州召开国会非常会议，成立护法军政府",
-      "en": "Sun Yat-sen sails south to Guangzhou and establishes the Constitutional Protection Military Government"
+      "zh": "1917年、孫中山は上海駐留海軍を率いて南下し廣州で国会非常会議を招集、護法軍政府を成立させた。",
+      "en": "Sun Yat-sen sails south to Guangzhou and establishes the Constitutional Protection Military Government",
+      "ja": "1917年、孫中山は上海駐留海軍を率いて南下し廣州で国会非常会議を招集、護法軍政府を成立させた。"
     },
     {
       "dynastyKey": "roc",
@@ -12529,8 +13198,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "长辛店·山海关",
       "siteEn": "Changxindian / Shanhaiguan",
-      "zh": "第一次直奉战争：吴佩孚直系军击败张作霖奉系军，独占北京政权",
-      "en": "First Zhili–Fengtian War: Wu Peifu's Zhili forces defeat Zhang Zuolin's Fengtian army to control Beijing"
+      "zh": "1922年、第一次直奉戦争が勃発。吳佩孚率いる直系軍が張作霖の奉系軍を破り、北京政権を独占した。",
+      "en": "First Zhili–Fengtian War: Wu Peifu's Zhili forces defeat Zhang Zuolin's Fengtian army to control Beijing",
+      "ja": "1922年、第一次直奉戦争が勃発。吳佩孚率いる直系軍が張作霖の奉系軍を破り、北京政権を独占した。"
     },
     {
       "dynastyKey": "roc",
@@ -12541,8 +13211,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "北京·山海关",
       "siteEn": "Beijing / Shanhaiguan",
-      "zh": "第二次直奉战争冯玉祥发动北京政变囚曹锟，张作霖、段祺瑞入京执政",
-      "en": "During the Second Zhili–Fengtian War, Feng Yuxiang stages the Beijing Coup and Zhang Zuolin enters Beijing"
+      "zh": "1924年、第二次直奉戦争中に馮玉祥が北京政変を起こし曹錕を幽閉、張作霖と段祺瑞が入京して執政した。",
+      "en": "During the Second Zhili–Fengtian War, Feng Yuxiang stages the Beijing Coup and Zhang Zuolin enters Beijing",
+      "ja": "1924年、第二次直奉戦争中に馮玉祥が北京政変を起こし曹錕を幽閉、張作霖と段祺瑞が入京して執政した。"
     },
     {
       "dynastyKey": "roc",
@@ -12553,8 +13224,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "奉天皇姑屯（沈阳）",
       "siteEn": "Huanggutun (Shenyang)",
-      "zh": "张作霖退返奉天于皇姑屯遭日军炸死，年底张学良宣布“东北易帜”",
-      "en": "Zhang Zuolin is killed at Huanggutun; Zhang Xueliang declares Northeast Flag Replacement"
+      "zh": "1928年、張作霖は奉天へ退却中に皇姑屯で日本軍に爆殺され、年末に張學良が「東北易幟」を宣言した。",
+      "en": "Zhang Zuolin is killed at Huanggutun; Zhang Xueliang declares Northeast Flag Replacement",
+      "ja": "1928年、張作霖は奉天へ退却中に皇姑屯で日本軍に爆殺され、年末に張學良が「東北易幟」を宣言した。"
     },
     {
       "dynastyKey": "ming",
@@ -12565,8 +13237,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "大员（今台湾台南）",
       "siteEn": "Tayouan (Tainan, Taiwan)",
-      "zh": "荷兰殖民者退据台湾大员，筑热兰遮城实行殖民统治",
-      "en": "Expelled from Penghu, Dutch VOC forces occupy Tayouan and build Fort Zeelandia"
+      "zh": "1624年、オランダ植民者が台湾の大員に退き、熱蘭遮城を築いて植民地統治を行った。",
+      "en": "Expelled from Penghu, Dutch VOC forces occupy Tayouan and build Fort Zeelandia",
+      "ja": "1624年、オランダ植民者が台湾の大員に退き、熱蘭遮城を築いて植民地統治を行った。"
     },
     {
       "dynastyKey": "ming",
@@ -12577,8 +13250,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "淡水·鸡笼（今台北基隆）",
       "siteEn": "Tamsui & Jilong (Northern Taiwan)",
-      "zh": "荷兰殖民军北攻淡水红毛城，驱逐西班牙人独占台湾",
-      "en": "Dutch VOC forces storm Fort Santo Domingo at Tamsui, expelling Spain from northern Taiwan"
+      "zh": "1642年、オランダ植民軍は北部の淡水にある紅毛城を攻撃し、スペイン人を駆逐して台湾を独占した。",
+      "en": "Dutch VOC forces storm Fort Santo Domingo at Tamsui, expelling Spain from northern Taiwan",
+      "ja": "1642年、オランダ植民軍は北部の淡水にある紅毛城を攻撃し、スペイン人を駆逐して台湾を独占した。"
     },
     {
       "dynastyKey": "qing",
@@ -12589,8 +13263,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "赤嵌（今台湾台南）",
       "siteEn": "Chikan (Tainan, Taiwan)",
-      "zh": "郭怀一于台湾赤嵌率垦民反抗荷兰殖民暴政起义",
-      "en": "Guo Huaiyi leads Chinese settlers at Chikan in an armed revolt against Dutch rule"
+      "zh": "1652年、郭懷一は台湾の赤嵌で開拓民を率いてオランダ植民地の暴政に反抗する蜂起を起こした。",
+      "en": "Guo Huaiyi leads Chinese settlers at Chikan in an armed revolt against Dutch rule",
+      "ja": "1652年、郭懷一は台湾の赤嵌で開拓民を率いてオランダ植民地の暴政に反抗する蜂起を起こした。"
     },
     {
       "dynastyKey": "qing",
@@ -12601,8 +13276,38 @@ window.ATLAS_LORE_DATA = {
       ],
       "site": "承天府（今台湾台南）",
       "siteEn": "Chengtian Fu (Tainan, Taiwan)",
-      "zh": "郑经改台湾东都为东宁，升天兴、万年二县为州",
-      "en": "Zheng Jing renames Dongdu to Dongning and elevates Tianxing and Wannian counties"
+      "zh": "1664年、鄭經は台湾の東都を東寧と改称し、天興県と萬年県を州に昇格させた。",
+      "en": "Zheng Jing renames Dongdu to Dongning and elevates Tianxing and Wannian counties",
+      "ja": "1664年、鄭經は台湾の東都を東寧と改称し、天興県と萬年県を州に昇格させた。"
+    },
+    {
+      "dynastyKey": "tang",
+      "year": 751,
+      "coord": [
+        71.37,
+        42.9
+      ],
+      "site": "怛邏斯（タラス河畔）",
+      "siteEn": "Talas",
+      "zh": "751年、タラス河畔の戦い（怛邏斯之戦）。高仙芝率いる唐軍とアッバース朝イスラム軍が激突。カルルク部族の離反により唐軍は大敗したが、捕虜となった紙漉き職人により製紙法が西方イスラム世界・ヨーロッパへ伝播した。",
+      "ja": "751年、タラス河畔の戦い（怛邏斯之戦）。高仙芝率いる唐軍とアッバース朝イスラム軍が激突。カルルク部族の離反により唐軍は大敗したが、捕虜となった紙漉き職人により製紙法が西方イスラム世界・ヨーロッパへ伝播した。",
+      "en": "751 CE: Battle of Talas. Tang forces under Gao Xianzhi clash with the Abbasid Caliphate; papermaking spreads to the Islamic world via captured artisans."
+    },
+    {
+      "dynastyKey": "dongjin",
+      "year": 417,
+      "coord": [
+        110.25,
+        34.54
+      ],
+      "site": "潼関（黄河河畔）",
+      "siteEn": "Tongguan Pass",
+      "zh": "417年、劉裕の北伐と「却月陣」の戦い。潼関付近の黄河河畔にて、劉裕・朱超石は二千七百の歩兵と百張の大弩・長矛を用いた丁字型の車陣「却月陣」を敷き、北魏の精鋭騎兵三万を大撃破した。",
+      "ja": "417年、劉裕の北伐と「却月陣」の戦い。潼関付近の黄河河畔にて、劉裕・朱超石は二千七百の歩兵と百張の大弩・長矛を用いた丁字型の車陣「却月陣」を敷き、北魏の精鋭騎兵三万を大撃破した。",
+      "en": "417 CE: During his Northern Expedition, Liu Yu deployed the Crescent Formation (Queyue Zhen) near Tongguan, routing 30,000 Northern Wei heavy cavalry with chariots, giant crossbows, and hammer-driven pikes.",
+      "persons": [
+        "liuyu"
+      ]
     }
   ],
   "GUQIN_TRACKS": [
@@ -12644,9 +13349,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#3d3934",
       "shortZh": "秦始皇扫六合",
       "shortEn": "Qin Shi Huang",
-      "titleZh": "秦始皇一统六国行迹",
+      "titleZh": "秦の始皇帝による六国統一の軌跡",
       "titleEn": "Qin Shi Huang's Unification Campaigns",
-      "spanZh": "前238年 — 前221年（秦王政九年至二十六年）",
+      "spanZh": "前238年 — 前221年（秦王政9年〜26年）",
       "spanEn": "238 BCE – 221 BCE (Reign of King Zheng of Qin)",
       "stops": [
         {
@@ -12661,16 +13366,18 @@ window.ATLAS_LORE_DATA = {
             34.33
           ],
           "labelPos": "bottom",
-          "titleZh": "亲政平乱·蓄势东出",
+          "titleZh": "親政と反乱平定、東方進出への蓄積",
           "titleEn": "Assuming Personal Rule & Grand Strategy",
-          "descZh": "二十二岁的秦王政在故都雍城蕲年宫行冠礼亲政，旋即发兵平定长信侯嫪毐之乱，次年罢免相邦吕不韦。随后采纳大梁人尉缭、楚人李斯“远交近攻、先弱后强、各个击破”之策，倾关中与巴蜀之力，蓄势东出函谷关。",
+          "descZh": "22歳となった秦王政は、故都の雍城にある蘄年宮で冠礼を行い親政を開始した。直ちに兵を発して長信侯嫪毐の乱を平定し、翌年には相邦呂不韋を罷免した。その後、大梁人尉繚と楚人李斯の「遠交近攻、先弱後強、各個撃破」の策を採用し、関中と巴蜀の全力を傾け、函谷関から東方へ進出する態勢を整えた。",
           "descEn": "At age 22, King Zheng of Qin assumed personal rule, crushed Lao Ai’s rebellion, dismissed Chancellor Lü Buwei, and adopted Li Si and Wei Liao’s grand strategy to annex the six eastern states one by one.",
           "quoteZh": "《史记·秦始皇本纪》引尉缭语：“秦王为人，蜂准，长目，挚鸟膺，豺声，少恩而虎狼之心……诚得志于天下，天下皆为虏矣。”",
           "quoteEn": "“The King of Qin is a man with a prominent nose, elongated eyes, the breast of a bird of prey, and the voice of a jackal; he possesses little kindness and the heart of a tiger or wolf... If he truly achieves his ambitions in the realm, all under Heaven will become his captives.” — Records of the Grand Historian (Shiji)",
           "persons": [
             "qinshihuang",
             "lisi"
-          ]
+          ],
+          "titleJa": "親政と反乱平定、東方進出への蓄積",
+          "descJa": "22歳となった秦王政は、故都の雍城にある蘄年宮で冠礼を行い親政を開始した。直ちに兵を発して長信侯嫪毐の乱を平定し、翌年には相邦呂不韋を罷免した。その後、大梁人尉繚と楚人李斯の「遠交近攻、先弱後強、各個撃破」の策を採用し、関中と巴蜀の全力を傾け、函谷関から東方へ進出する態勢を整えた。"
         },
         {
           "year": -236,
@@ -12698,16 +13405,18 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "bottom",
-          "titleZh": "攻赵取邺·灭国序幕",
+          "titleZh": "趙を攻め鄴を奪取、滅国への序幕",
           "titleEn": "Capture of Ye — Opening the Unification Wars",
-          "descZh": "趁赵燕交兵、赵军主力北上攻燕之际，秦王政命王翦、桓齮、杨端和三路大军东出伐赵，连拔邺城、阏与等九城。此役夺取赵国南部漳水门户，正式拉开秦灭六国十年统一战争的序幕。",
+          "descZh": "趙と燕が交戦し、趙軍の主力が北上して燕を攻めている隙を突き、秦王政は王翦、桓齮、楊端和の三路の大軍に命じて東方から趙を伐たせ、鄴城、閼与など九城を連破した。この戦役で趙国南部の漳水流域の要衝を奪取し、秦の六国併合に向けた10年間の統一戦争の序幕が正式に開かれた。",
           "descEn": "Exploiting a war between Zhao and Yan, Qin generals Wang Jian, Huan Yi, and Yang Duanhe marched east and captured nine Zhao cities including Ye and Yanyu, opening the unification wars.",
           "quoteZh": "《史记·秦始皇本纪》：“十一年，王翦、桓齮、杨端和攻邺，取九城。”",
           "quoteEn": "“In the 11th year, Wang Jian, Huan Yi, and Yang Duanhe attacked Ye and took nine cities.” — Shiji",
           "persons": [
             "qinshihuang",
             "wangjian"
-          ]
+          ],
+          "titleJa": "趙を攻め鄴を奪取、滅国への序幕",
+          "descJa": "趙と燕が交戦し、趙軍の主力が北上して燕を攻めている隙を突き、秦王政は王翦、桓齮、楊端和の三路の大軍に命じて東方から趙を伐たせ、鄴城、閼与など九城を連破した。この戦役で趙国南部の漳水流域の要衝を奪取し、秦の六国併合に向けた10年間の統一戦争の序幕が正式に開かれた。"
         },
         {
           "year": -230,
@@ -12735,12 +13444,14 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "bottom",
-          "titleZh": "内史腾灭韩·六国首灭",
+          "titleZh": "内史騰による韓の滅亡、六国最初の犠牲",
           "titleEn": "Conquest of Han — First of the Six States to Fall",
-          "descZh": "韩国扼守函谷关外，为秦东进首冲。秦内史腾率军渡河急袭韩都新郑，一举俘虏韩王安，尽收其地设立颍川郡（治阳翟）。韩国成为战国七雄中第一个覆灭的诸侯国，秦军由此牢牢扼住中原腹心。",
+          "descZh": "韓国は函谷関の外側を扼し、秦の東方進出の最初の障害であった。秦の内史騰は軍を率いて渡河し、韓の都新鄭を急襲、一挙に韓王安を捕虜とし、その全領土を接収して潁川郡（治は陽翟）を設置した。韓国は戦国七雄の中で最初に滅亡した諸侯国となり、秦軍はこれにより中原の要衝を確固として掌握した。",
           "descEn": "Commandery Governor Teng marched on the Han capital Xinzheng, captured King An of Han, and established Yingchuan Commandery. Han became the first of the six states to fall.",
           "quoteZh": "《史记·秦始皇本纪》：“十七年，内史腾攻韩，得韩王安，尽纳其地，以其地为郡，命曰颍川。”",
-          "quoteEn": "“In the 17th year, Governor Teng attacked Han, captured King An, and made his territory Yingchuan Commandery.” — Shiji"
+          "quoteEn": "“In the 17th year, Governor Teng attacked Han, captured King An, and made his territory Yingchuan Commandery.” — Shiji",
+          "titleJa": "内史騰による韓の滅亡、六国最初の犠牲",
+          "descJa": "韓国は函谷関の外側を扼し、秦の東方進出の最初の障害であった。秦の内史騰は軍を率いて渡河し、韓の都新鄭を急襲、一挙に韓王安を捕虜とし、その全領土を接収して潁川郡（治は陽翟）を設置した。韓国は戦国七雄の中で最初に滅亡した諸侯国となり、秦軍はこれにより中原の要衝を確固として掌握した。"
         },
         {
           "year": -228,
@@ -12764,16 +13475,18 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "top",
-          "titleZh": "王翦克邯郸·破灭赵国",
+          "titleZh": "王翦による邯鄲攻略、趙国の滅亡",
           "titleEn": "Fall of Handan — Conquest of Zhao",
-          "descZh": "赵国名将李牧屡挫秦军。秦军重金行反间计于赵王宠臣郭开，赵王迁自毁长城冤杀李牧、废司马尚。王翦遂猛攻大破赵军，于前228年攻克赵都邯郸，俘赵王迁；秦王政亲赴邯郸尽坑昔日母家仇人。赵公子嘉率宗族北奔代郡称代王。",
+          "descZh": "趙国の名将李牧は度々秦軍を破った。秦軍は多額の賄賂を用いて趙王の寵臣郭開に反間計を仕掛け、趙王遷は自ら長城を壊すかのように李牧を冤殺し、司馬尚を罷免した。王翦は猛攻を仕掛けて趙軍を大破し、前228年に趙都邯鄲を攻略して趙王遷を捕虜とした。秦王政は自ら邯鄲に赴き、かつての母方の仇敵を全て生き埋めにした。趙公子嘉は宗族を率いて北方の代郡へ逃れ、代王を称した。",
           "descEn": "After a Qin espionage plot induced King Qian of Zhao to execute his brilliant general Li Mu, Wang Jian shattered the Zhao army and captured Handan. Prince Jia fled north to establish the rump state of Dai.",
           "quoteZh": "《战国策》及《史记》：“赵葱死，颜聚亡，后三月，王翦因急击，大破赵，杀赵葱，虏赵王迁及其将颜聚，遂灭赵。”",
           "quoteEn": "“Wang Jian pressed the attack, shattered the Zhao forces, and captured King Qian, extinguishing Zhao.” — Shiji",
           "persons": [
             "qinshihuang",
             "wangjian"
-          ]
+          ],
+          "titleJa": "王翦による邯鄲攻略、趙国の滅亡",
+          "descJa": "趙国の名将李牧は度々秦軍を破った。秦軍は多額の賄賂を用いて趙王の寵臣郭開に反間計を仕掛け、趙王遷は自ら長城を壊すかのように李牧を冤殺し、司馬尚を罷免した。王翦は猛攻を仕掛けて趙軍を大破し、前228年に趙都邯鄲を攻略して趙王遷を捕虜とした。秦王政は自ら邯鄲に赴き、かつての母方の仇敵を全て生き埋めにした。趙公子嘉は宗族を率いて北方の代郡へ逃れ、代王を称した。"
         },
         {
           "year": -226,
@@ -12801,16 +13514,18 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "top",
-          "titleZh": "图穷匕见与易水破燕·攻拔蓟城",
+          "titleZh": "図窮匕見と易水の戦いでの燕の撃破、薊城の攻略",
           "titleEn": "Battle of Yi River & Capture of Jicheng",
-          "descZh": "秦军饮马易水，燕太子丹于前227年遣荆轲歌“风萧萧兮易水寒”入咸阳献督亢地图刺秦，图穷匕见未果。秦王政震怒，命王翦、辛胜率主力北伐，于易水之西大破燕代联军，前226年十月攻拔燕都蓟城。燕王喜斩太子丹首级献秦求和未果，退保辽东襄平。",
+          "descZh": "秦軍が易水にまで進出すると、燕太子丹は前227年に荊軻を咸陽に遣わし、「風蕭蕭として易水寒し」と歌わせ、督亢の地図を献上するふりをして秦王政を刺殺しようとしたが、図窮匕見となり失敗に終わった。秦王政は激怒し、王翦と辛勝に主力軍を率いて北伐を命じ、易水の西で燕・代連合軍を大破した。前226年10月、燕都薊城を攻略した。燕王喜は太子丹の首級を斬って秦に和を求めたが叶わず、遼東の襄平へ退却してその地を保った。",
           "descEn": "After Jing Ke’s failed assassination attempt in Xianyang (227 BCE), Wang Jian crushed the Yan-Dai army west of the Yi River and captured the Yan capital Jicheng in 226 BCE. King Xi of Yan fled east to Liaodong.",
           "quoteZh": "《战国策·燕策三》：“风萧萧兮易水寒，壮士一去兮不复还！”",
           "quoteEn": "“The wind blows shrill and the Yi River is cold; once the hero departs, he shall never return!” — Intrigues of the Warring States",
           "persons": [
             "qinshihuang",
             "wangjian"
-          ]
+          ],
+          "titleJa": "図窮匕見と易水の戦いでの燕の撃破、薊城の攻略",
+          "descJa": "秦軍が易水にまで進出すると、燕太子丹は前227年に荊軻を咸陽に遣わし、「風蕭蕭として易水寒し」と歌わせ、督亢の地図を献上するふりをして秦王政を刺殺しようとしたが、図窮匕見となり失敗に終わった。秦王政は激怒し、王翦と辛勝に主力軍を率いて北伐を命じ、易水の西で燕・代連合軍を大破した。前226年10月、燕都薊城を攻略した。燕王喜は太子丹の首級を斬って秦に和を求めたが叶わず、遼東の襄平へ退却してその地を保った。"
         },
         {
           "year": -225,
@@ -12838,12 +13553,14 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "bottom",
-          "titleZh": "王贲水灌大梁·荡平魏国",
+          "titleZh": "王賁、大梁を水攻めし魏を平定",
           "titleEn": "Flooding of Daliang — Conquest of Wei",
-          "descZh": "魏都大梁城垣坚厚、护城河深广，易守难攻。王翦之子王贲率军南下攻魏，掘开黄河与鸿沟水渠引水灌城。浸灌三月，大梁城墙崩坏，魏王假出降被杀，秦尽收魏地设砀郡，三晋至此尽入于秦。",
+          "descZh": "魏の都大梁は堅固な城壁と深い堀に囲まれ、難攻不落であった。王翦の子である王賁は軍を率いて南下し魏を攻め、黄河と鴻溝の水を引いて城を水攻めにした。三ヶ月にわたる水攻めにより大梁の城壁は崩壊し、魏王假は降伏したが殺された。秦は魏の全領土を併合して砀郡を設置し、これにより三晋は全て秦の支配下に入った。",
           "descEn": "Facing the heavily fortified Wei capital of Daliang, Wang Ben diverted the Yellow River and Honggou Canal to flood the city for three months until its walls collapsed. King Jia surrendered, ending the state of Wei.",
           "quoteZh": "《史记·秦始皇本纪》：“二十二年，王贲攻魏，引河沟灌大梁，大梁城坏，其王请降，尽取其地。”",
-          "quoteEn": "“In the 22nd year, Wang Ben attacked Wei, channeled the Yellow River to flood Daliang, and took all its land.” — Shiji"
+          "quoteEn": "“In the 22nd year, Wang Ben attacked Wei, channeled the Yellow River to flood Daliang, and took all its land.” — Shiji",
+          "titleJa": "王賁、大梁を水攻めし魏を平定",
+          "descJa": "魏の都大梁は堅固な城壁と深い堀に囲まれ、難攻不落であった。王翦の子である王賁は軍を率いて南下し魏を攻め、黄河と鴻溝の水を引いて城を水攻めにした。三ヶ月にわたる水攻めにより大梁の城壁は崩壊し、魏王假は降伏したが殺された。秦は魏の全領土を併合して砀郡を設置し、これにより三晋は全て秦の支配下に入った。"
         },
         {
           "year": -223,
@@ -12871,16 +13588,18 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "bottom",
-          "titleZh": "王翦六十万破楚·攻克寿春",
+          "titleZh": "王翦、六十万の兵で楚を破り寿春を攻略",
           "titleEn": "Six Hundred Thousand Troops — Conquest of Chu",
-          "descZh": "李信率二十万秦军伐楚先胜后败，为项燕所乘。秦王政亲赴频阳向老将王翦谢过，倾全国六十万大军托付王翦、蒙武。王翦坚壁不出以老楚师，待楚军东撤之际大举追击，于蕲南击杀项燕，攻克楚都寿春，俘楚王负刍，广袤楚地尽归于秦。",
+          "descZh": "李信が二十万の秦軍を率いて楚を伐った際、当初は勝利したものの後に項燕の反撃を受けて敗北した。秦王政は自ら頻陽に赴き老将王翦に謝罪し、全国から六十万の大軍を王翦と蒙武に託した。王翦は堅固な陣を築いて出撃せず楚軍を疲弊させ、楚軍が東へ撤退する機を捉えて大々的に追撃した。蘄南で項燕を討ち取り、楚の都寿春を攻略し、楚王負芻を捕虜としたことで、広大な楚の領土は全て秦に帰した。",
           "descEn": "After Li Xin’s setback, King Zheng entrusted 600,000 troops to veteran general Wang Jian. Wearing down the Chu forces before striking decisively, Wang Jian captured Shouchun and King Fuchu, conquering Chu.",
           "quoteZh": "《史记·白起王翦列传》：“王翦果代李信击荆……荆数挑战而秦不出。乃引而东。翦因举兵追之，令壮士击，大破荆军。”",
           "quoteEn": "“Chu repeatedly challenged Qin to battle, yet Wang Jian held firm inside his ramparts until Chu retreated east, then struck with full force and routed them.” — Shiji",
           "persons": [
             "qinshihuang",
             "wangjian"
-          ]
+          ],
+          "titleJa": "王翦、六十万の兵で楚を破り寿春を攻略",
+          "descJa": "李信が二十万の秦軍を率いて楚を伐った際、当初は勝利したものの後に項燕の反撃を受けて敗北した。秦王政は自ら頻陽に赴き老将王翦に謝罪し、全国から六十万の大軍を王翦と蒙武に託した。王翦は堅固な陣を築いて出撃せず楚軍を疲弊させ、楚軍が東へ撤退する機を捉えて大々的に追撃した。蘄南で項燕を討ち取り、楚の都寿春を攻略し、楚王負芻を捕虜としたことで、広大な楚の領土は全て秦に帰した。"
         },
         {
           "year": -222,
@@ -12908,12 +13627,14 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "top",
-          "titleZh": "远征辽东·灭燕平代定江南",
+          "titleZh": "遼東遠征、燕・代を滅ぼし江南を平定",
           "titleEn": "Liaodong Campaign — Extinguishing Yan & Dai",
-          "descZh": "王贲、李信挥师东北远征辽东，攻破襄平，俘燕王喜，燕国彻底灭亡；旋即回师北击代郡，俘代王嘉，赵氏余脉亦绝。同年南线王翦大军渡江平定楚国江南旧地，降服越君，置会稽郡。天下六国仅余东海之滨的齐国孤悬。",
+          "descZh": "王賁と李信は軍を東北へ向け遼東へ遠征し、襄平を攻め破って燕王喜を捕虜とし、燕国は完全に滅亡した。間もなく軍を返して北の代郡を攻め、代王嘉を捕虜とし、趙氏の残党も途絶えた。同年、南線では王翦の大軍が長江を渡り、楚の旧領である江南を平定し、越の君主を降伏させて会稽郡を設置した。これにより、天下の六国で残るは東海のほとりに孤立する斉国のみとなった。",
           "descEn": "Wang Ben and Li Xin marched into Liaodong to capture King Xi of Yan at Xiangping, then turned west to capture King Jia of Dai, while Wang Jian pacified Jiangnan and established Kuaiji Commandery.",
           "quoteZh": "《史记·秦始皇本纪》：“二十五年，大兴兵，使王贲将，攻燕辽东，得燕王喜。还攻代，虏代王嘉。王翦遂定荆江南地。”",
-          "quoteEn": "“In the 25th year, Wang Ben attacked Liaodong, captured King Xi of Yan, and returned to capture King Jia of Dai, while Wang Jian pacified Jiangnan.” — Shiji"
+          "quoteEn": "“In the 25th year, Wang Ben attacked Liaodong, captured King Xi of Yan, and returned to capture King Jia of Dai, while Wang Jian pacified Jiangnan.” — Shiji",
+          "titleJa": "遼東遠征、燕・代を滅ぼし江南を平定",
+          "descJa": "王賁と李信は軍を東北へ向け遼東へ遠征し、襄平を攻め破って燕王喜を捕虜とし、燕国は完全に滅亡した。間もなく軍を返して北の代郡を攻め、代王嘉を捕虜とし、趙氏の残党も途絶えた。同年、南線では王翦の大軍が長江を渡り、楚の旧領である江南を平定し、越の君主を降伏させて会稽郡を設置した。これにより、天下の六国で残るは東海のほとりに孤立する斉国のみとなった。"
         },
         {
           "year": -221,
@@ -12941,9 +13662,9 @@ window.ATLAS_LORE_DATA = {
             ]
           ],
           "labelPos": "bottom",
-          "titleZh": "六王毕·四海一（齐降天下一统）",
+          "titleZh": "六国滅亡、天下統一（斉の降伏により天下統一）",
           "titleEn": "Surrender of Qi at Linzi — Empire Unified",
-          "descZh": "齐相后胜受秦重金贿赂，劝齐王建不修战备、不援五国，仅于西界屯兵防秦。前221年，王贲、李信、蒙恬自燕地南下避开齐军西境主力，径直突入齐都临淄，齐王建不战出降。秦王政遂完成统一大业，定尊号“始皇帝”，废分封、设三十六郡，开创中国两千年大一统格局。",
+          "descZh": "斉の相であった后勝は秦から多額の賄賂を受け、齊王建に戦備を整えず、五国を救援しないよう説き、西境にのみ兵を屯して秦に備えさせた。前221年、王賁、李信、蒙恬は燕地より南下し、齊軍の西境主力部隊を避け、直接齊の都臨淄に突入した。齊王建は戦わずして降伏した。秦王政はここに統一の大業を完成させ、「始皇帝」の尊号を定め、封建制を廃して三十六郡を設置し、中国二千年の大一統の礎を築いた。",
           "descEn": "Bypassing Qi’s western border defenses, Wang Ben, Li Xin, and Meng Tian plunged south from Yan straight into Linzi. King Jian of Qi surrendered without a battle, completing the unification of China under the First Emperor.",
           "quoteZh": "杜牧《阿房宫赋》：“六王毕，四海一。” · 《史记·秦始皇本纪》：“秦初并天下……法令由一统。”",
           "quoteEn": "“The six kings met their end, and the four seas became one.” — Du Mu, Rhapsody on Epang Palace",
@@ -12952,9 +13673,13 @@ window.ATLAS_LORE_DATA = {
             "lisi",
             "wangjian",
             "mengtian"
-          ]
+          ],
+          "titleJa": "六国滅亡、天下統一（斉の降伏により天下統一）",
+          "descJa": "斉の相であった后勝は秦から多額の賄賂を受け、齊王建に戦備を整えず、五国を救援しないよう説き、西境にのみ兵を屯して秦に備えさせた。前221年、王賁、李信、蒙恬は燕地より南下し、齊軍の西境主力部隊を避け、直接齊の都臨淄に突入した。齊王建は戦わずして降伏した。秦王政はここに統一の大業を完成させ、「始皇帝」の尊号を定め、封建制を廃して三十六郡を設置し、中国二千年の大一統の礎を築いた。"
         }
-      ]
+      ],
+      "titleJa": "秦の始皇帝による六国統一の軌跡",
+      "spanJa": "前238年 — 前221年（秦王政9年〜26年）"
     },
     {
       "key": "zhangqian",
@@ -12962,9 +13687,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#a83b24",
       "shortZh": "张骞凿空西域",
       "shortEn": "Zhang Qian",
-      "titleZh": "张骞凿空西域行迹",
+      "titleZh": "張騫の西域鑿空の行跡",
       "titleEn": "Zhang Qian's Mission to the Western Regions",
-      "spanZh": "前138年 — 前126年（西汉建元三年至元朔三年）",
+      "spanZh": "前138年 — 前126年（前漢 建元3年から元朔3年）",
       "spanEn": "138 BCE – 126 BCE (Western Han)",
       "stops": [
         {
@@ -12979,16 +13704,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西西安",
           "ancientEn": "Chang'an",
           "modernEn": "Xi'an, Shaanxi",
-          "titleZh": "奉诏募使·发自长安",
+          "titleZh": "詔を奉じ使者を募る・長安より出発",
           "titleEn": "Imperial Commission at Chang'an",
-          "descZh": "汉武帝欲联合大月氏共击匈奴，张骞以郎应募，与堂邑氏胡奴甘父率百余人自长安出发西行。",
+          "descZh": "漢武帝は大月氏と連合して匈奴を討とうと望んだ。張騫は郎としてこれに応募し、堂邑氏胡奴甘父ら百余人を率いて長安より西へ出発した。",
           "descEn": "Emperor Wu of Han sought an alliance with the Great Yuezhi against the Xiongnu; Zhang Qian volunteered and departed Chang'an with over a hundred men.",
           "quoteZh": "《史记·大宛列传》：“骞以郎应募，使月氏，与堂邑氏胡奴甘父俱出陇西。”",
           "quoteEn": "Records of the Grand Historian: \"Zhang Qian volunteered as a palace attendant to go as envoy to the Yuezhi, departing Longxi with Ganfu.\"",
           "persons": [
             "zhangqian",
             "hanwudi"
-          ]
+          ],
+          "titleJa": "詔を奉じ使者を募る・長安より出発",
+          "descJa": "漢武帝は大月氏と連合して匈奴を討とうと望んだ。張騫は郎としてこれに応募し、堂邑氏胡奴甘父ら百余人を率いて長安より西へ出発した。"
         },
         {
           "year": -138,
@@ -13002,16 +13729,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "甘肃临洮",
           "ancientEn": "Longxi",
           "modernEn": "Lintao, Gansu",
-          "titleZh": "出陇西塞·踏入绝域",
+          "titleZh": "隴西の塞を出て絶域へ",
           "titleEn": "Crossing the Longxi Frontier",
-          "descZh": "自陇西郡出塞西渡黄河，踏入匈奴右贤王与浑邪王控扼的河西之地，由此西去万里皆属未知绝域。",
+          "descZh": "隴西郡から塞を出て西へ黄河を渡り、匈奴の右賢王と渾邪王が支配する河西の地へ踏み入った。ここから西へ万里はすべて未知の絶域であった。",
           "descEn": "Crossing the Han frontier at Longxi Commandery into the Xiongnu-held Hexi Corridor toward the uncharted Western Regions.",
           "quoteZh": "《汉书·张骞传》：“出陇西，径匈奴，匈奴得之。”",
           "quoteEn": "Book of Han: \"Departing Longxi, he passed through Xiongnu territory and was captured.\"",
           "persons": [
             "zhangqian",
             "hanwudi"
-          ]
+          ],
+          "titleJa": "隴西の塞を出て絶域へ",
+          "descJa": "隴西郡から塞を出て西へ黄河を渡り、匈奴の右賢王と渾邪王が支配する河西の地へ踏み入った。ここから西へ万里はすべて未知の絶域であった。"
         },
         {
           "year": -138,
@@ -13025,9 +13754,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "甘肃武威",
           "ancientEn": "Guzang",
           "modernEn": "Wuwei, Gansu",
-          "titleZh": "羁留匈奴·持节十载",
+          "titleZh": "匈奴に抑留され、節を持して十余年",
           "titleEn": "Detained by the Xiongnu for a Decade",
-          "descZh": "途经河西走廊为匈奴骑兵截获，押送单于王庭。单于予妻生子，然张骞始终“持汉节不失”，羁留十余载待机西奔。",
+          "descZh": "河西回廊を通過中に匈奴の騎兵に捕らえられ、單于の王庭へ送られた。單于は妻を与え、子をなしたが、張騫は終始「漢の節を失わず」持ち続け、十余年抑留されながら西方へ脱走の機会を待った。",
           "descEn": "Captured in the Hexi Corridor and held for over ten years by the Xiongnu Chanyu, yet Zhang Qian never relinquished his Han imperial tally.",
           "quoteZh": "《史记·大宛列传》：“留骞十余岁，予妻，有子，然骞持汉节不失。”",
           "quoteEn": "Records of the Grand Historian: \"Detained over ten years and given a wife and son, yet Zhang Qian kept his Han imperial staff unblemished.\"",
@@ -13038,7 +13767,9 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "河西",
             "姑臧（河西）"
-          ]
+          ],
+          "titleJa": "匈奴に抑留され、節を持して十余年",
+          "descJa": "河西回廊を通過中に匈奴の騎兵に捕らえられ、單于の王庭へ送られた。單于は妻を与え、子をなしたが、張騫は終始「漢の節を失わず」持ち続け、十余年抑留されながら西方へ脱走の機会を待った。"
         },
         {
           "year": -129,
@@ -13058,12 +13789,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "新疆焉耆",
           "ancientEn": "Yanqi",
           "modernEn": "Yanqi, Xinjiang",
-          "titleZh": "乘隙脱走·疾驰西域北道",
+          "titleZh": "隙に乗じて脱走、西域北道を疾走",
           "titleEn": "Escape Along the Northern Tarim Oasis Route",
-          "descZh": "匈奴监管渐宽，张骞与甘父乘隙逃脱，循天山南麓绿洲昼夜西驰数十日，穿越车师、焉耆、龟兹诸国。",
+          "descZh": "匈奴の監視が緩やかになったため、張騫と甘父は隙に乗じて逃走した。天山南麓のオアシス沿いを昼夜兼行で数十日西へ疾走し、車師、焉耆、龜茲などの諸国を通過した。",
           "descEn": "Seizing a moment of lax guard, Zhang Qian and Ganfu escaped westward for dozens of days along the northern Tarim oases at the foot of the Tian Shan.",
           "quoteZh": "《史记·大宛列传》：“居匈奴中，益宽，骞因与其属亡乡月氏，西走数十日。”",
-          "quoteEn": "Records of the Grand Historian: \"When surveillance eased, Zhang Qian fled with his men toward the Yuezhi, riding west for dozens of days.\""
+          "quoteEn": "Records of the Grand Historian: \"When surveillance eased, Zhang Qian fled with his men toward the Yuezhi, riding west for dozens of days.\"",
+          "titleJa": "隙に乗じて脱走、西域北道を疾走",
+          "descJa": "匈奴の監視が緩やかになったため、張騫と甘父は隙に乗じて逃走した。天山南麓のオアシス沿いを昼夜兼行で数十日西へ疾走し、車師、焉耆、龜茲などの諸国を通過した。"
         },
         {
           "year": -129,
@@ -13083,12 +13816,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "费尔干纳盆地",
           "ancientEn": "Dayuan",
           "modernEn": "Fergana Valley",
-          "titleZh": "越葱岭抵大宛·得发导译",
+          "titleZh": "葱嶺を越え大宛に到着、案内と通訳を得る",
           "titleEn": "Crossing the Pamirs to Dayuan (Fergana)",
-          "descZh": "翻越帕米尔高原（葱岭）抵达盛产汗血宝马的大宛国。大宛王久闻汉朝饶财欲通而不得，见张骞大喜，特派向导译员护送赴康居。",
+          "descZh": "パミール高原（葱嶺）を越え、汗血馬を多く産する大宛国に到着した。大宛王は以前から漢が富裕であると聞き、通交を望んでいたが叶わなかったため、張騫を見て大いに喜び、特に案内人と通訳を派遣し、康居まで護送させた。",
           "descEn": "Crossing the Pamir Mountains into Fergana (Dayuan), whose king welcomed Zhang Qian warmly and provided guides and interpreters.",
           "quoteZh": "《史记·大宛列传》：“大宛闻汉之饶财，欲通不得，见骞，喜……为发导驿抵康居。”",
-          "quoteEn": "Records of the Grand Historian: \"Dayuan had heard of Han wealth and rejoiced at meeting Zhang Qian, dispatching post-guides to escort him to Kangju.\""
+          "quoteEn": "Records of the Grand Historian: \"Dayuan had heard of Han wealth and rejoiced at meeting Zhang Qian, dispatching post-guides to escort him to Kangju.\"",
+          "titleJa": "葱嶺を越え大宛に到着、案内と通訳を得る",
+          "descJa": "パミール高原（葱嶺）を越え、汗血馬を多く産する大宛国に到着した。大宛王は以前から漢が富裕であると聞き、通交を望んでいたが叶わなかったため、張騫を見て大いに喜び、特に案内人と通訳を派遣し、康居まで護送させた。"
         },
         {
           "year": -129,
@@ -13102,12 +13837,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "锡尔河中游",
           "ancientEn": "Kangju",
           "modernEn": "Tashkent / Samarkand region",
-          "titleZh": "取道康居·传致大月氏",
+          "titleZh": "康居を経由し大月氏へ",
           "titleEn": "Relay Through Kangju to the Oxus",
-          "descZh": "由大宛导驿护送至康居国，再由康居王庭遣骑护送南下妫水（阿姆河）流域的大月氏王庭。",
+          "descZh": "大宛の案内と通訳に護送され康居国へ。さらに康居の王庭から騎兵が派遣され、南下して妫水（アムダリヤ川）流域の大月氏王庭まで護送された。",
           "descEn": "Escorted through Kangju between the Syr Darya and Zeravshan rivers, and relayed southward toward the Amu Darya (Oxus).",
           "quoteZh": "《史记·大宛列传》：“抵康居，康居传致大月氏。”",
-          "quoteEn": "Records of the Grand Historian: \"Reaching Kangju, he was relayed onward to the Great Yuezhi.\""
+          "quoteEn": "Records of the Grand Historian: \"Reaching Kangju, he was relayed onward to the Great Yuezhi.\"",
+          "titleJa": "康居を経由し大月氏へ",
+          "descJa": "大宛の案内と通訳に護送され康居国へ。さらに康居の王庭から騎兵が派遣され、南下して妫水（アムダリヤ川）流域の大月氏王庭まで護送された。"
         },
         {
           "year": -128,
@@ -13121,12 +13858,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "阿富汗巴尔赫",
           "ancientEn": "Great Yuezhi & Daxia",
           "modernEn": "Balkh, Afghanistan",
-          "titleZh": "驻节大月氏与大夏·考索诸国",
+          "titleZh": "大月氏と大夏に滞在、諸国を調査",
           "titleEn": "Court of the Great Yuezhi & Bactria",
-          "descZh": "抵阿姆河流域，大月氏已臣服大夏（巴克特里亚），土地肥美安乐，无意东还复仇。张骞驻留岁余，详考大夏、安息、身毒及蜀布竹杖商路。",
+          "descZh": "アムダリヤ川流域に到着すると、大月氏はすでに大夏（バクトリア）を臣従させており、土地は肥沃で安楽なため、東へ戻って復讐する意思はなかった。張騫は一年余り滞在し、大夏、安息、身毒、そして蜀の布や竹杖の交易路を詳細に調査した。",
           "descEn": "In fertile Bactria, the Yuezhi no longer wished to return east against the Xiongnu. Staying over a year, Zhang Qian documented Parthia, India, and Sichuan trade goods.",
           "quoteZh": "《史记·大宛列传》：“留岁余，还，并南山，欲从羌中归。”",
-          "quoteEn": "Records of the Grand Historian: \"After staying over a year, he headed back along the Southern Mountains to return through Qiang lands.\""
+          "quoteEn": "Records of the Grand Historian: \"After staying over a year, he headed back along the Southern Mountains to return through Qiang lands.\"",
+          "titleJa": "大月氏と大夏に滞在、諸国を調査",
+          "descJa": "アムダリヤ川流域に到着すると、大月氏はすでに大夏（バクトリア）を臣従させており、土地は肥沃で安楽なため、東へ戻って復讐する意思はなかった。張騫は一年余り滞在し、大夏、安息、身毒、そして蜀の布や竹杖の交易路を詳細に調査した。"
         },
         {
           "year": -127,
@@ -13146,12 +13885,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "新疆和田",
           "ancientEn": "Khotan",
           "modernEn": "Hotan, Xinjiang",
-          "titleZh": "循昆仑南道东归·复陷匈奴",
+          "titleZh": "崑崙南道を経て東帰、再び匈奴に捕らえられる",
           "titleEn": "Return via the Southern Tarim Route",
-          "descZh": "为避匈奴控制的天山北道，返程改循昆仑山北麓西域南道，经莎车、于阗、楼兰，欲从羌中归汉，不意复为匈奴游骑所得。",
+          "descZh": "匈奴が支配する天山北道を避け、帰路は崑崙山北麓の西域南道を取り、莎車、于阗、樓蘭を経て羌中から漢へ帰還しようとしたが、不意に再び匈奴の遊騎兵に捕らえられた。",
           "descEn": "To avoid Xiongnu patrols on the northern route, Zhang Qian returned along the Kunlun foothills via Yarkand and Khotan, but was captured again by Xiongnu horsemen.",
           "quoteZh": "《史记·大宛列传》：“并南山，欲从羌中归，复为匈奴所得。”",
-          "quoteEn": "Records of the Grand Historian: \"Skirting the Southern Mountains to return via Qiang territory, he was captured once more by the Xiongnu.\""
+          "quoteEn": "Records of the Grand Historian: \"Skirting the Southern Mountains to return via Qiang territory, he was captured once more by the Xiongnu.\"",
+          "titleJa": "崑崙南道を経て東帰、再び匈奴に捕らえられる",
+          "descJa": "匈奴が支配する天山北道を避け、帰路は崑崙山北麓の西域南道を取り、莎車、于阗、樓蘭を経て羌中から漢へ帰還しようとしたが、不意に再び匈奴の遊騎兵に捕らえられた。"
         },
         {
           "year": -126,
@@ -13175,9 +13916,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西西安",
           "ancientEn": "Chang'an",
           "modernEn": "Xi'an, Shaanxi",
-          "titleZh": "持节归朝·丝路凿空",
+          "titleZh": "節を持って帰朝、シルクロードを開鑿",
           "titleEn": "Return to Chang'an — Opening the Silk Road",
-          "descZh": "元朔三年军臣单于死、匈奴内乱，张骞与胡妻及甘父逃归长安。出使十三载，百余人唯二人得还，封博望侯，史称“凿空”。",
+          "descZh": "前126年（元朔三年）、軍臣単于が死去し匈奴で内乱が起こると、張騫は胡人の妻と甘父と共に長安へ逃げ帰った。13年の使節で百余人のうち生還したのはわずか二人であり、博望侯に封じられ、この功績は史上に「鑿空」と称された。",
           "descEn": "Amid Xiongnu succession turmoil in 126 BCE, Zhang Qian escaped back to Chang'an with Ganfu—only two survivors of the original hundred—opening the Silk Road.",
           "quoteZh": "《史记·大宛列传》：“初行时百余人，去十三岁，唯二人得还。”",
           "quoteEn": "Records of the Grand Historian: \"Of over a hundred men who set out, after thirteen years only two returned.\"",
@@ -13189,9 +13930,13 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "归汉",
             "长安（归汉）"
-          ]
+          ],
+          "titleJa": "節を持って帰朝、シルクロードを開鑿",
+          "descJa": "前126年（元朔三年）、軍臣単于が死去し匈奴で内乱が起こると、張騫は胡人の妻と甘父と共に長安へ逃げ帰った。13年の使節で百余人のうち生還したのはわずか二人であり、博望侯に封じられ、この功績は史上に「鑿空」と称された。"
         }
-      ]
+      ],
+      "titleJa": "張騫の西域鑿空の行跡",
+      "spanJa": "前138年 — 前126年（前漢 建元3年から元朔3年）"
     },
     {
       "key": "zhugeliang",
@@ -13199,9 +13944,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#2c6b56",
       "shortZh": "诸葛亮出山北伐",
       "shortEn": "Zhuge Liang",
-      "titleZh": "诸葛亮出山北伐行迹",
+      "titleZh": "諸葛亮の出山と北伐の軌跡",
       "titleEn": "Zhuge Liang's Southern & Northern Campaigns",
-      "spanZh": "207年 — 234年（东汉建安十二年至蜀汉建兴十二年）",
+      "spanZh": "207年 — 234年（後漢 建安十二年〜蜀漢 建興十二年）",
       "spanEn": "207 CE – 234 CE (Late Eastern Han to Three Kingdoms)",
       "stops": [
         {
@@ -13216,9 +13961,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "湖北襄阳",
           "ancientEn": "Longzhong",
           "modernEn": "Xiangyang, Hubei",
-          "titleZh": "三顾茅庐·隆中决策",
+          "titleZh": "三顧の礼と隆中の策",
           "titleEn": "Three Visits to the Thatched Cottage — The Longzhong Plan",
-          "descZh": "刘备驻新野，三诣襄阳城西二十里隆中草庐访诸葛亮。年二十七的孔明纵论天下大势，提出跨有荆益、保其岩阻、西和诸戎、南抚夷越、内修政理、待天下有变则命一上将将荆州之军向宛洛而身率益州之众出秦川的“隆中对”宏图。",
+          "descZh": "劉備が新野に駐屯していた頃、襄陽城西20里の隆中にある草廬を三度訪れて諸葛亮を招いた。当時27歳の孔明は天下の大勢を縦横に論じ、荊州と益州を領有してその要害を保ち、西は諸戎と和し、南は夷越を撫で、内政を修め、天下に変動があれば一上将に荊州の軍を率いて宛・洛陽へ向かわせ、自らは益州の兵を率いて秦川に出るという「隆中対」の壮大な計画を提示した。",
           "descEn": "At age twenty-seven in his cottage at Longzhong west of Xiangyang, Zhuge Liang received Liu Bei on his third visit and unveiled the Longzhong Plan: secure Jing and Yi provinces, ally with Eastern Wu, pacify the southern tribes, and launch a two-pronged northern offensive to restore the Han.",
           "quoteZh": "诸葛亮《出师表》：“臣本布衣，躬耕于南阳，苟全性命于乱世，不求闻达于诸侯。先帝不以臣卑鄙，猥自枉屈，三顾臣于草庐之中。”",
           "quoteEn": "Zhuge Liang, Former Chu Shi Biao: \"I was originally a commoner, tilling the fields in Nanyang... Yet the Late Emperor did not disdain my humble station and deigned to visit me thrice in my thatched cottage.\"",
@@ -13232,7 +13977,9 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "襄阳",
             "隆中（襄阳）"
-          ]
+          ],
+          "titleJa": "三顧の礼と隆中の策",
+          "descJa": "劉備が新野に駐屯していた頃、襄陽城西20里の隆中にある草廬を三度訪れて諸葛亮を招いた。当時27歳の孔明は天下の大勢を縦横に論じ、荊州と益州を領有してその要害を保ち、西は諸戎と和し、南は夷越を撫で、内政を修め、天下に変動があれば一上将に荊州の軍を率いて宛・洛陽へ向かわせ、自らは益州の兵を率いて秦川に出るという「隆中対」の壮大な計画を提示した。"
         },
         {
           "year": 208,
@@ -13252,9 +13999,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江西九江",
           "ancientEn": "Chaisang",
           "modernEn": "Jiujiang, Jiangxi",
-          "titleZh": "奉使柴桑·舌战联吴",
+          "titleZh": "柴桑への使者、舌戦で呉と同盟",
           "titleEn": "Diplomatic Mission to Chaisang — Forging the Wu Alliance",
-          "descZh": "曹操南下荆州、刘备败走当阳长坂，诸葛亮临危请命顺江东下柴桑说孙权，剖析曹军远来疲弊、北人不习水战之弊，促成孙刘同盟共抗曹军。",
+          "descZh": "曹操が荊州へ南下し、劉備が当陽長坂で敗走すると、諸葛亮は危急に際して長江を下り柴桑へ赴き孫権を説得した。曹軍の遠征による疲弊と北方人が水戦に不慣れな点を分析し、孫劉同盟を成立させて曹軍に対抗させた。",
           "descEn": "As Cao Cao swept south through Jing Province, Zhuge Liang sailed down the Yangtze to Chaisang to persuade Sun Quan into an alliance against Cao Cao.",
           "quoteZh": "《三国志·诸葛亮传》：“权大悦，即遣周瑜、程普、鲁肃等水军三万，随亮诣先主，并力拒曹公。”",
           "quoteEn": "Records of the Three Kingdoms: \"Sun Quan was greatly pleased and immediately dispatched Zhou Yu, Cheng Pu, and Lu Su with thirty thousand naval troops to join Liu Bei against Cao Cao.\"",
@@ -13263,7 +14010,9 @@ window.ATLAS_LORE_DATA = {
             "sunquan",
             "zhouyu"
           ],
-          "month": 9.5
+          "month": 9.5,
+          "titleJa": "柴桑への使者、舌戦で呉と同盟",
+          "descJa": "曹操が荊州へ南下し、劉備が当陽長坂で敗走すると、諸葛亮は危急に際して長江を下り柴桑へ赴き孫権を説得した。曹軍の遠征による疲弊と北方人が水戦に不慣れな点を分析し、孫劉同盟を成立させて曹軍に対抗させた。"
         },
         {
           "year": 208,
@@ -13277,9 +14026,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "湖北赤壁",
           "ancientEn": "Red Cliffs",
           "modernEn": "Chibi, Hubei",
-          "titleZh": "赤壁鏖兵·三分奠基",
+          "titleZh": "赤壁の激戦、天下三分の基礎を築く",
           "titleEn": "Allied Victory at the Red Cliffs",
-          "descZh": "孙刘联军溯江西上，与曹军决战于赤壁乌林。周瑜、黄盖借东南风施火攻焚曹军连环战船，刘备、诸葛亮水陆并进追击至南郡，奠定三分天下之基。",
+          "descZh": "孫劉連合軍は長江を遡上し、赤壁の烏林で曹軍と決戦した。周瑜と黄蓋は東南の風を利用して火攻めを仕掛け、曹軍の連環船を焼き払い、劉備と諸葛亮は水陸両面から南郡まで追撃し、天下三分の基礎を確立した。",
           "descEn": "The allied forces of Sun Quan and Liu Bei burned Cao Cao’s chained fleet at the Red Cliffs, shattering northern hegemony and forging the tripartite balance.",
           "quoteZh": "《三国志·诸葛亮传》：“曹公败于赤壁，引军归邺。先主遂收江南，以亮为军师中郎将。”",
           "quoteEn": "Records of the Three Kingdoms: \"Defeated at the Red Cliffs, Cao Cao withdrew to Ye; Liu Bei secured southern Jing Province and appointed Zhuge Liang General of the Household.\"",
@@ -13293,7 +14042,9 @@ window.ATLAS_LORE_DATA = {
             "zhangfei",
             "zhaoyun"
           ],
-          "month": 11
+          "month": 11,
+          "titleJa": "赤壁の激戦、天下三分の基礎を築く",
+          "descJa": "孫劉連合軍は長江を遡上し、赤壁の烏林で曹軍と決戦した。周瑜と黄蓋は東南の風を利用して火攻めを仕掛け、曹軍の連環船を焼き払い、劉備と諸葛亮は水陸両面から南郡まで追撃し、天下三分の基礎を確立した。"
         },
         {
           "year": 214,
@@ -13317,9 +14068,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "四川成都",
           "ancientEn": "Chengdu",
           "modernEn": "Chengdu, Sichuan",
-          "titleZh": "溯江入蜀·会师成都",
+          "titleZh": "江を遡り蜀に入る・成都で合流",
           "titleEn": "Ascending the Yangtze into Shu & Taking Chengdu",
-          "descZh": "刘备入蜀受阻于雒城，诸葛亮与张飞、赵云自荆州率军溯长江西上，分定江州、江阳、犍为诸郡，与刘备合围成都；刘璋出降，亮署左将军府事，修订《蜀科》，宽严相济治理巴蜀。",
+          "descZh": "劉備は蜀への入城を雒城で阻まれた。諸葛亮は張飛、趙雲らと荊州より長江を遡って西上し、江州、江陽、犍為などの諸郡を平定し、劉備と合流して成都を包囲した。劉璋は降伏し、諸葛亮は左将軍府事を務め、『蜀科』を修訂し、寛厳を兼ね備えた統治で巴蜀を治めた。",
           "descEn": "Leading reinforcements up the Yangtze Three Gorges with Zhang Fei and Zhao Yun, Zhuge Liang converged on Chengdu with Liu Bei, securing Yi Province and codifying the legal code of Shu.",
           "quoteZh": "《三国志·诸葛亮传》：“亮与张飞、赵云等率众泝江，分定郡县，与先主共围成都。成都平，以亮为军师将军。”",
           "quoteEn": "Records of the Three Kingdoms: \"Zhuge Liang, Zhang Fei, and Zhao Yun led forces up the Yangtze, pacifying commanderies and counties before joining Liu Bei to encircle Chengdu.\"",
@@ -13328,7 +14079,9 @@ window.ATLAS_LORE_DATA = {
             "liubei",
             "zhangfei",
             "zhaoyun"
-          ]
+          ],
+          "titleJa": "江を遡り蜀に入る・成都で合流",
+          "descJa": "劉備は蜀への入城を雒城で阻まれた。諸葛亮は張飛、趙雲らと荊州より長江を遡って西上し、江州、江陽、犍為などの諸郡を平定し、劉備と合流して成都を包囲した。劉璋は降伏し、諸葛亮は左将軍府事を務め、『蜀科』を修訂し、寛厳を兼ね備えた統治で巴蜀を治めた。"
         },
         {
           "year": 221,
@@ -13342,9 +14095,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "四川成都",
           "ancientEn": "Chengdu",
           "modernEn": "Chengdu, Sichuan",
-          "titleZh": "劝进昭烈·开府拜相",
+          "titleZh": "昭烈帝への即位を勧進・開府して宰相となる",
           "titleEn": "Founding of Shu Han & Appointment as Imperial Chancellor",
-          "descZh": "曹丕篡汉自立，诸葛亮与群臣劝进刘备于成都武担山之南即皇帝位，延续汉室正统；诸葛亮拜丞相、录尚书事、假节，总摄蜀汉朝政与盐铁锦官经济。",
+          "descZh": "曹丕が漢を簒奪し自立すると、諸葛亮と群臣は劉備に成都の武担山南で皇帝位に即くよう勧進し、漢室の正統を継承させた。諸葛亮は丞相、録尚書事、仮節に任じられ、蜀漢の朝政と塩鉄・錦官の経済を総覧した。",
           "descEn": "Following Cao Pi’s usurpation of the Han throne, Zhuge Liang advised Liu Bei to proclaim the continuation of Han in Chengdu, becoming Imperial Chancellor of Shu Han.",
           "quoteZh": "册丞相诏：“朕遭家不造，奉承大统，兢兢业业，不敢康宁，思靖百姓，惧未能绥。於戏！丞相亮其悉朕意。”",
           "quoteEn": "Imperial Edict of 221 CE: \"Having inherited the Great Succession in troubled times, I rely wholeheartedly upon Chancellor Liang to bring peace to the realm.\"",
@@ -13356,7 +14109,9 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "武担山",
             "成都（武担山）"
-          ]
+          ],
+          "titleJa": "昭烈帝への即位を勧進・開府して宰相となる",
+          "descJa": "曹丕が漢を簒奪し自立すると、諸葛亮と群臣は劉備に成都の武担山南で皇帝位に即くよう勧進し、漢室の正統を継承させた。諸葛亮は丞相、録尚書事、仮節に任じられ、蜀漢の朝政と塩鉄・錦官の経済を総覧した。"
         },
         {
           "year": 223,
@@ -13376,9 +14131,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "重庆奉节",
           "ancientEn": "Baidicheng",
           "modernEn": "Fengjie, Chongqing",
-          "titleZh": "白帝托孤·受命危难",
+          "titleZh": "白帝城での託孤・危難の命を受ける",
           "titleEn": "Entrustment of the Orphan Emperor at Baidicheng",
-          "descZh": "夷陵之战后刘备病笃永安白帝城，自成都召诸葛亮赴行宫托孤，嘱以“嗣子可辅，辅之；如其不才，君可自取”。亮涕泣死节，回朝后开府治事、遣邓芝修好东吴，稳固危局。",
+          "descZh": "夷陵の戦いの後、劉備は永安の白帝城で病篤となり、成都から諸葛亮を行宮に召して孤を託し、「嗣子が補佐に足るならば補佐せよ。もし不才ならば、君が自ら取ってもよい」と遺言した。亮は涙を流して死節を誓い、帰朝後、開府して政務を執り、鄧芝を東呉に遣わして修好させ、危局を安定させた。",
           "descEn": "Summoned to the dying Emperor Liu Bei’s bedside at Baidicheng, Zhuge Liang accepted the regency in tears, pledging unyielding loyalty until death and restoring the Wu alliance.",
           "quoteZh": "诸葛亮《出师表》：“受任于败军之际，奉命于危难之间，尔来二十有一年矣。”",
           "quoteEn": "Zhuge Liang, Former Chu Shi Biao: \"I received my appointment in the hour of defeat and accepted my mandate in the midst of peril—twenty-one years have passed since then.\"",
@@ -13390,7 +14145,9 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "永安",
             "永安（白帝城）"
-          ]
+          ],
+          "titleJa": "白帝城での託孤・危難の命を受ける",
+          "descJa": "夷陵の戦いの後、劉備は永安の白帝城で病篤となり、成都から諸葛亮を行宮に召して孤を託し、「嗣子が補佐に足るならば補佐せよ。もし不才ならば、君が自ら取ってもよい」と遺言した。亮は涙を流して死節を誓い、帰朝後、開府して政務を執り、鄧芝を東呉に遣わして修好させ、危局を安定させた。"
         },
         {
           "year": 225,
@@ -13414,16 +14171,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "云南昆明",
           "ancientEn": "Dianchi",
           "modernEn": "Kunming, Yunnan",
-          "titleZh": "渡泸南征·七擒孟获",
+          "titleZh": "瀘水渡河の南征・孟獲の七擒七縦",
           "titleEn": "Southern Campaign Across the Lu River — Pacifying Nanzhong",
-          "descZh": "为解除北伐后顾之忧，诸葛亮率军自安上水路入越巂，五月渡泸水（金沙江），采马谡“攻心为上”之策，七擒七纵孟获，平定益州、永昌、牂牁、越巂四郡，皆即其渠帅而用之，终亮之世南方不复反。",
+          "descZh": "北伐の後顧の憂いを解消するため、諸葛亮は軍を率いて安上水路から越巂に入り、五月に瀘水（金沙江）を渡った。馬謖の「攻心為上」の策を採用し、孟獲を七度捕らえ、七度放つことで、益州、永昌、牂牁、越巂の四郡を平定した。各地の渠帥をそのまま任用したため、亮の存命中、南方で再び反乱が起こることはなかった。",
           "descEn": "Marching south across the Jinsha (Lu) River in summer 225 CE, Zhuge Liang adopted the strategy of \"winning hearts above all,\" capturing and releasing Meng Huo seven times to secure the southern frontier.",
           "quoteZh": "《汉晋春秋》：“亮笑，纵使更战，七纵七禽，而亮犹遣获。获止不去，曰：‘公，天威也，南人不复反矣。’”",
           "quoteEn": "Annals of Han and Jin: \"Captured and released seven times, Meng Huo bowed and refused to leave, saying: 'Your Excellency possesses the majesty of Heaven; the south will never rebel again.'\"",
           "aliases": [
             "南中",
             "滇池（南中）"
-          ]
+          ],
+          "titleJa": "瀘水渡河の南征・孟獲の七擒七縦",
+          "descJa": "北伐の後顧の憂いを解消するため、諸葛亮は軍を率いて安上水路から越巂に入り、五月に瀘水（金沙江）を渡った。馬謖の「攻心為上」の策を採用し、孟獲を七度捕らえ、七度放つことで、益州、永昌、牂牁、越巂の四郡を平定した。各地の渠帥をそのまま任用したため、亮の存命中、南方で再び反乱が起こることはなかった。"
         },
         {
           "year": 227,
@@ -13447,16 +14206,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西汉中",
           "ancientEn": "Hanzhong",
           "modernEn": "Hanzhong, Shaanxi",
-          "titleZh": "进驻汉中·上出师表",
+          "titleZh": "漢中への進駐・出師表の上奏",
           "titleEn": "Garrisoning Hanzhong & Presenting the Chu Shi Biao",
-          "descZh": "南中既定，诸葛亮率诸军北驻汉中沔阳，临发向后主刘禅奏呈千古名篇《出师表》，勉以亲贤臣远小人、兴复汉室还于旧都，以汉中为北伐大本营经略关陇。",
+          "descZh": "南中が平定されると、諸葛亮は諸軍を率いて漢中沔陽に北上し駐屯した。出発に際し、後主劉禅に千古の名篇『出師表』を上奏し、賢臣を親しみ小人を遠ざけ、漢室を興復して旧都に還るよう勉めさせ、漢中を北伐の大本営として関隴を攻略する計画を立てた。",
           "descEn": "Establishing his forward headquarters at Hanzhong, Zhuge Liang submitted his immortal Memorial on Deploying the Troops (Chu Shi Biao) to Emperor Liu Shan before marching north.",
           "quoteZh": "诸葛亮《出师表》：“今南方已定，兵甲已足，当奖率三军，北定中原，庶竭驽钝，攘除奸凶，兴复汉室，还于旧都。”",
           "quoteEn": "Zhuge Liang, Former Chu Shi Biao: \"Now the south is pacified and our armor is sufficient; I ought to lead the Three Armies to secure the Central Plains and restore the House of Han.\"",
           "aliases": [
             "沔阳",
             "汉中（沔阳）"
-          ]
+          ],
+          "titleJa": "漢中への進駐・出師表の上奏",
+          "descJa": "南中が平定されると、諸葛亮は諸軍を率いて漢中沔陽に北上し駐屯した。出発に際し、後主劉禅に千古の名篇『出師表』を上奏し、賢臣を親しみ小人を遠ざけ、漢室を興復して旧都に還るよう勉めさせ、漢中を北伐の大本営として関隴を攻略する計画を立てた。"
         },
         {
           "year": 228,
@@ -13476,9 +14237,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "甘肃礼县",
           "ancientEn": "Mount Qi",
           "modernEn": "Lixian, Gansu",
-          "titleZh": "一出祁山·收姜维失街亭",
+          "titleZh": "祁山への第一回出兵・姜維を収め街亭を失う",
           "titleEn": "First Expedition from Mount Qi — Recruiting Jiang Wei",
-          "descZh": "声东击西由箕谷设疑兵、亲率大军攻祁山，戎阵整齐，南安、天水、安定三郡叛魏应亮，关中震响，收天水俊杰姜维；惜马谡违亮节度于街亭依山不下城，为张郃绝水道所破，亮拔西县千余家还汉中并自贬三等。",
+          "descZh": "箕谷に疑兵を設け声東撃西の計を用い、自ら大軍を率いて祁山を攻めた。軍容は整然としており、南安、天水、安定の三郡が魏に反旗を翻し、諸葛亮に応じたため、關中を震撼させ、天水の俊傑、姜維を配下に収めた。しかし、馬謖が街亭において諸葛亮の指示に背き、山に拠って城に下りなかったため、張郃に水道を断たれて敗れた。諸葛亮は西県の一千余家を漢中に移し、自ら三等の降格処分を受けた。",
           "descEn": "Debouching from Mount Qi in disciplined array, Zhuge Liang won over three Wei commanderies—shaking all Guanzhong and recruiting Jiang Wei—before Ma Su’s defeat at Jieting forced an orderly withdrawal.",
           "quoteZh": "《三国志·诸葛亮传》：“亮身率诸军攻祁山，戎阵整齐，赏罚肃而号令明，南安、天水、安定三郡叛魏应亮，关中响震。”",
           "quoteEn": "Records of the Three Kingdoms: \"Zhuge Liang led the armies in person to attack Mount Qi in disciplined ranks; Nan'an, Tianshui, and Anding commanderies defected from Wei to join him, shaking all Guanzhong.\"",
@@ -13487,7 +14248,9 @@ window.ATLAS_LORE_DATA = {
             "simayi",
             "jiangwei",
             "zhaoyun"
-          ]
+          ],
+          "titleJa": "祁山への第一回出兵・姜維を収め街亭を失う",
+          "descJa": "箕谷に疑兵を設け声東撃西の計を用い、自ら大軍を率いて祁山を攻めた。軍容は整然としており、南安、天水、安定の三郡が魏に反旗を翻し、諸葛亮に応じたため、關中を震撼させ、天水の俊傑、姜維を配下に収めた。しかし、馬謖が街亭において諸葛亮の指示に背き、山に拠って城に下りなかったため、張郃に水道を断たれて敗れた。諸葛亮は西県の一千余家を漢中に移し、自ら三等の降格処分を受けた。"
         },
         {
           "year": 231,
@@ -13501,9 +14264,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "甘肃天水西南",
           "ancientEn": "Mumen Trail",
           "modernEn": "Tianshui SW, Gansu",
-          "titleZh": "木牛流马·木门道射杀张郃",
+          "titleZh": "木牛流馬・木門道における張郃射殺",
           "titleEn": "Fourth Expedition — Victory at Lucheng & Mumen Ambush",
-          "descZh": "始以木牛运粮四出祁山，于卤城大破司马懿主力，获甲首三千级、玄铠五千领；夏六月粮尽退军，司马懿遣名将张郃追至木门道，亮乘高布伏万弩齐发，射杀张郃。",
+          "descZh": "木牛を用いて糧秣を運び、四度目の祁山出兵を行った。鹵城において司馬懿の主力軍を大破し、斬首三千級、玄鎧五千領を得た。夏六月、兵糧が尽きて退却すると、司馬懿は名将張郃を木門道まで追撃させたが、諸葛亮は高所に伏兵を布き、一万の弩を一斉に発射させ、張郃を射殺した。",
           "descEn": "Using wooden-ox transport on his fourth northern campaign, Zhuge Liang routed Sima Yi outside Lucheng and ambushed the pursuing Wei general Zhang He with massed crossbows in Mumen Gorge.",
           "quoteZh": "《三国志·诸葛亮传》：“亮粮尽退军，司马宣王遣张郃追之，郃进至木门，与亮军交战，飞矢中郃右膝，薨。”",
           "quoteEn": "Records of the Three Kingdoms: \"When Zhuge Liang withdrew for lack of grain, Sima Yi sent Zhang He in pursuit; at Mumen Trail, a flying bolt struck Zhang He in the right knee, and he perished.\"",
@@ -13515,7 +14278,9 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "卤城",
             "木门道（卤城）"
-          ]
+          ],
+          "titleJa": "木牛流馬・木門道における張郃射殺",
+          "descJa": "木牛を用いて糧秣を運び、四度目の祁山出兵を行った。鹵城において司馬懿の主力軍を大破し、斬首三千級、玄鎧五千領を得た。夏六月、兵糧が尽きて退却すると、司馬懿は名将張郃を木門道まで追撃させたが、諸葛亮は高所に伏兵を布き、一万の弩を一斉に発射させ、張郃を射殺した。"
         },
         {
           "year": 234,
@@ -13539,9 +14304,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西宝鸡岐山",
           "ancientEn": "Wuzhang Plains",
           "modernEn": "Qishan, Baoji, Shaanxi",
-          "titleZh": "出斜谷屯五丈原·秋风星落",
+          "titleZh": "斜谷より五丈原に駐屯・秋風に星落ちる",
           "titleEn": "Final Stand on the Wuzhang Plains",
-          "descZh": "春二月悉大众十万由褒斜道出斜谷，以流马运粮，据武功五丈原与司马懿对峙于渭水之南，分兵屯田久驻之基，百姓安堵军无私焉；相持百余日，八月积劳病逝于军中，年五十四，杨仪、姜维整军从容退入斜谷，留“死诸葛走生仲达”之谚。",
+          "descZh": "春二月、十万の大軍を率いて褒斜道より斜谷を出て、流馬を用いて糧秣を運び、武功の五丈原に拠り、渭水の南で司馬懿と対峙した。兵を分けて屯田を行い、長期駐屯の基礎を築き、民衆は安堵し、軍には私心がなかった。百余日対峙したが、八月、過労により陣中で病死した。享年五十四。楊儀、姜維は軍を整え、悠然と斜谷に退却し、「死せる諸葛、生ける仲達を走らす」という諺を残した。",
           "descEn": "Leading 100,000 troops through the Xie Valley to the Wuzhang Plains south of the Wei River, Zhuge Liang established military-agricultural colonies and held off Sima Yi for over a hundred days before passing away in camp at age fifty-four.",
           "quoteZh": "杜甫《蜀相》：“三顾频烦天下计，两朝开济老臣心。出师未捷身先死，长使英雄泪满襟。”",
           "quoteEn": "Du Fu, The Chancellor of Shu: \"Three visits sought his counsel for the realm; through two reigns the old minister’s heart sustained the state. Before the campaign triumphed he died in the field, forever filling heroes’ robes with tears.\"",
@@ -13553,9 +14318,13 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "岐山",
             "五丈原（岐山）"
-          ]
+          ],
+          "titleJa": "斜谷より五丈原に駐屯・秋風に星落ちる",
+          "descJa": "春二月、十万の大軍を率いて褒斜道より斜谷を出て、流馬を用いて糧秣を運び、武功の五丈原に拠り、渭水の南で司馬懿と対峙した。兵を分けて屯田を行い、長期駐屯の基礎を築き、民衆は安堵し、軍には私心がなかった。百余日対峙したが、八月、過労により陣中で病死した。享年五十四。楊儀、姜維は軍を整え、悠然と斜谷に退却し、「死せる諸葛、生ける仲達を走らす」という諺を残した。"
         }
-      ]
+      ],
+      "titleJa": "諸葛亮の出山と北伐の軌跡",
+      "spanJa": "207年 — 234年（後漢 建安十二年〜蜀漢 建興十二年）"
     },
     {
       "key": "xuanzang",
@@ -13563,9 +14332,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#9c6317",
       "shortZh": "玄奘西行求法",
       "shortEn": "Xuanzang",
-      "titleZh": "玄奘西行求法行迹",
+      "titleZh": "玄奘の西域求法の旅路",
       "titleEn": "Xuanzang's Pilgrimage to the Western Regions",
-      "spanZh": "627年 — 645年（唐贞观元年至贞观十九年）",
+      "spanZh": "627年 — 645年（唐 貞觀元年より貞觀十九年）",
       "spanEn": "627 CE – 645 CE (Tang Dynasty, Zhenguan Era)",
       "stops": [
         {
@@ -13580,12 +14349,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西西安",
           "ancientEn": "Chang'an",
           "modernEn": "Xi'an, Shaanxi",
-          "titleZh": "发足长安·孤身西迈",
+          "titleZh": "長安を出発・単身西へ",
           "titleEn": "Departing Chang'an for the West",
-          "descZh": "为求《瑜伽师地论》梵本真义以释诸家纷歧，年二十八的玄奘大师自长安混迹灾民西出秦陇，立誓“不至天竺，终不东归一步”。",
+          "descZh": "「瑜伽師地論」の梵本真義を求め、諸家の解釈の相違を解消するため、28歳であった玄奘三蔵は長安を密かに発ち、災民に紛れて秦隴を西へ向かった。「天竺に至らずんば、ついに一歩たりとも東へ帰らじ」と誓った。",
           "descEn": "Seeking original Sanskrit texts of the Yogacara-bhumi-sastra, Master Xuanzang departed Chang'an alone, vowing never to take a step back eastward before reaching India.",
           "quoteZh": "《大慈恩寺三藏法师传》：“遂发足西行，自尔孑然孤游。”",
-          "quoteEn": "Biography of the Tripitaka Master: \"Thus he set foot westward, traveling onward in solitary resolve.\""
+          "quoteEn": "Biography of the Tripitaka Master: \"Thus he set foot westward, traveling onward in solitary resolve.\"",
+          "titleJa": "長安を出発・単身西へ",
+          "descJa": "「瑜伽師地論」の梵本真義を求め、諸家の解釈の相違を解消するため、28歳であった玄奘三蔵は長安を密かに発ち、災民に紛れて秦隴を西へ向かった。「天竺に至らずんば、ついに一歩たりとも東へ帰らじ」と誓った。"
         },
         {
           "year": 627,
@@ -13599,12 +14370,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "甘肃武威",
           "ancientEn": "Liangzhou",
           "modernEn": "Wuwei, Gansu",
-          "titleZh": "凉州开讲·昼伏夜行",
+          "titleZh": "涼州での開講と昼伏夜行",
           "titleEn": "Preaching in Liangzhou & Night Crossing",
-          "descZh": "抵河西都会凉州，受众僧礼请开讲《涅槃》《摄大乘论》月余，名震葱岭以东；因朝廷严禁私度边关，由慧威法师遣徒护送昼伏夜行西赴瓜州。",
+          "descZh": "河西の都会である涼州に到着すると、多くの僧侶の懇請を受け、『涅槃経』や『摂大乗論』を一ヶ月余り講義し、その名は葱嶺以東に轟いた。しかし、朝廷が国境の密越境を厳禁していたため、慧威法師は弟子を遣わして彼を護送させ、昼伏夜行で西の瓜州へ向かった。",
           "descEn": "In Liangzhou, Xuanzang lectured for over a month to great acclaim; evading border bans, he traveled by night and hid by day toward Guazhou.",
           "quoteZh": "《大慈恩寺三藏法师传》：“凉州为河西都会，僧徒既多，请留开讲。”",
-          "quoteEn": "Biography of the Tripitaka Master: \"Liangzhou was the metropolis of Hexi; its many monks entreated him to stay and lecture.\""
+          "quoteEn": "Biography of the Tripitaka Master: \"Liangzhou was the metropolis of Hexi; its many monks entreated him to stay and lecture.\"",
+          "titleJa": "涼州での開講と昼伏夜行",
+          "descJa": "河西の都会である涼州に到着すると、多くの僧侶の懇請を受け、『涅槃経』や『摂大乗論』を一ヶ月余り講義し、その名は葱嶺以東に轟いた。しかし、朝廷が国境の密越境を厳禁していたため、慧威法師は弟子を遣わして彼を護送させ、昼伏夜行で西の瓜州へ向かった。"
         },
         {
           "year": 627,
@@ -13618,16 +14391,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "甘肃瓜州",
           "ancientEn": "Guazhou",
           "modernEn": "Guazhou, Gansu",
-          "titleZh": "夜渡葫芦河·闯莫贺延碛",
+          "titleZh": "葫蘆河の夜渡りと莫賀延磧の突破",
           "titleEn": "Crossing the Gobi of Moheyan",
-          "descZh": "州吏李昌感其诚而暗撕通缉牒文。玄奘夜渡葫芦河、独闯五烽，于八百里莫贺延碛失手覆水，四夜五日滴水未进，绝处逢生终抵伊吾。",
+          "descZh": "州吏の李昌は玄奘の誠実に感じ入り、密かに追捕の牒文を破り捨てた。玄奘は夜に葫蘆河を渡り、一人で五つの烽火台を突破したが、八百里の莫賀延磧で誤って水をこぼし、四夜五日、一滴の水も口にできなかった。絶体絶命の窮地から生還し、ついに伊吾に到着した。",
           "descEn": "Crossing the Hulu River by night past five watchtowers, Xuanzang survived five days and four nights without water in the 800-li Moheyan Desert.",
           "quoteZh": "《大慈恩寺三藏法师传》：“莫贺延碛长八百余里，古曰沙河，上无飞鸟，下无走兽。”",
           "quoteEn": "Biography of the Tripitaka Master: \"The Moheyan Desert stretches over 800 li—no birds above, no beasts below.\"",
           "aliases": [
             "玉门关",
             "瓜州（玉门关）"
-          ]
+          ],
+          "titleJa": "葫蘆河の夜渡りと莫賀延磧の突破",
+          "descJa": "州吏の李昌は玄奘の誠実に感じ入り、密かに追捕の牒文を破り捨てた。玄奘は夜に葫蘆河を渡り、一人で五つの烽火台を突破したが、八百里の莫賀延磧で誤って水をこぼし、四夜五日、一滴の水も口にできなかった。絶体絶命の窮地から生還し、ついに伊吾に到着した。"
         },
         {
           "year": 628,
@@ -13641,12 +14416,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "新疆吐鲁番",
           "ancientEn": "Gaochang",
           "modernEn": "Turpan, Xinjiang",
-          "titleZh": "高昌结义·修书通西域",
+          "titleZh": "高昌での義兄弟の契りと西域への国書",
           "titleEn": "Sworn Brotherhood with the King of Gaochang",
-          "descZh": "高昌王麴文泰虔礼挽留，玄奘水浆不涉三日以明西求大法之志；麴文泰感泣结为兄弟，修二十四封国书、备黄金百两与三十匹马护送西行。",
+          "descZh": "高昌王の麴文泰は玄奘を丁重に引き留めたが、玄奘は三日間水も飲まず、西方へ大法を求める固い志を明らかにした。麴文泰はこれに感動して涙し、玄奘と義兄弟の契りを結んだ。そして、二十四通の国書を作成させ、黄金百両と馬三十匹を用意させ、西方への旅を護送させた。",
           "descEn": "Moved by Xuanzang’s three-day fast, King Qu Wentai became his sworn brother and provided 24 diplomatic letters and provisions for the Western Regions.",
           "quoteZh": "《大慈恩寺三藏法师传》：“任师西迈，乞垂早食……遂共结为兄弟。”",
-          "quoteEn": "Biography of the Tripitaka Master: \"The King pledged to support his westward journey and swore brotherhood with him.\""
+          "quoteEn": "Biography of the Tripitaka Master: \"The King pledged to support his westward journey and swore brotherhood with him.\"",
+          "titleJa": "高昌での義兄弟の契りと西域への国書",
+          "descJa": "高昌王の麴文泰は玄奘を丁重に引き留めたが、玄奘は三日間水も飲まず、西方へ大法を求める固い志を明らかにした。麴文泰はこれに感動して涙し、玄奘と義兄弟の契りを結んだ。そして、二十四通の国書を作成させ、黄金百両と馬三十匹を用意させ、西方への旅を護送させた。"
         },
         {
           "year": 628,
@@ -13660,16 +14437,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "新疆库车",
           "ancientEn": "Kucha",
           "modernEn": "Kuqa, Xinjiang",
-          "titleZh": "驻锡龟兹·翻越凌山雪岭",
+          "titleZh": "亀茲での滞在と凌山雪嶺の越境",
           "titleEn": "Kucha Oasis & Crossing the Icy Tian Shan",
-          "descZh": "在龟兹与高僧木叉毱多论辩经义，因大雪封山逗留六十余日；开春后翻越积雪千尺的凌山（天山木扎尔特达坂），历经雪崩严寒出天山北麓。",
+          "descZh": "龜茲にて高僧モークシャグプタと経義を論弁し、大雪により山が閉ざされたため六十余日滞在した。春の訪れとともに、千尺の積雪を抱える凌山（天山山脈ムザルト峠）を越え、雪崩や厳寒に耐えながら天山北麓に出た。",
           "descEn": "Delayed two months in Kucha by winter snows, Xuanzang then scaled the glacial Muzart Pass of the Tian Shan.",
           "quoteZh": "《大唐西域记》：“山谷积雪，春夏合冻，虽时消泮，寻复结冰。”",
           "quoteEn": "Great Tang Records on the Western Regions: \"The mountain valleys are piled with snow, frozen through spring and summer.\"",
           "aliases": [
             "屈支",
             "屈支（龟兹）"
-          ]
+          ],
+          "titleJa": "亀茲での滞在と凌山雪嶺の越境",
+          "descJa": "龜茲にて高僧モークシャグプタと経義を論弁し、大雪により山が閉ざされたため六十余日滞在した。春の訪れとともに、千尺の積雪を抱える凌山（天山山脈ムザルト峠）を越え、雪崩や厳寒に耐えながら天山北麓に出た。"
         },
         {
           "year": 628,
@@ -13683,12 +14462,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "吉尔吉斯斯坦托克马克",
           "ancientEn": "Suyab",
           "modernEn": "Tokmok, Kyrgyzstan",
-          "titleZh": "过大清池·会西突厥叶护可汗",
+          "titleZh": "大清池を過ぎ、西突厥の葉護可汗と会見",
           "titleEn": "Audience with the Western Turkic Khagan at Suyab",
-          "descZh": "循大清池（伊塞克湖）西北行至碎叶城，恰逢西突厥统叶护可汗游猎。可汗设宴礼敬，命通解汉言及诸国语的摩咄达官率骑护送至迦毕试国境。",
+          "descZh": "大清池（イシク湖）に沿って西北へ進み碎葉城に至ると、ちょうど西突厥の統葉護可汗が遊猟中であった。可汗は宴を設け丁重にもてなし、漢語および諸国の言語に通じた摩咄達官に命じ、騎兵を率いて迦畢試国境まで護送させた。",
           "descEn": "Passing Lake Issyk-Kul to Suyab, Xuanzang met Tong Yabghu Khagan of the Western Turks, who assigned a multilingual envoy to escort him south.",
           "quoteZh": "《大唐西域记》：“清池西北行五百余里至素叶水城，逢突厥叶护可汗方事畋游。”",
-          "quoteEn": "Great Tang Records: \"Traveling 500 li northwest from the Clear Lake to Suyab, he met the Turkic Yabghu Khagan on a hunt.\""
+          "quoteEn": "Great Tang Records: \"Traveling 500 li northwest from the Clear Lake to Suyab, he met the Turkic Yabghu Khagan on a hunt.\"",
+          "titleJa": "大清池を過ぎ、西突厥の葉護可汗と会見",
+          "descJa": "大清池（イシク湖）に沿って西北へ進み碎葉城に至ると、ちょうど西突厥の統葉護可汗が遊猟中であった。可汗は宴を設け丁重にもてなし、漢語および諸国の言語に通じた摩咄達官に命じ、騎兵を率いて迦畢試国境まで護送させた。"
         },
         {
           "year": 628,
@@ -13708,16 +14489,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "阿富汗巴尔赫",
           "ancientEn": "Balkh",
           "modernEn": "Balkh, Afghanistan",
-          "titleZh": "过铁门关·参礼小王舍城",
+          "titleZh": "鉄門関を過ぎ、小王舎城を参礼",
           "titleEn": "Through the Iron Gate to Balkh",
-          "descZh": "经赭时（塔什干）、飒秣建（撒马尔罕），穿险峻铁门关，渡缚刍河（阿姆河）抵号称“小王舍城”的缚喝国，与般若羯罗法师切磋毗婆沙论。",
+          "descZh": "赭時（タシュケント）、颯秣建（サマルカンド）を経由し、険峻な鉄門関を抜け、縛芻河（アムダリヤ川）を渡って「小王舎城」と称される縛喝国に達した。そこで般若羯羅法師と毘婆沙論を研鑽した。",
           "descEn": "Passing Samarkand and the Iron Gate Pass across the Oxus to Balkh (\"Little Rajagrha\"), studying Abhidharma texts at Nava Vihara.",
           "quoteZh": "《大唐西域记》：“缚喝国，伽蓝百有余所，僧徒三千余人。”",
           "quoteEn": "Great Tang Records: \"The Kingdom of Balkh has over a hundred monasteries and more than three thousand monks.\"",
           "aliases": [
             "大夏",
             "缚喝（大夏）"
-          ]
+          ],
+          "titleJa": "鉄門関を過ぎ、小王舎城を参礼",
+          "descJa": "赭時（タシュケント）、颯秣建（サマルカンド）を経由し、険峻な鉄門関を抜け、縛芻河（アムダリヤ川）を渡って「小王舎城」と称される縛喝国に達した。そこで般若羯羅法師と毘婆沙論を研鑽した。"
         },
         {
           "year": 629,
@@ -13731,12 +14514,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "巴基斯坦白沙瓦",
           "ancientEn": "Gandhara",
           "modernEn": "Peshawar, Pakistan",
-          "titleZh": "越雪山礼大佛·入天竺求法",
+          "titleZh": "雪山を越え大仏を礼拝、天竺に入り求法",
           "titleEn": "Crossing the Hindu Kush into Gandhara & India",
-          "descZh": "翻越大雪山（兴都库什山）、瞻礼梵衍那（巴米扬）石佛，入北天竺健驮逻故地；此后经迦湿弥罗驻锡两年研习经论，由此深游五印十余载。",
+          "descZh": "大雪山（ヒンドゥークシュ山脈）を越え、梵衍那（バーミヤン）の石仏を瞻礼し、北天竺の健駄羅故地に入った。その後、迦濕彌羅に二年滞在して経論を研習し、これより五印を十余年にわたり深く巡遊した。",
           "descEn": "Crossing the Hindu Kush past Bamiyan into Gandhara, then studying two years in Kashmir before journeying deeper into India for over a decade.",
           "quoteZh": "《大唐西域记》：“自古大圣贤，多生此国，作论诸师，亦多出此。”",
-          "quoteEn": "Great Tang Records: \"Since antiquity, great sages and treatise-masters have arisen in this land of Gandhara.\""
+          "quoteEn": "Great Tang Records: \"Since antiquity, great sages and treatise-masters have arisen in this land of Gandhara.\"",
+          "titleJa": "雪山を越え大仏を礼拝、天竺に入り求法",
+          "descJa": "大雪山（ヒンドゥークシュ山脈）を越え、梵衍那（バーミヤン）の石仏を瞻礼し、北天竺の健駄羅故地に入った。その後、迦濕彌羅に二年滞在して経論を研習し、これより五印を十余年にわたり深く巡遊した。"
         },
         {
           "year": 631,
@@ -13750,12 +14535,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "印度比哈尔邦那烂陀",
           "ancientEn": "Nalanda Monastery",
           "modernEn": "Nalanda, Bihar, India",
-          "titleZh": "那烂陀寺·师从戒贤学《瑜伽》",
+          "titleZh": "那爛陀寺にて戒賢に師事し『瑜伽師地論』を学ぶ",
           "titleEn": "Studying the Yogacara under Silabhadra at Nalanda",
-          "descZh": "抵中天竺摩揭陀国那烂陀寺，礼百余岁的住持戒贤论师为师，从受《瑜伽师地论》前后五年——正是当年立誓西行所求之法；其间兼习《顺正理》《中论》《百论》等诸部经论。",
+          "descZh": "中天竺の摩揭陀国那爛陀寺に到着し、百歳を超える住持戒賢論師に師事し、『瑜伽師地論』を前後五年間にわたり学んだ。これはまさに、彼が西行を誓った際に求めた教えであった。その間、『順正理論』『中論』『百論』など、様々な経論も兼ねて修めた。",
           "descEn": "At Nalanda in Magadha, Xuanzang became the disciple of the aged abbot Silabhadra and studied the Yogacarabhumi-sastra for five years, the very text he had left Chang'an to seek.",
           "quoteZh": "《大唐西域记》：“僧徒数千，并俊才高学也，德重当时，声驰异域者，数百余矣。”",
-          "quoteEn": "Great Tang Records: \"Its monks number several thousand, all of outstanding talent and learning; several hundred are honored in their time and renowned in foreign lands.\""
+          "quoteEn": "Great Tang Records: \"Its monks number several thousand, all of outstanding talent and learning; several hundred are honored in their time and renowned in foreign lands.\"",
+          "titleJa": "那爛陀寺にて戒賢に師事し『瑜伽師地論』を学ぶ",
+          "descJa": "中天竺の摩揭陀国那爛陀寺に到着し、百歳を超える住持戒賢論師に師事し、『瑜伽師地論』を前後五年間にわたり学んだ。これはまさに、彼が西行を誓った際に求めた教えであった。その間、『順正理論』『中論』『百論』など、様々な経論も兼ねて修めた。"
         },
         {
           "year": 642,
@@ -13769,12 +14556,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "印度北方邦卡瑙季",
           "ancientEn": "Kanyakubja",
           "modernEn": "Kannauj, Uttar Pradesh, India",
-          "titleZh": "曲女城大会·十八日无人能难",
+          "titleZh": "曲女城大会・十八日間、誰も反論できなかった",
           "titleEn": "The Grand Debate at Kannauj",
-          "descZh": "戒日王于曲女城设无遮大会，五印十八国王与僧俗数千人与会。玄奘为论主，悬所著论于会场门外，十八日间无一人能难，大乘尊为“大乘天”，小乘尊为“解脱天”。",
+          "descZh": "戒日王は曲女城で無遮大会を設けた。五天竺の十八国王と数千人の僧俗が参加した。玄奘は論主となり、自身の著した論を会場の門外に掲げた。十八日間、一人として反論できる者はいなかったため、大乗からは「大乗天」、小乗からは「解脱天」と尊称された。",
           "descEn": "King Harsha convened a great assembly at Kannauj attended by eighteen kings and thousands of scholars. Xuanzang posted his thesis at the gate; for eighteen days no one could refute it.",
           "quoteZh": "《大慈恩寺三藏法师传》：“若其间有一字无理能难破者，请斩首相谢。”",
-          "quoteEn": "Biography of the Tripitaka Master: \"Should anyone find a single word herein unreasoned and refute it, I offer my head in apology.\""
+          "quoteEn": "Biography of the Tripitaka Master: \"Should anyone find a single word herein unreasoned and refute it, I offer my head in apology.\"",
+          "titleJa": "曲女城大会・十八日間、誰も反論できなかった",
+          "descJa": "戒日王は曲女城で無遮大会を設けた。五天竺の十八国王と数千人の僧俗が参加した。玄奘は論主となり、自身の著した論を会場の門外に掲げた。十八日間、一人として反論できる者はいなかったため、大乗からは「大乗天」、小乗からは「解脱天」と尊称された。"
         },
         {
           "year": 644,
@@ -13806,16 +14595,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "新疆和田",
           "ancientEn": "Khotan",
           "modernEn": "Hotan, Xinjiang",
-          "titleZh": "越葱岭载经东归·奉表唐廷",
+          "titleZh": "葱嶺を越え経典を載せて東帰・唐廷に上表",
           "titleEn": "Return via Khotan & Memorial to Emperor Taizong",
-          "descZh": "载梵本经论越帕米尔高原东归至于阗，遣使向唐太宗奉表陈情；此时大唐已平定高昌、设安西都护府，太宗降敕欣慰迎归，命沿途州县护送。",
+          "descZh": "梵本経論を載せてパミール高原を越え、于闐に東帰した。使者を唐太宗に遣わし、上表して帰国を願い出た。この時、大唐は既に高昌を平定し、安西都護府を設置していたため、太宗は勅を下して帰国を歓迎し、沿道の州県に護送を命じた。",
           "descEn": "Returning across the Pamirs to Khotan with Sanskrit scriptures, Xuanzang sent a memorial to Emperor Taizong, who issued an imperial edict welcoming him home.",
           "quoteZh": "《进西域记表》：“冒越宪章，私往天竺……历览周游，一十七载。”",
           "quoteEn": "Memorial to the Throne: \"Having ventured beyond the border laws to India, I traveled and observed for seventeen years.\"",
           "aliases": [
             "瞿萨旦那",
             "于阗（瞿萨旦那）"
-          ]
+          ],
+          "titleJa": "葱嶺を越え経典を載せて東帰・唐廷に上表",
+          "descJa": "梵本経論を載せてパミール高原を越え、于闐に東帰した。使者を唐太宗に遣わし、上表して帰国を願い出た。この時、大唐は既に高昌を平定し、安西都護府を設置していたため、太宗は勅を下して帰国を歓迎し、沿道の州県に護送を命じた。"
         },
         {
           "year": 645,
@@ -13839,9 +14630,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西西安",
           "ancientEn": "Chang'an",
           "modernEn": "Xi'an, Shaanxi",
-          "titleZh": "归至京师·开场译经撰记",
+          "titleZh": "京師に帰還・訳経事業を開始し、記録を撰述",
           "titleEn": "Triumphal Return to Chang'an & Translation Bureau",
-          "descZh": "贞观十九年正月返抵长安，朱雀街数十万人瞻礼迎奉六百五十七部梵经；后于弘福寺、大慈恩寺主持译场十九载，译经七十五部，撰成《大唐西域记》十二卷。",
+          "descZh": "貞観十九年（645年）正月、長安に帰還した。朱雀街では数十万人が六百五十七部の梵経を拝礼し、迎奉した。その後、弘福寺、大慈恩寺で十九年間にわたり訳経事業を主宰し、七十五部の経典を翻訳し、『大唐西域記』十二巻を撰述した。",
           "descEn": "Returning to Chang'an in 645 CE with 657 Sanskrit texts, Xuanzang led the imperial translation bureau for 19 years and compiled the Great Tang Records on the Western Regions.",
           "quoteZh": "《旧唐书·玄奘传》：“贞观十九年，归至京师，太宗见之大悦，与之谈论。”",
           "quoteEn": "Old Book of Tang: \"In the 19th year of Zhenguan he returned to the capital; Emperor Taizong met him with great joy.\"",
@@ -13854,9 +14645,13 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "归唐",
             "长安（归唐）"
-          ]
+          ],
+          "titleJa": "京師に帰還・訳経事業を開始し、記録を撰述",
+          "descJa": "貞観十九年（645年）正月、長安に帰還した。朱雀街では数十万人が六百五十七部の梵経を拝礼し、迎奉した。その後、弘福寺、大慈恩寺で十九年間にわたり訳経事業を主宰し、七十五部の経典を翻訳し、『大唐西域記』十二巻を撰述した。"
         }
-      ]
+      ],
+      "titleJa": "玄奘の西域求法の旅路",
+      "spanJa": "627年 — 645年（唐 貞觀元年より貞觀十九年）"
     },
     {
       "key": "libai",
@@ -13864,9 +14659,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#2e5c8a",
       "shortZh": "李白仗剑壮游",
       "shortEn": "Li Bai",
-      "titleZh": "李白仗剑壮游行迹",
+      "titleZh": "李白の剣を携えた壮大な旅路",
       "titleEn": "Li Bai's Grand Travels Across Tang China",
-      "spanZh": "701年 — 762年（武周长安元年至唐宝应元年）",
+      "spanZh": "701年 — 762年（武周長安元年より唐宝応元年まで）",
       "spanEn": "701 CE – 762 CE (High Tang Dynasty)",
       "stops": [
         {
@@ -13881,12 +14676,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "吉尔吉斯斯坦托克马克",
           "ancientEn": "Suyab",
           "modernEn": "Tokmok, Kyrgyzstan",
-          "titleZh": "诞于西域·安西碎叶",
+          "titleZh": "西域・安西都護府の碎葉に誕生",
           "titleEn": "Birth at Suyab in the Western Regions",
-          "descZh": "长安元年（701年），李白诞于唐安西都护府碎叶城（今楚河流域托克马克附近），幼承丝路胡汉交融之风，五岁随父李客东迁入蜀。",
+          "descZh": "長安元年（701年）、李白は唐の安西都護府碎葉城（現在のチュイ川流域トクマク付近）に誕生した。幼少期はシルクロードの胡漢融合の風習に触れ、5歳で父の李客とともに東遷し、蜀に入った。",
           "descEn": "Born in 701 CE at Suyab—one of the Four Garrisons of Anxi in the Chu River valley—Li Bai spent his earliest childhood on the Silk Road frontier before migrating with his family to Sichuan at age five.",
           "quoteZh": "范传正《唐左拾遗翰林学士李公新墓碑》：“隋末多难，一房被窜于碎叶，流离散落，隐易姓名。”",
-          "quoteEn": "Fan Chuanzheng, New Tomb Inscription for Li Bai: \"Amid the turmoil at the end of Sui, his branch of the clan was exiled to Suyab, living incognito until returning to Shu in the Shenlong era.\""
+          "quoteEn": "Fan Chuanzheng, New Tomb Inscription for Li Bai: \"Amid the turmoil at the end of Sui, his branch of the clan was exiled to Suyab, living incognito until returning to Shu in the Shenlong era.\"",
+          "titleJa": "西域・安西都護府の碎葉に誕生",
+          "descJa": "長安元年（701年）、李白は唐の安西都護府碎葉城（現在のチュイ川流域トクマク付近）に誕生した。幼少期はシルクロードの胡漢融合の風習に触れ、5歳で父の李客とともに東遷し、蜀に入った。"
         },
         {
           "year": 705,
@@ -13914,9 +14711,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "四川江油青莲镇",
           "ancientEn": "Qinglian, Mianzhou",
           "modernEn": "Jiangyou, Sichuan",
-          "titleZh": "卜居青莲·大匡山读书",
+          "titleZh": "青蓮に居を定め、大匡山で学ぶ",
           "titleEn": "Youth in Qinglian & Studying on Mount Dakuang",
-          "descZh": "随父客居剑南道绵州昌隆县青莲乡（自号“青莲居士”）。少时博学广览、好剑术任侠，隐大匡山读书，后游成都、登峨眉，受道士司马承祯赞为“有仙风道骨，可与神游八极之表”，作《大鹏遇希有鸟赋》。",
+          "descZh": "父とともに剣南道綿州昌隆県青蓮郷に客居し（自ら「青蓮居士」と号した）、少年時代は博学で広く書物を読み、剣術を好み任侠の徒であった。大匡山に隠棲して学問に励み、その後、成都を遊歴し、峨眉山に登った。道士の司馬承禎から「仙風道骨あり、八極の表を神遊すべし」と称賛され、『大鵬遇希有鳥賦』を著した。",
           "descEn": "Settling in Qinglian in Mianzhou (whence his sobriquet \"Layman of Blue Lotus\"), young Li Bai practiced swordsmanship, studied on Mount Dakuang, climbed Mount Emei, and was praised by Taoist master Sima Chengzhen as having \"immortal bones.\"",
           "quoteZh": "李白《上安州裴长史书》：“五岁诵六甲，十岁观百家……十五观奇书，作赋凌相如。”",
           "quoteEn": "Li Bai, Letter to Administrator Pei of Anzhou: \"At five I recited the calendar classics; at ten I read the Hundred Schools; at fifteen I composed rhapsodies rivaling Sima Xiangru.\"",
@@ -13924,7 +14721,9 @@ window.ATLAS_LORE_DATA = {
             "绵州昌隆",
             "青莲",
             "绵州昌隆（青莲）"
-          ]
+          ],
+          "titleJa": "青蓮に居を定め、大匡山で学ぶ",
+          "descJa": "父とともに剣南道綿州昌隆県青蓮郷に客居し（自ら「青蓮居士」と号した）、少年時代は博学で広く書物を読み、剣術を好み任侠の徒であった。大匡山に隠棲して学問に励み、その後、成都を遊歴し、峨眉山に登った。道士の司馬承禎から「仙風道骨あり、八極の表を神遊すべし」と称賛され、『大鵬遇希有鳥賦』を著した。"
         },
         {
           "year": 724,
@@ -13944,12 +14743,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "重庆",
           "ancientEn": "Yuzhou",
           "modernEn": "Chongqing",
-          "titleZh": "夜发清溪·思君下渝州",
+          "titleZh": "清渓を夜に出発し、君を思い渝州へ下る",
           "titleEn": "Sailing Down the Min & Yangtze Rivers to Yuzhou",
-          "descZh": "年二十四的李白自蜀中启程远游，登峨眉山辞别蜀中山水，乘舟自清溪顺平羌江（青衣江）、岷江东下渝州，写下清丽绝伦的《峨眉山月歌》。",
+          "descZh": "24歳の李白は蜀中から遠遊の旅に出発し、峨眉山に登り蜀の山水に別れを告げた。舟で清渓から平羌江（青衣江）、岷江を下り、渝州へ東下し、清麗絶倫な『峨眉山月歌』を詠んだ。",
           "descEn": "At twenty-four, Li Bai set out from Mount Emei and sailed down the Min and Yangtze rivers to Yuzhou (Chongqing), composing the Moon Over Mount Emei.",
           "quoteZh": "李白《峨眉山月歌》：“峨眉山月半轮秋，影入平羌江水流。夜发清溪向三峡，思君不见下渝州。”",
-          "quoteEn": "Li Bai, Moon Over Mount Emei: \"A half-wheel of autumn moon above Mount Emei casts its reflection into the flowing Pingqiang River; setting out by night from Qingxi toward the Three Gorges, longing for you unseen as I sail down to Yuzhou.\""
+          "quoteEn": "Li Bai, Moon Over Mount Emei: \"A half-wheel of autumn moon above Mount Emei casts its reflection into the flowing Pingqiang River; setting out by night from Qingxi toward the Three Gorges, longing for you unseen as I sail down to Yuzhou.\"",
+          "titleJa": "清渓を夜に出発し、君を思い渝州へ下る",
+          "descJa": "24歳の李白は蜀中から遠遊の旅に出発し、峨眉山に登り蜀の山水に別れを告げた。舟で清渓から平羌江（青衣江）、岷江を下り、渝州へ東下し、清麗絶倫な『峨眉山月歌』を詠んだ。"
         },
         {
           "year": 725,
@@ -13969,16 +14770,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "湖北宜都",
           "ancientEn": "Jingmen",
           "modernEn": "Yidu, Hubei",
-          "titleZh": "仗剑去国·辞亲出三峡",
+          "titleZh": "剣を携え故郷を去り、親に別れを告げ三峡を出る",
           "titleEn": "Leaving Shu with Sword in Hand Through the Three Gorges",
-          "descZh": "怀济世远志“仗剑去国，辞亲远游”，自渝州穿瞿塘、巫峡、西陵三峡，出荆门山初见江汉平原天地壮阔，写下《渡荆门送别》。",
+          "descZh": "済世の遠大な志を抱き、「剣を帯びて国を去り、親に別れを告げて遠く遊ぶ」と、渝州より瞿塘峡、巫峡、西陵峡の三峡を抜け、荊門山を出て初めて江漢平原の広大な天地を目の当たりにし、『渡荊門送別』を著した。",
           "descEn": "Sailing through the Three Gorges past Jingmen Mountain into the vast Jianghan Plain, Li Bai began his grand travels across the Tang Empire.",
           "quoteZh": "李白《渡荆门送别》：“山随平野尽，江入大荒流。月下飞天镜，云生结海楼。”",
           "quoteEn": "Li Bai, Farewell at Jingmen: \"Mountains vanish into the level plain; the Great River rolls into the boundless wild. Beneath the moon a celestial mirror flies; rising clouds weave ocean pavilions.\"",
           "aliases": [
             "宜都",
             "荆门（宜都）"
-          ]
+          ],
+          "titleJa": "剣を携え故郷を去り、親に別れを告げ三峡を出る",
+          "descJa": "済世の遠大な志を抱き、「剣を帯びて国を去り、親に別れを告げて遠く遊ぶ」と、渝州より瞿塘峡、巫峡、西陵峡の三峡を抜け、荊門山を出て初めて江漢平原の広大な天地を目の当たりにし、『渡荊門送別』を著した。"
         },
         {
           "year": 726,
@@ -14006,16 +14809,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江苏扬州",
           "ancientEn": "Yangzhou",
           "modernEn": "Yangzhou, Jiangsu",
-          "titleZh": "漫游吴越·散金三十万",
+          "titleZh": "呉越漫遊・三十万銭の散金",
           "titleEn": "Grand Tour of Wu-Yue & Spending 300,000 Cash in Yangzhou",
-          "descZh": "顺江东下，登庐山望瀑布、游金陵怀古，转赴繁华甲天下的淮南都会扬州与吴越诸郡，豪爽济困，“不逾一年，散金三十余万”，写就《望庐山瀑布》《静夜思》等千古绝唱。",
+          "descZh": "長江を下り東へ向かい、廬山に登り瀑布を眺め、金陵を訪れて古を偲んだ後、天下第一の繁栄を誇る淮南の都会、揚州と呉越の諸郡へ赴いた。そこで豪放に困窮者を救済し、「一年足らずで三十万余りの銭を散財した」と伝えられ、『望廬山瀑布』『静夜思』などの千古の絶唱を著した。",
           "descEn": "Sailing down the lower Yangtze past Mount Lu and Jinling to prosperous Yangzhou, Li Bai generously aided destitute scholars—giving away over 300,000 coins within a year—and composed Quiet Night Thought.",
           "quoteZh": "李白《上安州裴长史书》：“曩昔东游维扬，不逾一年，散金三十余万，有落魄公子，悉皆济之。”",
           "quoteEn": "Li Bai: \"Formerly traveling east to Yangzhou, in less than a year I scattered more than three hundred thousand in gold, coming to the aid of every stranded gentleman.\"",
           "aliases": [
             "广陵",
             "扬州（广陵）"
-          ]
+          ],
+          "titleJa": "呉越漫遊・三十万銭の散金",
+          "descJa": "長江を下り東へ向かい、廬山に登り瀑布を眺め、金陵を訪れて古を偲んだ後、天下第一の繁栄を誇る淮南の都会、揚州と呉越の諸郡へ赴いた。そこで豪放に困窮者を救済し、「一年足らずで三十万余りの銭を散財した」と伝えられ、『望廬山瀑布』『静夜思』などの千古の絶唱を著した。"
         },
         {
           "year": 727,
@@ -14039,12 +14844,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "湖北安陆",
           "ancientEn": "Anlu",
           "modernEn": "Anlu, Hubei",
-          "titleZh": "酒隐安陆·登临黄鹤楼",
+          "titleZh": "安陸での酒隠・黄鶴楼に登る",
           "titleEn": "Ten Years in Anlu & Farewell at Yellow Crane Tower",
-          "descZh": "西归荆楚，赘于安陆故相许圉师孙女家，隐居白兆山桃花岩所谓“酒隐安陆，蹉跎十年”；其间频游江夏与襄阳，结交孟浩然，于黄鹤楼赋诗送其东下广陵。",
+          "descZh": "西方、荊楚の地へ戻り、安陸で元宰相許圉師の孫娘の家に婿入りし、白兆山桃花岩に隠棲した。これは「安陸に酒隠し、十年を蹉跎す」と称される時期である。その間、江夏や襄陽を頻繁に訪れ、孟浩然と交友を結び、黄鶴楼にて詩を賦し、彼が東の広陵へ下るのを見送った。",
           "descEn": "Marrying into the family of former Chancellor Xu Yushi in Anlu, Li Bai made Mount Baizhao his home base for a decade, befriending Meng Haoran and seeing him off at the Yellow Crane Tower.",
           "quoteZh": "李白《黄鹤楼送孟浩然之广陵》：“故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。”",
-          "quoteEn": "Li Bai, Seeing Off Meng Haoran at Yellow Crane Tower: \"My old friend bids farewell to the west at Yellow Crane Tower, sailing down to Yangzhou in the misty blossoms of March.\""
+          "quoteEn": "Li Bai, Seeing Off Meng Haoran at Yellow Crane Tower: \"My old friend bids farewell to the west at Yellow Crane Tower, sailing down to Yangzhou in the misty blossoms of March.\"",
+          "titleJa": "安陸での酒隠・黄鶴楼に登る",
+          "descJa": "西方、荊楚の地へ戻り、安陸で元宰相許圉師の孫娘の家に婿入りし、白兆山桃花岩に隠棲した。これは「安陸に酒隠し、十年を蹉跎す」と称される時期である。その間、江夏や襄陽を頻繁に訪れ、孟浩然と交友を結び、黄鶴楼にて詩を賦し、彼が東の広陵へ下るのを見送った。"
         },
         {
           "year": 742,
@@ -14064,9 +14871,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西西安",
           "ancientEn": "Chang'an",
           "modernEn": "Xi'an, Shaanxi",
-          "titleZh": "奉诏入京·翰林待诏",
+          "titleZh": "詔を奉じて入京・翰林待詔",
           "titleEn": "Summoned to Chang'an — Imperial Hanlin Academy",
-          "descZh": "因道士吴筠及玉真公主举荐，唐玄宗降诏征召入京。李白高歌“仰天大笑出门去，我辈岂是蓬蒿人”西入长安，贺知章读《蜀道难》惊呼“谪仙人”，玄宗降辇步迎、供奉翰林，赋《清平调》三章。",
+          "descZh": "道士呉筠と玉真公主の推薦により、唐玄宗は詔を下して彼を召し出し、入京させた。李白は「仰天大笑して門を出で去る、我輩豈に蓬蒿の人ならんや」と高らかに歌い、西方長安へ入った。賀知章は『蜀道難』を読んで「謫仙人」と驚嘆し、玄宗は輿から降りて歩いて迎え、翰林に供奉させ、『清平調』三章を賦した。",
           "descEn": "Summoned to Chang’an by Emperor Xuanzong, Li Bai was hailed by He Zhizhang as a \"Banished Immortal\" upon reading The Hard Roads of Shu, and served in the Imperial Hanlin Academy.",
           "quoteZh": "李白《南陵别儿童入京》：“仰天大笑出门去，我辈岂是蓬蒿人！”",
           "quoteEn": "Li Bai, Parting from My Children at Nanling for the Capital: \"Throwing back my head with a great laugh I stride out the gate—how could men like us remain forever amid the mugwort?\"",
@@ -14074,7 +14881,9 @@ window.ATLAS_LORE_DATA = {
             "libai",
             "tangxuanzong",
             "wangwei"
-          ]
+          ],
+          "titleJa": "詔を奉じて入京・翰林待詔",
+          "descJa": "道士呉筠と玉真公主の推薦により、唐玄宗は詔を下して彼を召し出し、入京させた。李白は「仰天大笑して門を出で去る、我輩豈に蓬蒿の人ならんや」と高らかに歌い、西方長安へ入った。賀知章は『蜀道難』を読んで「謫仙人」と驚嘆し、玄宗は輿から降りて歩いて迎え、翰林に供奉させ、『清平調』三章を賦した。"
         },
         {
           "year": 744,
@@ -14094,16 +14903,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "河南洛阳",
           "ancientEn": "Luoyang",
           "modernEn": "Luoyang, Henan",
-          "titleZh": "赐金放还·洛阳逢杜甫",
+          "titleZh": "賜金放還・洛陽で杜甫と会う",
           "titleEn": "Leaving Court & Historic Meeting with Du Fu in Luoyang",
-          "descZh": "因傲岸不羁遭权贵谗毁，玄宗“赐金放还”。李白东出长安至东都洛阳，与年三十三的杜甫初遇定交，中国诗史双子星于此风云际会。",
+          "descZh": "744年、傲岸不羈な性格が権貴の讒言を招き、玄宗は「賜金放還」として彼を朝廷から退かせた。李白は長安を東へ出て東都洛陽に至り、33歳の杜甫と初めて出会い、親交を結んだ。中国詩史における二大巨星がここに巡り合ったのである。",
           "descEn": "Granted gold to leave court in 744 CE, Li Bai traveled east to Luoyang where he met the younger Du Fu—a historic meeting hailed as the twin peaks of Tang poetry.",
           "quoteZh": "杜甫《寄李十二白二十韵》：“乞归优诏许，遇我宿心亲。醉舞梁园夜，行歌泗水春。”",
           "quoteEn": "Du Fu, Twenty Rhymes Sent to Li Bai: \"Your plea to retire was granted by gracious edict; meeting me, our kindred hearts grew close—dancing drunk in Liang Garden by night, singing along the Si River in spring.\"",
           "persons": [
             "libai",
             "dufu"
-          ]
+          ],
+          "titleJa": "賜金放還・洛陽で杜甫と会う",
+          "descJa": "744年、傲岸不羈な性格が権貴の讒言を招き、玄宗は「賜金放還」として彼を朝廷から退かせた。李白は長安を東へ出て東都洛陽に至り、33歳の杜甫と初めて出会い、親交を結んだ。中国詩史における二大巨星がここに巡り合ったのである。"
         },
         {
           "year": 744,
@@ -14123,9 +14934,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "河南商丘",
           "ancientEn": "Suiyang",
           "modernEn": "Shangqiu, Henan",
-          "titleZh": "梁园豪游·偕杜甫高适猎孟诸",
+          "titleZh": "梁園での豪遊・杜甫、高適と共に孟諸で狩猟",
           "titleEn": "Roaming Liang-Song with Du Fu & Gao Shi",
-          "descZh": "秋与杜甫、高适同游梁宋（汴州开封、宋州商丘），登梁王吹台怀古、纵猎孟诸泽，饮酒赋诗，在睢阳梁园挥毫题壁作《梁园吟》。",
+          "descZh": "744年秋、杜甫、高適と共に梁宋（汴州開封、宋州商丘）を遊歴し、梁王の吹台に登り古を懐かしみ、孟諸澤で狩猟に興じた。酒を飲み詩を賦し、睢陽の梁園では壁に『梁園吟』を揮毫した。",
           "descEn": "In autumn 744 CE, Li Bai, Du Fu, and Gao Shi roamed the Liang-Song plains around Kaifeng and Shangqiu, ascending the ancient Liang terrace and hunting on the Mengzhu marshes.",
           "quoteZh": "李白《梁园吟》：“我浮黄河去京阙，挂席欲进波连山。天长水阔厌远涉，访古始及平台间。”",
           "quoteEn": "Li Bai, Ballad of Liang Garden: \"Floating down the Yellow River away from the palace towers, I hoisted sail across mountain-high waves until reaching the ancient terrace of Liang.\"",
@@ -14137,7 +14948,9 @@ window.ATLAS_LORE_DATA = {
           "aliases": [
             "梁宋",
             "梁宋（睢阳）"
-          ]
+          ],
+          "titleJa": "梁園での豪遊・杜甫、高適と共に孟諸で狩猟",
+          "descJa": "744年秋、杜甫、高適と共に梁宋（汴州開封、宋州商丘）を遊歴し、梁王の吹台に登り古を懐かしみ、孟諸澤で狩猟に興じた。酒を飲み詩を賦し、睢陽の梁園では壁に『梁園吟』を揮毫した。"
         },
         {
           "year": 745,
@@ -14151,9 +14964,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "山东济宁",
           "ancientEn": "Rencheng",
           "modernEn": "Jining, Shandong",
-          "titleZh": "东游齐鲁·梦游天姥",
+          "titleZh": "齊魯東遊・『夢遊天姥吟留別』",
           "titleEn": "Sojourn in Qilu & Dreaming of Mount Tianmu",
-          "descZh": "寄家山东兖州任城，与杜甫携手同游齐鲁，访范十隐居、登泰山徂徕，于紫极宫受道箓；临别东鲁南游越中时赋《梦游天姥吟留别》，喊出“安能摧眉折腰事权贵，使我不得开心颜”之千古强音。",
+          "descZh": "山東兗州任城に家を置き、杜甫と共に齊魯を遊歴し、范十の隠居を訪ね、泰山、徂徠に登り、紫極宮で道籙を受けた。東魯を離れ越中へ南遊する際、『夢遊天姥吟留別』を賦し、「安能摧眉折腰事権貴、使我不得開心顔」（いずくんぞ眉を摧き腰を折りて権貴に事え、我をして開心顔を得しめざらんや）という千古の絶唱を放った。",
           "descEn": "Making his family home in Rencheng (Shandong) and roaming Qilu with Du Fu, Li Bai composed Dreaming of Mount Tianmu: A Farewell Song before heading south.",
           "quoteZh": "李白《梦游天姥吟留别》：“安能摧眉折腰事权贵，使我不得开心颜！”",
           "quoteEn": "Li Bai, Dreaming of Mount Tianmu: \"How can I bow my brow and bend my waist to serve the powerful, denying myself a joyful heart and open brow?\"",
@@ -14165,7 +14978,9 @@ window.ATLAS_LORE_DATA = {
             "齐鲁",
             "兖州任城",
             "齐鲁（兖州任城）"
-          ]
+          ],
+          "titleJa": "齊魯東遊・『夢遊天姥吟留別』",
+          "descJa": "山東兗州任城に家を置き、杜甫と共に齊魯を遊歴し、范十の隠居を訪ね、泰山、徂徠に登り、紫極宮で道籙を受けた。東魯を離れ越中へ南遊する際、『夢遊天姥吟留別』を賦し、「安能摧眉折腰事権貴、使我不得開心顔」（いずくんぞ眉を摧き腰を折りて権貴に事え、我をして開心顔を得しめざらんや）という千古の絶唱を放った。"
         },
         {
           "year": 759,
@@ -14193,16 +15008,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "重庆奉节",
           "ancientEn": "Baidicheng",
           "modernEn": "Fengjie, Chongqing",
-          "titleZh": "长流夜郎·白帝遇赦还江陵",
+          "titleZh": "夜郎への流刑・白帝城での赦免と江陵への帰還",
           "titleEn": "Exile to Yelang & Imperial Pardon at Baidicheng",
-          "descZh": "安史之乱起，李白怀平胡复国之志入永王李璘幕府，兵败后系浔阳狱，坐长流夜郎（黔中）；乾元二年春溯江行至巫山白帝城，忽逢关内大旱朝廷大赦天下，惊喜放舟东下江陵，写下《早发白帝城》。",
+          "descZh": "安史の乱が勃発すると、李白は胡を平定し国を復興する志を抱き、永王李璘の幕府に入った。しかし永王の軍は敗れ、李白は潯陽の獄に繋がれ、夜郎（黔中）への流刑に処された。乾元2年（759年）春、長江を遡り巫山白帝城に至った際、関内が大旱魃に見舞われたため朝廷が大赦を下し、彼は喜び、舟を放って東へ江陵へと下り、『早発白帝城』を詠んだ。",
           "descEn": "Implicated in Prince Lin of Yong’s campaign during the An Lushan Rebellion, Li Bai was banished toward distant Yelang; reaching Baidicheng in spring 759 CE, he received an imperial amnesty and raced downstream to Jiangling.",
           "quoteZh": "李白《早发白帝城》：“朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。”",
           "quoteEn": "Li Bai, Departing Baidicheng at Dawn: \"At dawn I leave Baidicheng amid rainbow clouds; a thousand li to Jiangling I return in a single day. While gibbons on both banks cry without cease, my light skiff has already shot past ten thousand mountains.\"",
           "aliases": [
             "夔州",
             "白帝城（夔州）"
-          ]
+          ],
+          "titleJa": "夜郎への流刑・白帝城での赦免と江陵への帰還",
+          "descJa": "安史の乱が勃発すると、李白は胡を平定し国を復興する志を抱き、永王李璘の幕府に入った。しかし永王の軍は敗れ、李白は潯陽の獄に繋がれ、夜郎（黔中）への流刑に処された。乾元2年（759年）春、長江を遡り巫山白帝城に至った際、関内が大旱魃に見舞われたため朝廷が大赦を下し、彼は喜び、舟を放って東へ江陵へと下り、『早発白帝城』を詠んだ。"
         },
         {
           "year": 762,
@@ -14226,18 +15043,22 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "安徽马鞍山·当涂",
           "ancientEn": "Dangtu",
           "modernEn": "Dangtu, Ma'anshan, Anhui",
-          "titleZh": "赋临路歌·终老当涂青山",
+          "titleZh": "『臨路歌』を賦す・當塗青山で終焉を迎える",
           "titleEn": "Final Song at Dangtu & Resting by Mount Qing",
-          "descZh": "晚年漂泊金陵、宣城、秋浦之间，闻太尉李光弼统军讨史朝义，六十一岁仍请缨从军，行至金陵因病折返，依族叔当涂令李阳冰；宝应元年十一月赋《临路歌》绝笔，病逝于当涂，终葬谢朓曾游之青山。",
+          "descZh": "晩年は金陵、宣城、秋浦の間を漂泊した。太尉の李光弼が史朝義討伐のため軍を率いると聞き、61歳にしてなお従軍を志願したが、金陵に至ったところで病のため引き返し、族叔で當塗県令の李陽冰のもとに身を寄せた。寶應元年11月、『臨路歌』を絶筆として當塗で病没し、謝朓がかつて遊んだ青山に葬られた。",
           "descEn": "After attempting at sixty-one to join Li Guangbi’s army against the rebels, an ailing Li Bai stayed with his kinsman Li Yangbing in Dangtu, composing his final Song Before the Road and passing away in late 762 CE.",
           "quoteZh": "李白《临路歌》：“大鹏飞兮振八裔，中天摧兮力不济。馀风激兮万世，游扶桑兮挂石袂。”",
           "quoteEn": "Li Bai, Song Before the Road: \"The Great Peng soared and shook the eight horizons; broken in mid-heaven, its strength gave out—yet its lingering wind stirs ten thousand generations.\"",
           "aliases": [
             "宣城郡",
             "当涂（宣城郡）"
-          ]
+          ],
+          "titleJa": "『臨路歌』を賦す・當塗青山で終焉を迎える",
+          "descJa": "晩年は金陵、宣城、秋浦の間を漂泊した。太尉の李光弼が史朝義討伐のため軍を率いると聞き、61歳にしてなお従軍を志願したが、金陵に至ったところで病のため引き返し、族叔で當塗県令の李陽冰のもとに身を寄せた。寶應元年11月、『臨路歌』を絶筆として當塗で病没し、謝朓がかつて遊んだ青山に葬られた。"
         }
-      ]
+      ],
+      "titleJa": "李白の剣を携えた壮大な旅路",
+      "spanJa": "701年 — 762年（武周長安元年より唐宝応元年まで）"
     },
     {
       "key": "sushi",
@@ -14245,9 +15066,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#1f6f8b",
       "shortZh": "苏轼宦海贬谪",
       "shortEn": "Su Shi",
-      "titleZh": "苏轼宦海贬谪行迹",
+      "titleZh": "蘇軾の官途における左遷の足跡",
       "titleEn": "Su Shi's Literary Exile Across Song China",
-      "spanZh": "1056年 — 1101年（北宋嘉祐元年至建中靖国元年）",
+      "spanZh": "1056年 - 1101年（北宋 嘉祐元年より建中靖國元年）",
       "spanEn": "1056 CE – 1101 CE (Northern Song Dynasty)",
       "stops": [
         {
@@ -14262,12 +15083,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "四川眉山",
           "ancientEn": "Meizhou",
           "modernEn": "Meishan, Sichuan",
-          "titleZh": "弱冠出蜀·仗剑远游",
+          "titleZh": "弱冠にして蜀を出て、剣を携え遠遊する",
           "titleEn": "Leaving Meizhou for the Imperial Capital",
-          "descZh": "年二十一的苏轼与弟苏辙随父苏洵自蜀中眉州启程，乘舟循岷江入长江，复由褒斜道越秦岭赴东京汴梁应试。",
+          "descZh": "21歳の蘇軾は弟の蘇轍とともに父の蘇洵に従い、蜀の眉州を出発した。舟に乗って岷江を下り長江に入り、さらに褒斜道を経て秦嶺を越え、東京汴梁（汴京）へ科挙の受験に向かった。",
           "descEn": "At age twenty-one, Su Shi set out from Meizhou in Sichuan with his father Su Xun and brother Su Zhe to take the imperial examinations in Kaifeng.",
           "quoteZh": "苏轼《初发嘉州》：“朝发鼓阗阗，西风猎画旃。故乡飘已远，往意浩无边。”",
-          "quoteEn": "Su Shi, Departing Jiazhou: \"Morning drums thunder as the west wind snaps our painted banner; home drifts far behind, our aspirations boundless.\""
+          "quoteEn": "Su Shi, Departing Jiazhou: \"Morning drums thunder as the west wind snaps our painted banner; home drifts far behind, our aspirations boundless.\"",
+          "titleJa": "弱冠にして蜀を出て、剣を携え遠遊する",
+          "descJa": "21歳の蘇軾は弟の蘇轍とともに父の蘇洵に従い、蜀の眉州を出発した。舟に乗って岷江を下り長江に入り、さらに褒斜道を経て秦嶺を越え、東京汴梁（汴京）へ科挙の受験に向かった。"
         },
         {
           "year": 1057,
@@ -14287,9 +15110,9 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "河南开封",
           "ancientEn": "Dongjing Kaifeng",
           "modernEn": "Kaifeng, Henan",
-          "titleZh": "金榜题名·名动京师",
+          "titleZh": "金榜に名を連ね、名声が京師に轟く",
           "titleEn": "Triumph at the Kaifeng Imperial Court",
-          "descZh": "嘉祐二年春闱，主考官欧阳修读苏轼《刑赏忠厚之至论》惊喜击节，苏氏兄弟同科进士及第，文名震动汴京。",
+          "descZh": "嘉祐2年の春の科挙において、主考官の歐陽脩は蘇軾の『刑賞忠厚之至論』を読み、驚き感嘆した。蘇氏兄弟はともに科挙に合格し、その文名は汴京を震わせた。",
           "descEn": "Chief examiner Ouyang Xiu marveled at Su Shi’s essay in the 1057 examination, proclaiming that the older generation must make way for this rising genius.",
           "quoteZh": "欧阳修《与梅圣俞书》：“读轼书，不觉汗出，快哉快哉！老夫当避路，放他出一头地也。”",
           "quoteEn": "Ouyang Xiu: \"Reading Su Shi’s essay brought beads of sweat in sheer delight—this old man must step aside and let him stand a head above!\"",
@@ -14297,7 +15120,9 @@ window.ATLAS_LORE_DATA = {
             "sushi",
             "ouyangxiu",
             "baozheng"
-          ]
+          ],
+          "titleJa": "金榜に名を連ね、名声が京師に轟く",
+          "descJa": "嘉祐2年の春の科挙において、主考官の歐陽脩は蘇軾の『刑賞忠厚之至論』を読み、驚き感嘆した。蘇氏兄弟はともに科挙に合格し、その文名は汴京を震わせた。"
         },
         {
           "year": 1061,
@@ -14311,12 +15136,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "陕西凤翔",
           "ancientEn": "Fengxiang",
           "modernEn": "Fengxiang, Shaanxi",
-          "titleZh": "初仕关中·签判凤翔",
+          "titleZh": "関中での初任、鳳翔府の簽判となる",
           "titleEn": "First Official Post in Fengxiang",
-          "descZh": "制科入第三等，授大理评事、签书凤翔府判官。初历地方吏治，兴修东湖、革除衙前弊政，作《喜雨亭记》《石鼓歌》。",
+          "descZh": "制科に第三等で合格し、大理評事、鳳翔府判官に任じられた。地方官として初めての経験で、東湖を修築し、衙前（がぜん）の弊政を改革した。また、『喜雨亭記』や『石鼓歌』を著した。",
           "descEn": "Appointed magistrate-assessor in Fengxiang in Guanzhong, where he reformed corvée transport and composed Pavilion of Joyful Rain.",
           "quoteZh": "苏轼《喜雨亭记》：“使天而雨珠，寒者不得以为襦；使天而雨玉，饥者不得以为粟。”",
-          "quoteEn": "Su Shi, Pavilion of Joyful Rain: \"Were Heaven to rain pearls, the cold could not wear them as coats; were it to rain jade, the hungry could not eat it as grain.\""
+          "quoteEn": "Su Shi, Pavilion of Joyful Rain: \"Were Heaven to rain pearls, the cold could not wear them as coats; were it to rain jade, the hungry could not eat it as grain.\"",
+          "titleJa": "関中での初任、鳳翔府の簽判となる",
+          "descJa": "制科に第三等で合格し、大理評事、鳳翔府判官に任じられた。地方官として初めての経験で、東湖を修築し、衙前（がぜん）の弊政を改革した。また、『喜雨亭記』や『石鼓歌』を著した。"
         },
         {
           "year": 1071,
@@ -14336,12 +15163,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "浙江杭州",
           "ancientEn": "Hangzhou",
           "modernEn": "Hangzhou, Zhejiang",
-          "titleZh": "外放通判·寄情西湖",
+          "titleZh": "地方官（通判）として赴任・西湖への思い",
           "titleEn": "Vice-Prefect of Hangzhou & West Lake",
-          "descZh": "因上书直陈王安石新法之弊，自请外放任杭州通判（后于元祐四年再知杭州浚湖筑苏堤），巡行属县、赈济灾荒，留下无数西湖诗篇。",
+          "descZh": "王安石の新法の弊害を直言する上書を行ったため、自ら願い出て杭州通判に任じられた。（後に元祐四年、再び杭州知事となり、湖を浚渫し蘇堤を築いた。）所属県を巡行し、災害の救援を行い、多くの西湖の詩篇を残した。",
           "descEn": "Opposing Wang Anshi’s New Policies, Su Shi requested provincial assignment as Vice-Prefect of Hangzhou, immortalizing West Lake in verse.",
           "quoteZh": "苏轼《饮湖上初晴后雨》：“欲把西湖比西子，淡妆浓抹总相宜。”",
-          "quoteEn": "Su Shi: \"If I may compare West Lake to Lady Xishi, in light makeup or rich adornment she is equally peerless.\""
+          "quoteEn": "Su Shi: \"If I may compare West Lake to Lady Xishi, in light makeup or rich adornment she is equally peerless.\"",
+          "titleJa": "地方官（通判）として赴任・西湖への思い",
+          "descJa": "王安石の新法の弊害を直言する上書を行ったため、自ら願い出て杭州通判に任じられた。（後に元祐四年、再び杭州知事となり、湖を浚渫し蘇堤を築いた。）所属県を巡行し、災害の救援を行い、多くの西湖の詩篇を残した。"
         },
         {
           "year": 1075,
@@ -14355,12 +15184,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "山东诸城",
           "ancientEn": "Mizhou",
           "modernEn": "Zhucheng, Shandong",
-          "titleZh": "知密州·超然豪放",
+          "titleZh": "密州知事・超然たる豪放な詩風",
           "titleEn": "Governor of Mizhou — Birth of the Heroic Style",
-          "descZh": "主动求调密州知州，抗旱捕蝗、收养弃婴；于超然台思念胞弟苏辙，写就《水调歌头·明月几时有》与《江城子·密州出猎》，开宋词豪放一派。",
+          "descZh": "自ら願い出て密州知州に転任し、干ばつ対策やイナゴ駆除、棄児の養育を行った。超然台にて弟の蘇轍を思い、『水調歌頭・明月幾時有』と『江城子・密州出猟』を著し、宋詞の豪放派を確立した。",
           "descEn": "As Governor of Mizhou in Shandong, Su Shi pioneered the heroic ci-poetry style with \"When Will the Bright Moon Be\" and \"Hunting at Mizhou.\"",
           "quoteZh": "苏轼《水调歌头》：“人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。”",
-          "quoteEn": "Su Shi, Prelude to Water Melody: \"Men have sorrow and joy, parting and reunion; the moon has clouds and clear skies, waxing and waning.\""
+          "quoteEn": "Su Shi, Prelude to Water Melody: \"Men have sorrow and joy, parting and reunion; the moon has clouds and clear skies, waxing and waning.\"",
+          "titleJa": "密州知事・超然たる豪放な詩風",
+          "descJa": "自ら願い出て密州知州に転任し、干ばつ対策やイナゴ駆除、棄児の養育を行った。超然台にて弟の蘇轍を思い、『水調歌頭・明月幾時有』と『江城子・密州出猟』を著し、宋詞の豪放派を確立した。"
         },
         {
           "year": 1077,
@@ -14374,12 +15205,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江苏徐州",
           "ancientEn": "Xuzhou",
           "modernEn": "Xuzhou, Jiangsu",
-          "titleZh": "知徐州·抗洪筑黄楼",
+          "titleZh": "徐州知事・洪水に抗し黄楼を築く",
           "titleEn": "Governor of Xuzhou — Holding the Yellow River Dykes",
-          "descZh": "知徐州时黄河决口于澶州曹村，洪峰直逼徐州城下。苏轼布衣草履庐于城上，亲率禁军与民夫筑长堤死守七十余日保住全城，水退后于东门筑黄楼以镇水患。",
+          "descZh": "徐州知事であった時、黄河が澶州曹村で決壊し、洪水が徐州城下に迫った。蘇軾は粗末な服と草履で城壁に泊まり込み、親しく禁軍と民夫を率いて長堤を築き、七十余日死守して全城を守り抜いた。水が引いた後、東門に黄楼を築いて水害を鎮めた。",
           "descEn": "When Yellow River floodwaters besieged Xuzhou in 1077, Su Shi slept on the city wall in hemp sandals and led soldiers and citizens to reinforce the dykes, later building the Yellow Tower to commemorate the city's deliverance.",
           "quoteZh": "苏轼《答范淳甫》：“吾在徐州，与民同患难，水退而筑黄楼以镇之。”",
-          "quoteEn": "Su Shi, Letter to Fan Chunfu: \"In Xuzhou I shared the perils of flood with the people; when the waters receded, we built the Yellow Tower above the eastern gate.\""
+          "quoteEn": "Su Shi, Letter to Fan Chunfu: \"In Xuzhou I shared the perils of flood with the people; when the waters receded, we built the Yellow Tower above the eastern gate.\"",
+          "titleJa": "徐州知事・洪水に抗し黄楼を築く",
+          "descJa": "徐州知事であった時、黄河が澶州曹村で決壊し、洪水が徐州城下に迫った。蘇軾は粗末な服と草履で城壁に泊まり込み、親しく禁軍と民夫を率いて長堤を築き、七十余日死守して全城を守り抜いた。水が引いた後、東門に黄楼を築いて水害を鎮めた。"
         },
         {
           "year": 1079,
@@ -14399,12 +15232,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "浙江湖州",
           "ancientEn": "Huzhou",
           "modernEn": "Huzhou, Zhejiang",
-          "titleZh": "移知湖州·乌台诗案",
+          "titleZh": "湖州知事への転任・烏台詩案",
           "titleEn": "Transfer to Huzhou & the Crow Terrace Poetry Trial",
-          "descZh": "元丰二年春自徐州移知湖州，上《湖州谢上表》因“知其愚不适时，难以追陪新进”等语遭御史台李定、舒亶等摘句弹劾“讪谤新法”，七月于湖州州衙被皇甫遵逮捕押赴汴京御史台诏狱，史称“乌台诗案”。",
+          "descZh": "元豊二年（1079年）春、徐州から湖州知州に転任した蘇軾は、『湖州謝上表』中の「知其愚不適時、難以追陪新進」（己の愚かさが時勢に合わず、新進の者たちに追随しがたい）などの句が、御史臺の李定や舒亶らによって「新法を誹謗した」と弾劾された。同年七月、湖州の州衙で皇甫遵に逮捕され、汴京の御史臺詔獄に送致された。これを「烏臺詩案」と称する。",
           "descEn": "Transferred from Xuzhou to Huzhou in spring 1079, Su Shi was impeached by Censorate officials over alleged satire in his Huzhou Memorial of Thanks, arrested at the Huzhou prefectural yamen, and escorted to the Imperial Censorate prison in Kaifeng (\"Crow Terrace Case\").",
           "quoteZh": "苏轼《狱中寄子由》：“是处青山可埋骨，他年夜雨独伤神。与君世世为兄弟，更结来生未了因。”",
-          "quoteEn": "Su Shi, From Prison to Ziyou: \"Anywhere the green hills may bury my bones; in future years you will grieve alone in the night rain.\""
+          "quoteEn": "Su Shi, From Prison to Ziyou: \"Anywhere the green hills may bury my bones; in future years you will grieve alone in the night rain.\"",
+          "titleJa": "湖州知事への転任・烏台詩案",
+          "descJa": "元豊二年（1079年）春、徐州から湖州知州に転任した蘇軾は、『湖州謝上表』中の「知其愚不適時、難以追陪新進」（己の愚かさが時勢に合わず、新進の者たちに追随しがたい）などの句が、御史臺の李定や舒亶らによって「新法を誹謗した」と弾劾された。同年七月、湖州の州衙で皇甫遵に逮捕され、汴京の御史臺詔獄に送致された。これを「烏臺詩案」と称する。"
         },
         {
           "year": 1080,
@@ -14418,12 +15253,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "湖北黄冈",
           "ancientEn": "Huangzhou",
           "modernEn": "Huanggang, Hubei",
-          "titleZh": "贬谪黄州·东坡赤壁",
+          "titleZh": "黄州への貶謫・東坡と赤壁",
           "titleEn": "Exile in Huangzhou — Dongpo & the Red Cliffs",
-          "descZh": "出狱后责授检校水部员外郎、黄州团练副使。躬耕城东荒坡自号“东坡居士”，于困顿中完成了精神蜕变，写出《定风波》《念奴娇·赤壁怀古》、前后《赤壁赋》与《寒食帖》。",
+          "descZh": "出獄後、検校水部員外郎・黄州団練副使に責授された。城東の荒れ地を自ら耕し、「東坡居士」と号し、困窮の中で精神的な変容を遂げ、『定風波』、『念奴嬌・赤壁懐古』、前後『赤壁賦』、そして『寒食帖』といった傑作を著した。",
           "descEn": "Banished to Huangzhou on the Yangtze, he farmed the \"Eastern Slope\" (taking the name Dongpo) and composed his greatest masterpieces at the Red Cliffs.",
           "quoteZh": "苏轼《定风波》：“竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。”",
-          "quoteEn": "Su Shi, Calming the Waves: \"Bamboo staff and straw sandals lighter than a steed—who fears? One straw cloak in misty rain for a lifetime.\""
+          "quoteEn": "Su Shi, Calming the Waves: \"Bamboo staff and straw sandals lighter than a steed—who fears? One straw cloak in misty rain for a lifetime.\"",
+          "titleJa": "黄州への貶謫・東坡と赤壁",
+          "descJa": "出獄後、検校水部員外郎・黄州団練副使に責授された。城東の荒れ地を自ら耕し、「東坡居士」と号し、困窮の中で精神的な変容を遂げ、『定風波』、『念奴嬌・赤壁懐古』、前後『赤壁賦』、そして『寒食帖』といった傑作を著した。"
         },
         {
           "year": 1094,
@@ -14443,12 +15280,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "广东惠州",
           "ancientEn": "Huizhou",
           "modernEn": "Huizhou, Guangdong",
-          "titleZh": "再贬岭南·寓居惠州",
+          "titleZh": "嶺南への再度の貶謫・恵州での寓居",
           "titleEn": "Banished South of the Nanling to Huizhou",
-          "descZh": "元祐更化曾召还翰林学士、知杭州颍州扬州定州；绍圣元年哲宗亲政后新党复起，年近六旬的苏轼远贬岭南惠州安置，捐犀带助修东新桥、西新桥。",
+          "descZh": "元祐の更化期には翰林學士、杭州・潁州・揚州・定州の知州として召還されたが、紹聖元年（1094年）に哲宗が親政を開始し新党が復権すると、六十歳に近かった蘇軾は遠く嶺南の恵州へ貶謫・安置された。彼は犀帯を寄付して東新橋と西新橋の修築を助けた。",
           "descEn": "Following political reversals in 1094, the nearly sixty-year-old Su Shi was banished across the Nanling Mountains to Huizhou in Guangdong.",
           "quoteZh": "苏轼《食荔枝》：“日啖荔枝三百颗，不辞长作岭南人。”",
-          "quoteEn": "Su Shi, Eating Lychees: \"Feasting on three hundred lychees a day, I would gladly remain a man of Lingnan forever.\""
+          "quoteEn": "Su Shi, Eating Lychees: \"Feasting on three hundred lychees a day, I would gladly remain a man of Lingnan forever.\"",
+          "titleJa": "嶺南への再度の貶謫・恵州での寓居",
+          "descJa": "元祐の更化期には翰林學士、杭州・潁州・揚州・定州の知州として召還されたが、紹聖元年（1094年）に哲宗が親政を開始し新党が復権すると、六十歳に近かった蘇軾は遠く嶺南の恵州へ貶謫・安置された。彼は犀帯を寄付して東新橋と西新橋の修築を助けた。"
         },
         {
           "year": 1097,
@@ -14468,12 +15307,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "海南儋州",
           "ancientEn": "Danzhou",
           "modernEn": "Danzhou, Hainan",
-          "titleZh": "渡海琼州·敷文儋耳",
+          "titleZh": "瓊州への渡海・儋耳（儋州）での文教普及",
           "titleEn": "Across the Sea to Danzhou (Hainan Island)",
-          "descZh": "六十二岁再贬琼州别驾、昌化军（儋州）安置。跨海抵天涯绝岛，居桄榔庵、食芋饮水、讲学授徒，开启琼州文教之风，培养出海南首位举人姜唐佐。",
+          "descZh": "六十二歳で再び瓊州別駕・昌化軍（儋州）に貶謫・安置された。海を渡り天涯の絶島に至り、桄榔庵に住み、芋を食し水を飲み、講学して弟子を教え、瓊州の文教の風を開き、海南初の挙人である姜唐佐を育成した。",
           "descEn": "At sixty-two, banished across the Qiongzhou Strait to Hainan Island, where he lived in a palm-thatched hut and mentored Hainan’s first provincial graduate.",
           "quoteZh": "苏轼《六月二十日夜渡海》：“九死南荒吾不恨，兹游奇绝冠平生。”",
-          "quoteEn": "Su Shi, Crossing the Sea at Night: \"Nine deaths in the southern wilds leave me no regret—this wondrous journey crowns my entire life.\""
+          "quoteEn": "Su Shi, Crossing the Sea at Night: \"Nine deaths in the southern wilds leave me no regret—this wondrous journey crowns my entire life.\"",
+          "titleJa": "瓊州への渡海・儋耳（儋州）での文教普及",
+          "descJa": "六十二歳で再び瓊州別駕・昌化軍（儋州）に貶謫・安置された。海を渡り天涯の絶島に至り、桄榔庵に住み、芋を食し水を飲み、講学して弟子を教え、瓊州の文教の風を開き、海南初の挙人である姜唐佐を育成した。"
         },
         {
           "year": 1101,
@@ -14497,14 +15338,18 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江苏常州",
           "ancientEn": "Changzhou",
           "modernEn": "Changzhou, Jiangsu",
-          "titleZh": "遇赦北归·终老毗陵",
+          "titleZh": "赦免による北帰・毗陵（常州）での終焉",
           "titleEn": "Pardoned Return North & Final Rest in Changzhou",
-          "descZh": "元符三年徽宗即位大赦北归，渡海经廉州、永州沿赣江北上；建中靖国元年七月廿八日病逝于常州顾塘桥孙氏馆，享年六十六岁。",
+          "descZh": "元符三年（1100年）、徽宗の即位による大赦で北帰を許され、海路で廉州、永州を経て贛江を遡り北上した。建中靖國元年（1101年）七月二十八日、常州顧塘橋の孫氏館で病没。享年六十六歳であった。",
           "descEn": "Pardoned in 1100, Su Shi traveled north by boat and passed away in Changzhou in August 1101 at age sixty-six, summing up his life in a final self-portrait poem.",
           "quoteZh": "苏轼《自题金山画像》：“心似已灰之木，身如不系之舟。问汝平生功业，黄州惠州儋州。”",
-          "quoteEn": "Su Shi, Inscription on My Portrait at Jinshan: \"My heart like ashen wood, my body an unmoored boat. Ask of my life’s achievements: Huangzhou, Huizhou, Danzhou.\""
+          "quoteEn": "Su Shi, Inscription on My Portrait at Jinshan: \"My heart like ashen wood, my body an unmoored boat. Ask of my life’s achievements: Huangzhou, Huizhou, Danzhou.\"",
+          "titleJa": "赦免による北帰・毗陵（常州）での終焉",
+          "descJa": "元符三年（1100年）、徽宗の即位による大赦で北帰を許され、海路で廉州、永州を経て贛江を遡り北上した。建中靖國元年（1101年）七月二十八日、常州顧塘橋の孫氏館で病没。享年六十六歳であった。"
         }
-      ]
+      ],
+      "titleJa": "蘇軾の官途における左遷の足跡",
+      "spanJa": "1056年 - 1101年（北宋 嘉祐元年より建中靖國元年）"
     },
     {
       "key": "wangyangming",
@@ -14512,9 +15357,9 @@ window.ATLAS_LORE_DATA = {
       "color": "#b33939",
       "shortZh": "王阳明知行悟道",
       "shortEn": "Wang Yangming",
-      "titleZh": "王阳明知行悟道行迹",
+      "titleZh": "王陽明の知行合一悟道の足跡",
       "titleEn": "Wang Yangming's Unity of Knowledge & Action",
-      "spanZh": "1472年 — 1529年（明成化八年至嘉靖七年）",
+      "spanZh": "1472年 — 1529年（明 成化八年 — 嘉靖七年）",
       "spanEn": "1472 CE – 1529 CE (Ming Dynasty)",
       "stops": [
         {
@@ -14529,12 +15374,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "浙江宁波余姚",
           "ancientEn": "Yuyao",
           "modernEn": "Yuyao, Ningbo, Zhejiang",
-          "titleZh": "降生瑞云·志在圣贤",
+          "titleZh": "瑞雲樓に降誕し、聖賢を志す",
           "titleEn": "Birth at Ruiyun Tower & Aspiration for Sagehood",
-          "descZh": "王守仁诞生于浙江绍兴府余姚县瑞云楼，父王华次年高中状元。十一岁随祖父北上京师塾读，问塾师“何为第一等事”，师答“惟读书登第耳”，守仁昂然对曰：“登第恐未为第一等事，或读书学圣贤耳。”自幼立下成圣之志。",
+          "descZh": "王守仁は浙江省紹興府余姚県瑞雲樓で誕生した。父の王華は翌年状元に合格。十一歳の時、祖父に従い京師へ上り塾で学んでいた際、塾師に「第一等の事とは何か」と問うた。師が「ただ書を読み科挙に合格することのみ」と答えると、守仁は毅然として「科挙合格は第一等の事ではないでしょう。あるいは書を読み聖賢を学ぶことこそが」と答えた。幼い頃から聖人となる志を立てたのである。",
           "descEn": "Born at Ruiyun Tower in Yuyao, Wang Shouren asked his tutor at age eleven what the highest pursuit in life was. Told it was passing the imperial exams, he replied: \"Passing exams is surely not the highest pursuit; learning to become a sage is.\"",
           "quoteZh": "《王阳明先生年谱》引少时语：“登第恐未为第一等事，或读书学圣贤耳。”",
-          "quoteEn": "Young Wang Yangming: \"Passing the imperial examination is hardly the highest undertaking; reading to become a sage is.\""
+          "quoteEn": "Young Wang Yangming: \"Passing the imperial examination is hardly the highest undertaking; reading to become a sage is.\"",
+          "titleJa": "瑞雲樓に降誕し、聖賢を志す",
+          "descJa": "王守仁は浙江省紹興府余姚県瑞雲樓で誕生した。父の王華は翌年状元に合格。十一歳の時、祖父に従い京師へ上り塾で学んでいた際、塾師に「第一等の事とは何か」と問うた。師が「ただ書を読み科挙に合格することのみ」と答えると、守仁は毅然として「科挙合格は第一等の事ではないでしょう。あるいは書を読み聖賢を学ぶことこそが」と答えた。幼い頃から聖人となる志を立てたのである。"
         },
         {
           "year": 1489,
@@ -14554,12 +15401,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江西上饶",
           "ancientEn": "Guangxin",
           "modernEn": "Shangrao, Jiangxi",
-          "titleZh": "谒娄一斋·始闻格物",
+          "titleZh": "婁一齋を謁見し、初めて格物を聞く",
           "titleEn": "Meeting Lou Liang at Guangxin & Inquiring into Gewu",
-          "descZh": "十八岁自南昌迎妇归余姚，舟次江西广信（今上饶），特往拜谒崇仁学派大儒娄谅（娄一斋）。娄谅向其阐发宋儒格物穷理之旨，语以“圣人必可学而至”，守仁深相契合，自此笃志圣学，归后遍读考亭朱子遗书。",
+          "descZh": "十八歳で南昌から妻を迎え余姚へ帰る途中、舟が江西広信（現在の上饒）に停泊した際、崇仁学派の大儒である婁諒（婁一齋）を特別に訪ねて謁見した。婁諒は彼に宋儒の格物窮理の要旨を説き明かし、「聖人は必ず学んで到達できる」と語った。守仁は深くこれに共感し、これより聖学に篤志し、帰郷後、考亭朱子の遺書を遍く読んだ。",
           "descEn": "Returning from Nanchang at age eighteen, Wang visited Neo-Confucian master Lou Liang at Guangxin, who assured him that sagehood could truly be attained through learning and inquiry.",
           "quoteZh": "《明史·王守仁传》：“过广信，谒娄谅，语以圣人可学而至，遂深契之。”",
-          "quoteEn": "History of Ming: \"Passing through Guangxin, he visited Lou Liang, who taught that sagehood can be learned, striking a deep chord in him.\""
+          "quoteEn": "History of Ming: \"Passing through Guangxin, he visited Lou Liang, who taught that sagehood can be learned, striking a deep chord in him.\"",
+          "titleJa": "婁一齋を謁見し、初めて格物を聞く",
+          "descJa": "十八歳で南昌から妻を迎え余姚へ帰る途中、舟が江西広信（現在の上饒）に停泊した際、崇仁学派の大儒である婁諒（婁一齋）を特別に訪ねて謁見した。婁諒は彼に宋儒の格物窮理の要旨を説き明かし、「聖人は必ず学んで到達できる」と語った。守仁は深くこれに共感し、これより聖学に篤志し、帰郷後、考亭朱子の遺書を遍く読んだ。"
         },
         {
           "year": 1492,
@@ -14583,12 +15432,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "北京",
           "ancientEn": "Jingshi",
           "modernEn": "Beijing",
-          "titleZh": "格竹致疾·进士及第",
+          "titleZh": "竹を格物し病に至り、進士に及第",
           "titleEn": "Investigating Bamboo & Passing the Metropolitan Exam",
-          "descZh": "在京师欲依朱熹“即物穷理”之法穷究草木之理，与钱友同坐亭前面竹“格竹”七日七夜，理未得而劳神成疾，始疑外求之弊。弘治十二年（1499）赐进士及第，历任工部、刑部主事，究心兵法韬略与经世之学。",
+          "descZh": "京師において、朱熹の「即物窮理」の法に従い草木の理を究めようと、銭友と共に亭前の竹を七日七夜「格竹」したが、理を得られず心労により病となり、外求の弊害を疑い始めた。弘治十二年（1499年）に進士に及第し、工部、刑部の主事を歴任し、兵法韜略と経世の学に心を砕いた。",
           "descEn": "In Beijing, Wang meditated before bamboo for seven days trying to grasp its Neo-Confucian principle, falling ill and doubting externalism. In 1499 he passed the palace exam and served in the Ministries of Works and Justice.",
           "quoteZh": "《传习录》：“众人只说格物要依晦翁，何曾把他的说去用？我着实曾用来。”",
-          "quoteEn": "Instructions for Practical Living: \"People say we must follow Zhu Xi in investigating things, yet who has truly practiced it? I genuinely tried for seven days.\""
+          "quoteEn": "Instructions for Practical Living: \"People say we must follow Zhu Xi in investigating things, yet who has truly practiced it? I genuinely tried for seven days.\"",
+          "titleJa": "竹を格物し病に至り、進士に及第",
+          "descJa": "京師において、朱熹の「即物窮理」の法に従い草木の理を究めようと、銭友と共に亭前の竹を七日七夜「格竹」したが、理を得られず心労により病となり、外求の弊害を疑い始めた。弘治十二年（1499年）に進士に及第し、工部、刑部の主事を歴任し、兵法韜略と経世の学に心を砕いた。"
         },
         {
           "year": 1506,
@@ -14612,12 +15463,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "浙江杭州钱塘江口",
           "ancientEn": "Qiantang River",
           "modernEn": "Hangzhou, Zhejiang",
-          "titleZh": "廷杖下狱·投江脱险",
+          "titleZh": "廷杖下獄・投江脱険",
           "titleEn": "Flogged in Court & Escaping Assassins at Qiantang",
-          "descZh": "正德元年，司礼监权宦刘瑾擅权，逮捕南京给事中戴铣等二十余人。守仁抗疏力救，触怒刘瑾，被廷杖四十下诏狱，谪贵州龙场驿丞。南下途经杭州钱塘江，刘瑾遣刺客尾随欲加害，守仁夜掷衣冠于江中留绝命诗诈死，乘海舟脱险。",
+          "descZh": "正徳元年（1506年）、司礼監の権宦官であった劉瑾が専権を振るい、南京給事中の戴銑ら二十余名を逮捕した。守仁は抗疏して彼らを力強く救おうとしたため、劉瑾の怒りを買い、廷杖四十の刑を受けて詔獄に下され、貴州龍場駅丞に左遷された。南下して杭州の銭塘江を通過する際、劉瑾は刺客を差し向け彼を害そうとした。守仁は夜間に衣冠を江中に投じ、絶命詩を残して詐死を装い、海舟に乗って危険を脱した。",
           "descEn": "For defending upright officials against eunuch dictator Liu Jin, Wang was flogged forty strokes, imprisoned, and banished to Guizhou. Pursued by Liu Jin’s assassins at Qiantang River, he faked his drowning at night to escape.",
           "quoteZh": "王阳明《泛海》：“险夷原不滞胸中，何异浮云过太空！夜静海涛三万里，月明飞锡下天风。”",
-          "quoteEn": "Wang Yangming, Sailing the Sea: \"Danger and safety leave no trace in my breast, like floating clouds across the vast sky!\""
+          "quoteEn": "Wang Yangming, Sailing the Sea: \"Danger and safety leave no trace in my breast, like floating clouds across the vast sky!\"",
+          "titleJa": "廷杖下獄・投江脱険",
+          "descJa": "正徳元年（1506年）、司礼監の権宦官であった劉瑾が専権を振るい、南京給事中の戴銑ら二十余名を逮捕した。守仁は抗疏して彼らを力強く救おうとしたため、劉瑾の怒りを買い、廷杖四十の刑を受けて詔獄に下され、貴州龍場駅丞に左遷された。南下して杭州の銭塘江を通過する際、劉瑾は刺客を差し向け彼を害そうとした。守仁は夜間に衣冠を江中に投じ、絶命詩を残して詐死を装い、海舟に乗って危険を脱した。"
         },
         {
           "year": 1508,
@@ -14645,12 +15498,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "贵州贵阳修文",
           "ancientEn": "Longchang",
           "modernEn": "Xiuwen, Guiyang, Guizhou",
-          "titleZh": "龙场大悟·创立心学",
+          "titleZh": "龍場大悟・心学創立",
           "titleEn": "Longchang Enlightenment & Philosophy of Mind",
-          "descZh": "抵达贵州万山丛棘、瘴疠横行之龙场驿。居东洞石棺之中，日夜端居澄默，自问“圣人处此更有何道”。正德三年中夜忽然大悟格物致知之旨，彻见“圣人之道，吾性自足，向之求理于事物者误也”，继而倡“知行合一”，开五百年阳明心学。",
+          "descZh": "貴州の万山叢棘、瘴癘が横行する龍場駅に到着した。東洞の石棺の中に住み、日夜端座して静かに黙想し、「聖人此に処らば更に何の道か有らん」と自問した。正徳三年（1508年）の真夜中、突然「格物致知」の旨を大悟し、「聖人の道は、吾が性に自足す。向に理を事物に求むる者は誤りなり」と徹見した。これに続き「知行合一」を提唱し、五百年にわたる陽明心学を開いた。",
           "descEn": "Living in a stone cave in remote Guizhou, Wang meditated day and night on life and death. One midnight in 1508 he achieved sudden enlightenment: \"The Way of the Sages is complete within my own nature; seeking principles in external things was mistaken.\"",
           "quoteZh": "《王阳明年谱》：“圣人之道，吾性自足，向之求理于事物者误也。”",
-          "quoteEn": "Chronicle of Wang Yangming: \"The Way of the Sages is self-sufficient within our own mind-nature; seeking principle outside in external things was an error.\""
+          "quoteEn": "Chronicle of Wang Yangming: \"The Way of the Sages is self-sufficient within our own mind-nature; seeking principle outside in external things was an error.\"",
+          "titleJa": "龍場大悟・心学創立",
+          "descJa": "貴州の万山叢棘、瘴癘が横行する龍場駅に到着した。東洞の石棺の中に住み、日夜端座して静かに黙想し、「聖人此に処らば更に何の道か有らん」と自問した。正徳三年（1508年）の真夜中、突然「格物致知」の旨を大悟し、「聖人の道は、吾が性に自足す。向に理を事物に求むる者は誤りなり」と徹見した。これに続き「知行合一」を提唱し、五百年にわたる陽明心学を開いた。"
         },
         {
           "year": 1510,
@@ -14674,12 +15529,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江西吉安",
           "ancientEn": "Luling",
           "modernEn": "Ji'an, Jiangxi",
-          "titleZh": "知县庐陵·兴教善政",
+          "titleZh": "廬陵知県・興教善政",
           "titleEn": "Magistrate of Luling — Benevolent Governance",
-          "descZh": "刘瑾伏诛前夕，守仁升任江西吉安府庐陵县知县。视事七月，不以威刑而重告谕，均徭役、息词讼、立十家牌保甲法，选里老敦厚者劝诫乡民，庐陵风俗翕然丕变，为日后经略江西奠定深厚民心。",
+          "descZh": "劉瑾が誅殺される前夜、守仁は江西吉安府廬陵県の知県に昇任した。七ヶ月間職務に就き、威刑を用いることなく諭告を重んじ、徭役を均し、訴訟を止めさせ、十家牌保甲法を立て、里老の敦厚な者を選んで郷民を勧誡させた。これにより廬陵の風俗は翕然として大きく変化し、日後の江西経略のために深い民心を確立した。",
           "descEn": "Appointed magistrate of Luling County in Jiangxi, Wang governed through moral persuasion rather than harsh punishment, equalizing corvée labor and establishing community compacts.",
           "quoteZh": "王阳明《告谕庐陵父老》：“一念之善，即吉神佑之；一念之恶，即厉鬼随之。”",
-          "quoteEn": "Proclamation to the Elders of Luling: \"A single good thought brings auspicious blessings; a single evil thought invites calamity.\""
+          "quoteEn": "Proclamation to the Elders of Luling: \"A single good thought brings auspicious blessings; a single evil thought invites calamity.\"",
+          "titleJa": "廬陵知県・興教善政",
+          "descJa": "劉瑾が誅殺される前夜、守仁は江西吉安府廬陵県の知県に昇任した。七ヶ月間職務に就き、威刑を用いることなく諭告を重んじ、徭役を均し、訴訟を止めさせ、十家牌保甲法を立て、里老の敦厚な者を選んで郷民を勧誡させた。これにより廬陵の風俗は翕然として大きく変化し、日後の江西経略のために深い民心を確立した。"
         },
         {
           "year": 1517,
@@ -14699,12 +15556,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江西赣州",
           "ancientEn": "Ganzhou",
           "modernEn": "Ganzhou, Jiangxi",
-          "titleZh": "巡抚南赣·破山中贼",
+          "titleZh": "南贛巡撫・山中の賊を破る",
           "titleEn": "Governor of Southern Gan — Quelling Mountain Bandits",
-          "descZh": "受兵部尚书王琼力荐，以左佥都御史巡抚南赣汀漳。自编选练民兵，严明赏罚，两年内连破詹师富、大帽山、横水、桶冈、浰头诸巢，荡平盘踞赣闽粤湘边界数十年之巨寇；继而颁《南赣乡约》、设崇义县，兴立社学教化百姓。",
+          "descZh": "兵部尚書王瓊の強い推薦を受け、左僉都御史として南贛汀漳巡撫に就任した。自ら民兵を編成・訓練し、厳格な賞罰を定めた。2年以内に詹師富、大帽山、橫水、桶岡、浰頭などの巣窟を次々と撃破し、數十年にわたり贛閩粵湘の境界に跋扈していた巨寇を掃討した。その後、『南贛郷約』を公布し、崇義縣を設置し、社學を興して民衆を教化した。",
           "descEn": "As Governor of Southern Gan, Wang trained local militias and eradicated decades-old bandit strongholds across the Jiangxi–Fujian–Guangdong border, then instituted the Southern Gan Community Compact.",
           "quoteZh": "王阳明《与杨仕德薛尚谦书》：“破山中贼易，破心中贼难。”",
-          "quoteEn": "Letter to Yang Shide: \"It is easy to vanquish the bandits in the mountains, but hard to vanquish the bandits in the mind.\""
+          "quoteEn": "Letter to Yang Shide: \"It is easy to vanquish the bandits in the mountains, but hard to vanquish the bandits in the mind.\"",
+          "titleJa": "南贛巡撫・山中の賊を破る",
+          "descJa": "兵部尚書王瓊の強い推薦を受け、左僉都御史として南贛汀漳巡撫に就任した。自ら民兵を編成・訓練し、厳格な賞罰を定めた。2年以内に詹師富、大帽山、橫水、桶岡、浰頭などの巣窟を次々と撃破し、數十年にわたり贛閩粵湘の境界に跋扈していた巨寇を掃討した。その後、『南贛郷約』を公布し、崇義縣を設置し、社學を興して民衆を教化した。"
         },
         {
           "year": 1519,
@@ -14724,12 +15583,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江西南昌·鄱阳湖",
           "ancientEn": "Nanchang",
           "modernEn": "Nanchang & Poyang Lake, Jiangxi",
-          "titleZh": "平宁王乱·奇兵定难",
+          "titleZh": "寧王の乱を平定：奇兵で難局を打開",
           "titleEn": "Crushing Prince of Ning's Rebellion in 35 Days",
-          "descZh": "六月，宁王朱宸濠于南昌起兵十万反叛，顺江东下围安庆、逼南京。守仁在丰城闻变，退保吉安特征集义军，施反间疑兵计迟滞叛军，随即乘虚直捣南昌老巢。宁王回救，两军决战于鄱阳湖黄家渡，守仁火攻大破叛军，仅三十五日生擒朱宸濠。",
+          "descZh": "6月、寧王朱宸濠が南昌で10万の兵を挙げ反乱を起こし、長江を下って安慶を包囲し、南京に迫った。守仁は豐城でこの変報を聞き、吉安に退いて義勇軍を徴集した。反間の計と疑兵の計を用いて叛軍の進撃を遅らせ、その隙に乗じて南昌の根拠地を直撃した。寧王が救援に戻ると、両軍は鄱陽湖の黄家渡で決戦に及び、守仁は火攻めにより叛軍を大破し、わずか35日で朱宸濠を生け捕りにした。",
           "descEn": "When Prince Zhu Chenhao rebelled with 100,000 troops, Wang rallied local forces in Ji’an, used deception to stall the rebels, stormed their base at Nanchang, and captured the prince after a fire-ship battle on Poyang Lake in just 35 days.",
           "quoteZh": "王阳明《擒获宸濠捷音疏》：“臣等仰仗天威，一鼓而克其巢穴，再战而擒其渠魁。”",
-          "quoteEn": "Victory Memorial on Capturing Chenhao: \"With one drumbeat we stormed his lair; in the second battle we captured the rebel chief alive.\""
+          "quoteEn": "Victory Memorial on Capturing Chenhao: \"With one drumbeat we stormed his lair; in the second battle we captured the rebel chief alive.\"",
+          "titleJa": "寧王の乱を平定：奇兵で難局を打開",
+          "descJa": "6月、寧王朱宸濠が南昌で10万の兵を挙げ反乱を起こし、長江を下って安慶を包囲し、南京に迫った。守仁は豐城でこの変報を聞き、吉安に退いて義勇軍を徴集した。反間の計と疑兵の計を用いて叛軍の進撃を遅らせ、その隙に乗じて南昌の根拠地を直撃した。寧王が救援に戻ると、両軍は鄱陽湖の黄家渡で決戦に及び、守仁は火攻めにより叛軍を大破し、わずか35日で朱宸濠を生け捕りにした。"
         },
         {
           "year": 1521,
@@ -14753,12 +15614,14 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "浙江绍兴",
           "ancientEn": "Shaoxing",
           "modernEn": "Shaoxing, Zhejiang",
-          "titleZh": "致良知教·天泉证道",
+          "titleZh": "致良知の教えと天泉での証道",
           "titleEn": "Doctrine of Liangzhi & Tianquan Bridge Discourse",
-          "descZh": "明世宗即位，封守仁新建伯，守仁归越城绍兴，于稽山书院、阳明洞聚徒讲学，正式揭出“致良知”三字教法，四方学者云集。嘉靖六年（1527）奉诏出征两广前夕，于天泉桥与大弟子钱德洪、王畿印证心学“四句教”，成心学传世纲领。",
+          "descZh": "明の世宗が即位すると、守仁は新建伯に封じられた。守仁は越城紹興に帰り、稽山書院や陽明洞で門人を集めて講学し、正式に「致良知」の三字の教えを提唱すると、四方から学者が雲集した。嘉靖6年（1527年）、詔を受けて兩廣に出征する前夜、天泉橋にて大弟子の錢德洪、王畿と心學の「四句教」を印證し、心學の伝世の綱領を確立した。",
           "descEn": "Enfeoffed as Earl of Xinjian, Wang lectured at Shaoxing and proclaimed the doctrine of \"Extending Innate Moral Knowledge\" (Zhi Liangzhi). On the eve of his Guangxi campaign in 1527, he delivered the Four-Sentence Teaching at Tianquan Bridge.",
           "quoteZh": "《天泉证道·四句教》：“无善无恶心之体，有善有恶意之动。知善知恶是良知，为善去恶是格物。”",
-          "quoteEn": "Four-Sentence Teaching: \"Neither good nor evil is the substance of the mind; good and evil arise with the movement of intention. Knowing good and evil is innate knowledge; doing good and removing evil is the investigation of things.\""
+          "quoteEn": "Four-Sentence Teaching: \"Neither good nor evil is the substance of the mind; good and evil arise with the movement of intention. Knowing good and evil is innate knowledge; doing good and removing evil is the investigation of things.\"",
+          "titleJa": "致良知の教えと天泉での証道",
+          "descJa": "明の世宗が即位すると、守仁は新建伯に封じられた。守仁は越城紹興に帰り、稽山書院や陽明洞で門人を集めて講学し、正式に「致良知」の三字の教えを提唱すると、四方から学者が雲集した。嘉靖6年（1527年）、詔を受けて兩廣に出征する前夜、天泉橋にて大弟子の錢德洪、王畿と心學の「四句教」を印證し、心學の伝世の綱領を確立した。"
         },
         {
           "year": 1529,
@@ -14790,12 +15653,2784 @@ window.ATLAS_LORE_DATA = {
           "modernZh": "江西赣州大余",
           "ancientEn": "Nan'an",
           "modernEn": "Dayu, Ganzhou, Jiangxi",
-          "titleZh": "此心光明·亦复何言",
+          "titleZh": "此の心光明なり、亦復何をか言わん",
           "titleEn": "Radiant Mind — Final Passing at Qinglongpu",
-          "descZh": "嘉靖六年总督两广，不费一兵一卒招抚思恩、田州卢苏王受七万众，继以奇兵荡平断藤峡八寨瑶乱。次年冬肺疾加剧上疏乞归，十一月二十九日（公历1529年1月）舟次江西南安府大余县青龙铺。门人周积问遗言，先生微笑曰：“此心光明，亦复何言！”遂瞑目而逝。",
+          "descZh": "嘉靖6年、兩廣総督として、一兵も費やさずに思恩、田州の盧蘇王受ら7万の衆を招撫し、続いて奇兵を用いて斷藤峽の八寨瑤亂を掃討した。翌年冬、肺の病が悪化し、上疏して帰郷を請うた。11月29日（1529年1月）、江西省南安府大余縣の青龍鋪にて舟上で、門人の周積が遺言を問うと、先生は微笑んで「此の心光明なり、亦復何をか言わん！」と答え、目を閉じて逝去した。",
           "descEn": "After pacifying Guangxi’s Si’en, Tianzhou, and Rattan Gorge rebellions, Wang fell gravely ill on his journey home. Passing away on a boat at Qinglongpu in Nan’an, he spoke his final words: \"This mind is luminous; what more is there to say?\"",
           "quoteZh": "《王阳明先生年谱》载临终遗言：“此心光明，亦复何言！”",
-          "quoteEn": "Wang Yangming’s last words: \"This mind is luminous—what more is there to say!\""
+          "quoteEn": "Wang Yangming’s last words: \"This mind is luminous—what more is there to say!\"",
+          "titleJa": "此の心光明なり、亦復何をか言わん",
+          "descJa": "嘉靖6年、兩廣総督として、一兵も費やさずに思恩、田州の盧蘇王受ら7万の衆を招撫し、続いて奇兵を用いて斷藤峽の八寨瑤亂を掃討した。翌年冬、肺の病が悪化し、上疏して帰郷を請うた。11月29日（1529年1月）、江西省南安府大余縣の青龍鋪にて舟上で、門人の周積が遺言を問うと、先生は微笑んで「此の心光明なり、亦復何をか言わん！」と答え、目を閉じて逝去した。"
+        }
+      ],
+      "titleJa": "王陽明の知行合一悟道の足跡",
+      "spanJa": "1472年 — 1529年（明 成化八年 — 嘉靖七年）"
+    },
+    {
+      "key": "hanxin",
+      "dynastyKey": "xihan",
+      "color": "#a83824",
+      "shortZh": "韓信破滅六国征戦",
+      "shortEn": "Han Xin's Campaigns",
+      "titleZh": "韓信の破滅六国征戦と楚漢戦争の行軍路",
+      "titleEn": "Han Xin's Military Campaigns Across Qin & Chu-Han War",
+      "spanZh": "前209年 — 前196年（秦二世元年〜西漢高祖十一年）",
+      "spanEn": "209 BCE – 196 BCE (Qin to Western Han)",
+      "stops": [
+        {
+          "year": -209,
+          "eraZh": "秦二世元年",
+          "coord": [
+            119.14,
+            33.5
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "淮陰",
+          "modernZh": "江蘇淮安",
+          "ancientEn": "Huaiyin",
+          "modernEn": "Huai'an, Jiangsu",
+          "titleZh": "少年時の困窮と股くぐりの屈辱",
+          "titleEn": "Early Hardship in Huaiyin & Insult of the Crotch",
+          "descZh": "淮陰の貧民出身であった韓信は、城下で釣りをしていた際に漂母（洗濯の老婆）から数十日にわたり食事を恵まれ、「将来必ず厚く恩に報いる」と誓った。また市中で無頼漢に挑発された際、争わずして股をくぐり（跨下之辱）、大志を胸に秘めて耐え忍んだ。",
+          "descEn": "Born in poverty in Huaiyin, Han Xin received food from a kindly washerwoman and endured the public humiliation of crawling between a butcher's legs to preserve himself for greatness.",
+          "quoteZh": "《史記・淮陰侯列伝》：「信孰視之，俯出袴下，蒲伏。一市皆笑信，以為怯。」",
+          "quoteEn": "Records of the Grand Historian: 'Han Xin stared at him, then bent down and crawled between his legs. The whole marketplace laughed, deeming him a coward.'",
+          "persons": [
+            "hanxin"
+          ],
+          "titleJa": "少年時の困窮と股くぐりの屈辱",
+          "descJa": "淮陰の貧民出身であった韓信は、城下で釣りをしていた際に漂母（洗濯の老婆）から数十日にわたり食事を恵まれ、「将来必ず厚く恩に報いる」と誓った。また市中で無頼漢に挑発された際、争わずして股をくぐり（跨下之辱）、大志を胸に秘めて耐え忍んだ。"
+        },
+        {
+          "year": -206,
+          "eraZh": "漢元年五月",
+          "coord": [
+            107.02,
+            33.07
+          ],
+          "labelPos": "top",
+          "ancientZh": "南鄭",
+          "modernZh": "陝西漢中",
+          "ancientEn": "Nanzheng",
+          "modernEn": "Hanzhong, Shaanxi",
+          "titleZh": "蕭何月下に韓信を追い、登壇拝将",
+          "titleEn": "Xiao He Pursues Han Xin by Moonlight & Grand General Investiture",
+          "descZh": "項羽の分封により漢中に追いやられた劉邦の陣営において、重用されず逃亡した韓信を蕭何が夜間に馬を駆って連れ戻した。蕭何は劉邦に「天下を争わんと欲せば韓信を除いて与に図るべき者なし（国士無双）」と激賞。劉邦は斎戒して壇を築き、韓信を大将軍に任命。韓信は劉邦に三秦攻略と東進の計略を説いた。",
+          "descEn": "Fleeing Liu Bei's retreat into Hanzhong, Han Xin was pursued by Chancellor Xiao He under the moonlight. Xiao He convinced Liu Bang that Han Xin was a peerless general, leading to his solemn investiture as commander-in-chief.",
+          "quoteZh": "《史記・淮陰侯列伝》：「諸將易得耳。至如信者，國士無雙。王必欲長王漢中，無所事信；如欲爭天下，非信無所與計事者。」",
+          "quoteEn": "Records of the Grand Historian: 'Ordinary generals are easy to find, but as for Han Xin, he is a man of peerless talent throughout the state.'",
+          "persons": [
+            "hanxin",
+            "liubang",
+            "xiaohe"
+          ],
+          "titleJa": "蕭何月下に韓信を追い、登壇拝将",
+          "descJa": "項羽の分封により漢中に追いやられた劉邦の陣営において、重用されず逃亡した韓信を蕭何が夜間に馬を駆って連れ戻した。蕭何は劉邦に「天下を争わんと欲せば韓信を除いて与に図るべき者なし（国士無双）」と激賞。劉邦は斎戒して壇を築き、韓信を大将軍に任命。韓信は劉邦に三秦攻略と東進の計略を説いた。"
+        },
+        {
+          "year": -206,
+          "eraZh": "漢元年八月",
+          "coord": [
+            107.15,
+            34.36
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "陳倉",
+          "modernZh": "陝西宝鶏",
+          "ancientEn": "Chencang",
+          "modernEn": "Baoji, Shaanxi",
+          "titleZh": "桟道を明修し、密かに陳倉を渡る（暗度陳倉）",
+          "titleEn": "Openly Repairing the Plank Roads, Secretly Marching on Chencang",
+          "descZh": "韓信は大軍を率いて東進を開始。表向きは山谷の難所である褒斜棧道を修復して章邯軍の注意を引きつけ、主力を密かに険阻な陳倉故道（現在の鳳県から宝鶏への谷道）から迂回させ、虚を突いて陳倉を奇襲・奪取。一挙に章邯を破り、三秦（関中盆地）を平定した。",
+          "descEn": "Han Xin openly sent men to repair the obvious plank roads across the Qinling mountains while marching his main strike force through the forgotten Chencang defile, catching Zhang Han entirely off guard.",
+          "quoteZh": "《史記・高祖本紀》：「八月，漢王用韓信計，從故道還，襲折章邯。」",
+          "quoteEn": "Records of the Grand Historian: 'In August, King of Han followed Han Xin's strategy, advancing along the Old Defile and striking Zhang Han.'",
+          "persons": [
+            "hanxin",
+            "liubang"
+          ],
+          "titleJa": "桟道を明修し、密かに陳倉を渡る（暗度陳倉）",
+          "descJa": "韓信は大軍を率いて東進を開始。表向きは山谷の難所である褒斜棧道を修復して章邯軍の注意を引きつけ、主力を密かに険阻な陳倉故道（現在の鳳県から宝鶏への谷道）から迂回させ、虚を突いて陳倉を奇襲・奪取。一挙に章邯を破り、三秦（関中盆地）を平定した。"
+        },
+        {
+          "year": -205,
+          "eraZh": "漢二年八月",
+          "coord": [
+            110.45,
+            35.53
+          ],
+          "labelPos": "top",
+          "ancientZh": "夏陽・安邑",
+          "modernZh": "陝西韓城・山西夏県",
+          "ancientEn": "Xiayang & An'yi",
+          "modernEn": "Hancheng, Shaanxi & Xia County, Shanxi",
+          "titleZh": "木樽の筏で黄河を渡り、魏王豹を奇襲捕縛（安邑の戦い）",
+          "titleEn": "Battle of An'yi: Crossing the Yellow River on Wooden Vats",
+          "descZh": "魏王豹が漢を裏切ると、韓信は黄河渡河作戦を敢行。臨晉に大軍と船を誇示して敵主力を引きつける一方、密かに上流の夏陽（韓城）から木樽（木罌缻）を縛り合わせた筏で黄河を急襲渡河し、背後から魏の都・安邑を直撃して魏王豹を生け捕りにした。",
+          "descEn": "Han Xin feinted a crossing at Linjin with display boats, then secretly ferried his elite cavalry across the torrential Yellow River at Xiayang using wooden jars and casks, ambushing the Wei capital at An'yi.",
+          "quoteZh": "《史記・淮陰侯列伝》：「陳船欲渡臨晉，而伏兵從夏陽以木罌缻渡軍，襲安邑，大破之，虜豹。」",
+          "quoteEn": "Records of the Grand Historian: 'He displayed boats as if to cross at Linjin, but dispatched concealed troops across at Xiayang using wooden jars, ambushing An'yi and taking Bao prisoner.'",
+          "persons": [
+            "hanxin"
+          ],
+          "titleJa": "木樽の筏で黄河を渡り、魏王豹を奇襲捕縛（安邑の戦い）",
+          "descJa": "魏王豹が漢を裏切ると、韓信は黄河渡河作戦を敢行。臨晉に大軍と船を誇示して敵主力を引きつける一方、密かに上流の夏陽（韓城）から木樽（木罌缻）を縛り合わせた筏で黄河を急襲渡河し、背後から魏の都・安邑を直撃して魏王豹を生け捕りにした。"
+        },
+        {
+          "year": -204,
+          "eraZh": "漢三年十月",
+          "coord": [
+            113.89,
+            37.97
+          ],
+          "labelPos": "top",
+          "ancientZh": "井陘関",
+          "modernZh": "河北井陘・山西平定",
+          "ancientEn": "Jingxing Pass",
+          "modernEn": "Jingxing, Hebei",
+          "titleZh": "背水の陣で趙軍二十万を粉砕（井陘の戦い）",
+          "titleEn": "Battle of Jingxing: Trapping Himself by the River (Back to the Water)",
+          "descZh": "韓信と張耳は太行山脈を越えて趙を攻めた。井陘口の隘路を出るや、川を背にして陣を布く「背水の陣」を展開。退路を断たれた漢兵は死に物狂いで奮戦し、その隙に軽騎兵二千が空になった趙の砦を占拠して漢の赤旗を立てた。混乱した趙軍二十万は大崩壊し、成安君陳余を斬り趙を滅ぼした。",
+          "descEn": "Deploying with the river directly behind his lines, Han Xin left his soldiers with no retreat, forcing them to fight with desperate fury while a flying detachment seized the Zhao camp and planted Han banners.",
+          "quoteZh": "《史記・淮陰侯列伝》：「諸將皆曰：『兵法右倍山陵，前左水澤，今者將軍令臣等反背水陳，曰破趙會食，何也？』信曰：『此在兵法，顧諸君不察耳。兵法不曰「陷之死地而後生，置之亡地而後存」乎？』」",
+          "quoteEn": "Records of the Grand Historian: 'Han Xin said: Is it not written in the Art of War: Cast them into ground of death and they shall live; place them in desperate ground and they shall survive?'",
+          "persons": [
+            "hanxin"
+          ],
+          "titleJa": "背水の陣で趙軍二十万を粉砕（井陘の戦い）",
+          "descJa": "韓信と張耳は太行山脈を越えて趙を攻めた。井陘口の隘路を出るや、川を背にして陣を布く「背水の陣」を展開。退路を断たれた漢兵は死に物狂いで奮戦し、その隙に軽騎兵二千が空になった趙の砦を占拠して漢の赤旗を立てた。混乱した趙軍二十万は大崩壊し、成安君陳余を斬り趙を滅ぼした。"
+        },
+        {
+          "year": -204,
+          "eraZh": "漢四年十一月",
+          "coord": [
+            119.12,
+            36.62
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "濰水",
+          "modernZh": "山東濰坊",
+          "ancientEn": "Weishui",
+          "modernEn": "Weifang, Shandong",
+          "titleZh": "砂袋で水を堰き止め、楚の猛将龍且を斬る（濰水の戦い）",
+          "titleEn": "Battle of Wei River: Daming the River with Sandbags",
+          "descZh": "斉王田広と項羽が派遣した二十万の楚軍（猛将・龍且）と対峙した韓信は、上流に一万余の砂袋を積んで濰水の水を堰き止めた。偽って敗走して楚軍を誘い込み、半ば渡河したところで堰を決壊させて敵軍を分断・水没させた。龍且を討ち取って斉国全土を平定し、斉王に封じられた。",
+          "descEn": "Facing 200,000 Chu troops under Long Ju, Han Xin dammed the upper Wei River with sandbags, feigned retreat, lured Chu across the ford, and punctured the dam, drowning half the enemy force before slaying Long Ju.",
+          "quoteZh": "《史記・淮陰侯列伝》：「韓信乃夜令人為萬餘囊，滿盛沙，壅水上流，引軍半渡……大破楚軍，殺龍且。」",
+          "quoteEn": "Records of the Grand Historian: 'Han Xin had over 10,000 sandbags dam the river overnight... and crushed the Chu army, killing Long Ju.'",
+          "persons": [
+            "hanxin"
+          ],
+          "titleJa": "砂袋で水を堰き止め、楚の猛将龍且を斬る（濰水の戦い）",
+          "descJa": "斉王田広と項羽が派遣した二十万の楚軍（猛将・龍且）と対峙した韓信は、上流に一万余の砂袋を積んで濰水の水を堰き止めた。偽って敗走して楚軍を誘い込み、半ば渡河したところで堰を決壊させて敵軍を分断・水没させた。龍且を討ち取って斉国全土を平定し、斉王に封じられた。"
+        },
+        {
+          "year": -202,
+          "eraZh": "漢五年十二月",
+          "coord": [
+            117.52,
+            33.42
+          ],
+          "labelPos": "top",
+          "ancientZh": "垓下",
+          "modernZh": "安徽霊璧・固鎮",
+          "ancientEn": "Gaixia",
+          "modernEn": "Lingbi, Anhui",
+          "titleZh": "十面埋伏と四面楚歌、項羽を破り天下統一（垓下の戦い）",
+          "titleEn": "Battle of Gaixia: Ambush from Ten Sides & Song of Chu",
+          "descZh": "韓信は三十万の漢・諸侯連合軍の総司令官として十層にわたる包囲陣（十面埋伏）を敷き、楚軍を垓下に完全包囲。夜陰に乗じて四方から楚の民謡を歌わせて敵の士気を完全に崩壊させた（四面楚歌）。包囲を突破した項羽は烏江で自刎し、五年余に及んだ楚漢戦争は漢の天下統一で終結した。",
+          "descEn": "Commanding 300,000 men in a layered ten-sided encirclement, Han Xin trapped Xiang Yu at Gaixia and broke the enemy's spirit with the Songs of Chu sung from all directions, concluding the Chu-Han Contention.",
+          "quoteZh": "《史記・項羽本紀》：「項王軍壁垓下，兵少食盡，漢軍及諸侯兵圍之數重。夜聞漢軍四面皆楚歌，項王乃大驚。」",
+          "quoteEn": "Records of the Grand Historian: 'Xiang Yu's army was fortified at Gaixia... in the night hearing the Songs of Chu sung from all sides.'",
+          "persons": [
+            "hanxin",
+            "liubang"
+          ],
+          "titleJa": "十面埋伏と四面楚歌、項羽を破り天下統一（垓下の戦い）",
+          "descJa": "韓信は三十万の漢・諸侯連合軍の総司令官として十層にわたる包囲陣（十面埋伏）を敷き、楚軍を垓下に完全包囲。夜陰に乗じて四方から楚の民謡を歌わせて敵の士気を完全に崩壊させた（四面楚歌）。包囲を突破した項羽は烏江で自刎し、五年余に及んだ楚漢戦争は漢の天下統一で終結した。"
+        },
+        {
+          "year": -196,
+          "eraZh": "漢高祖十一年",
+          "coord": [
+            108.9,
+            34.3
+          ],
+          "labelPos": "top",
+          "ancientZh": "長安・長楽宮",
+          "modernZh": "陝西西安",
+          "ancientEn": "Chang'an",
+          "modernEn": "Xi'an, Shaanxi",
+          "titleZh": "飛鳥尽きて良弓蔵され、長楽宮の鐘室に散る",
+          "titleEn": "Tragic Demise in the Bell Chamber of Changle Palace",
+          "descZh": "功が高すぎて震主と恐れられ、楚王から淮陰侯へ降格されて長安に軟禁されていた韓信。陳豨の反乱に際し、呂后と蕭何は謀を巡らせて韓信を長楽宮へ祝賀のために誘い出し、鐘室で武士に命じて斬殺した。「狡兎死して走狗烹られ、飛鳥尽きて良弓蔵さる」と嘆き、不世出の軍事の天才はその波乱の生涯を閉じた。",
+          "descEn": "Feared for his peerless military brilliance and confined to Chang'an, Han Xin was lured to the Changle Palace by Empress Lü and Xiao He, where he was executed in the Bell Chamber.",
+          "quoteZh": "《史記・淮陰侯列伝》：「果若賈生之言，『狡兔死，良狗烹；高鳥盡，良弓藏；敵國破，謀臣亡。』天下已定，我固當烹！」",
+          "quoteEn": "Records of the Grand Historian: 'Han Xin sighed: Cunning hares die, good hounds are boiled; high flying birds end, fine bows are stowed away; enemy states crushed, strategic ministers perished. The realm is settled, and indeed I must be boiled!'",
+          "persons": [
+            "hanxin",
+            "xiaohe"
+          ],
+          "titleJa": "飛鳥尽きて良弓蔵され、長楽宮の鐘室に散る",
+          "descJa": "功が高すぎて震主と恐れられ、楚王から淮陰侯へ降格されて長安に軟禁されていた韓信。陳豨の反乱に際し、呂后と蕭何は謀を巡らせて韓信を長楽宮へ祝賀のために誘い出し、鐘室で武士に命じて斬殺した。「狡兎死して走狗烹られ、飛鳥尽きて良弓蔵さる」と嘆き、不世出の軍事の天才はその波乱の生涯を閉じた。"
+        }
+      ]
+    },
+    {
+      "key": "gaoxianzhi",
+      "dynastyKey": "tang",
+      "color": "#1f5f8b",
+      "shortZh": "高仙芝パミール遠征とタラス河畔の戦い",
+      "shortEn": "Gao Xianzhi's Campaigns & Battle of Talas",
+      "titleZh": "高仙芝のパミール遠征とタラス河畔の戦い（怛邏斯之戦）の軌跡",
+      "titleEn": "Gao Xianzhi's Trans-Pamir Campaigns & Battle of Talas",
+      "spanZh": "741年 — 756年（唐 開元二十九年〜天宝十五載）",
+      "spanEn": "741 CE – 756 CE (Tang Dynasty)",
+      "stops": [
+        {
+          "year": 741,
+          "eraZh": "開元二十九年",
+          "coord": [
+            82.97,
+            41.72
+          ],
+          "labelPos": "top",
+          "ancientZh": "亀茲（安西都護府）",
+          "modernZh": "新疆阿克蘇庫車",
+          "ancientEn": "Kucha (Anxi)",
+          "modernEn": "Kucha, Xinjiang",
+          "titleZh": "安西都護府の拠点・亀茲にて台頭す",
+          "titleEn": "Rising as Commander at the Protectorate of Anxi (Kucha)",
+          "descZh": "高句麗遺民の家系に出生した高仙芝は、驍勇にして馬射に長じ、美姿容を誇った。若くして安西都護府に従軍し、節度使夫蒙霊詧に見出されて副都護・四鎮都知兵馬使に抜擢。安西四鎮の精鋭を率いてタクラマカン砂漠周辺諸国の鎮撫に尽力した。",
+          "descEn": "Born of Goguryeo descent, Gao Xianzhi was renowned for his courage, archery, and charisma. Rising through the ranks under the Protectorate of Anxi at Kucha, he became a foremost frontier general.",
+          "quoteZh": "《旧唐書・高仙芝伝》：「仙芝美姿容，善騎射，勇怯過人……開元末，累遷至安西副都護、四鎮都知兵馬使。」",
+          "quoteEn": "Old Book of Tang: 'Gao Xianzhi was handsome in appearance, excelled in riding and archery, and possessed extraordinary valor.'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "安西都護府の拠点・亀茲にて台頭す",
+          "descJa": "高句麗遺民の家系に出生した高仙芝は、驍勇にして馬射に長じ、美姿容を誇った。若くして安西都護府に従軍し、節度使夫蒙霊詧に見出されて副都護・四鎮都知兵馬使に抜擢。安西四鎮の精鋭を率いてタクラマカン砂漠周辺諸国の鎮撫に尽力した。"
+        },
+        {
+          "year": 747,
+          "eraZh": "天宝六載",
+          "coord": [
+            73.12,
+            37.02
+          ],
+          "labelPos": "top",
+          "ancientZh": "連雲堡（阿弩越）",
+          "modernZh": "タジキスタン・アフガニスタン国境ワハーン回廊",
+          "ancientEn": "Lianyun Fortress",
+          "modernEn": "Wakhan Corridor border",
+          "titleZh": "パミール氷河踏破と連雲堡の奇襲大破",
+          "titleEn": "Crossing the Pamir Glaciers & Storming Lianyun Fortress",
+          "descZh": "玄宗の命を受け、高仙芝は一万の精鋭騎兵を率いて亀茲を出撃。タクラマカン砂漠を抜け、標高四千メートルを超えるパミール高原（葱嶺）の峻険な氷河・雪山を踏破。吐蕃と同盟した小勃律国の前線要塞・連雲堡を夜襲・急襲し、吐蕃軍五千を斬首、千人を捕虜として要衝を攻略した。",
+          "descEn": "Marching 10,000 elite troops across the glaciers and peaks of the Pamir Mountains above 4,000 meters, Gao Xianzhi launched a surprise assault on Lianyun Fortress, crushing the Tibetan garrison.",
+          "quoteZh": "《新唐書・高仙芝伝》：「引兵度葱嶺，登特勒満大坂，谷深不可測。下至連雲堡，大破吐蕃，斬首五千級。」",
+          "quoteEn": "New Book of Tang: 'He led troops over the Pamir passes... descended upon Lianyun Fortress, routing the Tibetans and taking 5,000 heads.'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "パミール氷河踏破と連雲堡の奇襲大破",
+          "descJa": "玄宗の命を受け、高仙芝は一万の精鋭騎兵を率いて亀茲を出撃。タクラマカン砂漠を抜け、標高四千メートルを超えるパミール高原（葱嶺）の峻険な氷河・雪山を踏破。吐蕃と同盟した小勃律国の前線要塞・連雲堡を夜襲・急襲し、吐蕃軍五千を斬首、千人を捕虜として要衝を攻略した。"
+        },
+        {
+          "year": 747,
+          "eraZh": "天宝六載八月",
+          "coord": [
+            74.31,
+            35.92
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "孽多城（小勃律国）",
+          "modernZh": "パキスタン ギルギット",
+          "ancientEn": "Gilgit (Lesser Bolor)",
+          "modernEn": "Gilgit, Pakistan",
+          "titleZh": "ヒンドゥークシュ越えと小勃律の平定",
+          "titleEn": "Crossing the Hindu Kush & Pacifying Lesser Bolor",
+          "descZh": "さらに標高四千七百メートルのダルコット峠（ヒンドゥークシュ山脈）を越えて小勃律国の都・孽多城へ進撃。長大な藤橋（吊り橋）を断ち切って吐蕃本国の援軍を遮断し、小勃律王と吐蕃公主を生け捕りにして平定した。西域七十二国が全て唐に服属し、西洋の東洋学者スタイン等から「アルプスを越えたハンニバルやナポレオンを遥かに凌ぐ軍事の奇蹟」と賞賛された。",
+          "descEn": "Traversing the 4,700m Darkot Pass of the Hindu Kush, Gao severed the critical suspension bridge over the Indus to isolate Tibetan reinforcements, capturing the King of Bolor and securing the submission of 72 Central Asian states.",
+          "quoteZh": "《資治通鑑》：「仙芝急遣席元慶断藤橋。橋断，吐蕃援兵大至，已無及矣。遂平小勃律，虜其王及吐蕃公主以帰。」",
+          "quoteEn": "Zizhi Tongjian: 'Gao Xianzhi hastily sent Xi Yuanqing to cut the rattan bridge. Once cut, the Tibetans arrived in force but could not cross. Bolor was pacified.'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "ヒンドゥークシュ越えと小勃律の平定",
+          "descJa": "さらに標高四千七百メートルのダルコット峠（ヒンドゥークシュ山脈）を越えて小勃律国の都・孽多城へ進撃。長大な藤橋（吊り橋）を断ち切って吐蕃本国の援軍を遮断し、小勃律王と吐蕃公主を生け捕りにして平定した。西域七十二国が全て唐に服属し、西洋の東洋学者スタイン等から「アルプスを越えたハンニバルやナポレオンを遥かに凌ぐ軍事の奇蹟」と賞賛された。"
+        },
+        {
+          "year": 750,
+          "eraZh": "天宝九載",
+          "coord": [
+            71.78,
+            35.85
+          ],
+          "labelPos": "top",
+          "ancientZh": "朅師国",
+          "modernZh": "パキスタン チトラル",
+          "ancientEn": "Qieshi (Chitral)",
+          "modernEn": "Chitral, Pakistan",
+          "titleZh": "第二次パミール遠征・朅師国の平定",
+          "titleEn": "Second Trans-Pamir Campaign & Pacification of Qieshi",
+          "descZh": "吐蕃に通じて唐に叛いた朅師国を討つため、高仙芝は再びパミールを越えて電撃遠征。朅師王の勃特没を捕らえて唐の親唐派新王を擁立した。パミール以西の中央アジア全域に唐の覇権を確立し、高仙芝は安西四鎮節度使・開府儀同三司に任じられ、名声は天下に轟いた。",
+          "descEn": "Launching a second expedition across the Pamirs into Chitral, Gao ousted the pro-Tibetan ruler and cemented Tang suzerainty across the Upper Indus valley.",
+          "quoteZh": "《新唐書・高仙芝伝》：「天宝九載，仙芝復討朅師，擒其王勃特没……加開府儀同三司，四鎮節度使。」",
+          "quoteEn": "New Book of Tang: 'In the ninth year of Tianbao, Gao campaigned against Qieshi, capturing King Botemo... he was promoted to Military Governor of the Four Garrisons.'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "第二次パミール遠征・朅師国の平定",
+          "descJa": "吐蕃に通じて唐に叛いた朅師国を討つため、高仙芝は再びパミールを越えて電撃遠征。朅師王の勃特没を捕らえて唐の親唐派新王を擁立した。パミール以西の中央アジア全域に唐の覇権を確立し、高仙芝は安西四鎮節度使・開府儀同三司に任じられ、名声は天下に轟いた。"
+        },
+        {
+          "year": 750,
+          "eraZh": "天宝九載十二月",
+          "coord": [
+            69.24,
+            41.31
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "石国（タシュケント）",
+          "modernZh": "ウズベキスタン タシュケント",
+          "ancientEn": "Chach (Tashkent)",
+          "modernEn": "Tashkent, Uzbekistan",
+          "titleZh": "石国征討と信義の失墜",
+          "titleEn": "Conquest of Tashkent (Chach) & The Broken Oath",
+          "descZh": "高仙芝は石国（昭武九姓の一国）が不臣の礼をとったとして出兵。石国王が降伏を請うと、和議を結んで安心させておきながら突如軍を放って石国城を急襲・略奪。石国王を生け捕りにして長安へ送り、玄宗の前で斬首に処した。脱出した石国の王子は西方のアッバース朝（大食帝国）に親征の救援を懇請した。",
+          "descEn": "Attacking Chach, Gao feigned acceptance of the King's surrender, then treacherously sacked the city and sent the King to Chang'an for execution, prompting the Crown Prince to seek military aid from the Abbasid Caliphate.",
+          "quoteZh": "《資治通鑑》：「石國王請降，仙芝許和。居頃之，仙芝違約，乘其無備，襲石國，滅之……石國王子逃詣諸胡，具告仙芝欺誘貪暴之狀，諸胡皆怒。」",
+          "quoteEn": "Zizhi Tongjian: 'The King of Chach sought surrender, and Gao agreed. Soon after, Gao broke the treaty, attacked the unprepared city, and looted it... The prince fled and mobilized the Western barbarians in fury.'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "石国征討と信義の失墜",
+          "descJa": "高仙芝は石国（昭武九姓の一国）が不臣の礼をとったとして出兵。石国王が降伏を請うと、和議を結んで安心させておきながら突如軍を放って石国城を急襲・略奪。石国王を生け捕りにして長安へ送り、玄宗の前で斬首に処した。脱出した石国の王子は西方のアッバース朝（大食帝国）に親征の救援を懇請した。"
+        },
+        {
+          "year": 751,
+          "eraZh": "天宝十載七月",
+          "coord": [
+            71.37,
+            42.9
+          ],
+          "labelPos": "top",
+          "ancientZh": "怛邏斯（タラス河畔）",
+          "modernZh": "カザフスタン タラズ・キルギス国境",
+          "ancientEn": "Talas",
+          "modernEn": "Taraz, Kazakhstan",
+          "titleZh": "タラス河畔の戦い（怛邏斯之戦）東西文明の大激突",
+          "titleEn": "Battle of Talas: Clash of Tang & Abbasid Empires",
+          "descZh": "高仙芝は漢兵・カルルク兵など三万の精鋭を率いて七百里を西進し、タラス城を包囲。アッバース朝の武将ジーヤード・イブン・サーリハ率いる大軍とタラス河畔で激突した。激戦五日、両軍相譲らず死傷者多数に及んだが、味方の遊牧騎兵カルルク（葛邏禄）部族が突如アッバース朝に寝返って唐軍の背後を急襲。唐軍は大混乱に陥り壊滅、わずか数千人のみが脱出した。この戦いの捕虜となった唐の職人により、製紙法がサマルカンドを経てイスラム世界・ヨーロッパへ伝播した。",
+          "descEn": "Tang forces clashed with the Abbasid Arab army along the Talas River. After five days of ferocious combat, the Karluk nomad allies betrayed the Tang and attacked from behind, crushing Gao's army. Tang prisoners introduced papermaking to Samarkand and the Islamic world.",
+          "quoteZh": "《資治通鑑》：「仙芝率兵深入……至怛邏斯城，與大食遇。相持五日，葛邏祿部衆叛，與大食夾攻唐軍，仙芝大敗。士卒死亡略盡，所存者數千人。」",
+          "quoteEn": "Zizhi Tongjian: 'Gao advanced to Talas and engaged the Abbasid Caliphate. On the fifth day, the Karluks rebelled and joined the Arabs in a pincer attack. Tang forces were annihilated, with only a few thousand surviving.'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "タラス河畔の戦い（怛邏斯之戦）東西文明の大激突",
+          "descJa": "高仙芝は漢兵・カルルク兵など三万の精鋭を率いて七百里を西進し、タラス城を包囲。アッバース朝の武将ジーヤード・イブン・サーリハ率いる大軍とタラス河畔で激突した。激戦五日、両軍相譲らず死傷者多数に及んだが、味方の遊牧騎兵カルルク（葛邏禄）部族が突如アッバース朝に寝返って唐軍の背後を急襲。唐軍は大混乱に陥り壊滅、わずか数千人のみが脱出した。この戦いの捕虜となった唐の職人により、製紙法がサマルカンドを経てイスラム世界・ヨーロッパへ伝播した。"
+        },
+        {
+          "year": 756,
+          "eraZh": "天宝十五載正月",
+          "coord": [
+            110.25,
+            34.54
+          ],
+          "labelPos": "top",
+          "ancientZh": "潼関",
+          "modernZh": "陝西潼関",
+          "ancientEn": "Tongguan Pass",
+          "modernEn": "Tongguan, Shaanxi",
+          "titleZh": "安史の乱での防衛と長安での刑死",
+          "titleEn": "Defending Tongguan Pass & Unjust Execution",
+          "descZh": "安史の乱が勃発すると副元帥として陝州・潼関を守備し、封常清とともに長安への要害・潼関を死守して安禄山軍の進撃を阻止した。しかし監軍の宦官辺令誠の讒言によって、玄宗の勅命により陣中で不当に斬刑に処された。死に臨んで部下を見回し「我が退却したるは罪なれど、盗用・謀反は冤罪なり！」と叫ぶと、兵士全員が「冤罪なり！」と天に向かって号泣した。",
+          "descEn": "During the An Lushan Rebellion, Gao held Tongguan Pass against rebel forces. Falsely accused by the eunuch inspector Bian Lingcheng, Gao Xianzhi was unjustly executed, leaving the troops in collective tears of grief.",
+          "quoteZh": "《旧唐書・高仙芝伝》：「仙芝顧其麾下曰：『我退走，罪也，死不敢恨。若以我為減没糧賜，天在上有日，下在上有地，諸軍所知也！』軍中皆呼曰：『冤！』」",
+          "quoteEn": "Old Book of Tang: 'Gao looked upon his troops and cried: If my retreat was a crime, I do not resent death. But if I embezzled rations, Heaven and Earth be my witness! The whole army cried: Injustice!'",
+          "persons": [
+            "gaoxianzhi"
+          ],
+          "titleJa": "安史の乱での防衛と長安での刑死",
+          "descJa": "安史の乱が勃発すると副元帥として陝州・潼関を守備し、封常清とともに長安への要害・潼関を死守して安禄山軍の進撃を阻止した。しかし監軍の宦官辺令誠の讒言によって、玄宗の勅命により陣中で不当に斬刑に処された。死に臨んで部下を見回し「我が退却したるは罪なれど、盗用・謀反は冤罪なり！」と叫ぶと、兵士全員が「冤罪なり！」と天に向かって号泣した。"
+        }
+      ]
+    },
+    {
+      "key": "heichichangzhi",
+      "dynastyKey": "tang",
+      "color": "#2b6cb0",
+      "shortZh": "黒歯常之の百済復興戦と対吐蕃・突厥征戦",
+      "shortEn": "Heichi Changzhi's Campaigns",
+      "titleZh": "黒歯常之の百済義兵と唐朝名将（対吐蕃・突厥連破）の行軍路",
+      "titleEn": "Heichi Changzhi's Campaigns: From Baekje Resistance to Tang Frontier Victories",
+      "titleJa": "黒歯常之の百済義兵と唐朝名将（対吐蕃・突厥連破）の行軍路",
+      "spanZh": "660年 — 689年（百済義慈王二十年／唐顕慶五年〜載初元年）",
+      "spanEn": "660 CE – 689 CE (Baekje & Tang Dynasty)",
+      "spanJa": "660年 — 689年（百済義慈王20年／唐・顕慶5年〜載初元年）",
+      "stops": [
+        {
+          "year": 660,
+          "eraZh": "顕慶五年（百済義慈王二十年）",
+          "coord": [
+            126.78,
+            36.56
+          ],
+          "labelPos": "right",
+          "ancientZh": "任存城（百済）",
+          "modernZh": "韓国忠清南道礼山大興",
+          "ancientEn": "Imjonseong (Baekje)",
+          "modernEn": "Yesan, Chungcheongnam-do, Korea",
+          "titleZh": "百済滅亡の国難・任存城にて義兵を挙げ反唐抗戦",
+          "titleEn": "Raising Loyalist Troops at Imjon Fortress during Baekje's Fall",
+          "titleJa": "百済滅亡の国難・任存城にて義兵を挙げ反唐抗戦",
+          "descZh": "百済の達率（高官）であった黒歯常之は、蘇定方率いる唐・新羅連合軍により王都泗沘城が陥落し義慈王が降伏した後も屈服せず、左右の部下を率いて険阻な任存城に拠り百済復興の義兵を挙げた。十日足らずで3万余の兵が集まり、唐軍の包囲猛攻を幾度も撃退して200余城を奪還。その勇武は三韓を震撼させた。",
+          "descEn": "Following the fall of Baekje's capital Sabi to Tang-Silla forces, Dalsol (high commander) Heichi Changzhi refused to surrender. Rallying loyalist forces at the rugged Imjon Mountain Fortress, he gathered over 30,000 troops within ten days, repelled Tang assaults, and recovered more than 200 forts across the fallen kingdom.",
+          "descJa": "百済の達率（第二位の高官）であった黒歯常之は、蘇定方率いる唐・新羅連合軍により王都泗沘城が陥落し義慈王が降伏した後も屈服せず、左右の部下を率いて要害の任存城（イムジョンソン）に拠り百済復興の義兵を挙げた。わずか十日で3万余の義兵が集まり、唐軍の包囲猛攻を幾度も撃退して200余城を奪還した。",
+          "quoteZh": "《旧唐書・黒歯常之伝》：「高宗遣蘇定方討平百済……常之与其党沙吒相如等因人情驚擾，遂糾合亡叛，保任存山，築塹自固。不旬日，帰附者三万余人。定方遣兵撃之，常之転規逆撃，官軍敗衂。」《黒歯常之墓誌》：「以顕慶五年解褐，任風達郡将。属国家之有事也，遂以一旅之師，抗三韓之衆。」",
+          "quoteEn": "Old Book of Tang: 'Gaozong sent Su Dingfang to conquer Baekje... Changzhi and his allies gathered loyalists, fortified Mount Imjon with trenches, and within ten days over 30,000 joined them. Su Dingfang attacked, but Changzhi counterattacked and routed the imperial troops.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        },
+        {
+          "year": 663,
+          "eraZh": "龍朔三年",
+          "coord": [
+            108.94,
+            34.26
+          ],
+          "labelPos": "top",
+          "ancientZh": "長安",
+          "modernZh": "陝西西安",
+          "ancientEn": "Chang'an",
+          "modernEn": "Xi'an, Shaanxi",
+          "titleZh": "百済復興軍の内紛・唐への帰順と長安入朝",
+          "titleEn": "Surrender to Tang and Audience at Chang'an",
+          "titleJa": "百済復興軍の内紛・唐への帰順と長安入朝",
+          "descZh": "百済復興軍指導部（福信と道琛）の内紛や白村江の戦いでの壊滅を受け、大勢を決したと見た黒歯常之は、唐の都督劉仁軌の招諭を受け入れて唐に帰順した。長安に召されて唐高宗に謁見し、その武勇と器量を賞賛されて左領軍員外将軍に抜擢。百済遺民を慰撫しつつ、唐の国境を守護する忠臣としての第一歩を踏み出した。",
+          "descEn": "Torn by internal strife among Baekje loyalist leaders and devastated at the Battle of Baekgang, Changzhi recognized the inevitable and accepted general Liu Rengui's call to surrender. Summoned to Chang'an, Emperor Gaozong was deeply impressed by his character and military talent, appointing him General of the Left Guard.",
+          "descJa": "百済復興軍の指導部（福信と道琛）の骨肉の内紛や白村江の戦いでの大敗を経て孤立する中、唐の都督劉仁軌の招諭を受け入れて唐に帰順。長安に召されて高宗に謁見し、その武勇と忠誠心を評価されて左領軍員外将軍に抜擢され、唐の辺境防備の第一線に立つこととなった。",
+          "quoteZh": "《旧唐書》：「仁軌諭以禍福，常之乃降……高宗見之，甚悦，拝左領軍員外将軍，令引使本国，招撫余衆。」《新唐書》：「長安召見，高宗悦，拝左領軍員外将軍，還撫余燼。」",
+          "quoteEn": "Old Book of Tang: 'Liu Rengui reasoned with him on fortune and peril, whereupon Changzhi surrendered... Emperor Gaozong was delighted upon meeting him, appointed him General of the Left Guard, and sent him back to pacify the remaining populace.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        },
+        {
+          "year": 678,
+          "eraZh": "儀鳳三年",
+          "coord": [
+            101.95,
+            36.48
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "支爪嶺（青海）",
+          "modernZh": "青海海東平安・湟中",
+          "ancientEn": "Zhizhaoling (Qinghai)",
+          "modernEn": "Ping'an/Huangzhong, Haidong, Qinghai",
+          "titleZh": "支爪嶺の戦い・決死隊500騎による夜襲奇襲で唐軍を救出",
+          "titleEn": "Night Raid at Mount Zhizhao: 500 Suicidal Riders Rescue the Tang Army",
+          "titleJa": "支爪嶺の戦い・決死隊500騎による夜襲奇襲で唐軍を救出",
+          "descZh": "吐蕃の大軍が青海に侵攻し、中書令李敬玄と左衛大将軍劉審礼率いる18万の唐軍が進撃したが、吐蕃の名相ガル・ティンリン（論欽陵）軍に包囲された。劉審礼は捕らえられ、李敬玄は泥濘に阻まれ全軍潰滅の危機に陥った。黒歯常之は夜陰に乗じて決死の勇士500騎を率い、抜木転石して吐蕃軍の本営を夜襲奇襲。副将を斬り数百級を挙げて敵軍を潰走させ、李敬玄軍を奇跡的に救出した。高宗は『常之の五百人、乃ち数万の衆に勝る！』と感嘆し、金五百斤を賜った。",
+          "descEn": "When an 180000-strong Tang army led by Li Jingxuan was trapped in mud and surrounded by Tibetan commander Gar Trinring at Mount Zhizhao, Changzhi recruited 500 volunteer cavalrymen. Launching a daring midnight raid directly into the Tibetan camp, they slew a Tibetan commander and threw the enemy into utter panic, rescuing the imperial army. Emperor Gaozong marveled: 'Changzhi's five hundred men surpassed tens of thousands!'",
+          "descJa": "吐蕃軍が青海に侵寇し、李敬玄・劉審礼率いる唐軍18万が進軍したが、吐蕃の名相ガル・ティンリン（論欽陵）に包囲され、劉審礼が捕虜となり李敬玄も泥沼に阻まれて壊滅寸前に陥った。黒歯常之は夜間に決死隊500騎を募り、吐蕃軍の本営へ電撃的な夜襲を敢行。敵副将を斬殺して吐蕃軍を潰走させ、友軍の壊滅を奇跡的に救った。高宗は金五百斤を下賜し絶賛した。",
+          "quoteZh": "《旧唐書》：「劉審礼既没，李敬玄阻泥濘，不敢進，屯于承風嶺……常之夜募死士五百人，襲吐蕃営，抜木転石，殺其副将，吐蕃驚擾潰散……敬玄由是得免。高宗歎曰：『常之五百人，乃勝数万衆！』賜金五百斤，絹五百匹，進拝左武衛将軍。」",
+          "quoteEn": "Old Book of Tang: 'Changzhi recruited 500 daring riders at night and attacked the Tibetan camp... slaying their deputy general. The Tibetans were thrown into panic and broke apart... Gaozong exclaimed: \"Changzhi's 500 men have bested tens of thousands!\" and rewarded him with 500 catties of gold.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        },
+        {
+          "year": 680,
+          "eraZh": "永隆元年",
+          "coord": [
+            101.43,
+            36.03
+          ],
+          "labelPos": "left",
+          "ancientZh": "良非川（河源）",
+          "modernZh": "青海海南州貴徳・日月山",
+          "ancientEn": "Liangfeichuan (Heyuan)",
+          "modernEn": "Guide, Hainan Prefecture, Qinghai",
+          "titleZh": "良非川の戦い・吐蕃軍を大破し河源軍の屯田防備を確立",
+          "titleEn": "Decisive Victory at Liangfeichuan & Frontier Fortress Farming",
+          "titleJa": "良非川の戦い・吐蕃軍を大破し河源軍の屯田防備を確立",
+          "descZh": "吐蕃がふたたび河源に大挙侵入。唐朝は黒歯常之を河源道経略大使に任命した。常之は良非川にて吐蕃軍を迎撃し、地の利を活かした巧みな戦術で大破。首級二千余級を挙げ、牛羊数万頭を鹵獲した。さらに烽火台・烽堡70余カ所を連ねて防衛線を固め、屯田5千余頃を開墾して年間百余万石の兵糧を自給自足させた。これ以降、吐蕃は黒歯常之の威名を畏れて国境を侵さなくなった。",
+          "descEn": "Appointed Commissioner of the Heyuan Route, Changzhi confronted invading Tibetan forces at Liangfeichuan, scoring a crushing victory that claimed over 2,000 enemy heads and tens of thousands of livestock. He established 70 border beacons and cultivated over 5,000 qing of farmland, producing over a million dan of grain annually, turning Heyuan into an impregnable bastion.",
+          "descJa": "吐蕃が再び河源に侵入した際、河源道経略大使に任じられた黒歯常之は良非川で吐蕃軍を迎え撃ち大破。首級2千余を挙げ牛羊数万頭を鹵獲した。さらに烽火台や防備拠点70余所を整備し、広大な屯田を開いて兵食を自給させ、吐蕃は黒歯常之の威名を恐れて敢えて攻め寄せなくなった。",
+          "quoteZh": "《旧唐書》：「吐蕃入寇河源，常之以河源道経略大使撃之于良非川，大破之，斬首二千余級，獲羊馬数万計……常之又開屯田五千余頃，歳収百余万石，塞外鎮兵皆足食。自是吐蕃畏常之，不敢復犯河源。」",
+          "quoteEn": "Old Book of Tang: 'Tibetans invaded Heyuan; Changzhi routed them at Liangfeichuan, beheading over 2,000 and capturing tens of thousands of horses and sheep... He opened over 5,000 qing of military colonies, yielding over a million dan of grain. From then on, Tibet feared Changzhi and did not dare encroach on Heyuan.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        },
+        {
+          "year": 681,
+          "eraZh": "開耀元年",
+          "coord": [
+            99.88,
+            36.28
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "良臂城（青海湖畔）",
+          "modernZh": "青海海南州共和・茶卡東",
+          "ancientEn": "Liangbicheng (Qinghai Lake)",
+          "modernEn": "Gonghe, Qinghai",
+          "titleZh": "良臂城への電撃急襲・吐蕃軍の糧道と拠点を焼き払う",
+          "titleEn": "Lightning Strike on Liangbi Fortress: Burning Tibetan Supply Depots",
+          "titleJa": "良臂城への電撃急襲・吐蕃軍の糧道と拠点を焼き払う",
+          "descZh": "吐蕃の賛普（チベット王）の命を受けた論欽陵の弟らが3万の軍勢で河源侵略を謀った。情報を察知した黒歯常之は、敵の集結を待たず精鋭騎兵を率いて吐蕃軍の前進補給拠点・良臂城を電撃的に奇襲。敵の兵糧倉庫をことごとく焼き払い、吐蕃軍を大混乱に陥れて青海湖の西へ潰走させた。功により左武衛大将軍に進められた。",
+          "descEn": "Learning that Tibetan forces planned another major invasion, Changzhi led an elite cavalry strike force deep into hostile territory to launch a surprise raid on Liangbi Fortress. Setting fire to all enemy food and forage depots, he forced the Tibetan army into retreat before they could strike, earning promotion to Senior General of the Left Militant Guard.",
+          "descJa": "吐蕃軍3万が再び河源への侵略を企てた際、黒歯常之は敵の出鼻を挫くべく精鋭騎兵を率いて吐蕃軍の重要補給拠点・良臂城を電撃的に奇襲。敵の食糧貯蔵庫をすべて焼き払い、吐蕃軍を青海湖の彼方へ潰走させた。この功により左武衛大将軍に進んだ。",
+          "quoteZh": "《旧唐書》：「吐蕃寇河源，常之引精兵襲其良臂城，焼其糧儲，吐蕃退走。以功拝左武衛大将軍，仍検校左羽林軍。」《資治通鑑》：「黒歯常之以精兵襲吐蕃良臂城，焚其積聚，吐蕃退走。」",
+          "quoteEn": "Old Book of Tang: 'Tibet invaded Heyuan; Changzhi led crack troops to raid Liangbi Fortress, burning their provisions. The Tibetans retreated, and he was appointed Senior General of the Left Militant Guard.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        },
+        {
+          "year": 687,
+          "eraZh": "垂拱三年",
+          "coord": [
+            111.68,
+            41.25
+          ],
+          "labelPos": "top",
+          "ancientZh": "両井（陰山北麓）",
+          "modernZh": "内蒙古フフホト北・ウランチャブ",
+          "ancientEn": "Liangjing (Yin Mountains)",
+          "modernEn": "North of Hohhot / Ulanqab, Inner Mongolia",
+          "titleZh": "両井の戦い・東突厥の阿史那骨篤禄を大破し漠北へ追撃",
+          "titleEn": "Battle of Liangjing: Crushing Ashina Qutlugh's Turkic Incursion",
+          "titleJa": "両井の戦い・東突厥の阿史那骨篤禄を大破し漠北へ追撃",
+          "descZh": "再興した東突厥（第二突厥汗国）の可汗・阿史那骨篤禄（イルテリシュ・カガン）と名臣阿史那元振（トニュクク）が南下して朔州を掠奪。武則天は黒歯常之を燕然道大総管に任命して北伐させた。両井（陰山山脈北麓）において突厥軍主力と遭遇した常之は、自ら陣頭に立って敵陣を突破し猛攻を加え大破。敵軍は総崩れとなって数百里逃走し、突厥を砂漠の北へ放逐した。功により燕国公に封ぜられた。",
+          "descEn": "When Ashina Qutlugh (Ilterish Qaghan) and Tonyuquq of the Second Turkic Khaganate raided Shuozhou, Wu Zetian appointed Changzhi Commander-in-Chief of the Yanran Route. Clashing at Liangjing, Changzhi led the charge in person, smashing the Turkic host and pursuing them for hundreds of li until they scattered into the northern desert. He was enfeoffed as Duke of Yan.",
+          "descJa": "再興した東突厥の可汗・阿史那骨篤禄（イルテリシュ・カガン）と阿史那元振（トニュクク）が南下して朔州を掠奪した際、武則天は黒歯常之を燕然道大総管に任じて北伐させた。両井（陰山北麓）で突厥軍と遭遇した常之は先頭に立って突撃し大破。数百里追撃して突厥を砂漠の北へ敗走させた。功により燕国公に封ぜられた。",
+          "quoteZh": "《旧唐書》：「突厥骨篤禄寇朔州，常之為燕然道大総管，撃破之于両井，追奔数百里，突厥散走漠北。以功封燕国公。」《新唐書》：「垂拱三年，突厥入寇，常之為燕然道総管，撃之両井，大破之。」",
+          "quoteEn": "Old Book of Tang: 'The Turk Qutlugh invaded Shuozhou; Changzhi, as Commander-in-Chief of Yanran Route, crushed him at Liangjing and pursued him for hundreds of li, driving the Turks into the northern desert. He was enfeoffed as Duke of Yan.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        },
+        {
+          "year": 689,
+          "eraZh": "載初元年",
+          "coord": [
+            112.45,
+            34.62
+          ],
+          "labelPos": "right",
+          "ancientZh": "神都洛陽（邙山）",
+          "modernZh": "河南洛陽",
+          "ancientEn": "Luoyang (Mount Mang)",
+          "modernEn": "Luoyang, Henan",
+          "titleZh": "酷吏の誣告による悲劇の最期と洛陽邙山への改葬",
+          "titleEn": "Tragic End under Cruel Officials & Resting at Mount Mang",
+          "titleJa": "酷吏の誣告による悲劇の最期と洛陽邙山への改葬",
+          "descZh": "突厥・吐蕃を連破し唐朝の守護神と讃えられた黒歯常之であったが、武則天の治世下で酷吏政治が猛威を振るう中、周興ら酷吏によって謀反の虚偽の罪を被せられ獄に繋がれた。常之は『我、国家に背くところなし』と従容として自ら縊死し潔白を示した（享年60）。天下の人々は皆その無実の死を深く痛惜した。のちに武則天・中宗により名誉が回復され、洛陽の邙山に改葬された（1929年に墓誌が出土）。",
+          "descEn": "Despite being hailed as the empire's greatest shield against both Tibetans and Turks, Changzhi fell victim to the terror of Wu Zetian's cruel inquisitors. Falsely accused of treason by Zhou Xing, he hanged himself in prison at age 60, proclaiming his innocence: 'I have never wronged the state.' Later fully exonerated, he was reburied with high honors at Mount Mang in Luoyang, where his epitaph was unearthed in 1929.",
+          "descJa": "突厥・吐蕃を連破して唐朝の守護神と称えられた希代の名将であったが、武則天の酷吏政治が横行する中、酷吏の周興らに「謀反」と誣告され獄に繋がれた。『我、国家に背くことなし』と自ら縊死して潔白を示した（享年60）。天下の人々は皆その冤罪を痛惜した。のちに冤罪が雪がれ、洛陽の邙山に改葬された（1929年に墓誌出土）。",
+          "quoteZh": "《旧唐書》：「常之勇毅有謀，為政厳整，賞罰分明，故撫循士卒，人皆尽力……酷吏周興等誣其謀反，徴詣獄，自縊死，天下痛惜之。」《黒歯常之墓誌》：「以載初元年十一月廿六日，遘疾薨於神都之私第，春秋六十……粤以大周聖暦二年歳次己亥正月丁卯朔廿五日辛卯，遷葬於洛陽邙山之原，礼也。」",
+          "quoteEn": "Old Book of Tang: 'Changzhi was valiant, resolute, and strategic... He cherished his soldiers, and all fought for him to the death. Cruel officials like Zhou Xing falsely accused him of treason; summoned to prison, he hanged himself, mourned by the entire realm.'",
+          "persons": [
+            "heichichangzhi"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "liuyu",
+      "dynastyKey": "nanbei",
+      "color": "#7b2c3b",
+      "shortZh": "劉裕北伐・気呑万里如虎",
+      "shortEn": "Liu Yu's Northern Expeditions",
+      "titleZh": "宋武帝・劉裕の北伐と天下経略の軌跡（気呑万里如虎）",
+      "titleEn": "Liu Yu's Northern Expeditions: Reconquest of Luoyang & Chang'an",
+      "spanZh": "399年 — 417年（東晋隆安三年〜義熙十三年）",
+      "spanEn": "399 CE – 417 CE (Eastern Jin to Liu Song)",
+      "stops": [
+        {
+          "year": 399,
+          "eraZh": "東晋隆安三年",
+          "coord": [
+            119.45,
+            32.2
+          ],
+          "labelPos": "top",
+          "ancientZh": "京口",
+          "modernZh": "江蘇鎮江",
+          "ancientEn": "Jingkou",
+          "modernEn": "Zhenjiang, Jiangsu",
+          "titleZh": "京口に身を興し、北府軍の驍将として台頭",
+          "titleEn": "Rising from Jingkou as Vanguard of the Beifu Army",
+          "descZh": "漢の楚元王劉交の末裔とされるが、京口で貧困のうちに育ち、履物（わらじ）を売って生計を立てていた。北府軍の武将・劉牢之の参軍となると、孫恩の乱の鎮圧で常に先陣を切って敵陣を陥れ、数十人を独りで斬り伏せる鬼神のごとき武勇を示し、北府随一の猛将として頭角を現した。",
+          "descEn": "Growing up in poverty in Jingkou selling straw sandals, Liu Yu joined the elite Beifu Army under Liu Laozhi. During the suppression of Sun En's rebellion, he repeatedly led vanguard charges with peerless personal valor.",
+          "quoteZh": "《宋書・武帝本紀》：「高祖武皇帝諱裕，字徳輿，小字寄奴……身長七尺六寸，風骨奇偉，不事廉隅小節，奉継母以孝聞。」",
+          "quoteEn": "Book of Song: 'Emperor Wu, personal name Yu, courtesy name Deyu, childhood name Jinu... stood seven feet six inches tall with extraordinary bearing.'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "京口に身を興し、北府軍の驍将として台頭",
+          "descJa": "漢の楚元王劉交の末裔とされるが、京口で貧困のうちに育ち、履物（わらじ）を売って生計を立てていた。北府軍の武将・劉牢之の参軍となると、孫恩の乱の鎮圧で常に先陣を切って敵陣を陥れ、数十人を独りで斬り伏せる鬼神のごとき武勇を示し、北府随一の猛将として頭角を現した。"
+        },
+        {
+          "year": 404,
+          "eraZh": "東晋元興三年二月",
+          "coord": [
+            118.78,
+            32.04
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "建康",
+          "modernZh": "江蘇南京",
+          "ancientEn": "Jiankang",
+          "modernEn": "Nanjing, Jiangsu",
+          "titleZh": "京口挙兵と桓玄討滅、東晋王朝の再興",
+          "titleEn": "Uprising at Jingkou & Crushing the Usurper Huan Xuan",
+          "descZh": "東晋の帝位を簒奪して「楚」を建てた桓玄に対し、劉裕は劉毅・何無忌ら同志二十七名と京口で決起。わずか千七百の義兵で覆舟山において桓玄の精鋭二万を撃破し、建康を奪還した。さらに西へ逃れた桓玄を水軍で追撃して討ち滅ぼし、安帝を復位させて東晋の実権を掌握した。",
+          "descEn": "After Huan Xuan usurped the Eastern Jin throne, Liu Yu rallied 1,700 men at Jingkou, routed Huan Xuan's 20,000 troops at Mount Fuzhou, liberated Jiankang, and restored the Jin court.",
+          "quoteZh": "《資治通鑑》：「裕與無忌等同舟詣京口，密謀興復晉室……眾推劉裕為盟主，總督徐州事。」",
+          "quoteEn": "Zizhi Tongjian: 'Liu Yu and He Wuji sailed together to Jingkou to secretly plot the restoration of the House of Jin... All acclaimed Liu Yu as leader of the alliance.'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "京口挙兵と桓玄討滅、東晋王朝の再興",
+          "descJa": "東晋の帝位を簒奪して「楚」を建てた桓玄に対し、劉裕は劉毅・何無忌ら同志二十七名と京口で決起。わずか千七百の義兵で覆舟山において桓玄の精鋭二万を撃破し、建康を奪還した。さらに西へ逃れた桓玄を水軍で追撃して討ち滅ぼし、安帝を復位させて東晋の実権を掌握した。"
+        },
+        {
+          "year": 409,
+          "eraZh": "東晋義熙五年六月",
+          "coord": [
+            118.54,
+            36.51
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "大峴山・臨朐",
+          "modernZh": "山東濰坊臨朐",
+          "ancientEn": "Mount Daxian & Linqu",
+          "modernEn": "Linqu, Shandong",
+          "titleZh": "第一次北伐：大峴山を越え、臨朐に南燕軍を撃破",
+          "titleEn": "First Northern Expedition: Crossing Mount Daxian & Battle of Linqu",
+          "descZh": "鮮卑慕容氏の南燕（慕容超）が辺境を侵すと、劉裕は群臣の反対を押し切って北伐を断行。淮水・泗水から舟を棄てて歩騎で北上し、天険・大峴山を無傷で通過すると、天を指して「我が兵はすでに険を過ぎたり、敵は我が掌中にあり！」と歓喜した。臨朐城下で南燕の主力数万を撃破し、都・広固へと追い詰めた。",
+          "descEn": "Launching his first northern campaign against Southern Yan, Liu Yu marched across the perilous Mount Daxian pass unopposed. Pointing to Heaven in triumph, he crushed the Yan main army at Linqu.",
+          "quoteZh": "《宋書・武帝本紀》：「公過大峴，燕兵不出。公舉手指天，喜形於色，曰：『兵已過險，士有必死之志，餘糧棲畝，人無匱乏之憂，虜已入吾掌中矣！』」",
+          "quoteEn": "Book of Song: 'Passing Mount Daxian with no Yan resistance, the Duke pointed to Heaven in joy and declared: My troops have crossed the defile... the enemy is already in the palm of my hand!'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "第一次北伐：大峴山を越え、臨朐に南燕軍を撃破",
+          "descJa": "鮮卑慕容氏の南燕（慕容超）が辺境を侵すと、劉裕は群臣の反対を押し切って北伐を断行。淮水・泗水から舟を棄てて歩騎で北上し、天険・大峴山を無傷で通過すると、天を指して「我が兵はすでに険を過ぎたり、敵は我が掌中にあり！」と歓喜した。臨朐城下で南燕の主力数万を撃破し、都・広固へと追い詰めた。"
+        },
+        {
+          "year": 410,
+          "eraZh": "東晋義熙六年二月",
+          "coord": [
+            118.48,
+            36.69
+          ],
+          "labelPos": "top",
+          "ancientZh": "広固",
+          "modernZh": "山東青州",
+          "ancientEn": "Guanggu",
+          "modernEn": "Qingzhou, Shandong",
+          "titleZh": "広固城の攻略と南燕滅亡、山東全域の平定",
+          "titleEn": "Fall of Guanggu & Conquest of Southern Yan",
+          "descZh": "南燕の都・広固を長囲の陣で包囲すること半年、ついに城を陥落させて皇帝・慕容超を生け捕りにし、南燕を滅ぼして山東全域を平定した。その直後、盧循・徐道覆の反乱軍が建康に迫ると、劉裕は電撃的に軍を返して長江で反乱軍を撃滅し、交州・広州まで追討して江南を完全統一した。",
+          "descEn": "After a six-month siege, Liu Yu stormed the Southern Yan capital of Guanggu, captured Emperor Murong Chao, and annexed Shandong before racing south to annihilate Lu Xun's fleet on the Yangtze.",
+          "quoteZh": "《資治通鑑》：「二月，丁亥，屠廣固，斬王公以下三千人……送超詣建康，斬之。南燕亡。」",
+          "quoteEn": "Zizhi Tongjian: 'In February, Guanggu fell... Murong Chao was sent to Jiankang and executed. Southern Yan perished.'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "広固城の攻略と南燕滅亡、山東全域の平定",
+          "descJa": "南燕の都・広固を長囲の陣で包囲すること半年、ついに城を陥落させて皇帝・慕容超を生け捕りにし、南燕を滅ぼして山東全域を平定した。その直後、盧循・徐道覆の反乱軍が建康に迫ると、劉裕は電撃的に軍を返して長江で反乱軍を撃滅し、交州・広州まで追討して江南を完全統一した。"
+        },
+        {
+          "year": 413,
+          "eraZh": "東晋義熙九年七月",
+          "coord": [
+            104.06,
+            30.67
+          ],
+          "labelPos": "top",
+          "ancientZh": "成都",
+          "modernZh": "四川成都",
+          "ancientEn": "Chengdu",
+          "modernEn": "Chengdu, Sichuan",
+          "titleZh": "朱齢石を遣わして後蜀（譙縦）を平定、巴蜀を版図に収む",
+          "titleEn": "Expedition to Sichuan: Reconquest of Chengdu & Bashu",
+          "descZh": "大北伐に先立ち後顧の憂いを断つため、劉裕は名将・朱齢石を抜擢して益州の譙縦（後蜀）討伐を命じ、密書にて「敵の意表を突き、主力を外水（岷江）から成都へ直進させよ」との奇策を授けた。晋軍は険難を突破して成都を陥落させ、譙縦は自縊。巴蜀全域が再び東晋の版図に復帰した。",
+          "descEn": "To secure the western flank before his grand northern campaign, Liu Yu dispatched Zhu Lingshi with sealed strategic instructions to sail directly up the Min River, capturing Chengdu and reclaiming Sichuan.",
+          "quoteZh": "《宋書・朱齢石伝》：「高祖與齢石密謀進取，曰：『賊謂我今應從外水往，而料我當出其不意，猶從内水来也……今若直趨成都，必不測也。』果克成都，平蜀。」",
+          "quoteEn": "Book of Song: 'Emperor Wu devised a secret plan with Zhu Lingshi to strike directly via the Outer River... catching the enemy completely off guard and conquering Chengdu.'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "朱齢石を遣わして後蜀（譙縦）を平定、巴蜀を版図に収む",
+          "descJa": "大北伐に先立ち後顧の憂いを断つため、劉裕は名将・朱齢石を抜擢して益州の譙縦（後蜀）討伐を命じ、密書にて「敵の意表を突き、主力を外水（岷江）から成都へ直進させよ」との奇策を授けた。晋軍は険難を突破して成都を陥落させ、譙縦は自縊。巴蜀全域が再び東晋の版図に復帰した。"
+        },
+        {
+          "year": 416,
+          "eraZh": "東晋義熙十二年十月",
+          "coord": [
+            112.45,
+            34.62
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "洛陽",
+          "modernZh": "河南洛陽",
+          "ancientEn": "Luoyang",
+          "modernEn": "Luoyang, Henan",
+          "titleZh": "第二次北伐：水陸五道より並進し、旧都・洛陽を奪還",
+          "titleEn": "Second Northern Expedition: Five-Pronged Advance & Recovery of Luoyang",
+          "descZh": "後秦の姚興が没して内乱が生じると、劉裕は王鎮悪・檀道済・沈田子・沈林子らを先鋒として水陸五道から大北伐を開始。檀道済と王鎮悪は成皋・虎牢関を連破して洛陽へ進撃し、後秦の守将・姚洸を降伏させて旧都・洛陽を収復。西晋の皇陵（五陵）を修復して祭祀を行った。",
+          "descEn": "Capitalizing on turmoil in Later Qin, Liu Yu launched a massive five-pronged northern expedition. Vanguards under Tan Daoji and Wang Zhen'e stormed Hulao Pass and liberated the ancient imperial capital of Luoyang.",
+          "quoteZh": "《資治通鑑》：「甲申，檀道濟等進逼洛陽，秦洛陽鎮軍將軍姚洸出降……道濟曰：『弔民伐罪，正在今日！』皆釋而遣之，於是夷、夏感悦，歸之者日以千數。」",
+          "quoteEn": "Zizhi Tongjian: 'Tan Daoji advanced on Luoyang, and the Later Qin commander Yao Guang surrendered. Daoji released the captives, proclaiming: Today we console the people and punish the guilty!'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "第二次北伐：水陸五道より並進し、旧都・洛陽を奪還",
+          "descJa": "後秦の姚興が没して内乱が生じると、劉裕は王鎮悪・檀道済・沈田子・沈林子らを先鋒として水陸五道から大北伐を開始。檀道済と王鎮悪は成皋・虎牢関を連破して洛陽へ進撃し、後秦の守将・姚洸を降伏させて旧都・洛陽を収復。西晋の皇陵（五陵）を修復して祭祀を行った。"
+        },
+        {
+          "year": 417,
+          "eraZh": "東晋義熙十三年三月",
+          "coord": [
+            110.25,
+            34.54
+          ],
+          "labelPos": "top",
+          "ancientZh": "潼関（黄河河畔）",
+          "modernZh": "陝西潼関",
+          "ancientEn": "Tongguan Pass",
+          "modernEn": "Tongguan, Shaanxi",
+          "titleZh": "伝説の「却月陣」：北魏の精鋭騎兵三万を撃破",
+          "titleEn": "The Crescent Formation (Queyue Zhen): Routing 30,000 Northern Wei Cavalry",
+          "descZh": "劉裕の本隊が黄河を遡上して潼関へ迫った際、北魏（拓跋嗣）が長孫嵩・娥清らに三万の精鋭騎兵を率いさせて河岸から晋軍の遡上を妨害した。劉裕は岸に丁字型の車陣「却月陣」を築き、朱超石に命じて二千七百の兵と百張の大弩・長矛・大槌で応戦させた。密集した北魏騎兵に一本の長矛で三・四人を貫く猛撃を浴びせ、北魏軍三万を大壊滅させた。",
+          "descEn": "When 30,000 Northern Wei heavy cavalry harassed his river fleet near Tongguan, Liu Yu deployed the legendary 'Crescent Moon Formation' of war chariots, giant crossbows, and hammer-driven pikes, shattering the nomad cavalry.",
+          "quoteZh": "《宋書・朱超石伝》：「超石乃命引大弩，一時齊發……乃断槊長三四尺，以大槌槌之，一槊輒洞貫三四人。虜衆不能當，一時奔潰。」",
+          "quoteEn": "Book of Song: 'Zhu Chaoshi ordered a hundred giant crossbows fired in unison, then drove shortened pikes with heavy mallets, each pike impaling three or four riders. The Wei cavalry collapsed in rout.'",
+          "persons": [
+            "liuyu"
+          ],
+          "titleJa": "伝説の「却月陣」：北魏の精鋭騎兵三万を撃破",
+          "descJa": "劉裕の本隊が黄河を遡上して潼関へ迫った際、北魏（拓跋嗣）が長孫嵩・娥清らに三万の精鋭騎兵を率いさせて河岸から晋軍の遡上を妨害した。劉裕は岸に丁字型の車陣「却月陣」を築き、朱超石に命じて二千七百の兵と百張の大弩・長矛・大槌で応戦させた。密集した北魏騎兵に一本の長矛で三・四人を貫く猛撃を浴びせ、北魏軍三万を大壊滅させた。"
+        },
+        {
+          "year": 417,
+          "eraZh": "東晋義熙十三年八月",
+          "coord": [
+            108.93,
+            34.27
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "長安",
+          "modernZh": "陝西西安",
+          "ancientEn": "Chang'an",
+          "modernEn": "Xi'an, Shaanxi",
+          "titleZh": "渭水を遡り長安を克復、後秦を滅ぼし「気呑万里如虎」",
+          "titleEn": "Fall of Chang'an & Destruction of Later Qin",
+          "descZh": "先鋒の王鎮悪は蒙衝小艦で激流の渭水を遡上し、長安の渭橋に上陸するや舟を全て河に流して「ここは長安の北門、死して生を求むべし！」と兵を鼓舞、後秦軍数万を撃破して長安を陥落させ、皇帝・姚泓を降伏させた。入城した劉裕は秦漢の旧都・長安を百年ぶりに漢人王朝の支配下に取り戻した（420年に禅譲を受け南朝・宋の武帝として即位）。後世、辛棄疾に「金戈鉄馬、気呑万里如虎」と讃えられた。",
+          "descEn": "Wang Zhen'e sailed warships up the Wei River, cast away the boats to leave no retreat, and stormed Chang'an, forcing Emperor Yao Hong to surrender. Liu Yu entered Chang'an in triumph, inspiring Xin Qiji's immortal verse: 'Golden spears and iron horses, swallowing ten thousand li like a tiger.'",
+          "quoteZh": "辛棄疾《永遇楽・京口北固亭懐古》：「斜陽草樹，尋常巷陌，人道寄奴曾住。想當年，金戈鐵馬，氣呑萬里如虎。」",
+          "quoteEn": "Xin Qiji: 'Slanting sun over grass and trees, ordinary lanes where they say Jinu once lived. Imagine those years: golden spears and iron steeds, with spirit swallowing ten thousand li like a tiger!'",
+          "persons": [
+            "liuyu",
+            "xinqiji"
+          ],
+          "titleJa": "渭水を遡り長安を克復、後秦を滅ぼし「気呑万里如虎」",
+          "descJa": "先鋒の王鎮悪は蒙衝小艦で激流の渭水を遡上し、長安の渭橋に上陸するや舟を全て河に流して「ここは長安の北門、死して生を求むべし！」と兵を鼓舞、後秦軍数万を撃破して長安を陥落させ、皇帝・姚泓を降伏させた。入城した劉裕は秦漢の旧都・長安を百年ぶりに漢人王朝の支配下に取り戻した（420年に禅譲を受け南朝・宋の武帝として即位）。後世、辛棄疾に「金戈鉄馬、気呑万里如虎」と讃えられた。"
+        }
+      ]
+    },
+    {
+      "key": "huoqubing",
+      "dynastyKey": "xihan",
+      "color": "#b85d19",
+      "shortZh": "霍去病・河西漠北遠征（封狼居胥）",
+      "shortEn": "Huo Qubing's Hexi & Mobei Campaigns",
+      "titleZh": "冠軍侯・霍去病の河西回廊突破と漠北決戦（封狼居胥）の軌跡",
+      "titleEn": "Huo Qubing's Campaigns: Opening the Hexi Corridor & Sealing Mount Langjuxu",
+      "spanZh": "前123年 — 前117年（前漢元朔六年〜元狩六年）",
+      "spanEn": "123 BCE – 117 BCE (Western Han)",
+      "stops": [
+        {
+          "year": -123,
+          "eraZh": "前漢元朔六年",
+          "coord": [
+            112.18,
+            40.25
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "定襄・漠南",
+          "modernZh": "内モンゴル・ホリンゴル北方",
+          "ancientEn": "Dingxiang & South of Gobi",
+          "modernEn": "Horinger, Inner Mongolia",
+          "titleZh": "十八歳の初陣：八百騎で漠南を疾駆し「冠軍侯」に封ぜらる",
+          "titleEn": "Debut at Age 18: Charging Across the Steppe with 800 Riders",
+          "descZh": "大将軍・衛青の甥である霍去病は十八歳で剽姚校尉となり、わずか八百の軽騎兵を率いて本隊から数百里離れて砂漠を疾駆。匈奴の単于の祖父・籍若侯産を捕らえ、相国・当戸ら二千二十八級を斬首した。武帝はその勇冠三軍（全軍に冠たる武勇）を称え、「冠軍侯」に封じた。",
+          "descEn": "At just 18, Huo Qubing led 800 light cavalry hundreds of li ahead of the main Han army into the steppe, slaying over 2,000 Xiongnu elites and earning the title Marquis Guanjun ('Champion of the Army').",
+          "quoteZh": "《史記・衛将軍驃騎列伝》：「剽姚校尉去病斬首虜二千二十八級……以千六百戸封去病為冠軍侯。」",
+          "quoteEn": "Records of the Grand Historian: 'Huo Qubing took 2,028 heads and captives... and was enfeoffed as Marquis Guanjun.'",
+          "persons": [
+            "huoqubing",
+            "weiqing",
+            "hanwudi"
+          ],
+          "titleJa": "十八歳の初陣：八百騎で漠南を疾駆し「冠軍侯」に封ぜらる",
+          "descJa": "大将軍・衛青の甥である霍去病は十八歳で剽姚校尉となり、わずか八百の軽騎兵を率いて本隊から数百里離れて砂漠を疾駆。匈奴の単于の祖父・籍若侯産を捕らえ、相国・当戸ら二千二十八級を斬首した。武帝はその勇冠三軍（全軍に冠たる武勇）を称え、「冠軍侯」に封じた。"
+        },
+        {
+          "year": -121,
+          "eraZh": "前漢元狩二年春",
+          "coord": [
+            101.32,
+            38.8
+          ],
+          "labelPos": "top",
+          "ancientZh": "焉支山",
+          "modernZh": "甘粛張掖山丹",
+          "ancientEn": "Mount Yanzhi",
+          "modernEn": "Shandan, Gansu",
+          "titleZh": "第一次河西遠征：六日間で匈奴五王国を踏み破り、焉支山を奪取",
+          "titleEn": "First Hexi Campaign: Smashing Five Xiongnu Kingdoms in Six Days",
+          "descZh": "十九歳で驃騎将軍に任じられた霍去病は、一万の精鋭騎兵を率いて隴西を出撃。烏盭山を越え狐奴水を渡り、わずか六日間で匈奴の五王国を転戦して一気呵成に千余里を踏破。焉支山を越えて折蘭王・盧胡王を斬り、休屠王の「祭天金人」を鹵獲した。",
+          "descEn": "Appointed General of Agile Cavalry at 19, Huo led 10,000 horsemen across five Xiongnu kingdoms in six days, sweeping past Mount Yanzhi and capturing the golden statue used by the Xiongnu to worship Heaven.",
+          "quoteZh": "《漢書・霍去病伝》：「轉戰六日，過焉支山千有餘里，合短兵，殺折蘭王，斬盧侯王，執渾邪王子及相國、都尉，獲首虜八千九百餘級，收休屠祭天金人。」",
+          "quoteEn": "Book of Han: 'Fighting continuously for six days over a thousand li past Mount Yanzhi, he slew the kings of Zhelan and Luhu and seized the golden statue of Xiutu.'",
+          "persons": [
+            "huoqubing"
+          ],
+          "titleJa": "第一次河西遠征：六日間で匈奴五王国を踏み破り、焉支山を奪取",
+          "descJa": "十九歳で驃騎将軍に任じられた霍去病は、一万の精鋭騎兵を率いて隴西を出撃。烏盭山を越え狐奴水を渡り、わずか六日間で匈奴の五王国を転戦して一気呵成に千余里を踏破。焉支山を越えて折蘭王・盧胡王を斬り、休屠王の「祭天金人」を鹵獲した。"
+        },
+        {
+          "year": -121,
+          "eraZh": "前漢元狩二年夏",
+          "coord": [
+            99.85,
+            39.2
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "居延・祁連山",
+          "modernZh": "甘粛張掖・祁連山脈",
+          "ancientEn": "Juyan & Qilian Mountains",
+          "modernEn": "Zhangye & Qilian Mountains, Gansu",
+          "titleZh": "第二次河西遠征：居延より祁連山へ大迂回し、匈奴三万を撃滅",
+          "titleEn": "Second Hexi Campaign: Grand Outflanking March to the Qilian Mountains",
+          "descZh": "同年夏、北地郡から出撃して北方の居延（エチナ）へ二千里進出した後、南下して小月氏・祁連山へと大迂回。匈奴の渾邪王・休屠王の本拠を背後から奇襲し、三万二百級を斬首・捕虜とした。匈奴は「我が祁連山を失い、六畜をして蕃息せざらしむ」と悲歌を歌って嘆いた。",
+          "descEn": "Executing a daring loop north through Juyan before striking south into the Qilian Mountains, Huo caught the Xiongnu from the rear and inflicted 30,000 casualties, prompting the Xiongnu's famous lament over losing Qilian.",
+          "quoteZh": "《史記・匈奴列伝》引匈奴歌：「失我祁連山，使我六畜不蕃息；失我焉支山，使我嫁婦無顔色。」",
+          "quoteEn": "Xiongnu Lament: 'Losing our Qilian Mountains, our livestock cannot multiply; losing our Yanzhi Mountains, our women have no rouge for their faces.'",
+          "persons": [
+            "huoqubing"
+          ],
+          "titleJa": "第二次河西遠征：居延より祁連山へ大迂回し、匈奴三万を撃滅",
+          "descJa": "同年夏、北地郡から出撃して北方の居延（エチナ）へ二千里進出した後、南下して小月氏・祁連山へと大迂回。匈奴の渾邪王・休屠王の本拠を背後から奇襲し、三万二百級を斬首・捕虜とした。匈奴は「我が祁連山を失い、六畜をして蕃息せざらしむ」と悲歌を歌って嘆いた。"
+        },
+        {
+          "year": -121,
+          "eraZh": "前漢元狩二年秋",
+          "coord": [
+            102.64,
+            37.93
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "姑臧（武威）",
+          "modernZh": "甘粛武威",
+          "ancientEn": "Guzang (Wuwei)",
+          "modernEn": "Wuwei, Gansu",
+          "titleZh": "渾邪王四万の単騎受降と「河西四郡」の開拓",
+          "titleEn": "Accepting the Surrender of King Hunye & Opening the Four Hexi Commanderies",
+          "descZh": "敗北を重ねた匈奴の渾邪王が四万の衆を率いて漢への降伏を請うた。降伏時に動揺して逃亡を図った一部族に対し、霍去病は大胆にも敵陣の真っ只中へ馳せ入って渾邪王と会見し、騒乱した八千人を即座に斬って全軍四万を帰順させた。これにより武威・張掖・酒泉・敦煌の「河西四郡」が開かれ、シルクロードが貫通した。",
+          "descEn": "When elements of King Hunye's 40,000 troops hesitated during surrender, Huo Qubing galloped directly into the Xiongnu camp, executed the mutinous leaders, and secured the bloodless submission of the entire host, opening the Hexi Corridor.",
+          "quoteZh": "《史記・衛将軍驃騎列伝》：「驃騎乃馳入與渾邪王相見，斬其欲亡者八千人……乃悉將其衆渡河，降者數萬。」",
+          "quoteEn": "Records of the Grand Historian: 'Huo Qubing galloped straight into the camp to meet King Hunye, beheaded 8,000 mutineers, and brought tens of thousands across the Yellow River in surrender.'",
+          "persons": [
+            "huoqubing",
+            "hanwudi"
+          ],
+          "titleJa": "渾邪王四万の単騎受降と「河西四郡」の開拓",
+          "descJa": "敗北を重ねた匈奴の渾邪王が四万の衆を率いて漢への降伏を請うた。降伏時に動揺して逃亡を図った一部族に対し、霍去病は大胆にも敵陣の真っ只中へ馳せ入って渾邪王と会見し、騒乱した八千人を即座に斬って全軍四万を帰順させた。これにより武威・張掖・酒泉・敦煌の「河西四郡」が開かれ、シルクロードが貫通した。"
+        },
+        {
+          "year": -119,
+          "eraZh": "前漢元狩四年春",
+          "coord": [
+            114.58,
+            39.84
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "代郡",
+          "modernZh": "河北張家口蔚県",
+          "ancientEn": "Dai Commandery",
+          "modernEn": "Yu County, Hebei",
+          "titleZh": "漠北決戦への出撃：五万の鉄騎を率いて代郡よりゴビ砂漠へ北進",
+          "titleEn": "Mobei Campaign: Advancing 2,000 Li Across the Gobi from Dai",
+          "descZh": "匈奴の根絶を目指した武帝は、衛青と霍去病にそれぞれ五万の騎兵と十万の歩兵・輜重を授けて漠北決戦を発動。二十一歳の霍去病は代郡から出撃し、敵の食糧を現地で奪って補給する電撃戦術（取食於敵）でゴビ砂漠（大漠）を二千余里北上した。",
+          "descEn": "At age 21, Huo Qubing led 50,000 elite cavalry north from Dai Commandery across 2,000 li of the Gobi Desert, living off captured enemy supplies to maintain lightning speed.",
+          "quoteZh": "《史記・衛将軍驃騎列伝》：「去病出代、右北平千餘里，直左方兵……取食於敵，卓行殊遠而糧不絶。」",
+          "quoteEn": "Records of the Grand Historian: 'Huo Qubing marched over a thousand li north of Dai and Youbeiping... seizing provisions from the enemy so his rations never ran out despite the vast distance.'",
+          "persons": [
+            "huoqubing",
+            "weiqing"
+          ],
+          "titleJa": "漠北決戦への出撃：五万の鉄騎を率いて代郡よりゴビ砂漠へ北進",
+          "descJa": "匈奴の根絶を目指した武帝は、衛青と霍去病にそれぞれ五万の騎兵と十万の歩兵・輜重を授けて漠北決戦を発動。二十一歳の霍去病は代郡から出撃し、敵の食糧を現地で奪って補給する電撃戦術（取食於敵）でゴビ砂漠（大漠）を二千余里北上した。"
+        },
+        {
+          "year": -119,
+          "eraZh": "前漢元狩四年夏",
+          "coord": [
+            109.1,
+            48.3
+          ],
+          "labelPos": "top",
+          "ancientZh": "狼居胥山・瀚海",
+          "modernZh": "モンゴル・ヘンティー山脈〜バイカル湖方面",
+          "ancientEn": "Mount Langjuxu & Lake Baikal",
+          "modernEn": "Khentii Mountains, Mongolia",
+          "titleZh": "「封狼居胥」：左賢王七万を撃滅し、狼居胥山に天を祀る",
+          "titleEn": "Sealing Mount Langjuxu (Feng Langjuxu) & Reaching the Northern Sea",
+          "descZh": "霍去病は匈奴の左賢王の主力と激突し、敵軍を包囲殲滅して七万四百四十三級を斬首・捕虜とする空前の大勝利を収めた。さらに北へ追撃して匈奴の聖山・狼居胥山において天を祀る「封」の礼を行い、姑衍山で地を祀る「禅」の礼を挙行し、瀚海（バイカル湖）を望んだ。「封狼居胥」は中華武将の最高栄誉の代名詞となった。",
+          "descEn": "Annihilating 70,443 troops of the Xiongnu Left Wise King, Huo Qubing performed the sacred Feng sacrifice to Heaven atop Mount Langjuxu and gazed upon Lake Baikal, setting the ultimate benchmark of military glory in Chinese history.",
+          "quoteZh": "《史記・衛将軍驃騎列伝》：「轉戰一日，斬首虜七萬四百四十三級……封狼居胥山，禪於姑衍，登臨翰海。」",
+          "quoteEn": "Records of the Grand Historian: 'He took 70,443 heads and captives... performed the Feng sacrifice on Mount Langjuxu, the Shan ceremony at Guyan, and looked out upon the Northern Sea.'",
+          "persons": [
+            "huoqubing"
+          ],
+          "titleJa": "「封狼居胥」：左賢王七万を撃滅し、狼居胥山に天を祀る",
+          "descJa": "霍去病は匈奴の左賢王の主力と激突し、敵軍を包囲殲滅して七万四百四十三級を斬首・捕虜とする空前の大勝利を収めた。さらに北へ追撃して匈奴の聖山・狼居胥山において天を祀る「封」の礼を行い、姑衍山で地を祀る「禅」の礼を挙行し、瀚海（バイカル湖）を望んだ。「封狼居胥」は中華武将の最高栄誉の代名詞となった。"
+        },
+        {
+          "year": -117,
+          "eraZh": "前漢元狩六年",
+          "coord": [
+            108.58,
+            34.34
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "長安・茂陵",
+          "modernZh": "陝西咸陽興平",
+          "ancientEn": "Chang'an & Maoling",
+          "modernEn": "Xingping, Shaanxi",
+          "titleZh": "「匈奴いまだ滅びず、何を以て家を為さん」――二十四歳で流星のごとく逝く",
+          "titleEn": "Passing of the Young Marshal at Age 24 & Tomb Shaped Like Mount Qilian",
+          "descZh": "武帝が豪壮な邸宅を下賜しようとした際、「匈奴未滅、無以家為也（匈奴がいまだ滅びないのに、どうして家など持てましょうか）」と辞退した名言は千古に伝わった。大司馬驃騎将軍に昇ったが、前117年にわずか二十四歳で病没。武帝は深く悲しみ、茂陵の傍らに祁連山を模した塚を築いて葬った。",
+          "descEn": "Famous for refusing a grand mansion with the words 'While the Xiongnu remain unvanquished, how can I make a home?', Huo died at just 24. Emperor Wu buried him beside Maoling in a tumulus shaped like the Qilian Mountains.",
+          "quoteZh": "《史記・衛将軍驃騎列伝》：「上為治第，令驃騎視之，對曰：『匈奴未滅，無以家為也。』由此上益重愛之。」",
+          "quoteEn": "Records of the Grand Historian: 'The Emperor built a mansion for him, to which Huo replied: The Xiongnu are not yet destroyed; how can I care for a home of my own?'",
+          "persons": [
+            "huoqubing",
+            "hanwudi"
+          ],
+          "titleJa": "「匈奴いまだ滅びず、何を以て家を為さん」――二十四歳で流星のごとく逝く",
+          "descJa": "武帝が豪壮な邸宅を下賜しようとした際、「匈奴未滅、無以家為也（匈奴がいまだ滅びないのに、どうして家など持てましょうか）」と辞退した名言は千古に伝わった。大司馬驃騎将軍に昇ったが、前117年にわずか二十四歳で病没。武帝は深く悲しみ、茂陵の傍らに祁連山を模した塚を築いて葬った。"
+        }
+      ]
+    },
+    {
+      "key": "dengai",
+      "dynastyKey": "sanguo",
+      "color": "#3b5998",
+      "shortZh": "鄧艾・陰平偷渡と蜀漢平定",
+      "shortEn": "Deng Ai's Conquest of Shu Han",
+      "titleZh": "鄧艾の「陰平偷渡」山岳大奇襲と蜀漢攻略戦の軌跡",
+      "titleEn": "Deng Ai's Secret March Through Yinping & Conquest of Shu Han",
+      "spanZh": "255年 — 264年（魏正元二年〜咸熙元年）",
+      "spanEn": "255 CE – 264 CE (Three Kingdoms: Wei Conquest of Shu)",
+      "stops": [
+        {
+          "year": 255,
+          "eraZh": "魏正元二年",
+          "coord": [
+            103.86,
+            35.38
+          ],
+          "labelPos": "top",
+          "ancientZh": "狄道・段谷",
+          "modernZh": "甘粛臨洮・天水",
+          "ancientEn": "Didao & Duangu",
+          "modernEn": "Lintao & Tianshui, Gansu",
+          "titleZh": "隴右の防壁：狄道・段谷にて姜維の北伐軍を連破す",
+          "titleEn": "Bulwark of Longyou: Routing Jiang Wei at Didao & Duangu",
+          "descZh": "屯田の才と軍事眼を司馬懿に見出された鄧艾は、隴西の最前線で蜀の大将軍・姜維の北伐と対峙。255年に狄道の包囲を解き、翌256年には段谷の戦いで姜維の進軍ルートを完全に読み切って待ち伏せし、蜀軍を大破して姜維の北伐の鋭気を挫いた。",
+          "descEn": "Commanding Wei's western defenses, Deng Ai relieved the siege of Didao and ambushed Shu commander Jiang Wei at Duangu in 256, inflicting a decisive defeat on the Shu northern expedition.",
+          "quoteZh": "《三国志・魏書・鄧艾伝》：「艾與戰於段谷，大破之，斬首數千級，星散流離，死者甚衆。」",
+          "quoteEn": "Records of the Three Kingdoms: 'Deng Ai engaged him at Duangu and won a crushing victory, taking thousands of heads.'",
+          "persons": [
+            "dengai",
+            "jiangwei"
+          ],
+          "titleJa": "隴右の防壁：狄道・段谷にて姜維の北伐軍を連破す",
+          "descJa": "屯田の才と軍事眼を司馬懿に見出された鄧艾は、隴西の最前線で蜀の大将軍・姜維の北伐と対峙。255年に狄道の包囲を解き、翌256年には段谷の戦いで姜維の進軍ルートを完全に読み切って待ち伏せし、蜀軍を大破して姜維の北伐の鋭気を挫いた。"
+        },
+        {
+          "year": 262,
+          "eraZh": "魏景元三年",
+          "coord": [
+            104.37,
+            33.78
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "沓中",
+          "modernZh": "甘粛甘南舟曲",
+          "ancientEn": "Tazhong",
+          "modernEn": "Zhouqu, Gansu",
+          "titleZh": "沓中の戦い：姜維を牽制し、蜀漢討伐戦の幕を開く",
+          "titleEn": "Pinning Down Jiang Wei at Tazhong & Launching the Shu Campaign",
+          "descZh": "司馬昭が十八万の大軍による蜀漢討伐を決断すると、鄧艾は征西将軍として三万余の兵を率いて南下し、沓中で屯田していた姜維の退路を脅かした。鍾会の十余万の本隊が漢中へ侵攻する中、鄧艾は諸葛緒とともに姜維軍を激しく追撃した。",
+          "descEn": "As Sima Zhao launched the grand invasion of Shu, Deng Ai marched 30,000 troops against Jiang Wei's agricultural base at Tazhong, pinning down Shu's main field army while Zhong Hui seized Hanzhong.",
+          "quoteZh": "《三国志・魏書・鄧艾伝》：「景元四年秋，詔諸軍征蜀，大將軍司馬文王皆指授節度，使艾與維相綴連。」",
+          "quoteEn": "Records of the Three Kingdoms: 'In the autumn of the fourth year of Jingyuan, an edict ordered all armies to invade Shu, with Deng Ai assigned to lock down Jiang Wei.'",
+          "persons": [
+            "dengai",
+            "jiangwei"
+          ],
+          "titleJa": "沓中の戦い：姜維を牽制し、蜀漢討伐戦の幕を開く",
+          "descJa": "司馬昭が十八万の大軍による蜀漢討伐を決断すると、鄧艾は征西将軍として三万余の兵を率いて南下し、沓中で屯田していた姜維の退路を脅かした。鍾会の十余万の本隊が漢中へ侵攻する中、鄧艾は諸葛緒とともに姜維軍を激しく追撃した。"
+        },
+        {
+          "year": 263,
+          "eraZh": "魏景元四年十月",
+          "coord": [
+            105.56,
+            32.2
+          ],
+          "labelPos": "top",
+          "ancientZh": "剣閣・陰平",
+          "modernZh": "四川広元剣閣〜甘粛文県",
+          "ancientEn": "Jiange & Yinping",
+          "modernEn": "Jiange, Sichuan & Wen County, Gansu",
+          "titleZh": "剣閣の膠着を打破する奇策：無人の陰平道七百里へ突入",
+          "titleEn": "Breaking the Stalemate at Jiange: Entering the 700-Li Wilderness of Yinping",
+          "descZh": "姜維が天下の険・剣閣（剣門関）に籠もって鍾会の十三万の大軍を完全に食い止め、魏軍が兵糧難から撤退を検討し始めたその時、鄧艾は「敵の意表を突き、陰平の邪径より徳陽亭を経て涪城・成都の虚を衝くべし」と献策。自ら精鋭を率いて人跡未踏の陰平山道七百里へ踏み込んだ。",
+          "descEn": "With Zhong Hui stalled before the impregnable Jiange Pass, Deng Ai proposed a daring flanking maneuver through 700 li of uninhabited mountain gorges at Yinping to strike straight at the undefended heart of Shu.",
+          "quoteZh": "《三国志・魏書・鄧艾伝》：「從陰平由邪徑，經漢徳陽亭，趣涪，出劍閣西百里，去成都三百餘里，奇兵衝其腹心。」",
+          "quoteEn": "Records of the Three Kingdoms: 'By taking the shortcut from Yinping to Fu, emerging a hundred li west of Jiange and three hundred li from Chengdu, a surprise force can strike right at their heart.'",
+          "persons": [
+            "dengai",
+            "jiangwei"
+          ],
+          "titleJa": "剣閣の膠着を打破する奇策：無人の陰平道七百里へ突入",
+          "descJa": "姜維が天下の険・剣閣（剣門関）に籠もって鍾会の十三万の大軍を完全に食い止め、魏軍が兵糧難から撤退を検討し始めたその時、鄧艾は「敵の意表を突き、陰平の邪径より徳陽亭を経て涪城・成都の虚を衝くべし」と献策。自ら精鋭を率いて人跡未踏の陰平山道七百里へ踏み込んだ。"
+        },
+        {
+          "year": 263,
+          "eraZh": "魏景元四年十月",
+          "coord": [
+            104.75,
+            31.78
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "摩天嶺・江油",
+          "modernZh": "四川平武〜綿陽江油",
+          "ancientEn": "Matianling & Jiangyou",
+          "modernEn": "Jiangyou, Sichuan",
+          "titleZh": "伝説の「陰平偷渡」：毛布に身を包み断崖を転がり落ちて江油を奇襲",
+          "titleEn": "Rolling Down the Precipices Wrapped in Felt & Capturing Jiangyou",
+          "descZh": "陰平から先は道すら絶えた断崖絶壁（摩天嶺）であった。山を穿ち木橋を架けて進んだが、最後は崖に行き当たり食糧も尽き果てた。その時、六十七歳の鄧艾は自ら毛布（氈）に身を包んで断崖から谷底へ転がり落ち、将兵も木にすがって次々と降下。突如天から降ったかのように現れた魏軍に、江油城の守将・馬邈は戦わずして降伏した。",
+          "descEn": "Blocked by sheer cliffs with rations exhausted, the 67-year-old Deng Ai wrapped himself in felt blankets and rolled down the precipice. His soldiers clambered down trees and vines after him, stunning the Shu garrison at Jiangyou into immediate surrender.",
+          "quoteZh": "《三国志・魏書・鄧艾伝》：「山高谷深，至為艱険，又糧運將匱，頻於危殆。艾以氈自裹，推轉而下。將士皆攀木縁崖，魚貫而進。先登至江由，蜀守將馬邈降。」",
+          "quoteEn": "Records of the Three Kingdoms: 'Deng Ai wrapped himself in felt and rolled down the cliff. Officers and men clutched trees and scaled crags in single file. Arriving at Jiangyou, the Shu commander Ma Miao surrendered.'",
+          "persons": [
+            "dengai"
+          ],
+          "titleJa": "伝説の「陰平偷渡」：毛布に身を包み断崖を転がり落ちて江油を奇襲",
+          "descJa": "陰平から先は道すら絶えた断崖絶壁（摩天嶺）であった。山を穿ち木橋を架けて進んだが、最後は崖に行き当たり食糧も尽き果てた。その時、六十七歳の鄧艾は自ら毛布（氈）に身を包んで断崖から谷底へ転がり落ち、将兵も木にすがって次々と降下。突如天から降ったかのように現れた魏軍に、江油城の守将・馬邈は戦わずして降伏した。"
+        },
+        {
+          "year": 263,
+          "eraZh": "魏景元四年十一月",
+          "coord": [
+            104.2,
+            31.34
+          ],
+          "labelPos": "top",
+          "ancientZh": "綿竹関",
+          "modernZh": "四川徳陽綿竹",
+          "ancientEn": "Mianzhu Pass",
+          "modernEn": "Mianzhu, Sichuan",
+          "titleZh": "綿竹の決戦：諸葛亮の遺児・諸葛瞻を撃破し成都への門戸を開く",
+          "titleEn": "Battle of Mianzhu: Defeating Zhuge Zhan, Son of Zhuge Liang",
+          "descZh": "驚愕した蜀廷は衛将軍・諸葛瞻（諸葛亮の子）に軍を授けて綿竹関で迎え撃たせた。初戦では魏の先鋒が敗退したものの、鄧艾は子の鄧忠と師纂に命じて左右から挟撃させ、背水の覚悟で総攻撃を敢行。諸葛瞻・諸葛尚父子および張遵（張飛の孫）らは壮絶な戦死を遂げ、綿竹は陥落した。",
+          "descEn": "Zhuge Liang's son Zhuge Zhan made a last stand at Mianzhu Pass. Deng Ai flanked the Shu lines with desperate resolve, routing the defenders and slaying Zhuge Zhan in battle.",
+          "quoteZh": "《三国志・魏書・鄧艾伝》：「蜀衛將軍諸葛瞻自涪還綿竹，列陳待艾。艾遣子惠唐亭侯忠等出其右，司馬師纂等出其左……大破之，斬瞻及尚書張遵等首，進軍到雒。」",
+          "quoteEn": "Records of the Three Kingdoms: 'Deng Ai sent his son Deng Zhong to flank the right and Shi Zuan the left... routing the Shu army and taking the heads of Zhuge Zhan and Zhang Zun.'",
+          "persons": [
+            "dengai"
+          ],
+          "titleJa": "綿竹の決戦：諸葛亮の遺児・諸葛瞻を撃破し成都への門戸を開く",
+          "descJa": "驚愕した蜀廷は衛将軍・諸葛瞻（諸葛亮の子）に軍を授けて綿竹関で迎え撃たせた。初戦では魏の先鋒が敗退したものの、鄧艾は子の鄧忠と師纂に命じて左右から挟撃させ、背水の覚悟で総攻撃を敢行。諸葛瞻・諸葛尚父子および張遵（張飛の孫）らは壮絶な戦死を遂げ、綿竹は陥落した。"
+        },
+        {
+          "year": 263,
+          "eraZh": "魏景元四年十一月",
+          "coord": [
+            104.06,
+            30.67
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "成都",
+          "modernZh": "四川成都",
+          "ancientEn": "Chengdu",
+          "modernEn": "Chengdu, Sichuan",
+          "titleZh": "成都無血開城：後主・劉禅が降伏し、蜀漢四十三年の歴史が幕を閉じる",
+          "titleEn": "Fall of Chengdu: Surrender of Emperor Liu Shan & End of Shu Han",
+          "descZh": "鄧艾軍が成都近郊の雒県に迫ると、後主・劉禅は譙周の進言を容れ、自ら縛について棺を輿に乗せ、鄧艾の軍門に降伏した。鄧艾は直ちに縛を解いて礼遇し、将兵の略奪を厳禁して城内を安撫した。ここに劉備・諸葛亮が築いた蜀漢は滅亡し、三国鼎立は終焉を迎えた。",
+          "descEn": "With Deng Ai at the gates of Chengdu, Shu Emperor Liu Shan bound himself and surrendered. Deng Ai untied his bonds, forbade looting, and peacefully secured the capital, ending the 43-year history of Shu Han.",
+          "quoteZh": "《三国志・蜀書・後主伝》：「後主乃遣侍中張紹等奉璽綬，請降於艾……輿櫬自縛，詣軍壘門。艾解縛焚櫬，延請相見。」",
+          "quoteEn": "Records of the Three Kingdoms: 'The Later Lord brought a coffin and bound himself at the camp gate. Deng Ai untied his ropes, burned the coffin, and received him with courtesy.'",
+          "persons": [
+            "dengai"
+          ],
+          "titleJa": "成都無血開城：後主・劉禅が降伏し、蜀漢四十三年の歴史が幕を閉じる",
+          "descJa": "鄧艾軍が成都近郊の雒県に迫ると、後主・劉禅は譙周の進言を容れ、自ら縛について棺を輿に乗せ、鄧艾の軍門に降伏した。鄧艾は直ちに縛を解いて礼遇し、将兵の略奪を厳禁して城内を安撫した。ここに劉備・諸葛亮が築いた蜀漢は滅亡し、三国鼎立は終焉を迎えた。"
+        }
+      ]
+    },
+    {
+      "key": "lijing",
+      "dynastyKey": "tang",
+      "color": "#1d6f58",
+      "shortZh": "李靖・陰山夜襲と吐谷渾大遠征",
+      "shortEn": "Li Jing's Yinshan & Tuyuhun Campaigns",
+      "titleZh": "大唐の軍神・李靖の陰山夜襲（東突厥撃滅）と青海・黄河源流遠征の軌跡",
+      "titleEn": "Li Jing: Destruction of the Eastern Turks at Yinshan & Expedition to the Yellow River Source",
+      "spanZh": "621年 — 635年（唐武徳四年〜貞観九年）",
+      "spanEn": "621 CE – 635 CE (Tang Dynasty)",
+      "stops": [
+        {
+          "year": 621,
+          "eraZh": "唐武徳四年十月",
+          "coord": [
+            112.2,
+            30.35
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "江陵",
+          "modernZh": "湖北荊州",
+          "ancientEn": "Jiangling",
+          "modernEn": "Jingzhou, Hubei",
+          "titleZh": "秋の増水に乗じて三峡を下り、蕭銑の梁国四十万を平定",
+          "titleEn": "Shooting the Three Gorges in Flood Season to Conquer Xiao Xian",
+          "descZh": "秋の長江増水期に三峡を下ることを危ぶむ諸将に対し、李靖は「兵は神速を貴ぶ。今こそ敵の不意を突く絶好の機なり！」と断行。二千の戦艦で一気に夷陵から江陵へ迫り、蕭銑の四十万の軍が集結する前に包囲・降伏させ、江南・嶺南一帯を無血に近く平定した。",
+          "descEn": "Overruling cautious generals during the autumn floods, Li Jing sailed 2,000 warships rapidly through the Three Gorges, catching Xiao Xian unprepared at Jiangling and pacifying southern China.",
+          "quoteZh": "《旧唐書・李靖伝》：「靖曰：『兵貴神速，機不可失。今兵始集，銑尚未知，若乘水漲之勢，倏忽至城下，所謂疾雷不及掩耳，此兵家上策。』」",
+          "quoteEn": "Old Book of Tang: 'Li Jing said: War prizes divine speed. Riding the swollen river to appear beneath their walls like a thunderclap before ears can be covered—this is the supreme strategy.'",
+          "persons": [
+            "lijing"
+          ],
+          "titleJa": "秋の増水に乗じて三峡を下り、蕭銑の梁国四十万を平定",
+          "descJa": "秋の長江増水期に三峡を下ることを危ぶむ諸将に対し、李靖は「兵は神速を貴ぶ。今こそ敵の不意を突く絶好の機なり！」と断行。二千の戦艦で一気に夷陵から江陵へ迫り、蕭銑の四十万の軍が集結する前に包囲・降伏させ、江南・嶺南一帯を無血に近く平定した。"
+        },
+        {
+          "year": 630,
+          "eraZh": "唐貞観四年正月",
+          "coord": [
+            112.6,
+            39.85
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "定襄・悪陽嶺",
+          "modernZh": "山西朔州〜内モンゴル和林格爾",
+          "ancientEn": "Dingxiang",
+          "modernEn": "Horinger, Inner Mongolia",
+          "titleZh": "わずか三千の精鋭騎兵で厳冬の定襄を夜襲し、頡利可汗を走らす",
+          "titleEn": "Night Raid on Dingxiang with 3,000 Cavalry in Dead of Winter",
+          "descZh": "強大な東突厥の頡利可汗に対し、兵部尚書・李靖は厳冬の正月、馬邑からわずか三千の精鋭騎兵を率いて悪陽嶺に進出。夜陰に乗じて定襄城へ電撃夜襲を敢行した。頡利可汗は「唐が国を挙げて来襲したに違いない」と驚愕して鉄山へと潰走し、東突厥の勢力は一気に瓦解した。",
+          "descEn": "In the freezing depths of January, Li Jing led just 3,000 elite horsemen from Mayi over Eyang Ridge and launched a daring night assault on Dingxiang, panicking Illig Qaghan into retreating north.",
+          "quoteZh": "《資治通鑑》：「李靖帥驍騎三千自馬邑進屯惡陽嶺，夜襲定襄，破之。頡利可汗不意靖猝至，大驚曰：『兵不傾國來，靖何敢孤軍至此！』」",
+          "quoteEn": "Zizhi Tongjian: 'Li Jing led 3,000 elite riders to Eyang Ridge and stormed Dingxiang by night. Illig Qaghan cried in shock: Unless the whole Tang nation has come, how could Li Jing dare advance here alone!'",
+          "persons": [
+            "lijing",
+            "lishimin"
+          ],
+          "titleJa": "わずか三千の精鋭騎兵で厳冬の定襄を夜襲し、頡利可汗を走らす",
+          "descJa": "強大な東突厥の頡利可汗に対し、兵部尚書・李靖は厳冬の正月、馬邑からわずか三千の精鋭騎兵を率いて悪陽嶺に進出。夜陰に乗じて定襄城へ電撃夜襲を敢行した。頡利可汗は「唐が国を挙げて来襲したに違いない」と驚愕して鉄山へと潰走し、東突厥の勢力は一気に瓦解した。"
+        },
+        {
+          "year": 630,
+          "eraZh": "唐貞観四年二月",
+          "coord": [
+            110.8,
+            41.2
+          ],
+          "labelPos": "top",
+          "ancientZh": "陰山（鉄山）",
+          "modernZh": "内モンゴル包頭・フフホト北方",
+          "ancientEn": "Yinshan (Mount Tie)",
+          "modernEn": "Yin Mountains, Inner Mongolia",
+          "titleZh": "陰山の大奇襲：十万の東突厥を撃滅し、漠南を完全平定",
+          "titleEn": "Assault on the Yin Mountains & Fall of the Eastern Turkic Khaganate",
+          "descZh": "頡利可汗が和議を請うて油断した隙を突き、李靖は蘇定方ら精鋭一万を率いて二十日分の食糧のみを携え、白道から陰山（鉄山）の敵本営を急襲。一万余級を斬首し男女十余万を捕虜とし、逃れた頡利可汗も捕縛された。太宗は「古の韓信や白起といえどもこれに遠く及ばぬ！」と激賞した。",
+          "descEn": "Carrying twenty days' rations, Li Jing and Su Dingfang charged through Baidao Pass into the Yin Mountains, routing over 100,000 Eastern Turks and capturing Illig Qaghan, ending the Eastern Turkic Empire.",
+          "quoteZh": "《旧唐書・李靖伝》：「靖以騎三千，蹀血虜庭，遂取定襄，古未有輩，足滌吾渭水之恥矣！」",
+          "quoteEn": "Old Book of Tang: 'Emperor Taizong declared: With 3,000 riders Li Jing waded through blood in the barbarian court and took Dingxiang—unmatched in antiquity, washing away our shame at the Wei River!'",
+          "persons": [
+            "lijing",
+            "lishimin"
+          ],
+          "titleJa": "陰山の大奇襲：十万の東突厥を撃滅し、漠南を完全平定",
+          "descJa": "頡利可汗が和議を請うて油断した隙を突き、李靖は蘇定方ら精鋭一万を率いて二十日分の食糧のみを携え、白道から陰山（鉄山）の敵本営を急襲。一万余級を斬首し男女十余万を捕虜とし、逃れた頡利可汗も捕縛された。太宗は「古の韓信や白起といえどもこれに遠く及ばぬ！」と激賞した。"
+        },
+        {
+          "year": 634,
+          "eraZh": "唐貞観八年十二月",
+          "coord": [
+            102.4,
+            36.48
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "鄯州",
+          "modernZh": "青海海東楽都",
+          "ancientEn": "Shanzhou",
+          "modernEn": "Ledu, Qinghai",
+          "titleZh": "六十五歳の老将、西海道行軍大総管として吐谷渾討伐へ出陣",
+          "titleEn": "At Age 65, Taking Command of the Grand Western Expedition Against Tuyuhun",
+          "descZh": "青海高原の吐谷渾（慕容伏允）が辺境を侵すと、太宗は「李靖が老体を押して行ってくれるなら、これに勝る喜びはない」と懇請。既に病を得て隠退していた六十五歳の李靖は奮然として総司令官（西海道行軍大総管）を拝命し、侯君集・李道宗・契苾何力らを率いて鄯州から青海高原へと進撃した。",
+          "descEn": "Despite his advanced age of 65 and failing health, Li Jing volunteered to lead the Western Sea Expeditionary Army from Shanzhou onto the Tibetan-Qinghai Plateau against the Tuyuhun kingdom.",
+          "quoteZh": "《新唐書・李靖伝》：「吐谷渾寇邊，帝謂侍臣曰：『得李靖為帥，豈非善哉！』靖乃見房玄齡曰：『吾雖老，尚堪一行。』帝大悦，即以靖為西海道行軍大總管。」",
+          "quoteEn": "New Book of Tang: 'Li Jing told Fang Xuanling: Though I am old, I can still make one more campaign. The Emperor was overjoyed and named him Grand Commander.'",
+          "persons": [
+            "lijing",
+            "lishimin"
+          ],
+          "titleJa": "六十五歳の老将、西海道行軍大総管として吐谷渾討伐へ出陣",
+          "descJa": "青海高原の吐谷渾（慕容伏允）が辺境を侵すと、太宗は「李靖が老体を押して行ってくれるなら、これに勝る喜びはない」と懇請。既に病を得て隠退していた六十五歳の李靖は奮然として総司令官（西海道行軍大総管）を拝命し、侯君集・李道宗・契苾何力らを率いて鄯州から青海高原へと進撃した。"
+        },
+        {
+          "year": 635,
+          "eraZh": "唐貞観九年四月",
+          "coord": [
+            100.2,
+            36.85
+          ],
+          "labelPos": "top",
+          "ancientZh": "庫山・青海湖",
+          "modernZh": "青海海南共和（青海湖畔）",
+          "ancientEn": "Kushan & Qinghai Lake",
+          "modernEn": "Qinghai Lake, Qinghai",
+          "titleZh": "青海湖畔・庫山の激戦：焦土戦術を打ち破り二道に分かれて猛追",
+          "titleEn": "Battle of Kushan by Qinghai Lake & Two-Pronged Pursuit",
+          "descZh": "吐谷渾軍が野草を焼き払って唐軍の軍馬の飼料を絶とうとした。諸将が退却を進言する中、李靖と侯君集は「敵が焼野原を頼みに油断している今こそ、一気呵成に攻め滅ぼすべし！」と決断。庫山・牛心堆・赤水原で吐谷渾の主力を次々と撃破し、さらに軍を南北二道に分けてツァイダム盆地へ追撃した。",
+          "descEn": "When the Tuyuhun burned the steppe grass to starve Tang horses, Li Jing pressed forward regardless, defeating the enemy at Kushan near Qinghai Lake and splitting his army into northern and southern columns for deep pursuit.",
+          "quoteZh": "《資治通鑑》：「靖從之，中分其軍為兩道：靖與薛萬均、李大亮由北道，君集與任城王道宗由南道。」",
+          "quoteEn": "Zizhi Tongjian: 'Li Jing divided his army into two columns: Jing with Xue Wanjun and Li Daliang took the northern route; Hou Junji and Li Daozong took the southern route.'",
+          "persons": [
+            "lijing"
+          ],
+          "titleJa": "青海湖畔・庫山の激戦：焦土戦術を打ち破り二道に分かれて猛追",
+          "descJa": "吐谷渾軍が野草を焼き払って唐軍の軍馬の飼料を絶とうとした。諸将が退却を進言する中、李靖と侯君集は「敵が焼野原を頼みに油断している今こそ、一気呵成に攻め滅ぼすべし！」と決断。庫山・牛心堆・赤水原で吐谷渾の主力を次々と撃破し、さらに軍を南北二道に分けてツァイダム盆地へ追撃した。"
+        },
+        {
+          "year": 635,
+          "eraZh": "唐貞観九年五月",
+          "coord": [
+            97.3,
+            34.88
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "星宿海・柏海（河源）",
+          "modernZh": "青海果洛瑪多（黄河源流）",
+          "ancientEn": "Xingxiuhai & Bohai (Yellow River Source)",
+          "modernEn": "Maduo, Qinghai",
+          "titleZh": "黄河源流・標高四千メートルの極限行軍と吐谷渾の完全平定",
+          "titleEn": "Marching to the Yellow River Source at 4,000m & Conquest of Tuyuhun",
+          "descZh": "唐軍は無人・厳寒のツァイダム盆地から標高四千メートルを超える星宿海・柏海（黄河の源流地帯）まで二千余里を踏破。盛夏に霜が降り水草も乏しい中、兵は氷を噛み馬は雪を食んで進軍し、慕容伏允をタクラマカン砂漠の南縁まで追い詰めて自縊させ、吐谷渾を完全に平定した。",
+          "descEn": "Traversing 2,000 li of frozen wasteland above 4,000 meters where soldiers chewed ice and horses ate snow in mid-summer, Tang forces reached the headwaters of the Yellow River and annihilated Murong Fuyun's forces.",
+          "quoteZh": "《旧唐書・李道宗伝》：「行空荒之地二千里，盛夏降霜，乏水草，將士啖冰，馬皆食雪，又達于柏海，北望積石山，觀河源之所出焉。」",
+          "quoteEn": "Old Book of Tang: 'Marching two thousand li through barren wilderness where frost fell in mid-summer, soldiers chewed ice and horses ate snow until reaching Bohai and viewing the source of the Yellow River.'",
+          "persons": [
+            "lijing"
+          ],
+          "titleJa": "黄河源流・標高四千メートルの極限行軍と吐谷渾の完全平定",
+          "descJa": "唐軍は無人・厳寒のツァイダム盆地から標高四千メートルを超える星宿海・柏海（黄河の源流地帯）まで二千余里を踏破。盛夏に霜が降り水草も乏しい中、兵は氷を噛み馬は雪を食んで進軍し、慕容伏允をタクラマカン砂漠の南縁まで追い詰めて自縊させ、吐谷渾を完全に平定した。"
+        }
+      ]
+    },
+    {
+      "key": "yuefei",
+      "dynastyKey": "nansong",
+      "color": "#9e2a2b",
+      "shortZh": "岳飛・四度北伐と朱仙鎮",
+      "shortEn": "Yue Fei's Northern Expeditions",
+      "titleZh": "抗金の名将・岳飛の四度北伐と郾城・朱仙鎮の軌跡（尽忠報国）",
+      "titleEn": "Yue Fei's Northern Expeditions: From Jingkang to Yancheng & Zhuxianzhen",
+      "spanZh": "1122年 — 1142年（北宋宣和四年〜南宋紹興十二年）",
+      "spanEn": "1122 CE – 1142 CE (Northern to Southern Song)",
+      "stops": [
+        {
+          "year": 1122,
+          "eraZh": "北宋宣和四年",
+          "coord": [
+            114.36,
+            35.92
+          ],
+          "labelPos": "top",
+          "ancientZh": "相州湯陰",
+          "modernZh": "河南安陽湯陰",
+          "ancientEn": "Tangyin, Xiangzhou",
+          "modernEn": "Tangyin, Henan",
+          "titleZh": "母が背に「尽忠報国」の四字を刻み、二十歳にして従軍す",
+          "titleEn": "Enlisting at Tangyin with 'Utmost Loyalty to Serve the Nation' Tattooed on His Back",
+          "descZh": "相州湯陰の農家に生まれた岳飛は、生まれつき怪力を持ち三百斤の強弓と八石の弩を引いた。靖康の変で北宋が滅び国家が存亡の危機に瀕すると、母・姚氏は岳飛の背中に「尽忠報国（精忠報国）」の四文字を深く刺青して送り出し、岳飛は生涯その誓いを胸に戦場を駆けた。",
+          "descEn": "Born to a farming family in Tangyin, Yue Fei could draw a 300-catty bow. His mother tattooed 'Utmost Loyalty to Serve the Nation' (Jinzhong Baoguo) onto his back as he rode off to defend the collapsing Song Empire.",
+          "quoteZh": "《宋史・岳飛伝》：「初命何鑄鞫之，飛裂裳以背示鑄，有『盡忠報國』四大字，深入膚理。」",
+          "quoteEn": "History of Song: 'Yue Fei tore open his robe to show his back to He Zhu, revealing the four large characters Utmost Loyalty to Serve the Nation deeply etched into his flesh.'",
+          "persons": [
+            "yuefei"
+          ],
+          "titleJa": "母が背に「尽忠報国」の四字を刻み、二十歳にして従軍す",
+          "descJa": "相州湯陰の農家に生まれた岳飛は、生まれつき怪力を持ち三百斤の強弓と八石の弩を引いた。靖康の変で北宋が滅び国家が存亡の危機に瀕すると、母・姚氏は岳飛の背中に「尽忠報国（精忠報国）」の四文字を深く刺青して送り出し、岳飛は生涯その誓いを胸に戦場を駆けた。"
+        },
+        {
+          "year": 1130,
+          "eraZh": "南宋建炎四年四月",
+          "coord": [
+            118.78,
+            31.92
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "建康・牛頭山",
+          "modernZh": "江蘇南京",
+          "ancientEn": "Mount Niutou, Jiankang",
+          "modernEn": "Nanjing, Jiangsu",
+          "titleZh": "建康奪還：牛頭山に伏兵を設け、金の兀朮（ウジュ）を夜襲撃破",
+          "titleEn": "Recapture of Jiankang: Night Ambush on Wuzhu at Mount Niutou",
+          "descZh": "金の第四皇子・完顔宗弼（兀朮）が江南へ侵攻して建康（南京）を陥落させると、岳飛は孤軍奮闘して牛頭山に陣を張り、夜間に百人の決死隊に黒衣を着せて金軍の陣営へ紛れ込ませ大混乱を起こさせた。兀朮を長江北岸へ駆逐して建康を奪還し、南宋王朝の滅亡を防いだ。",
+          "descEn": "When Jin general Wuzhu occupied Jiankang, Yue Fei ambushed him from Mount Niutou, sending a hundred black-clad commandos into the Jin camp by night and liberating the southern capital.",
+          "quoteZh": "《宋史・岳飛伝》：「飛設伏牛頭山待之。夜令百人黒衣混金營中擾之，金兵驚，自相攻撃……飛乗勝追撃，遂復建康。」",
+          "quoteEn": "History of Song: 'Yue Fei laid an ambush at Mount Niutou, ordering a hundred men in black to infiltrate the Jin camp at night... routing the enemy and recovering Jiankang.'",
+          "persons": [
+            "yuefei"
+          ],
+          "titleJa": "建康奪還：牛頭山に伏兵を設け、金の兀朮（ウジュ）を夜襲撃破",
+          "descJa": "金の第四皇子・完顔宗弼（兀朮）が江南へ侵攻して建康（南京）を陥落させると、岳飛は孤軍奮闘して牛頭山に陣を張り、夜間に百人の決死隊に黒衣を着せて金軍の陣営へ紛れ込ませ大混乱を起こさせた。兀朮を長江北岸へ駆逐して建康を奪還し、南宋王朝の滅亡を防いだ。"
+        },
+        {
+          "year": 1134,
+          "eraZh": "南宋紹興四年五月",
+          "coord": [
+            112.14,
+            32.01
+          ],
+          "labelPos": "top",
+          "ancientZh": "襄陽",
+          "modernZh": "湖北襄陽",
+          "ancientEn": "Xiangyang",
+          "modernEn": "Xiangyang, Hubei",
+          "titleZh": "第一次北伐：わずか二ヶ月で襄陽六郡を電撃奪還",
+          "titleEn": "First Northern Expedition: Recovering the Six Prefectures of Xiangyang",
+          "descZh": "三十二歳の岳飛は高宗に上奏して初の本格的北伐を敢行。長江を渡る際に「賊帥を擒にし旧境を復さずんば、二度とこの江を渡らじ！」と誓い、郢州・襄陽・唐州・鄧州・随州・信陽の「襄陽六郡」をわずか二ヶ月で次々と奪還した。",
+          "descEn": "At age 32, Yue Fei launched his first northern campaign, swearing in mid-Yangtze not to return without restoring the lost territories, and recaptured the six strategic prefectures of Xiangyang within two months.",
+          "quoteZh": "《宋史・岳飛伝》：「飛渡江，中流顧幕屬曰：『飛不擒賊帥，復舊境，不渉此江！』……遂復襄陽、唐、鄧、隨、郢州、信陽軍，襄漢平。」",
+          "quoteEn": "History of Song: 'Crossing the Yangtze, Yue Fei turned to his staff in midstream and swore: If I do not capture the rebel chiefs and recover our old territories, I shall never cross this river again!'",
+          "persons": [
+            "yuefei"
+          ],
+          "titleJa": "第一次北伐：わずか二ヶ月で襄陽六郡を電撃奪還",
+          "descJa": "三十二歳の岳飛は高宗に上奏して初の本格的北伐を敢行。長江を渡る際に「賊帥を擒にし旧境を復さずんば、二度とこの江を渡らじ！」と誓い、郢州・襄陽・唐州・鄧州・随州・信陽の「襄陽六郡」をわずか二ヶ月で次々と奪還した。"
+        },
+        {
+          "year": 1135,
+          "eraZh": "南宋紹興五年",
+          "coord": [
+            114.3,
+            30.55
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "鄂州（武昌）",
+          "modernZh": "湖北武漢武昌",
+          "ancientEn": "Ezhou (Wuchang)",
+          "modernEn": "Wuchang, Wuhan",
+          "titleZh": "鄂州大本営にて「岳家軍」を練成、「山は揺るがしやすくも岳家軍は揺るがしがたし」",
+          "titleEn": "Forging the Invincible 'Yue Family Army' at Ezhou",
+          "descZh": "鄂州（武昌）を本営とした岳飛は、「凍死すとも家屋を壊さず、餓死すとも略奪せず」という厳格な軍律のもとで「岳家軍」を鍛え上げた。また洞庭湖の楊幺の水軍反乱をわずか八日で平定して精鋭水軍を編入し、金軍から「山を揺るがすは易きも、岳家軍を揺るがすは難し」と畏怖された。",
+          "descEn": "Stationed at Ezhou, Yue Fei forged his disciplined Yue Family Army under the motto 'Freeze to death rather than dismantle houses; starve to death rather than plunder,' inspiring the Jin saying: 'It is easier to shake a mountain than to shake the Yue Family Army!'",
+          "quoteZh": "《宋史・岳飛伝》：「軍號『凍死不拆屋，餓死不擄掠』……故金人語曰：『撼山易，撼岳家軍難！』」",
+          "quoteEn": "History of Song: 'Their motto was Freeze to death rather than tear down a house, starve to death rather than loot... Thus the Jurchens said: It is easier to shake a mountain than to shake the Yue Family Army!'",
+          "persons": [
+            "yuefei"
+          ],
+          "titleJa": "鄂州大本営にて「岳家軍」を練成、「山は揺るがしやすくも岳家軍は揺るがしがたし」",
+          "descJa": "鄂州（武昌）を本営とした岳飛は、「凍死すとも家屋を壊さず、餓死すとも略奪せず」という厳格な軍律のもとで「岳家軍」を鍛え上げた。また洞庭湖の楊幺の水軍反乱をわずか八日で平定して精鋭水軍を編入し、金軍から「山を揺るがすは易きも、岳家軍を揺るがすは難し」と畏怖された。"
+        },
+        {
+          "year": 1140,
+          "eraZh": "南宋紹興十年七月",
+          "coord": [
+            114.02,
+            33.58
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "郾城",
+          "modernZh": "河南漯河郾城",
+          "ancientEn": "Yancheng",
+          "modernEn": "Yancheng, Henan",
+          "titleZh": "第四次北伐・郾城の戦い：金の重装騎兵「鉄浮図・拐子馬」を粉砕",
+          "titleEn": "Battle of Yancheng: Shattering the Iron Pagoda Heavy Cavalry",
+          "descZh": "第四次北伐を開始した岳飛は中原へ進撃。金の兀朮は一万五千の精鋭騎兵（甲冑で連結した「鉄浮図」と左右両翼の「拐子馬」）を投入して郾城へ総攻撃をかけた。岳飛は歩兵に麻扎刀や大斧を持たせて敵陣へ潜り込ませ、上を見ずに馬の脚だけを斬り払う戦法で鉄浮図・拐子馬を壊滅させた。兀朮は「海上で挙兵して以来、常にこれで勝ってきたのに、今や終わりだ！」と号泣した。",
+          "descEn": "At Yancheng, Wuzhu deployed 15,000 armored 'Iron Pagoda' and 'Flanking Horse' cavalry. Yue Fei ordered his infantry to charge low with long-handled blades and hack at the horses' legs, annihilating the elite Jurchen cavalry.",
+          "quoteZh": "《宋史・岳飛伝》：「飛戒歩卒以麻扎刀入陣，勿仰視，第斫馬足。拐子馬相連，一馬仆，二馬不能行，官軍奮撃，遂大敗之。兀朮大慟曰：『自海上起兵，皆以此勝，今已矣！』」",
+          "quoteEn": "History of Song: 'Yue Fei ordered his foot soldiers to enter the formation with long knives, not looking up, hacking only at the horses' legs... Wuzhu wept aloud: Since rising by the sea we always won with these, and now they are finished!'",
+          "persons": [
+            "yuefei"
+          ],
+          "titleJa": "第四次北伐・郾城の戦い：金の重装騎兵「鉄浮図・拐子馬」を粉砕",
+          "descJa": "第四次北伐を開始した岳飛は中原へ進撃。金の兀朮は一万五千の精鋭騎兵（甲冑で連結した「鉄浮図」と左右両翼の「拐子馬」）を投入して郾城へ総攻撃をかけた。岳飛は歩兵に麻扎刀や大斧を持たせて敵陣へ潜り込ませ、上を見ずに馬の脚だけを斬り払う戦法で鉄浮図・拐子馬を壊滅させた。兀朮は「海上で挙兵して以来、常にこれで勝ってきたのに、今や終わりだ！」と号泣した。"
+        },
+        {
+          "year": 1140,
+          "eraZh": "南宋紹興十年七月",
+          "coord": [
+            114.23,
+            34.62
+          ],
+          "labelPos": "top",
+          "ancientZh": "朱仙鎮",
+          "modernZh": "河南開封祥符朱仙鎮",
+          "ancientEn": "Zhuxianzhen",
+          "modernEn": "Zhuxianzhen, Kaifeng",
+          "titleZh": "朱仙鎮の大捷と「一日に十二道の金牌」による血涙の撤退",
+          "titleEn": "Victory at Zhuxianzhen & The Twelve Gold Tablets Recall",
+          "descZh": "岳飛はさらに進撃して旧都・開封（東京）までわずか四十五里の朱仙鎮へ到達し、金軍十万を再び撃破。兀朮が開封放棄を決意し、岳飛が「諸君らと黄龍府へ直進して痛飲せん！」と将兵を鼓舞したまさにその時、和議を急ぐ高宗と宰相・秦檜から「一日に十二道の金字牌（緊急撤退命令）」が届いた。岳飛は東に向かって再拝し、「十年の労力、一旦にして廃さる！」と血の涙を流して軍を退いた。",
+          "descEn": "Advancing to Zhuxianzhen just 45 li from the old capital Kaifeng, Yue Fei promised his men they would drink in triumph at Huanglongfu. Suddenly, Emperor Gaozong and Qin Hui issued twelve gold tablets in a single day ordering immediate withdrawal. Yue Fei wept: 'Ten years of effort ruined in a single morning!'",
+          "quoteZh": "《宋史・岳飛伝》：「飛大喜，語其下曰：『直抵黄龍府，與諸君痛飲耳！』方指日渡河，而檜欲畫淮以北棄之，一日奉十二金字牌。飛憤惋泣下，東向再拜曰：『十年之力，廢於一旦！』」",
+          "quoteEn": "History of Song: 'Yue Fei told his men: We shall march straight to Huanglongfu and drink our fill together! Just as they prepared to cross the Yellow River, twelve gold tablets arrived in one day. Yue Fei wept in anguish: Ten years of labor destroyed in a single day!'",
+          "persons": [
+            "yuefei"
+          ],
+          "titleJa": "朱仙鎮の大捷と「一日に十二道の金牌」による血涙の撤退",
+          "descJa": "岳飛はさらに進撃して旧都・開封（東京）までわずか四十五里の朱仙鎮へ到達し、金軍十万を再び撃破。兀朮が開封放棄を決意し、岳飛が「諸君らと黄龍府へ直進して痛飲せん！」と将兵を鼓舞したまさにその時、和議を急ぐ高宗と宰相・秦檜から「一日に十二道の金字牌（緊急撤退命令）」が届いた。岳飛は東に向かって再拝し、「十年の労力、一旦にして廃さる！」と血の涙を流して軍を退いた。"
+        },
+        {
+          "year": 1142,
+          "eraZh": "南宋紹興十一年十二月",
+          "coord": [
+            120.15,
+            30.25
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "臨安・風波亭",
+          "modernZh": "浙江杭州",
+          "ancientEn": "Fengbo Pavilion, Lin'an",
+          "modernEn": "Hangzhou, Zhejiang",
+          "titleZh": "「天日昭昭」：莫須有の冤罪により風波亭に散る",
+          "titleEn": "Martyrdom at Fengbo Pavilion Under the 'Perhaps There Is' Charge",
+          "descZh": "金との「紹興の和議」の条件として岳飛の排除を迫られた秦檜は、岳飛を臨安の獄に投じた。韓世忠が証拠を詰問した際、秦檜が放った「莫須有（おそらく有るであろう）」の言葉は千古の憤激を買った。除夜の夜、岳飛は供述書に「天日昭昭、天日昭昭（天のお日様がすべてを照らしておられる）」と八文字を書き遺し、風波亭にて三十九歳の生涯を閉じた。",
+          "descEn": "To appease the Jin for the Treaty of Shaoxing, Qin Hui imprisoned Yue Fei on fabricated charges—telling Han Shizhong 'Perhaps there is' (Moxuyou) when pressed for evidence. Yue Fei was executed at Fengbo Pavilion at age 39.",
+          "quoteZh": "《宋史・岳飛伝》：「韓世忠不平，詣檜詰其實，檜曰：『飛子雲與張憲書雖不明，其事體莫須有。』世忠曰：『莫須有三字，何以服天下！』」",
+          "quoteEn": "History of Song: 'Han Shizhong confronted Qin Hui for the truth. Hui replied: Though the letters are unclear, the matter perhaps exists (Moxuyou). Shizhong cried: How can the three words Moxuyou convince the realm!'",
+          "persons": [
+            "yuefei",
+            "hanshizhong"
+          ],
+          "titleJa": "「天日昭昭」：莫須有の冤罪により風波亭に散る",
+          "descJa": "金との「紹興の和議」の条件として岳飛の排除を迫られた秦檜は、岳飛を臨安の獄に投じた。韓世忠が証拠を詰問した際、秦檜が放った「莫須有（おそらく有るであろう）」の言葉は千古の憤激を買った。除夜の夜、岳飛は供述書に「天日昭昭、天日昭昭（天のお日様がすべてを照らしておられる）」と八文字を書き遺し、風波亭にて三十九歳の生涯を閉じた。"
+        }
+      ]
+    },
+    {
+      "key": "genghiskhan",
+      "dynastyKey": "nansong",
+      "color": "#c87d20",
+      "shortZh": "成吉思汗・草原統一とユーラシア遠征",
+      "shortEn": "Genghis Khan's Eurasian Conquests",
+      "titleZh": "チンギス・カンと息子たちの大遠征（モンゴル統一・金朝進攻・中央アジア西征）の軌跡",
+      "titleEn": "Genghis Khan & His Sons: Unification of the Steppe, Invasion of Jin & Conquest of Central Asia",
+      "spanZh": "1206年 — 1227年（太祖元年〜二十二年）",
+      "spanEn": "1206 CE – 1227 CE (Rise of the Mongol Empire)",
+      "stops": [
+        {
+          "year": 1206,
+          "eraZh": "太祖元年春",
+          "coord": [
+            110.5,
+            48.6
+          ],
+          "labelPos": "top",
+          "ancientZh": "オノン川河源",
+          "modernZh": "モンゴル・ヘンティー県",
+          "ancientEn": "Source of the Onon River",
+          "modernEn": "Khentii Province, Mongolia",
+          "titleZh": "オノン河畔のクリルタイ：モンゴル高原を統一し「チンギス・カン」に即位",
+          "titleEn": "Great Kurultai at the Onon River: Proclaimed Genghis Khan",
+          "descZh": "父イェスゲイを毒殺され、幼少期に極貧と苦難を極めたテムジンは、ジャムカ・タタル部・ケレイト部・ナイマン部を次々と撃破してモンゴル高原の全遊牧部族を統一。1206年春、オノン川の源流にて大クリルタイを開き、九本の白いヤクの尾の旗（九斿白旗）を立てて「チンギス・カン」の尊号を称した。",
+          "descEn": "Having overcome childhood destitution to unite all nomadic tribes of the Mongolian steppe, Temüjin convened a Great Kurultai at the source of the Onon River, raised the nine-tailed white banner, and took the title Genghis Khan.",
+          "quoteZh": "《元史・太祖本紀》：「元年丙寅，帝大會諸王群臣，建九斿白旗，即皇帝位於斡難河之源，諸王群臣共上尊號曰成吉思皇帝。」",
+          "quoteEn": "History of Yuan: 'In the first year, the Emperor convened the princes and ministers, raised the nine-tailed white banner, and ascended the throne at the source of the Onon River as Genghis Khan.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "オノン河畔のクリルタイ：モンゴル高原を統一し「チンギス・カン」に即位",
+          "descJa": "父イェスゲイを毒殺され、幼少期に極貧と苦難を極めたテムジンは、ジャムカ・タタル部・ケレイト部・ナイマン部を次々と撃破してモンゴル高原の全遊牧部族を統一。1206年春、オノン川の源流にて大クリルタイを開き、九本の白いヤクの尾の旗（九斿白旗）を立てて「チンギス・カン」の尊号を称した。"
+        },
+        {
+          "year": 1211,
+          "eraZh": "太祖六年八月",
+          "coord": [
+            114.72,
+            40.86
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "野狐嶺",
+          "modernZh": "河北張家口万全",
+          "ancientEn": "Yehuling Ridge",
+          "modernEn": "Zhangjiakou, Hebei",
+          "titleZh": "野狐嶺の決戦：金朝の主力四十万を撃滅し華北への門戸を砕く",
+          "titleEn": "Battle of Yehuling: Shattering 400,000 Jin Troops",
+          "descZh": "長年の宿敵・金朝に対する大遠征を開始したチンギス・カンは、長男ジョチ・次男チャガタイ・三男オゴデイ・四男トゥルイとともに南下。野狐嶺および澮河堡において金朝の主力四十万と激突し、猛将ムカリの決死の突撃と本隊の猛攻により金軍の精鋭を全滅させた。この一戦で金朝の軍事力は決定的に崩壊した。",
+          "descEn": "Accompanied by his four sons Jochi, Chagatai, Ögedei, and Tolui, Genghis Khan annihilated the main Jin army of 400,000 at Yehuling and Huaihebao, breaking Jurchen military power in North China.",
+          "quoteZh": "《元史・太祖本紀》：「八月，帝及金師戰於宣平之會河川，大敗之。九月，抜徳興府，居庸關守將遁去。」",
+          "quoteEn": "History of Yuan: 'In August, the Emperor engaged the Jin army at Huaihechuan in Xuanping and won a crushing victory. In September, Juyong Pass fell.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "野狐嶺の決戦：金朝の主力四十万を撃滅し華北への門戸を砕く",
+          "descJa": "長年の宿敵・金朝に対する大遠征を開始したチンギス・カンは、長男ジョチ・次男チャガタイ・三男オゴデイ・四男トゥルイとともに南下。野狐嶺および澮河堡において金朝の主力四十万と激突し、猛将ムカリの決死の突撃と本隊の猛攻により金軍の精鋭を全滅させた。この一戦で金朝の軍事力は決定的に崩壊した。"
+        },
+        {
+          "year": 1215,
+          "eraZh": "太祖十年五月",
+          "coord": [
+            116.36,
+            39.9
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "金中都（燕京）",
+          "modernZh": "北京",
+          "ancientEn": "Zhongdu (Yanjing)",
+          "modernEn": "Beijing",
+          "titleZh": "三道より華北を席巻し、金の首都・中都（燕京）を陥落させる",
+          "titleEn": "Three-Pronged Sweep Across North China & Fall of Jin Capital Zhongdu",
+          "descZh": "チンギス・カンは全軍を三道（チンギス・カンとトゥルイの中軍、ジョチ・チャガタイ・オゴデイの右軍、弟カサルの左軍）に分けて河北・山東・山西の九十余郡を席巻。金の宣宗が恐怖に駆られて開封へ南遷すると、1215年五月に孤立した首都・中都（北京）を陥落させ、名臣・耶律楚材を見出して幕下に招いた。",
+          "descEn": "Dividing his forces into three armies with his sons, Genghis Khan swept over ninety prefectures across North China and captured the Jin imperial capital of Zhongdu in 1215, recruiting the great statesman Yelü Chucai.",
+          "quoteZh": "《元史・太祖本紀》：「十年乙亥五月，金中都留守完顔福興仰藥死，抹撚盡忠棄城走，明安入守之。」",
+          "quoteEn": "History of Yuan: 'In May of the tenth year, the Jin regent of Zhongdu took poison and died, and Mongol forces entered the capital.'",
+          "persons": [
+            "genghiskhan",
+            "yeluchucai"
+          ],
+          "titleJa": "三道より華北を席巻し、金の首都・中都（燕京）を陥落させる",
+          "descJa": "チンギス・カンは全軍を三道（チンギス・カンとトゥルイの中軍、ジョチ・チャガタイ・オゴデイの右軍、弟カサルの左軍）に分けて河北・山東・山西の九十余郡を席巻。金の宣宗が恐怖に駆られて開封へ南遷すると、1215年五月に孤立した首都・中都（北京）を陥落させ、名臣・耶律楚材を見出して幕下に招いた。"
+        },
+        {
+          "year": 1218,
+          "eraZh": "太祖十三年",
+          "coord": [
+            75.99,
+            39.47
+          ],
+          "labelPos": "top",
+          "ancientZh": "カシュガル（疎勒）",
+          "modernZh": "新疆カシュガル",
+          "ancientEn": "Kashgar",
+          "modernEn": "Kashgar, Xinjiang",
+          "titleZh": "名将ジェベを遣わして西遼（カラ・キタイ）を滅ぼし、天山・パミールを制圧",
+          "titleEn": "Jebe's Conquest of Qara Khitai (Western Liao) Across the Tianshan",
+          "descZh": "ナイマン部の王子クチュルクが西遼（カラ・キタイ）を簒奪して住民を迫害していたため、チンギス・カンは名将ジェベに二万の騎兵を授けて西征させた。ジェベは信仰の自由を宣言して各地の都市を無血開城させ、カシュガルからパミール高原（バダフシャン）までクチュルクを追撃して斬首。モンゴル帝国は中央アジアのホラズム・シャー朝と直接国境を接するに至った。",
+          "descEn": "Dispatching General Jebe with 20,000 riders, the Mongols proclaimed religious freedom in Kashgar, hunted down the usurper Küchlüg in the Pamirs, and absorbed the Qara Khitai Empire.",
+          "quoteZh": "《元史・曷思麦里伝》：「哲別令曷思麥里持屈出律首往徇其地，若可失哈兒（カシュガル）、押兒牽（ヤルカンド）、斡端（ホータン）諸城，皆望風降附。」",
+          "quoteEn": "History of Yuan: 'Jebe paraded Küchlüg's head through the region, and the cities of Kashgar, Yarkand, and Khotan all surrendered at the mere news.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "名将ジェベを遣わして西遼（カラ・キタイ）を滅ぼし、天山・パミールを制圧",
+          "descJa": "ナイマン部の王子クチュルクが西遼（カラ・キタイ）を簒奪して住民を迫害していたため、チンギス・カンは名将ジェベに二万の騎兵を授けて西征させた。ジェベは信仰の自由を宣言して各地の都市を無血開城させ、カシュガルからパミール高原（バダフシャン）までクチュルクを追撃して斬首。モンゴル帝国は中央アジアのホラズム・シャー朝と直接国境を接するに至った。"
+        },
+        {
+          "year": 1219,
+          "eraZh": "太祖十四年秋",
+          "coord": [
+            68.3,
+            42.85
+          ],
+          "labelPos": "top",
+          "ancientZh": "オトラル（訛答剌）",
+          "modernZh": "カザフスタン南部シルダリア中流",
+          "ancientEn": "Otrar",
+          "modernEn": "Southern Kazakhstan",
+          "titleZh": "中央アジア大西征の開始：四人の息子とともにオトラルを包囲・分進",
+          "titleEn": "Invasion of Khwarazm: Siege of Otrar & Four-Column Strategy",
+          "descZh": "ホラズム・シャー朝のオトラル総督がモンゴルの通商使節団四百五十人を虐殺したことに激怒したチンギス・カンは、四人の息子（ジョチ・チャガタイ・オゴデイ・トゥルイ）を総動員し十数万の大軍で西方大遠征を敢行。アルタイ山脈とイリ渓谷を越えてオトラルへ到達すると、チャガタイとオゴデイにオトラル包囲を命じ、ジョチをシルダリア下流へ、自らはトゥルイとともにキジルクム砂漠の横断へと向かった。",
+          "descEn": "After the governor of Otrar massacred a Mongol trade caravan, Genghis Khan marched west with his four sons. Leaving Chagatai and Ögedei to besiege Otrar and sending Jochi down the Syr Darya, Genghis and Tolui vanished into the Kyzylkum Desert.",
+          "quoteZh": "《元史・太祖本紀》：「十四年己卯夏六月，西域殺使者，帝率師親征。秋，取訛答剌（オトラル）城，擒其帥哈只兒只蘭禿。」",
+          "quoteEn": "History of Yuan: 'In June of the fourteenth year, because the Western Regions murdered his envoys, the Emperor personally led his army on campaign. In autumn, he took Otrar and captured its governor.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "中央アジア大西征の開始：四人の息子とともにオトラルを包囲・分進",
+          "descJa": "ホラズム・シャー朝のオトラル総督がモンゴルの通商使節団四百五十人を虐殺したことに激怒したチンギス・カンは、四人の息子（ジョチ・チャガタイ・オゴデイ・トゥルイ）を総動員し十数万の大軍で西方大遠征を敢行。アルタイ山脈とイリ渓谷を越えてオトラルへ到達すると、チャガタイとオゴデイにオトラル包囲を命じ、ジョチをシルダリア下流へ、自らはトゥルイとともにキジルクム砂漠の横断へと向かった。"
+        },
+        {
+          "year": 1220,
+          "eraZh": "太祖十五年五月",
+          "coord": [
+            66.97,
+            39.65
+          ],
+          "labelPos": "top",
+          "ancientZh": "サマルカンド（尋思干）",
+          "modernZh": "ウズベキスタン サマルカンド",
+          "ancientEn": "Samarkand",
+          "modernEn": "Samarkand, Uzbekistan",
+          "titleZh": "キジルクム砂漠の電撃横断とブハラ・サマルカンドの攻略",
+          "titleEn": "Crossing the Kyzylkum Desert & Fall of Bukhara and Samarkand",
+          "descZh": "大軍では通行不可能とされていたキジルクム砂漠を六百キロにわたり踏破したチンギス・カンとトゥルイは、ホラズムの背後に突如出現してブハラを陥落させ、続けて首都・サマルカンドを包囲。オトラルを落としたチャガタイ・オゴデイ軍とも合流し、戦象部隊を打ち破ってわずか五日間でサマルカンドを陥落させた。",
+          "descEn": "Emerging unexpectedly from the 'impassable' Kyzylkum Desert, Genghis Khan and Tolui seized Bukhara and converged with Chagatai and Ögedei at Samarkand, taking the Khwarazmian capital in just five days.",
+          "quoteZh": "《元史・太祖本紀》：「十五年庚辰春三月，帝克蒲華（ブハラ）城。夏五月，克尋思干（サマルカンド）城。」",
+          "quoteEn": "History of Yuan: 'In March of the fifteenth year, the Emperor conquered Bukhara. In May, he conquered Samarkand.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "キジルクム砂漠の電撃横断とブハラ・サマルカンドの攻略",
+          "descJa": "大軍では通行不可能とされていたキジルクム砂漠を六百キロにわたり踏破したチンギス・カンとトゥルイは、ホラズムの背後に突如出現してブハラを陥落させ、続けて首都・サマルカンドを包囲。オトラルを落としたチャガタイ・オゴデイ軍とも合流し、戦象部隊を打ち破ってわずか五日間でサマルカンドを陥落させた。"
+        },
+        {
+          "year": 1221,
+          "eraZh": "太祖十六年",
+          "coord": [
+            66.9,
+            36.75
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "バルフ（縛喝・班勒紇）",
+          "modernZh": "アフガニスタン北部マザーリシャリーフ近郊",
+          "ancientEn": "Balkh",
+          "modernEn": "Balkh, Afghanistan",
+          "titleZh": "息子たちによるホラズム全土席巻とヒンドゥークシュ・インダス河への追撃",
+          "titleEn": "Sons Conquer Urgench & Khorasan; Pursuit Across the Hindu Kush",
+          "descZh": "長男ジョチ・次男チャガタイ・三男オゴデイがホラズムの旧都ウルゲンチを攻略する一方、チンギス・カンはアムダリア川を渡ってバルフを占領し、四男トゥルイにホラーサーン地方（メルヴ・ニーシャープール・ヘラート）を平定させた。さらにヒンドゥークシュ山脈を越えて王子ジャラールッディーンをインダス河畔まで追撃して撃破した。",
+          "descEn": "While Jochi, Chagatai, and Ögedei stormed Urgench, Tolui conquered Khorasan, and Genghis Khan crossed the Amu Darya to Balkh and over the Hindu Kush to defeat Jalal al-Din at the Indus River.",
+          "quoteZh": "《元史・太祖本紀》：「皇子朮赤、察合台、窩闊台分攻玉龍傑赤（ウルゲンチ）等城；皇子拖雷克馬魯（メルヴ）、昔剌思等城。」",
+          "quoteEn": "History of Yuan: 'Princes Jochi, Chagatai, and Ögedei besieged Urgench; Prince Tolui conquered Merv, Nishapur, and other cities.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "息子たちによるホラズム全土席巻とヒンドゥークシュ・インダス河への追撃",
+          "descJa": "長男ジョチ・次男チャガタイ・三男オゴデイがホラズムの旧都ウルゲンチを攻略する一方、チンギス・カンはアムダリア川を渡ってバルフを占領し、四男トゥルイにホラーサーン地方（メルヴ・ニーシャープール・ヘラート）を平定させた。さらにヒンドゥークシュ山脈を越えて王子ジャラールッディーンをインダス河畔まで追撃して撃破した。"
+        },
+        {
+          "year": 1227,
+          "eraZh": "太祖二十二年七月",
+          "coord": [
+            106.2,
+            35.65
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "六盤山・中興府",
+          "modernZh": "寧夏固原〜銀川",
+          "ancientEn": "Mount Liupan & Zhongxing (Yinchuan)",
+          "modernEn": "Guyuan & Yinchuan, Ningxia",
+          "titleZh": "西夏滅亡と六盤山での崩御、金朝攻略の遺策を息子たちに託す",
+          "titleEn": "Conquest of Western Xia & Passing at Mount Liupan",
+          "descZh": "西征から帰還したチンギス・カンは西夏への最終親征に出陣し、霊州で西夏の主力三十万を壊滅させて首都・中興府を包囲した。1227年七月、六盤山にて病が重くなると、息子たちに「金朝の精兵は潼関にある。宋から道を借りて唐・鄧より大梁（開封）を直撃せよ」との遺策を授けて六十六歳で崩御。その言葉通り、のちにオゴデイとトゥルイが三峰山の戦いで金朝を滅ぼした。",
+          "descEn": "After crushing Western Xia, Genghis Khan fell ill at Mount Liupan. On his deathbed, he dictated the grand flanking strategy via Song territory that his sons Ögedei and Tolui later used to destroy the Jin Dynasty.",
+          "quoteZh": "《元史・太祖本紀》：「臨崩謂左右曰：『金精兵在潼關，南據連山，北限大河，難以遽破。若假道于宋，宋、金世讎，必能許我，則下兵唐、鄧，直擣大梁。』言訖而崩。」",
+          "quoteEn": "History of Yuan: 'Before passing, he told his followers: Jin's finest troops hold Tongguan. If we borrow passage through Song and strike north from Tang and Deng straight at Daliang, Jin will fall.'",
+          "persons": [
+            "genghiskhan"
+          ],
+          "titleJa": "西夏滅亡と六盤山での崩御、金朝攻略の遺策を息子たちに託す",
+          "descJa": "西征から帰還したチンギス・カンは西夏への最終親征に出陣し、霊州で西夏の主力三十万を壊滅させて首都・中興府を包囲した。1227年七月、六盤山にて病が重くなると、息子たちに「金朝の精兵は潼関にある。宋から道を借りて唐・鄧より大梁（開封）を直撃せよ」との遺策を授けて六十六歳で崩御。その言葉通り、のちにオゴデイとトゥルイが三峰山の戦いで金朝を滅ぼした。"
+        }
+      ]
+    },
+    {
+      "key": "kublaikhan",
+      "dynastyKey": "yuan",
+      "color": "#284b63",
+      "shortZh": "忽必烈・大理遠征（革囊渡江）と天下統一",
+      "shortEn": "Kublai Khan's Dali Campaign & Unification",
+      "titleZh": "クビライ・カンの大理国遠征（革囊渡江）と大元建国・南宋平定の軌跡",
+      "titleEn": "Kublai Khan: The Outflanking March to Dali, Founding of Great Yuan & Conquest of Song",
+      "spanZh": "1253年 — 1279年（モンケ3年〜至元十六年）",
+      "spanEn": "1253 CE – 1279 CE (Mongol Empire to Yuan Dynasty)",
+      "stops": [
+        {
+          "year": 1253,
+          "eraZh": "憲宗三年八月",
+          "coord": [
+            103.86,
+            35.38
+          ],
+          "labelPos": "top",
+          "ancientZh": "臨洮",
+          "modernZh": "甘粛定西臨洮",
+          "ancientEn": "Lintao",
+          "modernEn": "Lintao, Gansu",
+          "titleZh": "歴史を変えた大迂回戦略：南宋の背後を突くため大理国遠征へ出発",
+          "titleEn": "Grand Outflanking Strategy: Departing Lintao for the Conquest of Dali",
+          "descZh": "第4代カアン・モンケの命を受けた皇弟クビライ（忽必烈、トゥルイの子）は、強固な長江防衛線を持つ南宋を正面から攻めるのではなく、チベット高原の東縁を南下して雲南の大理国を攻略し、南宋を西と南から大包囲する空前の戦略的大迂回作戦を発動。名将ウリヤンカダイとともに臨洮から南下を開始した。",
+          "descEn": "Tasked by his brother Möngke Khan, Kublai launched one of history's boldest strategic outflanking marches—heading south from Lintao along the eastern edge of the Tibetan Plateau to conquer the Kingdom of Dali in Yunnan and encircle Southern Song.",
+          "quoteZh": "《元史・世祖本紀》：「癸丑秋八月，師次臨洮，遣王君侯、王鑑等使大理，諭之降……九月，壬寅，師次忒剌，分三道以進。」",
+          "quoteEn": "History of Yuan: 'In August, the army encamped at Lintao and sent envoys to summon Dali to surrender... In September, the army divided into three columns to advance.'",
+          "persons": [
+            "kublaikhan"
+          ],
+          "titleJa": "歴史を変えた大迂回戦略：南宋の背後を突くため大理国遠征へ出発",
+          "descJa": "第4代カアン・モンケの命を受けた皇弟クビライ（忽必烈、トゥルイの子）は、強固な長江防衛線を持つ南宋を正面から攻めるのではなく、チベット高原の東縁を南下して雲南の大理国を攻略し、南宋を西と南から大包囲する空前の戦略的大迂回作戦を発動。名将ウリヤンカダイとともに臨洮から南下を開始した。"
+        },
+        {
+          "year": 1253,
+          "eraZh": "憲宗三年十月",
+          "coord": [
+            99.95,
+            26.87
+          ],
+          "labelPos": "top",
+          "ancientZh": "金沙江（革囊渡江）",
+          "modernZh": "雲南麗江石鼓",
+          "ancientEn": "Jinsha River (Crossing on Leather Rafts)",
+          "modernEn": "Lijiang, Yunnan",
+          "titleZh": "伝説の「革囊渡江」：チベット高原東縁を二千里縦断し、牛皮の袋で金沙江を渡る",
+          "titleEn": "Crossing the Jinsha River on Inflated Leather Bags after a 2,000-Li Alpine March",
+          "descZh": "クビライは軍を三道に分け、標高四千メートル級の雪山と大渡河の峡谷を二千余里にわたって踏破。十月、激流の金沙江に到達すると、羊や牛の皮袋に空気を入れて筏に組んだ「革囊（かくのう）」を用いて一気に渡河を敢行し、摩些（ナシ族）を帰順させた。",
+          "descEn": "After marching 2,000 li across snow-capped 4,000m peaks and the Dadu River gorges, Kublai's troops crossed the torrential Jinsha River using inflated ox and sheepskin bags ('Genang Dujiang').",
+          "quoteZh": "《元史・世祖本紀》：「冬十月，丙午，過大渡河，又經行山谷二千餘里，至金沙江，乗革囊及栰以渡，摩些蠻主迎降。」",
+          "quoteEn": "History of Yuan: 'In October, they crossed the Dadu River, marched over 2,000 li through mountain valleys to the Jinsha River, and crossed on inflated leather bags and rafts.'",
+          "persons": [
+            "kublaikhan"
+          ],
+          "titleJa": "伝説の「革囊渡江」：チベット高原東縁を二千里縦断し、牛皮の袋で金沙江を渡る",
+          "descJa": "クビライは軍を三道に分け、標高四千メートル級の雪山と大渡河の峡谷を二千余里にわたって踏破。十月、激流の金沙江に到達すると、羊や牛の皮袋に空気を入れて筏に組んだ「革囊（かくのう）」を用いて一気に渡河を敢行し、摩些（ナシ族）を帰順させた。"
+        },
+        {
+          "year": 1253,
+          "eraZh": "憲宗三年十二月",
+          "coord": [
+            100.16,
+            25.69
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "大理城",
+          "modernZh": "雲南大理",
+          "ancientEn": "Dali",
+          "modernEn": "Dali, Yunnan",
+          "titleZh": "「止殺」の旗と大理国の平定、雲南の帝国編入",
+          "titleEn": "Banner of 'No Killing' & Peaceful Subjugation of Dali",
+          "descZh": "十二月、三道のモンゴル軍は大理城下で合流して大理軍を撃破。儒臣・姚枢がクビライに「曹彬が南唐を平定した際、一人の民も殺さずして天下が服した」故事を説くと、クビライは深く感銘し、白布の旗に「止殺」の令を記して城内の殺戮を厳禁した。大理国王・段興智を赦して統治を委ね、雲南全域を帝国の版図に組み込んだ。",
+          "descEn": "Heeding Confucian advisor Yao Shu's counsel on how Song general Cao Bin took Nanjing without killing a single civilian, Kublai hoisted silk banners ordering 'No Killing,' sparing the populace of Dali and securing Yunnan.",
+          "quoteZh": "《元史・姚枢伝》：「師入大理，裂帛為旗，書止殺之令，由是民得相完聚。」",
+          "quoteEn": "History of Yuan: 'Entering Dali, Kublai tore silk into banners inscribed with the order to cease killing, allowing the people to remain unharmed in their homes.'",
+          "persons": [
+            "kublaikhan"
+          ],
+          "titleJa": "「止殺」の旗と大理国の平定、雲南の帝国編入",
+          "descJa": "十二月、三道のモンゴル軍は大理城下で合流して大理軍を撃破。儒臣・姚枢がクビライに「曹彬が南唐を平定した際、一人の民も殺さずして天下が服した」故事を説くと、クビライは深く感銘し、白布の旗に「止殺」の令を記して城内の殺戮を厳禁した。大理国王・段興智を赦して統治を委ね、雲南全域を帝国の版図に組み込んだ。"
+        },
+        {
+          "year": 1259,
+          "eraZh": "憲宗九年九月",
+          "coord": [
+            114.3,
+            30.55
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "鄂州（武昌）",
+          "modernZh": "湖北武漢武昌",
+          "ancientEn": "Ezhou (Wuchang)",
+          "modernEn": "Wuchang, Wuhan",
+          "titleZh": "陽邏堡より長江を突破して鄂州を包囲、モンケ急死の報に北還",
+          "titleEn": "Crossing the Yangtze at Yangluobao & Siege of Ezhou",
+          "descZh": "モンケ・カアンが四川の釣魚城を攻める中、クビライは河南から南下し、長江の要衝・陽邏堡の南宋水軍を撃破して長江渡河に成功、鄂州（武昌）を包囲した。ウリヤンカダイも雲南・ベトナムから広西・湖南へと北上して南宋を南北から挟撃したが、兄モンケの急死と末弟アリクブケの策動を知ると、クビライは電撃的に北還した。",
+          "descEn": "While Uriyangkhadai marched north from Yunnan and Vietnam to pincer Song, Kublai forced a crossing of the Yangtze and besieged Ezhou, before rushing north upon news of Möngke Khan's death.",
+          "quoteZh": "《元史・世祖本紀》：「九月，世祖登香炉山，俯瞰大江，大軍繼進，破宋兵於陽邏堡，遂渡江，圍鄂州。」",
+          "quoteEn": "History of Yuan: 'In September, Kublai ascended Mount Xianglu overlooking the Yangtze, routed Song forces at Yangluobao, crossed the river, and besieged Ezhou.'",
+          "persons": [
+            "kublaikhan"
+          ],
+          "titleJa": "陽邏堡より長江を突破して鄂州を包囲、モンケ急死の報に北還",
+          "descJa": "モンケ・カアンが四川の釣魚城を攻める中、クビライは河南から南下し、長江の要衝・陽邏堡の南宋水軍を撃破して長江渡河に成功、鄂州（武昌）を包囲した。ウリヤンカダイも雲南・ベトナムから広西・湖南へと北上して南宋を南北から挟撃したが、兄モンケの急死と末弟アリクブケの策動を知ると、クビライは電撃的に北還した。"
+        },
+        {
+          "year": 1271,
+          "eraZh": "元至元八年十一月",
+          "coord": [
+            116.38,
+            39.92
+          ],
+          "labelPos": "top",
+          "ancientZh": "大都",
+          "modernZh": "北京",
+          "ancientEn": "Daidu (Khanbaliq)",
+          "modernEn": "Beijing",
+          "titleZh": "大都を建設し、国号を「大元」と定め世界帝国を樹立",
+          "titleEn": "Founding the Great Yuan Dynasty at Daidu (Khanbaliq)",
+          "descZh": "1260年に開平（上都）でカアンに即位したクビライは、アリクブケとの帝位継承戦争に勝利。金の中都の北東に壮麗な新首都「大都（カアンバリク、現在の北京）」を建設し、1271年には『易経』の「大哉乾元（大いなるかな乾元）」から国号を「大元」と定めた。",
+          "descEn": "Having defeated Ariq Böke to secure the Khaganate, Kublai constructed the grand capital of Daidu (Beijing) and proclaimed the Great Yuan Dynasty in 1271.",
+          "quoteZh": "《元史・世祖本紀》：「至元八年十一月乙亥，詔建國號曰大元，蓋取《易經》『乾元』之義。」",
+          "quoteEn": "History of Yuan: 'In November of the eighth year of Zhiyuan, an imperial edict established the dynastic name Great Yuan, taken from the I Ching phrase Primal Greatness (Qianyuan).'",
+          "persons": [
+            "kublaikhan"
+          ],
+          "titleJa": "大都を建設し、国号を「大元」と定め世界帝国を樹立",
+          "descJa": "1260年に開平（上都）でカアンに即位したクビライは、アリクブケとの帝位継承戦争に勝利。金の中都の北東に壮麗な新首都「大都（カアンバリク、現在の北京）」を建設し、1271年には『易経』の「大哉乾元（大いなるかな乾元）」から国号を「大元」と定めた。"
+        },
+        {
+          "year": 1276,
+          "eraZh": "元至元十三年正月",
+          "coord": [
+            120.15,
+            30.25
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "臨安",
+          "modernZh": "浙江杭州",
+          "ancientEn": "Lin'an",
+          "modernEn": "Hangzhou, Zhejiang",
+          "titleZh": "回回砲による襄陽攻略と、バヤンによる南宋の都・臨安の無血開城",
+          "titleEn": "Fall of Xiangyang & Peaceful Surrender of the Song Capital Lin'an",
+          "descZh": "南宋最大の要塞・襄陽と樊城に対し、クビライは西アジアから技術者を招いて巨石を飛ばす「回回砲（マンジャニーク）」を投入し、六年間に及ぶ攻防の末に1273年に陥落させた。続いて総司令官バヤン（伯顔）に二十万の大軍を授けて長江を下らせ、1276年正月に南宋の都・臨安（杭州）を無血開城させた。",
+          "descEn": "After breaching the twin fortresses of Xiangyang and Fancheng with counterweight trebuchets (Huihui Pao), Kublai's commander Bayan led 200,000 troops down the Yangtze and accepted the bloodless surrender of Lin'an.",
+          "quoteZh": "《元史・世祖本紀》：「至元十三年春正月，伯顔次皐亭山，宋主遣其相奉傳國玉璽及降表詣軍前。伯顔入臨安。」",
+          "quoteEn": "History of Yuan: 'In January of the thirteenth year of Zhiyuan, Bayan encamped at Mount Gaoting, and the Song ruler sent his chancellor with the imperial seal and instrument of surrender.'",
+          "persons": [
+            "kublaikhan"
+          ],
+          "titleJa": "回回砲による襄陽攻略と、バヤンによる南宋の都・臨安の無血開城",
+          "descJa": "南宋最大の要塞・襄陽と樊城に対し、クビライは西アジアから技術者を招いて巨石を飛ばす「回回砲（マンジャニーク）」を投入し、六年間に及ぶ攻防の末に1273年に陥落させた。続いて総司令官バヤン（伯顔）に二十万の大軍を授けて長江を下らせ、1276年正月に南宋の都・臨安（杭州）を無血開城させた。"
+        },
+        {
+          "year": 1279,
+          "eraZh": "元至元十六年二月",
+          "coord": [
+            113.06,
+            22.18
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "崖山",
+          "modernZh": "広東江門新会",
+          "ancientEn": "Yashan (Yamen)",
+          "modernEn": "Xinhui, Guangdong",
+          "titleZh": "崖山の海戦：南宋残存勢力を滅ぼし、唐末以来三百七十年の分裂を終結",
+          "titleEn": "Naval Battle of Yamen: Final Destruction of Song & Complete Reunification",
+          "descZh": "臨安陥落後も文天祥・張世傑・陸秀夫らが幼帝・祥興帝を擁して広東の崖山に千余隻の船団を連結して最後の抵抗を続けた。クビライが派遣した張弘範・李恒の水軍が崖山を完全包囲して撃破。陸秀夫は幼帝を背負って海に身を投げ、南宋は完全に滅亡。唐末以来約三百七十年間にわたった中国分裂時代はここに終焉し、全土統一が成し遂げられた。",
+          "descEn": "At the Naval Battle of Yamen, Yuan fleets under Zhang Hongfan crushed the last Song armada. Chancellor Lu Xiufu leaped into the sea with the boy emperor, completing the first full reunification of China since the Tang Dynasty.",
+          "quoteZh": "《宋史・瀛国公本紀》：「二月癸未，張弘範等與宋師大戰於崖山，宋師大潰，陸秀夫負帝赴海死之，後宮及諸臣多從死者。」",
+          "quoteEn": "History of Song: 'Zhang Hongfan fought a great battle with the Song fleet at Yashan. The Song fleet collapsed, and Lu Xiufu carried the young Emperor on his back and leaped into the sea to die.'",
+          "persons": [
+            "kublaikhan",
+            "wentianxiang"
+          ],
+          "titleJa": "崖山の海戦：南宋残存勢力を滅ぼし、唐末以来三百七十年の分裂を終結",
+          "descJa": "臨安陥落後も文天祥・張世傑・陸秀夫らが幼帝・祥興帝を擁して広東の崖山に千余隻の船団を連結して最後の抵抗を続けた。クビライが派遣した張弘範・李恒の水軍が崖山を完全包囲して撃破。陸秀夫は幼帝を背負って海に身を投げ、南宋は完全に滅亡。唐末以来約三百七十年間にわたった中国分裂時代はここに終焉し、全土統一が成し遂げられた。"
+        }
+      ]
+    },
+    {
+      "key": "hedin",
+      "dynastyKey": "qing",
+      "color": "#b5651d",
+      "shortZh": "ヘディンの西域・チベット・楼蘭探検路",
+      "shortEn": "Sven Hedin's Central Asian Expeditions",
+      "titleZh": "スヴェン・ヘディンの西域・楼蘭・チベット探検の軌跡",
+      "titleJa": "スヴェン・ヘディンの西域・楼蘭・チベット探検の軌跡",
+      "titleEn": "Sven Hedin's Expeditions Across Taklamakan, Loulan & Tibet",
+      "spanZh": "1895年 — 1934年（清 光緒二十一年〜民国二十三年）",
+      "spanJa": "1895年 — 1934年（清 光緒二十一年〜民国二十三年）",
+      "spanEn": "1895 CE – 1934 CE (Late Qing to Republic of China)",
+      "stops": [
+        {
+          "year": 1895,
+          "eraZh": "光緒二十一年",
+          "coord": [
+            75.99,
+            39.47
+          ],
+          "labelPos": "top",
+          "ancientZh": "カシュガル（喀什）",
+          "modernZh": "新疆カシュガル（喀什）",
+          "ancientEn": "Kashgar",
+          "modernEn": "Kashgar, Xinjiang",
+          "titleZh": "タクラマカン砂漠横断への出発と九死に一生の生還",
+          "titleJa": "タクラマカン砂漠横断への出発と九死に一生の生還",
+          "titleEn": "Crossing the Taklamakan Desert & Narrow Escape at the Hotan River",
+          "descZh": "スウェーデンの地理学者・探検家スヴェン・ヘディンは、カシュガルから「一度入れば生きて出られない」と恐れられた死の砂漠タクラマカンの横断を敢行。水不足のため隊員とラクダの多くを失い、自らも極限の渇きで倒れながら這うように進み、ホータン川の干上がった河床に水溜まりを見つけて九死に一生の生還を果たした（著書『アジアの砂漠を越えて』）。",
+          "descJa": "スウェーデンの地理学者・探検家スヴェン・ヘディンは、カシュガルから「一度入れば生きて出られない」と恐れられた死の砂漠タクラマカンの横断を敢行。水不足のため隊員とラクダの多くを失い、自らも極限の渇きで倒れながら這うように進み、ホータン川の干上がった河床に水溜まりを見つけて九死に一生の生還を果たした（著書『アジアの砂漠を越えて』）。",
+          "descEn": "Swedish geographer Sven Hedin set out from Kashgar to cross the treacherous Taklamakan Desert. Running out of water and losing most of his caravan, he crawled across dunes on the brink of death until discovering a pool in the dry Hotan riverbed.",
+          "quoteZh": "スヴェン・ヘディン『アジアの砂漠を越えて（Through Asia）』：「タクラマカンは死の海であった。しかし砂の波間にこそ未知の世界が眠っていた。」",
+          "quoteEn": "Sven Hedin, Through Asia: 'The Taklamakan was a sea of death, yet beneath its waves of sand lay an unknown ancient world.'",
+          "persons": [
+            "hedin"
+          ]
+        },
+        {
+          "year": 1896,
+          "eraZh": "光緒二十二年",
+          "coord": [
+            81.05,
+            37.78
+          ],
+          "via": [
+            [
+              79.92,
+              37.11
+            ]
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "ホータン・ダンダン・ウイリク（和田・丹丹烏里克）",
+          "modernZh": "新疆ホータン地区チラ県北方",
+          "ancientEn": "Khotan & Dandan Oilik",
+          "modernEn": "Qira, Hotan, Xinjiang",
+          "titleZh": "流砂に眠る古代仏教都市ダンダン・ウイリクの初発見",
+          "titleJa": "流砂に眠る古代仏教都市ダンダン・ウイリクの初発見",
+          "titleEn": "Discovery of the Buried Buddhist Oasis of Dandan Oilik",
+          "descZh": "ホータンから再びタクラマカン砂漠の奥地へと踏査を進めたヘディンは、ケリヤ川沿いの流砂の底に埋もれていた古代仏教寺院遺跡ダンダン・ウイリクを西洋人探検家として初めて発見。唐代の仏教壁画や木板画、塑像を目の当たりにし、西域砂漠の地下に古代文明が眠ることを世界に知らしめた。",
+          "descJa": "ホータンから再びタクラマカン砂漠の奥地へと踏査を進めたヘディンは、ケリヤ川沿いの流砂の底に埋もれていた古代仏教寺院遺跡ダンダン・ウイリクを西洋人探検家として初めて発見。唐代の仏教壁画や木板画、塑像を目の当たりにし、西域砂漠の地下に古代文明が眠ることを世界に知らしめた。",
+          "descEn": "Venturing deep into the sands northeast of Khotan, Hedin became the first Western explorer to discover the buried Buddhist oasis of Dandan Oilik, revealing Tang-era murals and stucco reliefs preserved beneath the dunes.",
+          "quoteZh": "スヴェン・ヘディン『アジアの砂漠を越えて』：「砂丘の合間に立ち現れた古代の壁画は、千年の時を超えて今なお鮮やかな色彩を保っていた。」",
+          "quoteEn": "Sven Hedin, Through Asia: 'Emerging between the shifting dunes, the ancient temple murals retained their vivid colors across a millennium.'",
+          "persons": [
+            "hedin"
+          ]
+        },
+        {
+          "year": 1900,
+          "eraZh": "光緒二十六年三月",
+          "coord": [
+            89.92,
+            40.52
+          ],
+          "via": [
+            [
+              86.17,
+              41.76
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "楼蘭故城・ロプノール（羅布泊）",
+          "modernZh": "新疆バインゴリン州チャルクリク（若羌）北東",
+          "ancientEn": "Loulan & Lop Nor",
+          "modernEn": "Lop Nur, Ruoqiang, Xinjiang",
+          "titleZh": "幻の都市「楼蘭」の世紀の大発見と「さまよえる湖」説",
+          "titleJa": "幻の都市「楼蘭」の世紀の大発見と「さまよえる湖」説",
+          "titleEn": "Discovery of Ancient Loulan & the 'Wandering Lake' Hypothesis",
+          "descZh": "第2次探検でタリム川を小舟で下りロプ砂漠を踏査中、砂嵐の中でウイグル人案内人オルデクがシャベルを取りに引き返した際、古代の木造仏塔と彫刻群を偶然発見。こうして約1600年間砂漠に消えていた幻の王国「楼蘭（クロライナ）」故城が世に現れた。同時にタリム川河道の移動に伴うロプノールの周期的移動「さまよえる湖（Wandering Lake）」説を提唱した。",
+          "descJa": "第2次探検でタリム川を小舟で下りロプ砂漠を踏査中、砂嵐の中でウイグル人案内人オルデクがシャベルを取りに引き返した際、古代の木造仏塔と彫刻群を偶然発見。こうして約1600年間砂漠に消えていた幻の王国「楼蘭（クロライナ）」故城が世に現れた。同時にタリム川河道の移動に伴うロプノールの周期的移動「さまよえる湖（Wandering Lake）」説を提唱した。",
+          "descEn": "Floating down the Tarim River into the Lop Desert, Hedin's guide Ordek stumbled upon carved wooden ruins after returning for a lost spade—revealing the lost city of Loulan (Kroraina), while prompting Hedin's famed 'Wandering Lake' theory for Lop Nor.",
+          "quoteZh": "スヴェン・ヘディン『中央アジアとチベット（Central Asia and Tibet）』：「砂嵐が去ったとき、千六百年ものあいだ眠り続けていた都城の廃墟が目の前に現れた。」",
+          "quoteEn": "Sven Hedin, Central Asia and Tibet: 'When the dust storm cleared, the ruins of a city silent for sixteen hundred years stood before us.'",
+          "persons": [
+            "hedin"
+          ]
+        },
+        {
+          "year": 1901,
+          "eraZh": "光緒二十七年三月",
+          "coord": [
+            89.95,
+            40.5
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "楼蘭故城（再調査）",
+          "modernZh": "新疆バインゴリン州ロプ砂漠",
+          "ancientEn": "Loulan Ruins (Second Survey)",
+          "modernEn": "Loulan Site, Lop Desert, Xinjiang",
+          "titleZh": "楼蘭故城の本格発掘と「楼蘭」漢文木簡・晋代文書の発見",
+          "titleJa": "楼蘭故城の本格発掘と「楼蘭」漢文木簡・晋代文書の発見",
+          "titleEn": "Excavation of Loulan & Deciphering the Han-Jin Wooden Slips",
+          "descZh": "翌1901年春、水を得るため氷塊をラクダに積んで楼蘭故城を再訪し、本格的な発掘と測量を実施。西域長史庁跡からカローシュティー文字木簡や多数の漢文木簡・紙文書（西晋・前涼時代）を発掘し、その中に「楼蘭」の文字を見出して、この遺跡こそ『漢書』に記された古都・楼蘭そのものであることを実証した。",
+          "descJa": "翌1901年春、水を得るため氷塊をラクダに積んで楼蘭故城を再訪し、本格的な発掘と測量を実施。西域長史庁跡からカローシュティー文字木簡や多数の漢文木簡・紙文書（西晋・前涼時代）を発掘し、その中に「楼蘭」の文字を見出して、この遺跡こそ『漢書』に記された古都・楼蘭そのものであることを実証した。",
+          "descEn": "Returning to Loulan in 1901 with camels carrying blocks of ice for water, Hedin excavated Kharoshthi and Chinese wooden slips and paper manuscripts—among them documents naming 'Loulan,' proving its identity.",
+          "quoteZh": "楼蘭出土晋代木簡・紙文書より：「海頭」「楼蘭」の記銘を確認し、西域長史府の所在地であることが確証された。",
+          "quoteEn": "Loulan Jin-dynasty manuscript finds confirmed the identity of the oasis ruins as the ancient seat of the Western Regions Administrator at Loulan.",
+          "persons": [
+            "hedin"
+          ]
+        },
+        {
+          "year": 1901,
+          "eraZh": "光緒二十七年八月",
+          "coord": [
+            92.05,
+            31.48
+          ],
+          "via": [
+            [
+              90.8,
+              35.5
+            ]
+          ],
+          "labelPos": "right",
+          "ancientZh": "ナクチュ（チベット那曲）",
+          "modernZh": "チベット自治区ナクチュ（那曲）",
+          "ancientEn": "Nagqu (Tibet)",
+          "modernEn": "Nagqu, Tibet",
+          "titleZh": "モンゴル巡礼僧変装でのラサ潜入行とナクチュでの阻止",
+          "titleJa": "モンゴル巡礼僧変装でのラサ潜入行とナクチュでの阻止",
+          "titleEn": "Disguised March Toward Lhasa Halted at Nagqu",
+          "descZh": "楼蘭調査後、鎖国状態にあったチベットの聖都ラサを目指して、ヘディンは顔を染め頭を剃りモンゴル人巡礼僧に変装してチベット高原（チャンタン高原）を南下。厳しい高山病と凍傷に耐えラサ目前のナクチュ（那曲）まで迫ったが、ダライ・ラマ13世配下のチベット政府軍に発見・阻止され、丁重ながら引き返しを命じられた。",
+          "descJa": "楼蘭調査後、鎖国状態にあったチベットの聖都ラサを目指して、ヘディンは顔を染め頭を剃りモンゴル人巡礼僧に変装してチベット高原（チャンタン高原）を南下。厳しい高山病と凍傷に耐えラサ目前のナクチュ（那曲）まで迫ったが、ダライ・ラマ13世配下のチベット政府軍に発見・阻止され、丁重ながら引き返しを命じられた。",
+          "descEn": "After Loulan, Hedin shaved his head and disguised himself as a Mongol pilgrim to penetrate forbidden Tibet. Reaching Nagqu near Lhasa across the freezing Changtang plateau, he was intercepted by Tibetan forces of the 13th Dalai Lama and turned back.",
+          "quoteZh": "スヴェン・ヘディン『中央アジアとチベット』：「あと数日の行程で聖都ラサというところで、チベット兵の隊列が私の行く手を遮った。」",
+          "quoteEn": "Sven Hedin, Central Asia and Tibet: 'Within mere days of the Holy City of Lhasa, a Tibetan detachment barred my advance at Nagqu.'",
+          "persons": [
+            "hedin"
+          ]
+        },
+        {
+          "year": 1907,
+          "eraZh": "光緒三十三年",
+          "coord": [
+            81.31,
+            30.78
+          ],
+          "via": [
+            [
+              88.88,
+              29.27
+            ]
+          ],
+          "labelPos": "left",
+          "ancientZh": "カイラス山・マナサロワール湖（トランス・ヒマラヤ）",
+          "modernZh": "チベット自治区ガリ地区プラン県",
+          "ancientEn": "Mount Kailash & Lake Manasarovar (Transhimalaya)",
+          "modernEn": "Burang, Ngari, Tibet",
+          "titleZh": "トランス・ヒマラヤ山脈の発見と大河源流の特定",
+          "titleJa": "トランス・ヒマラヤ山脈の発見と大河源流の特定",
+          "titleEn": "Mapping the Transhimalaya Range & Sources of Great Rivers",
+          "descZh": "第3次探検（1906–1908）ではシガツェ（タシルンポ寺）でパンチェン・ラマ9世と会見した後、チベット高原の巨大な地図上の空白地帯を横断踏査。ヒマラヤの北方に連なる長大な「トランス・ヒマラヤ山脈（カンディセ山脈）」の連続性を証明し、さらに聖山カイラス・マナサロワール湖周辺でインダス川およびブラマプトラ川（ヤルンツァンポ川）の真の源流を特定した（著書『トランスヒマラヤ』）。",
+          "descJa": "第3次探検（1906–1908）ではシガツェ（タシルンポ寺）でパンチェン・ラマ9世と会見した後、チベット高原の巨大な地図上の空白地帯を横断踏査。ヒマラヤの北方に連なる長大な「トランス・ヒマラヤ山脈（カンディセ山脈）」の連続性を証明し、さらに聖山カイラス・マナサロワール湖周辺でインダス川およびブラマプトラ川（ヤルンツァンポ川）の真の源流を特定した（著書『トランスヒマラヤ』）。",
+          "descEn": "During his third expedition (1906–1908), Hedin crossed Tibet's uncharted blank spaces, proving the continuity of the Transhimalaya (Gangdise) range and pinpointing the true sources of the Indus and Brahmaputra near Mount Kailash.",
+          "quoteZh": "スヴェン・ヘディン『トランスヒマラヤ（Transhimalaya）』：「世界地図の最大の空白であったチベット中央の山系が、ついに一本の鎖として結ばれた。」",
+          "quoteEn": "Sven Hedin, Transhimalaya: 'The greatest remaining blank space on the map of Asia had finally been charted as a continuous mountain system.'",
+          "persons": [
+            "hedin"
+          ]
+        },
+        {
+          "year": 1934,
+          "eraZh": "民国二十三年",
+          "coord": [
+            90.25,
+            40.85
+          ],
+          "via": [
+            [
+              116.39,
+              39.91
+            ],
+            [
+              101.05,
+              41.95
+            ],
+            [
+              87.62,
+              43.82
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "エチナ河・ロプノール（西北科学考査団）",
+          "modernZh": "内モンゴル・エチナ〜新疆ロプノール",
+          "ancientEn": "Ejina River & Lop Nor (Sino-Swedish Expedition)",
+          "modernEn": "Ejina, Inner Mongolia to Lop Nor, Xinjiang",
+          "titleZh": "中瑞西北科学考査団の結成とロプノール再航行での仮説実証",
+          "titleJa": "中瑞西北科学考査団の結成とロプノール再航行での仮説実証",
+          "titleEn": "Sino-Swedish Expedition & Boating the Returned Lop Nor",
+          "descZh": "ヘディンは徐炳昶・袁復礼・黄文弼ら中国の学者と対等な共同調査隊「中瑞西北科学考査団」（1927–1935）を結成。北京から包頭・エチナ河（居延漢簡1万余点の発掘や恐竜化石調査）・ウルムチを経由して新疆を踏査した。1934年には1921年の河道変化により実際に北（孔雀河下流）へ移動・復活していたロプノールをカヌーで航行し、長年の「さまよえる湖」説を自ら実証した。",
+          "descJa": "ヘディンは徐炳昶・袁復礼・黄文弼ら中国の学者と対等な共同調査隊「中瑞西北科学考査団」（1927–1935）を結成。北京から包頭・エチナ河（居延漢簡1万余点の発掘や恐竜化石調査）・ウルムチを経由して新疆を踏査した。1934年には1921年の河道変化により実際に北（孔雀河下流）へ移動・復活していたロプノールをカヌーで航行し、長年の「さまよえる湖」説を自ら実証した。",
+          "descEn": "Co-leading the Sino-Swedish Scientific Expedition (1927–1935) with Chinese scholars like Xu Bingchang and Huang Wenbi, Hedin oversaw the discovery of 10,000 Juyan Han slips at Ejina and in 1934 boated down the Peacock River into the newly returned northern Lop Nor, proving his Wandering Lake theory.",
+          "quoteZh": "スヴェン・ヘディン『さまよえる湖（The Wandering Lake）』：「三十四年の歳月を経て、湖は予言どおり旧来の北の盆地へと還っていた。」",
+          "quoteEn": "Sven Hedin, The Wandering Lake: 'After thirty-four years, the lake had returned to its ancient northern basin just as predicted.'",
+          "persons": [
+            "hedin"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "stein",
+      "dynastyKey": "qing",
+      "color": "#8c4a27",
+      "shortZh": "スタインの中央アジア・敦煌探検路",
+      "shortEn": "Aurel Stein's Silk Road Expeditions",
+      "titleZh": "オーレル・スタインの西域考古学探検と敦煌莫高窟の軌跡",
+      "titleJa": "オーレル・スタインの西域考古学探検と敦煌莫高窟の軌跡",
+      "titleEn": "Sir Aurel Stein's Central Asian Archaeological Expeditions",
+      "spanZh": "1900年 — 1915年（清 光緒二十六年〜民国四年）",
+      "spanJa": "1900年 — 1915年（清 光緒二十六年〜民国四年）",
+      "spanEn": "1900 CE – 1915 CE (Late Qing to Early Republic)",
+      "stops": [
+        {
+          "year": 1900,
+          "eraZh": "光緒二十六年五月",
+          "coord": [
+            74.79,
+            34.08
+          ],
+          "labelPos": "left",
+          "ancientZh": "スリナガル・パミール高原（迦湿弥羅・葱嶺）",
+          "modernZh": "カシミール・スリナガル〜パミール高原",
+          "ancientEn": "Srinagar & the Pamirs",
+          "modernEn": "Srinagar, Kashmir to Pamirs",
+          "titleZh": "玄奘『大唐西域記』を導き手とした第1次西域探検の出発",
+          "titleJa": "玄奘『大唐西域記』を導き手とした第1次西域探検の出発",
+          "titleEn": "First Expedition Departing Srinagar Guided by Xuanzang's Records",
+          "descZh": "ハンガリー生まれのイギリスの考古学者・東洋学者オーレル・スタインは、7世紀の名僧・玄奘三蔵を自らの「守護聖人」と仰ぎ、『大唐西域記』を携えて第1次中央アジア探検に出発。カシミールのスリナガルからギルギット、フンザを経て峻険なパミール高原（葱嶺）を踏破し、タリム盆地の西門カシュガルへと入域した。",
+          "descJa": "ハンガリー生まれのイギリスの考古学者・東洋学者オーレル・スタインは、7世紀の名僧・玄奘三蔵を自らの「守護聖人」と仰ぎ、『大唐西域記』を携えて第1次中央アジア探検に出発。カシミールのスリナガルからギルギット、フンザを経て峻険なパミール高原（葱嶺）を踏破し、タリム盆地の西門カシュガルへと入域した。",
+          "descEn": "Guided by the 7th-century pilgrimage records of his 'patron saint' Xuanzang, Aurel Stein launched his first Central Asian expedition from Srinagar in Kashmir, crossing Gilgit, Hunza, and the high Pamirs into Kashgar.",
+          "quoteZh": "オーレル・スタイン『古代ホータン（Ancient Khotan）』：「千年以上の時を隔てても、偉大な中国の巡礼僧玄奘の記述は最も信頼できる羅針盤であった。」",
+          "quoteEn": "Aurel Stein, Ancient Khotan: 'Across more than twelve centuries, the itinerary of the great Chinese pilgrim Xuanzang proved an unerring guide.'",
+          "persons": [
+            "stein"
+          ]
+        },
+        {
+          "year": 1900,
+          "eraZh": "光緒二十六年十一月",
+          "coord": [
+            79.92,
+            37.11
+          ],
+          "via": [
+            [
+              75.99,
+              39.47
+            ]
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "ホータン・ダンダン・ウイリク（于闐）",
+          "modernZh": "新疆ホータン（和田）",
+          "ancientEn": "Khotan & Dandan Oilik",
+          "modernEn": "Hotan, Xinjiang",
+          "titleZh": "ホータン（ヨートカン）及びダンダン・ウイリク遺跡の精密発掘",
+          "titleJa": "ホータン（ヨートカン）及びダンダン・ウイリク遺跡の精密発掘",
+          "titleEn": "Scientific Excavation of Khotan & Dandan Oilik",
+          "descZh": "古代の于闐国都ヨートカン遺跡で貨幣・テラコッタを発掘したのち、厳冬の12月に砂漠のダンダン・ウイリク遺跡へ入り、ヘディンが発見した寺院址を層位学的手法で精密発掘。ギリシャ・インド風のガンダーラ様式と中国・ペルシャ文化が融合した仏教壁画や、養蚕伝来伝説を描く木板画、サンスクリット・コータン語文書を発見した。",
+          "descJa": "古代の于闐国都ヨートカン遺跡で貨幣・テラコッタを発掘したのち、厳冬の12月に砂漠のダンダン・ウイリク遺跡へ入り、ヘディンが発見した寺院址を層位学的手法で精密発掘。ギリシャ・インド風のガンダーラ様式と中国・ペルシャ文化が融合した仏教壁画や、養蚕伝来伝説を描く木板画、サンスクリット・コータン語文書を発見した。",
+          "descEn": "Excavating Yotkan near Khotan and wintering at Dandan Oilik, Stein uncovered Gandharan-Chinese hybrid murals, painted wooden panels depicting the Silk Princess legend, and Sanskrit and Khotanese manuscripts.",
+          "quoteZh": "オーレル・スタイン『砂に埋もれたホータンの廃墟』：「流砂の下から現れた仏像と壁画は、ヘレニズムとインドと中国が砂漠で出会った証左であった。」",
+          "quoteEn": "Aurel Stein, Sand-Buried Ruins of Khotan: 'The reliefs and panels emerging from the sand bore unmistakable witness to Hellenistic, Indian, and Chinese art meeting in the oasis.'",
+          "persons": [
+            "stein"
+          ]
+        },
+        {
+          "year": 1901,
+          "eraZh": "光緒二十七年一月",
+          "coord": [
+            82.71,
+            37.98
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "ニヤ遺跡（尼雅・精絶国故址）",
+          "modernZh": "新疆ホータン地区ニヤ県（民豊）北",
+          "ancientEn": "Niya Ruins (Jingjue)",
+          "modernEn": "Minfeng (Niya), Xinjiang",
+          "titleZh": "精絶国故址・ニヤ遺跡の発掘とイスラム・アカ偽古文書の看破",
+          "titleJa": "精絶国故址・ニヤ遺跡の発掘とイスラム・アカ偽古文書の看破",
+          "titleEn": "Excavating Niya (Ancient Jingjue) & Exposing Forged Manuscripts",
+          "descZh": "タクラマカン砂漠南縁の奥深くで『漢書』西域伝の「精絶国」故址（ニヤ遺跡）を発掘。3世紀の住宅址やゴミ捨て場から500点以上のカローシュティー文字木簡と「司禾府印」などの漢代木簡・封泥（アテナ女神印章など）を掘り出した。またホータンで現地商人イスラム・アカを徹底尋問し、欧州の学会を欺いていた古写本大量偽造事件を暴いた。",
+          "descJa": "タクラマカン砂漠南縁の奥深くで『漢書』西域伝の「精絶国」故址（ニヤ遺跡）を発掘。3世紀の住宅址やゴミ捨て場から500点以上のカローシュティー文字木簡と「司禾府印」などの漢代木簡・封泥（アテナ女神印章など）を掘り出した。またホータンで現地商人イスラム・アカを徹底尋問し、欧州の学会を欺いていた古写本大量偽造事件を暴いた。",
+          "descEn": "At the sand-buried Niya site (ancient Jingjue), Stein unearthed over 500 Kharoshthi tablets alongside Han Chinese slips and clay seals of Pallas Athena, before exposing Islam Akhun's Khotan manuscript forgery ring.",
+          "quoteZh": "オーレル・スタイン『砂に埋もれたホータンの廃墟』：「千六百年前の住居の書斎で、封印されたままの木簡が昨日書かれたかのように蘇った。」",
+          "quoteEn": "Aurel Stein, Sand-Buried Ruins of Khotan: 'Inside desert homes abandoned sixteen centuries ago, sealed wooden tablets survived as fresh as the day they were written.'",
+          "persons": [
+            "stein"
+          ]
+        },
+        {
+          "year": 1906,
+          "eraZh": "光緒三十二年十二月",
+          "coord": [
+            88.97,
+            39.23
+          ],
+          "via": [
+            [
+              73.42,
+              36.75
+            ],
+            [
+              79.92,
+              37.11
+            ]
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "ミーラン遺跡・楼蘭故城（米蘭・伊循城）",
+          "modernZh": "新疆バインゴリン州チャルクリク（若羌）",
+          "ancientEn": "Miran & Loulan",
+          "modernEn": "Ruoqiang, Xinjiang",
+          "titleZh": "ミーラン「有翼天使」壁画と漢代伊循城・楼蘭故城の調査",
+          "titleJa": "ミーラン「有翼天使」壁画と漢代伊循城・楼蘭故城の調査",
+          "titleEn": "Discovering the 'Winged Angels' of Miran & Surveying Loulan",
+          "descZh": "第2次探検（1906–1908）では、唐の名将・高仙芝のパミール越えルートをダルコット峠等で実地検証した後にタリム盆地東端へ到達。ヘディン発見の楼蘭故城を精密測量・発掘したのち、南のミーラン（米蘭、漢の伊循城・吐蕃城砦）でローマ・ギリシャ風の目元と翼を持つ「有翼天使」の仏教壁画（ティトゥス署名）を発掘し、東西美術交流史に新時代を開いた。",
+          "descJa": "第2次探検（1906–1908）では、唐の名将・高仙芝のパミール越えルートをダルコット峠等で実地検証した後にタリム盆地東端へ到達。ヘディン発見の楼蘭故城を精密測量・発掘したのち、南のミーラン（米蘭、漢の伊循城・吐蕃城砦）でローマ・ギリシャ風の目元と翼を持つ「有翼天使」の仏教壁画（ティトゥス署名）を発掘し、東西美術交流史に新時代を開いた。",
+          "descEn": "After retracing Tang general Gao Xianzhi's crossing of Darkot Pass, Stein surveyed Loulan and excavated the Miran shrines, uncovering the astonishing Greco-Roman-style 'Winged Angel' frescoes signed by the artist Tita.",
+          "quoteZh": "オーレル・スタイン『契丹の砂漠廃墟（Ruins of Desert Cathay）』：「地中海の古典美術の面影を宿す有翼天使が、ロプ砂漠の仏塔から微笑みかけていた。」",
+          "quoteEn": "Aurel Stein, Ruins of Desert Cathay: 'Winged figures of unmistakable classical Mediterranean grace looked out from the Buddhist shrines of the Lop Desert.'",
+          "persons": [
+            "stein"
+          ]
+        },
+        {
+          "year": 1907,
+          "eraZh": "光緒三十三年三月",
+          "coord": [
+            93.86,
+            40.35
+          ],
+          "labelPos": "top",
+          "ancientZh": "玉門関・漢代長城烽燧（小方盤城）",
+          "modernZh": "甘粛省酒泉市敦煌西北",
+          "ancientEn": "Jade Gate (Yumen Pass) & Han Limes",
+          "modernEn": "Dunhuang Northwest, Gansu",
+          "titleZh": "漢代万里の長城（塞垣）踏査と「玉門関」の正確な比定",
+          "titleJa": "漢代万里の長城（塞垣）踏査と「玉門関」の正確な比定",
+          "titleEn": "Tracing the Han Dynasty Frontier Wall & Identifying Yumen Pass",
+          "descZh": "ロプ砂漠の「白龍堆」を越えて敦煌西方に出たスタインは、砂漠に点々と連なる漢代の葦と砂利の版築長城（塞垣）および烽燧（のろし台）群を発掘。西域防衛軍の駐屯記録・糧食簿・兵籍など大量の漢代木簡（敦煌漢簡）を発掘し、その記述から小方盤城こそ歴史上の漢代「玉門関」であることを歴史地理学的に特定した。",
+          "descJa": "ロプ砂漠の「白龍堆」を越えて敦煌西方に出たスタインは、砂漠に点々と連なる漢代の葦と砂利の版築長城（塞垣）および烽燧（のろし台）群を発掘。西域防衛軍の駐屯記録・糧食簿・兵籍など大量の漢代木簡（敦煌漢簡）を発掘し、その記述から小方盤城こそ歴史上の漢代「玉門関」であることを歴史地理学的に特定した。",
+          "descEn": "Crossing the White Dragon Dunes to Dunhuang, Stein traced the reed-and-gravel Han frontier wall and watchtowers, unearthing hundreds of Han wooden slips that definitively identified Xiaofangpancheng as the historic Jade Gate (Yumen Pass).",
+          "quoteZh": "オーレル・スタイン『セリンディア（Serindia）』：「二千年の風雪に耐えた葦と礫の壁から掘り出された木簡が、古代玉門関の正確な位置を語り始めた。」",
+          "quoteEn": "Aurel Stein, Serindia: 'Wooden slips recovered from the reed-bound ramparts spoke directly of the Han garrisons stationed at the true Jade Gate.'",
+          "persons": [
+            "stein"
+          ]
+        },
+        {
+          "year": 1907,
+          "eraZh": "光緒三十三年五月",
+          "coord": [
+            94.81,
+            40.04
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "敦煌・莫高窟「蔵経洞」（千仏洞）",
+          "modernZh": "甘粛省酒泉市敦煌莫高窟",
+          "ancientEn": "Dunhuang Mogao Caves (Library Cave)",
+          "modernEn": "Mogao Caves, Dunhuang, Gansu",
+          "titleZh": "莫高窟「蔵経洞」への入室と数千巻の敦煌文書・仏画の獲得",
+          "titleJa": "莫高窟「蔵経洞」への入室と数千巻の敦煌文書・仏画の獲得",
+          "titleEn": "Opening the Dunhuang Library Cave & Recovering Ancient Manuscripts",
+          "descZh": "敦煌郊外の莫高窟（千仏洞）に秘密の古文書室があるとの噂を確かめたスタインは、管理者の道士・王円籙（王道士）に対し、ともに深く敬愛する「玄奘三蔵」の物語を語りかけて心を開かせた。1900年に発見・封印されていた第17窟「蔵経洞」の扉が開かれ、現存世界最古の紀年入り木版印刷書『金剛般若経』（唐・咸通九年、868年）や漢文・チベット語・ソグド語写本、絹絵仏画など膨大な宝庫を大英博物館等へ運び出し、世界の敦煌学誕生の契機となった。",
+          "descJa": "敦煌郊外の莫高窟（千仏洞）に秘密の古文書室があるとの噂を確かめたスタインは、管理者の道士・王円籙（王道士）に対し、ともに深く敬愛する「玄奘三蔵」の物語を語りかけて心を開かせた。1900年に発見・封印されていた第17窟「蔵経洞」の扉が開かれ、現存世界最古の紀年入り木版印刷書『金剛般若経』（唐・咸通九年、868年）や漢文・チベット語・ソグド語写本、絹絵仏画など膨大な宝庫を大英博物館等へ運び出し、世界の敦煌学誕生の契機となった。",
+          "descEn": "At the Mogao Caves, Stein won the trust of Daoist guardian Wang Yuanlu by invoking their shared reverence for Xuanzang. Granted access to Cave 17 (the sealed Library Cave), he acquired thousands of manuscripts—including the 868 CE Diamond Sutra, the world's oldest dated printed book.",
+          "quoteZh": "オーレル・スタイン『契丹の砂漠廃墟』：「千年の闇から取り出された巻物の山は、東洋学の世界を一変させる奇跡の宝庫であった。」",
+          "quoteEn": "Aurel Stein, Ruins of Desert Cathay: 'Bundle after bundle emerged from the walled-up Library Cave, an intact archive hidden for nine centuries.'",
+          "persons": [
+            "stein"
+          ]
+        },
+        {
+          "year": 1914,
+          "eraZh": "民国三年〜四年",
+          "coord": [
+            89.53,
+            42.85
+          ],
+          "via": [
+            [
+              101.14,
+              41.76
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "カラホト（黒水城）・トゥルファン〜サマルカンド",
+          "modernZh": "内モンゴル黒水城・新疆トゥルファン〜中央アジア",
+          "ancientEn": "Khara-Khoto, Turpan & Samarkand",
+          "modernEn": "Ejina, Turpan to Samarkand",
+          "titleZh": "第3次探検：黒水城・トゥルファン調査とパミール越えサマルカンド踏破",
+          "titleJa": "第3次探検：黒水城・トゥルファン調査とパミール越えサマルカンド踏破",
+          "titleEn": "Third Expedition: Khara-Khoto, Turpan Tombs & Onward to Samarkand",
+          "descZh": "第3次探検（1913–1916）では、まず西夏の廃都カラホト（黒水城）を再調査して西夏文・漢文資料を回収し、敦煌を再訪した後にトゥルファン盆地へ移動。高昌故城・ベゼクリク千仏洞・アスターナ古墓群で壁画や膨大な唐代墓葬文書を調査・収集した。1915年にはさらにパミール高原を越えてロシア領中央アジアのサマルカンド、ブハラ、イラン東部スィースターンまで総行程4万キロを踏破した（著書『内奥アジア』）。",
+          "descJa": "第3次探検（1913–1916）では、まず西夏の廃都カラホト（黒水城）を再調査して西夏文・漢文資料を回収し、敦煌を再訪した後にトゥルファン盆地へ移動。高昌故城・ベゼクリク千仏洞・アスターナ古墓群で壁画や膨大な唐代墓葬文書を調査・収集した。1915年にはさらにパミール高原を越えてロシア領中央アジアのサマルカンド、ブハラ、イラン東部スィースターンまで総行程4万キロを踏破した（著書『内奥アジア』）。",
+          "descEn": "On his monumental third expedition (1913–1916), Stein investigated Tangut Khara-Khoto and the Astana tombs and Bezeklik caves in Turpan before crossing the Pamirs via Samarkand and Bukhara to eastern Iran, covering 40,000 kilometers.",
+          "quoteZh": "オーレル・スタイン『内奥アジア（Innermost Asia）』：「トゥルファンの地下墓室からパミールの彼方サマルカンドまで、ユーラシアの動脈を一貫して辿り終えた。」",
+          "quoteEn": "Aurel Stein, Innermost Asia: 'From the subterranean tombs of Turpan across the Pamirs to Samarkand and Sistan, the full arterial corridor of ancient Eurasia lay revealed.'",
+          "persons": [
+            "stein"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "otani",
+      "dynastyKey": "qing",
+      "color": "#5b3256",
+      "shortZh": "大谷探検隊の西域仏跡・シルクロード探検路",
+      "shortEn": "Otani Expeditions Across the Silk Road",
+      "titleZh": "大谷探検隊（大谷光瑞・橘瑞超ら）の西域仏跡・シルクロード探検の軌跡",
+      "titleJa": "大谷探検隊（大谷光瑞・橘瑞超ら）の西域仏跡・シルクロード探検の軌跡",
+      "titleEn": "The Otani Expeditions: Japanese Buddhist Exploration of Central Asia",
+      "spanZh": "1902年 — 1914年（明治35年〜大正3年 / 清 光緒二十八年〜民国三年）",
+      "spanJa": "1902年 — 1914年（明治35年〜大正3年 / 清 光緒二十八年〜民国三年）",
+      "spanEn": "1902 CE – 1914 CE (Meiji 35 to Taisho 3)",
+      "stops": [
+        {
+          "year": 1902,
+          "eraZh": "明治35年 / 光緒二十八年九月",
+          "coord": [
+            75.23,
+            37.77
+          ],
+          "labelPos": "left",
+          "ancientZh": "タシュクルガン・カシュガル（葱嶺・蒲犁・喀什）",
+          "modernZh": "新疆カシュガル地区タシュクルガン",
+          "ancientEn": "Tashkurgan & Kashgar",
+          "modernEn": "Tashkurgan, Xinjiang",
+          "titleZh": "第1次大谷探検隊・パミール高原（葱嶺）越えとタシュクルガン調査",
+          "titleJa": "第1次大谷探検隊・パミール高原（葱嶺）越えとタシュクルガン調査",
+          "titleEn": "First Otani Expedition: Crossing the Pamirs into Tashkurgan & Kashgar",
+          "descZh": "西本願寺の大谷光瑞は、ロンドン留学中に中央アジア仏教史の解明を志し、渡辺哲信・堀賢雄・本多恵隆・井上弘円とともに第1次探検隊を結成。1902年8月にサンクトペテルブルクを発ち、中央アジアのオシから標高4000メートル超のパミール高原（葱嶺）の難所キジル・アルト峠を越えてカシュガルに入り、タシュクルガン（玄奘『大唐西域記』の朅盤陀国）で部隊を分けて調査を開始した。",
+          "descJa": "西本願寺の大谷光瑞は、ロンドン留学中に中央アジア仏教史の解明を志し、渡辺哲信・堀賢雄・本多恵隆・井上弘円とともに第1次探検隊を結成。1902年8月にサンクトペテルブルクを発ち、中央アジアのオシから標高4000メートル超のパミール高原（葱嶺）の難所キジル・アルト峠を越えてカシュガルに入り、タシュクルガン（玄奘『大唐西域記』の朅盤陀国）で部隊を分けて調査を開始した。",
+          "descEn": "Inspired during his stay in London, Count Kozui Otani led Watanabe Tesshin, Hori Kenyu, Honda Eryu, and Inoue Koen across the high Pamir passes from Osh into Kashgar and Tashkurgan in 1902 to trace Buddhism's eastward transmission.",
+          "quoteZh": "上原芳太郎編『新西域記』：「葱嶺の雪を踏みてカシュガルに入り、先聖求法の古道を辿りて東漸仏教の源流を究めんとす。」",
+          "quoteEn": "Shin Saiikiki (New Records of the Western Regions): 'Treading the snows of the Pamirs into Kashgar to retrace the sacred routes by which Buddhism spread eastward.'",
+          "persons": [
+            "otani"
+          ]
+        },
+        {
+          "year": 1903,
+          "eraZh": "明治36年 / 光緒二十九年四月",
+          "coord": [
+            82.96,
+            41.72
+          ],
+          "via": [
+            [
+              79.92,
+              37.11
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "ホータン・クチャ（于闐・亀茲・キジル千仏洞）",
+          "modernZh": "新疆アクス地区クチャ（庫車）",
+          "ancientEn": "Khotan & Kucha (Kizil Caves)",
+          "modernEn": "Kuqa, Xinjiang",
+          "titleZh": "渡辺哲信・堀賢雄によるタクラマカン縦断とクチャ・キジル千仏洞初調査",
+          "titleJa": "渡辺哲信・堀賢雄によるタクラマカン縦断とクチャ・キジル千仏洞初調査",
+          "titleEn": "Crossing the Taklamakan & First Investigation of Kucha's Kizil Caves",
+          "descZh": "光瑞らがインドの仏跡調査へ向かったのち、残留した渡辺哲信と堀賢雄はホータン（于闐）の古跡を調査し、厳冬期に凍結したホータン川を辿ってタクラマカン砂漠を南北縦断。1903年4月から4ヶ月間にわたり西域北道の要衝クチャ（亀茲）に滞在し、キジル千仏洞、クムトラ千仏洞、スバシ故城（昭怙釐大寺）を日本人として初めて本格調査・発掘し、多数の仏教美術品と舎利容器を発見した。",
+          "descJa": "光瑞らがインドの仏跡調査へ向かったのち、残留した渡辺哲信と堀賢雄はホータン（于闐）の古跡を調査し、厳冬期に凍結したホータン川を辿ってタクラマカン砂漠を南北縦断。1903年4月から4ヶ月間にわたり西域北道の要衝クチャ（亀茲）に滞在し、キジル千仏洞、クムトラ千仏洞、スバシ故城（昭怙釐大寺）を日本人として初めて本格調査・発掘し、多数の仏教美術品と舎利容器を発見した。",
+          "descEn": "Watanabe Tesshin and Hori Kenyu surveyed Khotan, traversed the frozen Hotan riverbed across the Taklamakan, and spent four months around Kucha—conducting the first major survey of the Kizil and Kumtura Caves and Subashi ruins.",
+          "quoteZh": "渡辺哲信『西域旅行日記』：「庫車に至りてキジル・クムトラの千仏洞を探り、千古の壁画と舎利函を実見す。」",
+          "quoteEn": "Watanabe Tesshin, Travel Diary in the Western Regions: 'Reaching Kucha, we explored the thousand-Buddha caves of Kizil and Kumtura, witnessing millennia-old murals and reliquary caskets.'",
+          "persons": [
+            "otani"
+          ]
+        },
+        {
+          "year": 1908,
+          "eraZh": "明治41年 / 光緒三十四年八月",
+          "coord": [
+            102.84,
+            47.2
+          ],
+          "via": [
+            [
+              116.39,
+              39.91
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "外モンゴル・カラコルム（和林・オルホン碑文）",
+          "modernZh": "モンゴル国ウブルハンガイ県ハラホリン",
+          "ancientEn": "Karakorum & Orkhon Valley",
+          "modernEn": "Kharkhorin, Mongolia",
+          "titleZh": "第2次大谷探検隊：橘瑞超・野村栄三郎による外モンゴル・オルホン踏査",
+          "titleJa": "第2次大谷探検隊：橘瑞超・野村栄三郎による外モンゴル・オルホン踏査",
+          "titleEn": "Second Expedition: Tachibana & Nomura Survey Karakorum & Orkhon",
+          "descZh": "第2次探検隊では弱冠18歳の橘瑞超と先輩の野村栄三郎が1908年6月に北京を出発。張家口からゴビ砂漠を縦断して外モンゴルのクーロン（ウランバートル）に入り、モンゴル帝国の旧都カラコルムやオルホン川流域を踏査して突厥文字・ウイグル文字（カラバルガスン碑文等）の拓本を採集。さらに雪のアルタイ山脈を越えて新疆へと進入した。",
+          "descJa": "第2次探検隊では弱冠18歳の橘瑞超と先輩の野村栄三郎が1908年6月に北京を出発。張家口からゴビ砂漠を縦断して外モンゴルのクーロン（ウランバートル）に入り、モンゴル帝国の旧都カラコルムやオルホン川流域を踏査して突厥文字・ウイグル文字（カラバルガスン碑文等）の拓本を採集。さらに雪のアルタイ山脈を越えて新疆へと進入した。",
+          "descEn": "In 1908, 18-year-old Zuicho Tachibana and Eizaburo Nomura crossed the Gobi from Beijing to Outer Mongolia, taking rubbings of Old Turkic and Uyghur inscriptions at Karakorum and the Orkhon Valley before crossing the Altai Mountains into Xinjiang.",
+          "quoteZh": "橘瑞超『中亜探検』：「蒙古大漠を北に横切り、和林の故址に立ちて突厥・回鶻の古碑を拓本す。」",
+          "quoteEn": "Zuicho Tachibana, Central Asian Exploration: 'Crossing the Mongolian steppe to the ancient ruins of Karakorum to make rubbings of Turkic and Uyghur steles.'",
+          "persons": [
+            "otani"
+          ]
+        },
+        {
+          "year": 1908,
+          "eraZh": "明治41年 / 光緒三十四年十一月",
+          "coord": [
+            89.53,
+            42.85
+          ],
+          "via": [
+            [
+              87.62,
+              43.82
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "トゥルファン（吐魯番・高昌故城・交河故城）",
+          "modernZh": "新疆トゥルファン市",
+          "ancientEn": "Turpan (Gaochang & Jiaohe)",
+          "modernEn": "Turpan, Xinjiang",
+          "titleZh": "トゥルファン盆地の高昌故城・交河故城・トユク石窟の発掘調査",
+          "titleJa": "トゥルファン盆地の高昌故城・交河故城・トユク石窟の発掘調査",
+          "titleEn": "Excavating Gaochang, Jiaohe & Toyuq Caves in Turpan",
+          "descZh": "ウルムチを経て天山山脈を越え、海抜以下のトゥルファン盆地へ降りた橘瑞超と野村栄三郎は、1908年末から翌年初頭にかけてカラホージャ（高昌故城）、ヤールホト（交河故城）、トユク（吐峪溝）石窟などで発掘を実施。大量の漢文仏典・トカラ語・ウイグル語・ソグド語文献や唐代古文書を収集した。",
+          "descJa": "ウルムチを経て天山山脈を越え、海抜以下のトゥルファン盆地へ降りた橘瑞超と野村栄三郎は、1908年末から翌年初頭にかけてカラホージャ（高昌故城）、ヤールホト（交河故城）、トユク（吐峪溝）石窟などで発掘を実施。大量の漢文仏典・トカラ語・ウイグル語・ソグド語文献や唐代古文書を収集した。",
+          "descEn": "Descending from Urumqi into the Turpan Depression, Tachibana and Nomura excavated Karakhoja (Gaochang), Yarkhoto (Jiaohe), and Toyuq caves, assembling major collections of Buddhist sutras and Tang documents.",
+          "quoteZh": "『新西域記』：「吐魯番盆地の高昌・交河・吐峪溝より、漢文・回鶻文・粟特文の古写経続々と出土す。」",
+          "quoteEn": "Shin Saiikiki: 'From Gaochang, Jiaohe, and Toyuq in the Turpan basin emerged rich troves of Chinese, Uyghur, and Sogdian Buddhist manuscripts.'",
+          "persons": [
+            "otani"
+          ]
+        },
+        {
+          "year": 1909,
+          "eraZh": "明治42年 / 宣統元年三月",
+          "coord": [
+            89.92,
+            40.52
+          ],
+          "via": [
+            [
+              86.17,
+              41.76
+            ]
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "楼蘭故城（「李柏文書」の世紀の発見）",
+          "modernZh": "新疆バインゴリン州ロプ砂漠",
+          "ancientEn": "Loulan Ruins (Li Bo Manuscript)",
+          "modernEn": "Lop Desert, Xinjiang",
+          "titleZh": "橘瑞超による楼蘭単独踏査と「李柏文書」世紀の発見",
+          "titleJa": "橘瑞超による楼蘭単独踏査と「李柏文書」世紀の発見",
+          "titleEn": "Tachibana's Solo Expedition to Loulan & Discovery of the Li Bo Manuscript",
+          "descZh": "野村と別れて単身ロプ砂漠（タリム川下流）に入った19歳の橘瑞超は、1909年3月、過酷な砂漠の只中にある楼蘭故城（LA遺跡）へ到達。住居址の煉瓦の下から、東晋（前涼）の西域長史・李柏が328年頃に焉耆王へ宛てて書いた書簡の下書き「李柏文書」を発見した。これは4世紀の西域史を書き換える一級史料となり、大谷探検隊の名を世界に轟かせた。",
+          "descJa": "野村と別れて単身ロプ砂漠（タリム川下流）に入った19歳の橘瑞超は、1909年3月、過酷な砂漠の只中にある楼蘭故城（LA遺跡）へ到達。住居址の煉瓦の下から、東晋（前涼）の西域長史・李柏が328年頃に焉耆王へ宛てて書いた書簡の下書き「李柏文書」を発見した。これは4世紀の西域史を書き換える一級史料となり、大谷探検隊の名を世界に轟かせた。",
+          "descEn": "Braving the Lop Desert in March 1909 at just age nineteen, Tachibana excavated the Loulan ruins and unearthed the celebrated 'Li Bo Manuscript'—a ca. 328 CE draft letter by Former Liang administrator Li Bo—astounding international Sinology.",
+          "quoteZh": "「李柏文書」より：「五月七日、西域長史関内侯柏頓首頓首……（前涼の西域長史李柏が焉耆王らに宛てた直筆書簡草稿）」",
+          "quoteEn": "From the Li Bo Manuscript (ca. 328 CE): 'On the seventh day of the fifth month, Li Bo, Administrator of the Western Regions and Marquis Within the Passes, bows his head...'",
+          "persons": [
+            "otani"
+          ]
+        },
+        {
+          "year": 1911,
+          "eraZh": "明治44年 / 宣統三年十月",
+          "coord": [
+            94.81,
+            40.04
+          ],
+          "via": [
+            [
+              88.97,
+              39.23
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "ミーラン・敦煌莫高窟（米蘭・千仏洞）",
+          "modernZh": "甘粛省敦煌莫高窟",
+          "ancientEn": "Miran & Dunhuang Mogao Caves",
+          "modernEn": "Dunhuang, Gansu",
+          "titleZh": "第3次大谷探検隊：橘瑞超・吉川小一郎の合流と敦煌古写経の収集",
+          "titleJa": "第3次大谷探検隊：橘瑞超・吉川小一郎の合流と敦煌古写経の収集",
+          "titleEn": "Third Expedition: Rendezvous at Dunhuang & Collecting Ancient Sutras",
+          "descZh": "イギリスでオーレル・スタインと会見した橘瑞超は第3次探検（1910–1914）として再び新疆へ入り、ミーラン遺跡や天山北麓、難所の白龍堆を踏査。辛亥革命の動乱が波及しつつあった1911年秋、後発の吉川小一郎と敦煌で合流し、莫高窟（千仏洞）の石窟調査と古写経の収集を行い、六朝・隋唐の貴重な敦煌経巻数百点を確保した。",
+          "descJa": "イギリスでオーレル・スタインと会見した橘瑞超は第3次探検（1910–1914）として再び新疆へ入り、ミーラン遺跡や天山北麓、難所の白龍堆を踏査。辛亥革命の動乱が波及しつつあった1911年秋、後発の吉川小一郎と敦煌で合流し、莫高窟（千仏洞）の石窟調査と古写経の収集を行い、六朝・隋唐の貴重な敦煌経巻数百点を確保した。",
+          "descEn": "Returning for the third expedition after meeting Aurel Stein in England, Tachibana surveyed Miran and the White Dragon Dunes before joining Koichiro Yoshikawa at Dunhuang in autumn 1911 to investigate the Mogao Caves and collect hundreds of ancient sutras.",
+          "quoteZh": "吉川小一郎『支那紀行』：「敦煌千仏洞にて橘氏と相会し、残存せる古写経数百巻を精査収得す。」",
+          "quoteEn": "Koichiro Yoshikawa, Travelogue of China: 'Meeting Mr. Tachibana at the Thousand Buddha Caves of Dunhuang, we examined and acquired several hundred remaining ancient sutra scrolls.'",
+          "persons": [
+            "otani"
+          ]
+        },
+        {
+          "year": 1912,
+          "eraZh": "大正元年〜3年 / 民国元年〜三年",
+          "coord": [
+            108.94,
+            34.26
+          ],
+          "via": [
+            [
+              89.53,
+              42.85
+            ],
+            [
+              94.66,
+              40.14
+            ],
+            [
+              103.83,
+              36.06
+            ]
+          ],
+          "labelPos": "right",
+          "ancientZh": "アスターナ古墓群〜長安（西安）帰還",
+          "modernZh": "新疆トゥルファン〜陝西省西安",
+          "ancientEn": "Astana Tombs to Chang'an (Xi'an)",
+          "modernEn": "Turpan to Xi'an, Shaanxi",
+          "titleZh": "アスターナ古墓群の唐代墓葬調査と河西回廊・長安経由での帰国",
+          "titleJa": "アスターナ古墓群の唐代墓葬調査と河西回廊・長安経由での帰国",
+          "titleEn": "Astana Tombs Investigation & Return Journey via Hexi Corridor to Xi'an",
+          "descZh": "吉川小一郎と橘瑞超は再びトゥルファンへ戻ってアスターナ古墓群を発掘し、唐代のミイラ、伏羲女媧図、精巧な胡人俑、均田制・租庸調を証明する唐代戸籍・公文書を多数発見した。その後ハミ、酒泉、蘭州、そしてシルクロードの東端・長安（西安）を経て1914年に帰国。将来された膨大な「大谷コレクション」は龍谷大学や京都国立博物館などに収蔵され、日本の東洋史学・仏教学の礎を築いた。",
+          "descJa": "吉川小一郎と橘瑞超は再びトゥルファンへ戻ってアスターナ古墓群を発掘し、唐代のミイラ、伏羲女媧図、精巧な胡人俑、均田制・租庸調を証明する唐代戸籍・公文書を多数発見した。その後ハミ、酒泉、蘭州、そしてシルクロードの東端・長安（西安）を経て1914年に帰国。将来された膨大な「大谷コレクション」は龍谷大学や京都国立博物館などに収蔵され、日本の東洋史学・仏教学の礎を築いた。",
+          "descEn": "Excavating the Astana-Karakhoja tombs near Turpan, Yoshikawa and Tachibana uncovered Tang mummies, Fuxi-Nüwa silk paintings, figurines, and land-tax registers before returning overland via Hami, Lanzhou, and Xi'an in 1914 with the landmark Otani Collection.",
+          "quoteZh": "上原芳太郎編『新西域記』：「三次にわたる西域探検の成果は、我が東洋学・仏教史研究に不朽の光を投じたり。」",
+          "quoteEn": "Shin Saiikiki: 'The fruits of the three Central Asian expeditions cast enduring light upon East Asian history and Buddhist studies.'",
+          "persons": [
+            "otani"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "nhksilkroad",
+      "dynastyKey": "prc",
+      "color": "#1b4d3e",
+      "shortZh": "NHKシルクロード（絲綢之路）取材ルート",
+      "shortEn": "NHK Silk Road (Sichou zhi Lu) Documentary Route",
+      "titleZh": "NHK特集『シルクロード —絲綢之路—』が辿ったユーラシア横断ルート",
+      "titleJa": "NHK特集『シルクロード —絲綢之路—』が辿ったユーラシア横断ルート",
+      "titleEn": "NHK Documentary 'The Silk Road' (Sichou zhi Lu) Filming Route",
+      "spanZh": "1979年 — 1984年（第1部 絲綢之路・第2部 ローマへの道）",
+      "spanJa": "1979年 — 1984年（第1部 絲綢之路・第2部 ローマへの道）",
+      "spanEn": "1979 CE – 1984 CE (Series I: Chang'an to Pamirs & Series II: Roads to Rome)",
+      "stops": [
+        {
+          "year": 1979,
+          "eraZh": "第1集「遥かなる長安」",
+          "coord": [
+            108.94,
+            34.26
+          ],
+          "labelPos": "right",
+          "ancientZh": "長安（西安・大雁塔）",
+          "modernZh": "陝西省西安市",
+          "ancientEn": "Chang'an (Xi'an)",
+          "modernEn": "Xi'an, Shaanxi",
+          "titleZh": "シルクの都・長安（西安）より日中共同大取材の旅へ出発",
+          "titleJa": "シルクの都・長安（西安）より日中共同大取材の旅へ出発",
+          "titleEn": "Setting Out from Ancient Chang'an (Xi'an) on the Joint NHK–CCTV Expedition",
+          "descZh": "1979年、改革開放の幕開けとともにNHKと中国中央電視台（CCTV）による史上初の日中共同大型取材が実現。シルクロードの起点・長安（西安）の大雁塔や鐘楼、始皇帝陵・兵馬俑、法門寺などを取材して西域への旅を開始した。井上靖・司馬遼太郎・陳舜臣らの紀行、石坂浩二の名ナレーション、喜多郎のシンセサイザー音楽が日本中に空前のシルクロード・ブームを巻き起こした。",
+          "descJa": "1979年、改革開放の幕開けとともにNHKと中国中央電視台（CCTV）による史上初の日中共同大型取材が実現。シルクロードの起点・長安（西安）の大雁塔や鐘楼、始皇帝陵・兵馬俑、法門寺などを取材して西域への旅を開始した。井上靖・司馬遼太郎・陳舜臣らの紀行、石坂浩二の名ナレーション、喜多郎のシンセサイザー音楽が日本中に空前のシルクロード・ブームを巻き起こした。",
+          "descEn": "In 1979, NHK and China Central Television launched their historic joint documentary filming from Xi'an (ancient Chang'an). Aided by writers Yasushi Inoue and Ryotaro Shiba, narrator Koji Ishizaka, and Kitaro's iconic score, the broadcast sparked a nationwide Silk Road boom.",
+          "quoteZh": "NHK特集『シルクロード —絲綢之路—』第1集より：「西へ！ 長安の西門を抜ければ、そこはもうはるかな西域へと続く絲綢之路であった。」",
+          "quoteEn": "NHK Silk Road Episode 1: 'Westward from the gates of Chang'an stretched the long road toward the Western Regions.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1979,
+          "eraZh": "第2集「黄河を越えて〜河西回廊1000キロ〜」",
+          "coord": [
+            98.29,
+            39.77
+          ],
+          "via": [
+            [
+              103.83,
+              36.06
+            ],
+            [
+              102.64,
+              37.93
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "河西回廊（蘭州・武威・張掖・嘉峪関）",
+          "modernZh": "甘粛省河西回廊（蘭州〜嘉峪関）",
+          "ancientEn": "Hexi Corridor (Lanzhou to Jiayuguan)",
+          "modernEn": "Hexi Corridor, Gansu",
+          "titleZh": "黄河渡河と河西回廊1000キロ・天下第一雄関「嘉峪関」",
+          "titleJa": "黄河渡河と河西回廊1000キロ・天下第一雄関「嘉峪関」",
+          "titleEn": "Crossing the Yellow River Through the 1,000-km Hexi Corridor to Jiayuguan",
+          "descZh": "取材班は蘭州で羊皮筏が浮かぶ黄河を渡り、断崖の炳霊寺石窟を経て、南に万年雪を戴く祁連山脈、北にゴビ砂漠を望む河西回廊1000キロを西へ進んだ。後漢の「銅奔馬（天馬）」が出土した武威（涼州）、古寺の眠る張掖、名酒の産地・酒泉を経て、明代万里の長城の最西端「天下第一雄関」嘉峪関に到達した。",
+          "descJa": "取材班は蘭州で羊皮筏が浮かぶ黄河を渡り、断崖の炳霊寺石窟を経て、南に万年雪を戴く祁連山脈、北にゴビ砂漠を望む河西回廊1000キロを西へ進んだ。後漢の「銅奔馬（天馬）」が出土した武威（涼州）、古寺の眠る張掖、名酒の産地・酒泉を経て、明代万里の長城の最西端「天下第一雄関」嘉峪関に到達した。",
+          "descEn": "Crossing the Yellow River at Lanzhou and filming Bingling Temple, the crew traversed 1,000 kilometers along the snow-fed Hexi Corridor—visiting Wuwei (home of the Flying Horse of Gansu), Zhangye, and Jiuquan—to reach Jiayuguan, western terminus of the Ming Great Wall.",
+          "quoteZh": "NHK特集『シルクロード』第2集より：「祁連山の雪解け水が潤すオアシスの点線、河西回廊千キロの道が敦煌へと続く。」",
+          "quoteEn": "NHK Silk Road Episode 2: 'Meltwater from the Qilian Mountains sustained the chain of oases along the thousand-kilometer Hexi Corridor.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1979,
+          "eraZh": "第3集「敦煌」・第4集「幻の黒水城」",
+          "coord": [
+            94.81,
+            40.04
+          ],
+          "via": [
+            [
+              101.14,
+              41.76
+            ]
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "カラホト（黒水城）と敦煌・莫高窟",
+          "modernZh": "内モンゴル・エチナ〜甘粛省敦煌",
+          "ancientEn": "Khara-Khoto & Dunhuang Mogao Caves",
+          "modernEn": "Ejina & Dunhuang",
+          "titleZh": "西夏秘都カラホト（黒水城）初撮影と砂漠の大画廊・敦煌莫高窟",
+          "titleJa": "西夏秘都カラホト（黒水城）初撮影と砂漠の大画廊・敦煌莫高窟",
+          "titleEn": "First Western Filming of Khara-Khoto & the Murals of Dunhuang",
+          "descZh": "バダインジャラン砂漠の奥にそびえる西夏王国の廃都カラホト（黒水城）に外国テレビ取材班として初めて踏み込み、砂に埋もれる仏塔や城壁を撮影。さらに「砂漠の大画廊」敦煌莫高窟に長期間滞在し、常書鴻敦煌文物研究所長らの案内のもと492石窟の優美な飛天壁画・塑像、さらに漢の関所・玉門関、陽関、鳴沙山・月牙泉を記録した。",
+          "descJa": "バダインジャラン砂漠の奥にそびえる西夏王国の廃都カラホト（黒水城）に外国テレビ取材班として初めて踏み込み、砂に埋もれる仏塔や城壁を撮影。さらに「砂漠の大画廊」敦煌莫高窟に長期間滞在し、常書鴻敦煌文物研究所長らの案内のもと492石窟の優美な飛天壁画・塑像、さらに漢の関所・玉門関、陽関、鳴沙山・月牙泉を記録した。",
+          "descEn": "Becoming the first Western TV crew to film Tangut Khara-Khoto in the Badain Jaran Desert, the team also documented Dunhuang's Mogao Caves with director Chang Shuhong, filming the Flying Apsaras, Jade Gate, and Crescent Lake.",
+          "quoteZh": "NHK特集『シルクロード』第3集・第4集より：「砂漠の風に消えた西夏の城・黒水城と、千年の祈りが刻まれた敦煌の石窟群。」",
+          "quoteEn": "NHK Silk Road Episodes 3–4: 'From the silent Tangut battlements of Khara-Khoto to a thousand years of Buddhist art carved into the cliffs of Dunhuang.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1980,
+          "eraZh": "第5集「楼蘭王国を掘る」",
+          "coord": [
+            89.92,
+            40.52
+          ],
+          "labelPos": "top",
+          "ancientZh": "ロプノール・楼蘭故城（「楼蘭の美女」発掘）",
+          "modernZh": "新疆バインゴリン州ロプ砂漠",
+          "ancientEn": "Lop Nor & Loulan (Beauty of Loulan)",
+          "modernEn": "Lop Desert, Xinjiang",
+          "titleZh": "約半世紀ぶりの楼蘭故城取材と「楼蘭の美女」ミイラの発掘",
+          "titleJa": "約半世紀ぶりの楼蘭故城取材と「楼蘭の美女」ミイラの発掘",
+          "titleEn": "First Foreign Expedition to Loulan in Decades & the 'Beauty of Loulan'",
+          "descZh": "長らく軍事禁区（ロプノール核実験場近郊）として外国人の立ち入りが厳禁されていたロプ砂漠へ、中国側の全面協力によりヘディンらの時代以来約半世紀ぶりに進入して楼蘭故城を取材。新疆考古研究所の穆舜英（ム・シュンイン）隊長らと共に、孔雀河下流の鉄板河墓地から約3800年前のミイラ「楼蘭の美女」を発掘・撮影し、世界中で大きな反響を呼んだ。",
+          "descJa": "長らく軍事禁区（ロプノール核実験場近郊）として外国人の立ち入りが厳禁されていたロプ砂漠へ、中国側の全面協力によりヘディンらの時代以来約半世紀ぶりに進入して楼蘭故城を取材。新疆考古研究所の穆舜英（ム・シュンイン）隊長らと共に、孔雀河下流の鉄板河墓地から約3800年前のミイラ「楼蘭の美女」を発掘・撮影し、世界中で大きな反響を呼んだ。",
+          "descEn": "Granted rare access to the restricted Lop Desert nearly half a century after Hedin, the crew filmed the ruins of Loulan and joined archaeologist Mu Shunying's team in excavating the 3,800-year-old mummy famed as the 'Beauty of Loulan.'",
+          "quoteZh": "NHK特集『シルクロード』第5集より：「いま、三千八百年の眠りから覚めた楼蘭の女性が、砂漠の時の重みを語りかけてくる。」",
+          "quoteEn": "NHK Silk Road Episode 5: 'Awakening from thirty-eight centuries of desert slumber, the Beauty of Loulan stood intact before the cameras.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1980,
+          "eraZh": "第6集「流砂の道」・第7集「砂漠の民」",
+          "coord": [
+            79.92,
+            37.11
+          ],
+          "via": [
+            [
+              88.97,
+              39.23
+            ],
+            [
+              85.53,
+              38.14
+            ],
+            [
+              82.71,
+              37.98
+            ]
+          ],
+          "labelPos": "bottom",
+          "ancientZh": "西域南道・ホータン（ミーラン・ニヤ・于闐）",
+          "modernZh": "新疆ホータン市",
+          "ancientEn": "Southern Silk Road & Khotan",
+          "modernEn": "Hotan, Xinjiang",
+          "titleZh": "「流砂の道」西域南道2000キロ走破とオアシス都市ホータン",
+          "titleJa": "「流砂の道」西域南道2000キロ走破とオアシス都市ホータン",
+          "titleEn": "2,000 km Along the 'Road of Shifting Sands' to Oasis Khotan",
+          "descZh": "タクラマカン砂漠の南縁、崑崙山脈の麓に沿う「流砂の道」西域南道2000キロを、ミーラン、チャルクリク（若羌）、チェルチェン（且末）、ニヤ（民豊）を経て走破。古来より玉の産地として名高いホータン（和田・于闐）では、白玉川（ユルンカシュ川）の玉拾いや伝統の養蚕・アトラス絣織り、バザールの賑わいなど「砂漠の民」の営みを鮮やかに描き出した。",
+          "descJa": "タクラマカン砂漠の南縁、崑崙山脈の麓に沿う「流砂の道」西域南道2000キロを、ミーラン、チャルクリク（若羌）、チェルチェン（且末）、ニヤ（民豊）を経て走破。古来より玉の産地として名高いホータン（和田・于闐）では、白玉川（ユルンカシュ川）の玉拾いや伝統の養蚕・アトラス絣織り、バザールの賑わいなど「砂漠の民」の営みを鮮やかに描き出した。",
+          "descEn": "Traveling 2,000 km along the Taklamakan's southern rim through Miran, Qiemo, and Niya to Khotan, the team captured jade gathering in the Yurungkash River, traditional silk weaving, and oasis bazaar life.",
+          "quoteZh": "NHK特集『シルクロード』第6集・第7集より：「流砂と戦い、崑崙の氷河が恵む一筋の水を頼りに生きる砂漠の民の姿があった。」",
+          "quoteEn": "NHK Silk Road Episodes 6–7: 'Along the southern rim of shifting dunes, oasis life endures on glacial streams descending from the Kunlun Mountains.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1980,
+          "eraZh": "第8集「熱砂のオアシス」・第9集「天山を貫く」",
+          "coord": [
+            89.53,
+            42.85
+          ],
+          "via": [
+            [
+              86.17,
+              41.76
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "トゥルファン・南疆鉄道（吐魯番・高昌・コルラ）",
+          "modernZh": "新疆トゥルファン〜コルラ",
+          "ancientEn": "Turpan & Southern Xinjiang Railway",
+          "modernEn": "Turpan & Korla, Xinjiang",
+          "titleZh": "火焔山・カレーズのトゥルファンと天山越え南疆鉄道の初乗車",
+          "titleJa": "火焔山・カレーズのトゥルファンと天山越え南疆鉄道の初乗車",
+          "titleEn": "Flaming Mountains & Karez of Turpan and the Trans-Tian Shan Railway",
+          "descZh": "天山山脈南麓の灼熱の窪地トゥルファンで、地下水路「カレーズ（坎児井）」が緑を育む仕組みと、火焔山、高昌故城、交河故城、ベゼクリク千仏洞を取材。さらに1979年に開通したばかりの天山山脈を貫く南疆鉄道（吐魯番〜コルラ間476キロ）の開通後間もない列車に外国人として初めて同乗し、天山北路と南路を結ぶ新たな大動脈を記録した。",
+          "descJa": "天山山脈南麓の灼熱の窪地トゥルファンで、地下水路「カレーズ（坎児井）」が緑を育む仕組みと、火焔山、高昌故城、交河故城、ベゼクリク千仏洞を取材。さらに1979年に開通したばかりの天山山脈を貫く南疆鉄道（吐魯番〜コルラ間476キロ）の開通後間もない列車に外国人として初めて同乗し、天山北路と南路を結ぶ新たな大動脈を記録した。",
+          "descEn": "At the scorching Turpan Depression, NHK filmed ancient karez underground irrigation channels, Flaming Mountains, and Gaochang before riding the newly built Southern Xinjiang Railway across the Tian Shan ranges toward Korla.",
+          "quoteZh": "NHK特集『シルクロード』第8集・第9集より：「地下を流れるカレーズの水と、いま鉄路が天山の壁を貫いて南疆へと延びてゆく。」",
+          "quoteEn": "NHK Silk Road Episodes 8–9: 'Underground karez channels sustain the vineyards of Turpan, while steel rails now pierce the Tian Shan passes.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1980,
+          "eraZh": "第10集「はるかなる音楽の旅」・第11集「天馬のふるさと」",
+          "coord": [
+            82.96,
+            41.72
+          ],
+          "via": [
+            [
+              81.32,
+              43.92
+            ]
+          ],
+          "labelPos": "top",
+          "ancientZh": "クチャ・イリ草原（天山南路・天山北路）",
+          "modernZh": "新疆クチャ〜イリ・カザフ自治州",
+          "ancientEn": "Kucha & Ili Steppe",
+          "modernEn": "Kuqa & Ili, Xinjiang",
+          "titleZh": "亀茲楽・キジル千仏洞と天山北路イリ草原の「天馬」",
+          "titleJa": "亀茲楽・キジル千仏洞と天山北路イリ草原の「天馬」",
+          "titleEn": "Music of Kucha (Kizil Caves) & Heavenly Horses of the Ili Steppe",
+          "descZh": "名僧・鳩摩羅什を生み、かつて中国・日本（雅楽）にも影響を与えた亀茲楽とキジル千仏洞の都クチャ（亀茲）にて、ウイグル伝統音楽十二ムカムや琵琶・箜篌の源流を追究。続いて天山山脈を越えて天山北路のバインブルクおよびイリ草原へ入り、漢の武帝が渇望した「天馬（汗血馬）」の血を引くイリ馬とカザフ遊牧民の移動生活を取材した。",
+          "descJa": "名僧・鳩摩羅什を生み、かつて中国・日本（雅楽）にも影響を与えた亀茲楽とキジル千仏洞の都クチャ（亀茲）にて、ウイグル伝統音楽十二ムカムや琵琶・箜篌の源流を追究。続いて天山山脈を越えて天山北路のバインブルクおよびイリ草原へ入り、漢の武帝が渇望した「天馬（汗血馬）」の血を引くイリ馬とカザフ遊牧民の移動生活を取材した。",
+          "descEn": "In Kucha, birthplace of Kumarajiva and ancient Kizil murals, the crew traced Silk Road music linking the Twelve Muqam to Japanese Gagaku, before crossing into the Ili Steppe in search of the 'Heavenly Horses' sought by Emperor Wu of Han.",
+          "quoteZh": "NHK特集『シルクロード』第10集・第11集より：「亀茲の調べははるか正倉院へと届き、天山北麓の草原には今も天馬の蹄が響く。」",
+          "quoteEn": "NHK Silk Road Episodes 10–11: 'Melodies of ancient Kucha echoed all the way to Japan's Shosoin, while herds of Ili horses still thunder across the northern steppes.'",
+          "persons": [
+            "nhksilkroad"
+          ]
+        },
+        {
+          "year": 1980,
+          "eraZh": "第12集「民族の十字路」〜第2部「ローマへの道」",
+          "coord": [
+            75.99,
+            39.47
+          ],
+          "via": [
+            [
+              75.23,
+              37.77
+            ],
+            [
+              66.97,
+              39.65
+            ]
+          ],
+          "labelPos": "left",
+          "ancientZh": "カシュガル・パミール高原〜サマルカンド",
+          "modernZh": "新疆カシュガル・パミール〜中央アジア〜ローマ",
+          "ancientEn": "Kashgar, Pamirs & Samarkand (to Rome)",
+          "modernEn": "Kashgar, Pamirs to Rome",
+          "titleZh": "カシュガル・パミール高原踏破と第2部「ローマへの道」",
+          "titleJa": "カシュガル・パミール高原踏破と第2部「ローマへの道」",
+          "titleEn": "Kashgar, Crossing the Pamir Pass & Series II: 'Roads to Rome'",
+          "descZh": "天山南路と西域南道が交わる民族の十字路カシュガル（日曜大バザール・エイティガール寺院）から、タジク族の住むタシュクルガンを経て標高4700メートルの中パ国境・パミール高原（クンジュラブ峠）に到達して第1部『絲綢之路』（全12集）を完結。続く第2部『ローマへの道』（1983–1984年、全18集）では、パミールを越えてパキスタン、ソグド人の都サマルカンド、イラン、シリア（パルミラ）、トルコを経て終着点ローマまでユーラシア大陸を完全縦断した。",
+          "descJa": "天山南路と西域南道が交わる民族の十字路カシュガル（日曜大バザール・エイティガール寺院）から、タジク族の住むタシュクルガンを経て標高4700メートルの中パ国境・パミール高原（クンジュラブ峠）に到達して第1部『絲綢之路』（全12集）を完結。続く第2部『ローマへの道』（1983–1984年、全18集）では、パミールを越えてパキスタン、ソグド人の都サマルカンド、イラン、シリア（パルミラ）、トルコを経て終着点ローマまでユーラシア大陸を完全縦断した。",
+          "descEn": "Completing Series I at the bustling markets of Kashgar and the 4,700m Khunjerab Pass on the Pamir Plateau, NHK continued in Series II ('Roads to Rome,' 1983–1984) through Pakistan, Samarkand, Iran, Palmyra, and Turkey all the way to Rome.",
+          "quoteZh": "NHK特集『シルクロード』第12集・第2部より：「パミールの頂を越え、道はソグディアナ、ペルシャ、そしてはるかなるローマへと続いていた。」",
+          "quoteEn": "NHK Silk Road Finale: 'Beyond the heights of the Pamirs, the Silk Road carried onward through Sogdiana, Persia, and the Mediterranean to Rome.'",
+          "persons": [
+            "nhksilkroad"
+          ]
         }
       ]
     }
@@ -14815,10 +18450,12 @@ window.ATLAS_LORE_DATA = {
       "vanish": 200,
       "focusYear": -241,
       "align": "b",
-      "rangeZh": "崤山 · 黄河大曲南岸",
+      "rangeZh": "崤山（こうざん）・黄河大曲南岸",
       "rangeEn": "Mount Xiao & Yellow River Gorge",
-      "chokepointZh": "西据关中高原，东临绝涧，南接秦岭，北塞黄河，因关在谷中深险如函得名，为战国秦汉“一夫当关，万夫莫开”之东大门。",
-      "chokepointEn": "Set deep in a canyon between Mount Xiao, the Qinling Mountains, and the Yellow River; the impregnable eastern gateway of Qin and Western Han."
+      "chokepointZh": "西は關中高原に拠り、東は絶壁の谷に臨み、南は秦嶺に接し、北は黄河に塞がれている。関が谷の奥深く険しい函のようであることからその名を得た函谷關は、戰國・秦漢時代には「一夫関に当たれば、万夫も開く能わず」と称された東の要衝であった。",
+      "chokepointEn": "Set deep in a canyon between Mount Xiao, the Qinling Mountains, and the Yellow River; the impregnable eastern gateway of Qin and Western Han.",
+      "chokepointJa": "西は關中高原に拠り、東は絶壁の谷に臨み、南は秦嶺に接し、北は黄河に塞がれている。関が谷の奥深く険しい函のようであることからその名を得た函谷關は、戰國・秦漢時代には「一夫関に当たれば、万夫も開く能わず」と称された東の要衝であった。",
+      "rangeJa": "崤山（こうざん）・黄河大曲南岸"
     },
     {
       "key": "tongguan",
@@ -14833,10 +18470,12 @@ window.ATLAS_LORE_DATA = {
       "appear": 196,
       "focusYear": 756,
       "align": "b",
-      "rangeZh": "秦岭北麓 · 黄河风陵渡南",
+      "rangeZh": "秦嶺北麓（ほくろく）・黄河風陵渡（ふうりょうと）南",
       "rangeEn": "Qinling Foothills & Yellow River Bend",
-      "chokepointZh": "东汉建安年间代函谷关而兴，北临黄河、渭水、洛水三河交汇，南依秦岭绝壁，扼长安与洛阳两京咽喉，为汉唐以降关中第一锁钥。",
-      "chokepointEn": "Established in the late Eastern Han at the confluence of the Yellow, Wei, and Luo rivers against the Qinling cliffs; the primary lock between Chang’an and Luoyang."
+      "chokepointZh": "後漢の建安年間に函谷関に代わり興り、北は黄河、渭水、洛水の三河が合流する地点に臨み、南は秦嶺の絶壁に依る。長安と洛陽の両都の咽喉を扼し、漢唐以降、関中第一の要衝となった。",
+      "chokepointEn": "Established in the late Eastern Han at the confluence of the Yellow, Wei, and Luo rivers against the Qinling cliffs; the primary lock between Chang’an and Luoyang.",
+      "chokepointJa": "後漢の建安年間に函谷関に代わり興り、北は黄河、渭水、洛水の三河が合流する地点に臨み、南は秦嶺の絶壁に依る。長安と洛陽の両都の咽喉を扼し、漢唐以降、関中第一の要衝となった。",
+      "rangeJa": "秦嶺北麓（ほくろく）・黄河風陵渡（ふうりょうと）南"
     },
     {
       "key": "wuguan",
@@ -14851,10 +18490,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": -206,
       "align": "r",
-      "rangeZh": "秦岭东段 · 丹江峡谷",
+      "rangeZh": "秦嶺東段・丹江峡谷",
       "rangeEn": "Eastern Qinling & Dan River Gorge",
-      "chokepointZh": "居秦岭东段少习山峡谷，控丹江水陆通道，与函谷关、萧关、大散关并称“秦之四塞”，为江汉、南阳盆地入关中之南大门。",
-      "chokepointEn": "One of the \"Four Fortresses of Qin\" guarding the Dan River gorge through the eastern Qinling Mountains, linking the Nanyang Basin with Guanzhong."
+      "chokepointZh": "秦嶺東段の少習山峡谷に位置し、丹江の水陸交通路を支配する。函谷関、蕭関、大散関と共に「秦の四塞」と称され、江漢、南陽盆地から関中へ入る南の玄関口であった。",
+      "chokepointEn": "One of the \"Four Fortresses of Qin\" guarding the Dan River gorge through the eastern Qinling Mountains, linking the Nanyang Basin with Guanzhong.",
+      "chokepointJa": "秦嶺東段の少習山峡谷に位置し、丹江の水陸交通路を支配する。函谷関、蕭関、大散関と共に「秦の四塞」と称され、江漢、南陽盆地から関中へ入る南の玄関口であった。",
+      "rangeJa": "秦嶺東段・丹江峡谷"
     },
     {
       "key": "dasanguan",
@@ -14869,10 +18510,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": 228,
       "align": "l",
-      "rangeZh": "秦岭北麓 · 陈仓故道",
+      "rangeZh": "秦嶺北麓・陳倉故道",
       "rangeEn": "Qinling North Slope & Chencang Road",
-      "chokepointZh": "扼秦岭北麓清姜河谷与嘉陵江源头，为关中经陈仓道、故道出入汉中与巴蜀之咽喉，“楼船夜雪瓜洲渡，铁马秋风大散关”。",
-      "chokepointEn": "Guards the northern entrance of the Chencang trail across the Qinling Mountains, the strategic hinge between Guanzhong, Hanzhong, and Sichuan."
+      "chokepointZh": "秦嶺北麓の清姜河谷と嘉陵江の源頭を扼し、関中から陳倉道、故道を経て漢中と巴蜀へ出入りする咽喉であった。「楼船夜雪瓜洲渡、鉄馬秋風大散関」と詠われた。",
+      "chokepointEn": "Guards the northern entrance of the Chencang trail across the Qinling Mountains, the strategic hinge between Guanzhong, Hanzhong, and Sichuan.",
+      "chokepointJa": "秦嶺北麓の清姜河谷と嘉陵江の源頭を扼し、関中から陳倉道、故道を経て漢中と巴蜀へ出入りする咽喉であった。「楼船夜雪瓜洲渡、鉄馬秋風大散関」と詠われた。",
+      "rangeJa": "秦嶺北麓・陳倉故道"
     },
     {
       "key": "xiaoguan",
@@ -14887,10 +18530,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": -166,
       "align": "l",
-      "rangeZh": "六盘山（陇山） · 泾水谷道",
+      "rangeZh": "六盤山（隴山）と涇水谷道",
       "rangeEn": "Liupan Mountains & Jing River Corridor",
-      "chokepointZh": "锁六盘山（古陇山）东麓泾水通道，为关中西北门户；汉文帝时匈奴入朝那萧关、唐宋防御吐蕃与西夏皆以此为要冲。",
-      "chokepointEn": "Controls the Jing River corridor on the eastern flank of the Liupan Mountains, serving as the northwestern shield of Chang’an against steppe incursions."
+      "chokepointZh": "六盤山（古くは隴山）東麓の涇水（けいすい）の通路を扼し、関中の西北の要衝であった。漢の文帝の時代には匈奴が朝那の蕭関から侵入し、唐宋時代には吐蕃や西夏の防御において、いずれもここを要衝とした。",
+      "chokepointEn": "Controls the Jing River corridor on the eastern flank of the Liupan Mountains, serving as the northwestern shield of Chang’an against steppe incursions.",
+      "chokepointJa": "六盤山（古くは隴山）東麓の涇水（けいすい）の通路を扼し、関中の西北の要衝であった。漢の文帝の時代には匈奴が朝那の蕭関から侵入し、唐宋時代には吐蕃や西夏の防御において、いずれもここを要衝とした。",
+      "rangeJa": "六盤山（隴山）と涇水谷道"
     },
     {
       "key": "hulaoguan",
@@ -14905,10 +18550,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": 621,
       "align": "t",
-      "rangeZh": "嵩山北麓 · 黄河汜水交汇",
+      "rangeZh": "嵩山北麓・黄河と汜水の合流点",
       "rangeEn": "Mount Song Foothills & Sishui Gorge",
-      "chokepointZh": "又名汜水关、成皋关，北临黄河，南依嵩山邙岭，绝岸峻崖天然成隘，历为洛阳东境屏障，唐秦王李世民在此一战擒窦建德、降王世充。",
-      "chokepointEn": "Also known as Sishui or Chenggao Pass; wedged between the Yellow River and the Mount Song bluffs as the eastern bulwark of Luoyang."
+      "chokepointZh": "汜水関、成皋関とも称される。北は黄河、南は嵩山と邙嶺に臨み、絶壁と峻険な崖が天然の要害を成し、洛陽東部の防衛線として機能した。唐の秦王李世民は、この地での一戦で竇建徳を捕らえ、王世充を降伏させた。",
+      "chokepointEn": "Also known as Sishui or Chenggao Pass; wedged between the Yellow River and the Mount Song bluffs as the eastern bulwark of Luoyang.",
+      "chokepointJa": "汜水関、成皋関とも称される。北は黄河、南は嵩山と邙嶺に臨み、絶壁と峻険な崖が天然の要害を成し、洛陽東部の防衛線として機能した。唐の秦王李世民は、この地での一戦で竇建徳を捕らえ、王世充を降伏させた。",
+      "rangeJa": "嵩山北麓・黄河と汜水の合流点"
     },
     {
       "key": "jianmenguan",
@@ -14923,10 +18570,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -316,
       "focusYear": 263,
       "align": "l",
-      "rangeZh": "大剑山 · 蜀道金牛道",
+      "rangeZh": "大剣山・蜀道金牛道",
       "rangeEn": "Dajian Mountain & Jinniu Shu Road",
-      "chokepointZh": "大剑山七十二峰断崖绝壁相倚如门，诸葛亮在此垒石立剑阁，扼金牛道入蜀咽喉，“剑阁峥嵘而崔嵬，一夫当关，万夫莫开”。",
-      "chokepointEn": "Built by Zhuge Liang in a sheer cliff gap of the Dajian Mountains along the Jinniu Shu Road; the northern lock of the Sichuan Basin."
+      "chokepointZh": "大剣山の七十二峰が断崖絶壁となって門のように連なり、諸葛亮がこの地に石を積み上げて剣閣を築き、金牛道の蜀への咽喉を扼した。「剣閣は険しく高くそびえ、一夫関に当たれば、万夫も開くこと能わず」と謳われた。",
+      "chokepointEn": "Built by Zhuge Liang in a sheer cliff gap of the Dajian Mountains along the Jinniu Shu Road; the northern lock of the Sichuan Basin.",
+      "chokepointJa": "大剣山の七十二峰が断崖絶壁となって門のように連なり、諸葛亮がこの地に石を積み上げて剣閣を築き、金牛道の蜀への咽喉を扼した。「剣閣は険しく高くそびえ、一夫関に当たれば、万夫も開くこと能わず」と謳われた。",
+      "rangeJa": "大剣山・蜀道金牛道"
     },
     {
       "key": "yangpingguan",
@@ -14941,10 +18590,12 @@ window.ATLAS_LORE_DATA = {
       "appear": 191,
       "focusYear": 219,
       "align": "l",
-      "rangeZh": "秦巴谷地 · 汉水上游",
+      "rangeZh": "秦巴谷地・漢水上流",
       "rangeEn": "Upper Han River & Hanzhong West Gate",
-      "chokepointZh": "北依秦岭，南临汉水与嘉陵江分水岭，与定军山隔江相望，为汉中盆地西大门及蜀汉北伐屯兵要塞。",
-      "chokepointEn": "Guarding the western approach to the Hanzhong Basin opposite Mount Dingjun, linking the upper Han River with the Sichuan passes."
+      "chokepointZh": "北は秦嶺に依り、南は漢水と嘉陵江の分水嶺に臨む。定軍山とは川を隔てて向かい合い、漢中盆地の西の玄関口であり、蜀漢の北伐における屯兵要塞であった。",
+      "chokepointEn": "Guarding the western approach to the Hanzhong Basin opposite Mount Dingjun, linking the upper Han River with the Sichuan passes.",
+      "chokepointJa": "北は秦嶺に依り、南は漢水と嘉陵江の分水嶺に臨む。定軍山とは川を隔てて向かい合い、漢中盆地の西の玄関口であり、蜀漢の北伐における屯兵要塞であった。",
+      "rangeJa": "秦巴谷地・漢水上流"
     },
     {
       "key": "yanmenguan",
@@ -14959,10 +18610,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": -129,
       "align": "l",
-      "rangeZh": "恒山 · 勾注山脊",
+      "rangeZh": "恒山・勾注山脈",
       "rangeEn": "Mount Heng & Gouzhu Ridge",
-      "chokepointZh": "屹立恒山与吕梁山交汇之勾注山巅，南控晋阳（太原），北瞰塞外云朔草原，自赵武灵王李牧、汉卫青霍去病至宋杨业，历称“九塞尊崇第一关”。",
-      "chokepointEn": "Perched atop the Gouzhu Ridge of the Hengshan range between the Datong steppe basin and Taiyuan; revered as the foremost of China’s Nine Frontier Passes."
+      "chokepointZh": "恒山と呂梁山が交わる勾注山の山頂に屹立し、南は晋陽（太原）を制し、北は塞外の雲朔草原を見下ろす。趙の武霊王李牧、漢の衛青・霍去病から宋の楊業に至るまで、歴代「九塞尊崇第一関」と称された。",
+      "chokepointEn": "Perched atop the Gouzhu Ridge of the Hengshan range between the Datong steppe basin and Taiyuan; revered as the foremost of China’s Nine Frontier Passes.",
+      "chokepointJa": "恒山と呂梁山が交わる勾注山の山頂に屹立し、南は晋陽（太原）を制し、北は塞外の雲朔草原を見下ろす。趙の武霊王李牧、漢の衛青・霍去病から宋の楊業に至るまで、歴代「九塞尊崇第一関」と称された。",
+      "rangeJa": "恒山・勾注山脈"
     },
     {
       "key": "juyongguan",
@@ -14977,10 +18630,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": 1449,
       "align": "l",
-      "rangeZh": "太行军都陉 · 燕山交汇",
+      "rangeZh": "太行・軍都陘と燕山の交点",
       "rangeEn": "Jundu Gorge, Taihang & Yanshan",
-      "chokepointZh": "居“太行八陉”第八陉军都陉，关沟峡谷长四十里，两山夹峙、巨涧中流，自古为幽燕与北京西北第一天险。",
-      "chokepointEn": "Controls the 20-km Jundu Gorge where the Taihang and Yanshan ranges meet, forming the northwestern bastion of Beijing."
+      "chokepointZh": "太行八陘の第八陘、軍都陘に位置する。関溝峡谷は四十里に及び、両側の山が迫り、その間を大河が流れる。古来より幽燕地方と北京の西北における第一の天険であった。",
+      "chokepointEn": "Controls the 20-km Jundu Gorge where the Taihang and Yanshan ranges meet, forming the northwestern bastion of Beijing.",
+      "chokepointJa": "太行八陘の第八陘、軍都陘に位置する。関溝峡谷は四十里に及び、両側の山が迫り、その間を大河が流れる。古来より幽燕地方と北京の西北における第一の天険であった。",
+      "rangeJa": "太行・軍都陘と燕山の交点"
     },
     {
       "key": "zijingguan",
@@ -14995,10 +18650,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": 1449,
       "align": "l",
-      "rangeZh": "太行蒲阴陉 · 拒马河谷",
+      "rangeZh": "太行・蒲陰陘と拒馬河谷",
       "rangeEn": "Puyin Gorge, Taihang Mountains",
-      "chokepointZh": "居“太行八陉”第七陉蒲阴陉，东达保定与华北平原，西通大同与宣府，与居庸关、倒马关并称明长城“内三关”。",
-      "chokepointEn": "Situated in the Puyin Gorge of the Taihang Mountains; one of the Three Inner Passes protecting the North China Plain from the western plateau."
+      "chokepointZh": "太行八陘の第七陘、蒲陰陘に位置する。東は保定と華北平原に通じ、西は大同と宣府に通じる。居庸関、倒馬関と並び、明の長城における「内三関」と称された。",
+      "chokepointEn": "Situated in the Puyin Gorge of the Taihang Mountains; one of the Three Inner Passes protecting the North China Plain from the western plateau.",
+      "chokepointJa": "太行八陘の第七陘、蒲陰陘に位置する。東は保定と華北平原に通じ、西は大同と宣府に通じる。居庸関、倒馬関と並び、明の長城における「内三関」と称された。",
+      "rangeJa": "太行・蒲陰陘と拒馬河谷"
     },
     {
       "key": "niangziguan",
@@ -15021,9 +18678,9 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": -204,
       "align": "b",
-      "rangeZh": "太行井陉 · 绵河峡谷",
+      "rangeZh": "太行・井陘と綿河峡谷",
       "rangeEn": "Jingxing Gorge, Taihang Mountains",
-      "chokepointZh": "古称苇泽关，扼“太行八陉”第五陉井陉狭道，“车不得方轨，骑不得成列”，韩信背水一战灭赵、唐平阳公主驻兵于此得名。",
+      "chokepointZh": "古くは葦澤関と称された。太行八陘の第五陘、井陘狭道を扼し、「車は並び進むことができず、騎兵は列をなすことができない」と評されるほどの要害である。韓信が背水の陣で趙を滅ぼした戦いや、唐の平陽公主が駐屯した地として知られる。",
       "chokepointEn": "Commands the narrow Jingxing Gorge through the central Taihang Mountains where Han Xin fought his famous Battle of Jingxing with his back to the river.",
       "eraNames": [
         {
@@ -15031,7 +18688,9 @@ window.ATLAS_LORE_DATA = {
           "zh": "井陉关",
           "en": "Jingxing Pass"
         }
-      ]
+      ],
+      "chokepointJa": "古くは葦澤関と称された。太行八陘の第五陘、井陘狭道を扼し、「車は並び進むことができず、騎兵は列をなすことができない」と評されるほどの要害である。韓信が背水の陣で趙を滅ぼした戦いや、唐の平陽公主が駐屯した地として知られる。",
+      "rangeJa": "太行・井陘と綿河峡谷"
     },
     {
       "key": "shanhaiguan",
@@ -15046,9 +18705,9 @@ window.ATLAS_LORE_DATA = {
       "appear": 583,
       "focusYear": 1644,
       "align": "r",
-      "rangeZh": "燕山东端 · 辽西走廊临海处",
+      "rangeZh": "燕山山脈の東端、遼西走廊の沿海部。",
       "rangeEn": "Mount Yan & Bohai Coastal Corridor",
-      "chokepointZh": "隋开皇三年筑临渝关，明洪武十四年徐达移建山海关，北倚燕山角山，南接渤海老龙头，扼辽西走廊入关唯一通道，号“天下第一关”。",
+      "chokepointZh": "隋の開皇三年（583年）に臨渝関が築かれ、明の洪武十四年（1381年）に徐達が山海関を移築した。北は燕山の角山に寄りかかり、南は渤海の老龍頭に接する。遼西回廊の関内への唯一の通路を扼し、「天下第一関」と称された。",
       "chokepointEn": "Wedged in the narrow coastal strip between the Yanshan Mountains and the Bohai Sea, guarding the Liaoxi Corridor as the \"First Pass Under Heaven.\"",
       "eraNames": [
         {
@@ -15061,7 +18720,9 @@ window.ATLAS_LORE_DATA = {
         "临渝关",
         "渝关",
         "山海关（渝关）"
-      ]
+      ],
+      "chokepointJa": "隋の開皇三年（583年）に臨渝関が築かれ、明の洪武十四年（1381年）に徐達が山海関を移築した。北は燕山の角山に寄りかかり、南は渤海の老龍頭に接する。遼西回廊の関内への唯一の通路を扼し、「天下第一関」と称された。",
+      "rangeJa": "燕山山脈の東端、遼西走廊の沿海部。"
     },
     {
       "key": "gubeikou",
@@ -15076,10 +18737,12 @@ window.ATLAS_LORE_DATA = {
       "appear": 555,
       "focusYear": 1368,
       "align": "r",
-      "rangeZh": "燕山中段 · 潮河峡谷",
+      "rangeZh": "燕山山脈の中段、潮河峡谷。",
       "rangeEn": "Yanshan Range & Chao River Gorge",
-      "chokepointZh": "潮河劈开燕山蟠龙、卧虎二山形成之天险隘口，东顾山海，西援居庸，为蒙古草原南下直趋幽州之咽喉捷径。",
-      "chokepointEn": "Carved through the Yanshan Mountains by the Chao River; the direct northern mountain gateway between the Mongolian steppe and Beijing."
+      "chokepointZh": "潮河が燕山山脈の蟠龍山と臥虎山を切り開いて形成した天然の要害。東は山海関を望み、西は居庸関を援護し、蒙古高原から幽州へ南下する際の喉元にあたる近道であった。",
+      "chokepointEn": "Carved through the Yanshan Mountains by the Chao River; the direct northern mountain gateway between the Mongolian steppe and Beijing.",
+      "chokepointJa": "潮河が燕山山脈の蟠龍山と臥虎山を切り開いて形成した天然の要害。東は山海関を望み、西は居庸関を援護し、蒙古高原から幽州へ南下する際の喉元にあたる近道であった。",
+      "rangeJa": "燕山山脈の中段、潮河峡谷。"
     },
     {
       "key": "yumenguan",
@@ -15094,10 +18757,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -111,
       "focusYear": -102,
       "align": "t",
-      "rangeZh": "疏勒河谷 · 西域北道门户",
+      "rangeZh": "疏勒河谷、西域北道の門戸。",
       "rangeEn": "Shule River & Northern Silk Road Gate",
-      "chokepointZh": "汉武帝“列四郡、据两关”之一，因西域和田美玉由此输入中原得名，扼河西走廊通往西域北道之咽喉，“春风不度玉门关”。",
-      "chokepointEn": "Established by Emperor Wu of Han at the western end of the Hexi Corridor, controlling the northern Silk Road route toward Hami and Turpan."
+      "chokepointZh": "漢武帝が「四郡を列し、両関を据えた」うちの一つ。西域の和田から良質の玉が中原へ輸入されたことに由来して名付けられた。河西走廊から西域北道へ通じる要衝を扼し、「春風、玉門関を度らず」という詩句で知られる。",
+      "chokepointEn": "Established by Emperor Wu of Han at the western end of the Hexi Corridor, controlling the northern Silk Road route toward Hami and Turpan.",
+      "chokepointJa": "漢武帝が「四郡を列し、両関を据えた」うちの一つ。西域の和田から良質の玉が中原へ輸入されたことに由来して名付けられた。河西走廊から西域北道へ通じる要衝を扼し、「春風、玉門関を度らず」という詩句で知られる。",
+      "rangeJa": "疏勒河谷、西域北道の門戸。"
     },
     {
       "key": "yangguan",
@@ -15112,10 +18777,12 @@ window.ATLAS_LORE_DATA = {
       "appear": -111,
       "focusYear": 737,
       "align": "b",
-      "rangeZh": "渥洼池南 · 西域南道门户",
+      "rangeZh": "渥洼池の南、西域南道の門戸。",
       "rangeEn": "Southern Silk Road & Lop Nor Gate",
-      "chokepointZh": "因居玉门关之南得名，扼河西走廊通往楼兰、鄯善、于阗之丝路南道门户，“劝君更尽一杯酒，西出阳关无故人”。",
-      "chokepointEn": "Located south of Yumen Pass, guarding the southern Silk Road oasis route toward Loulan, Khotan, and the Pamir Mountains."
+      "chokepointZh": "玉門関の南に位置することから名付けられた。河西走廊から楼蘭、鄯善、于阗へ通じるシルクロード南道の門戸を扼し、「君に勧む、更に尽くせ一杯の酒、西のかた陽関を出づれば故人無からん」という詩句で知られる。",
+      "chokepointEn": "Located south of Yumen Pass, guarding the southern Silk Road oasis route toward Loulan, Khotan, and the Pamir Mountains.",
+      "chokepointJa": "玉門関の南に位置することから名付けられた。河西走廊から楼蘭、鄯善、于阗へ通じるシルクロード南道の門戸を扼し、「君に勧む、更に尽くせ一杯の酒、西のかた陽関を出づれば故人無からん」という詩句で知られる。",
+      "rangeJa": "渥洼池の南、西域南道の門戸。"
     },
     {
       "key": "jiayuguan",
@@ -15130,10 +18797,12 @@ window.ATLAS_LORE_DATA = {
       "appear": 1372,
       "focusYear": 1372,
       "align": "t",
-      "rangeZh": "祁连山雪峰 · 黑山峡谷",
+      "rangeZh": "祁連山雪峰・黒山峡谷",
       "rangeEn": "Qilian Snow Peaks & Heishan Narrow",
-      "chokepointZh": "明洪武五年冯胜择河西走廊最窄处（南北仅十五公里）筑关，南倚祁连终年积雪，北连黑山悬壁，为明代万里长城西端起点，号“天下第一雄关”。",
-      "chokepointEn": "Built in 1372 at the narrowest 15-km waist of the Hexi Corridor between the Qilian snow peaks and Black Mountain; the western terminus of the Ming Great Wall."
+      "chokepointZh": "明の洪武五年（1372年）、馮勝が河西走廊の最も狭い地点（南北わずか15キロメートル）を選んで築いた関。南は祁連山脈の万年雪に寄りかかり、北は黒山の断崖に連なる。明代の万里長城の西端の起点であり、「天下第一の雄関」と称された。",
+      "chokepointEn": "Built in 1372 at the narrowest 15-km waist of the Hexi Corridor between the Qilian snow peaks and Black Mountain; the western terminus of the Ming Great Wall.",
+      "chokepointJa": "明の洪武五年（1372年）、馮勝が河西走廊の最も狭い地点（南北わずか15キロメートル）を選んで築いた関。南は祁連山脈の万年雪に寄りかかり、北は黒山の断崖に連なる。明代の万里長城の西端の起点であり、「天下第一の雄関」と称された。",
+      "rangeJa": "祁連山雪峰・黒山峡谷"
     },
     {
       "key": "wushengguan",
@@ -15148,9 +18817,9 @@ window.ATLAS_LORE_DATA = {
       "appear": -403,
       "focusYear": -506,
       "align": "r",
-      "rangeZh": "大别山 · 桐柏山交界隘口",
+      "rangeZh": "大別山・桐柏山交界隘口",
       "rangeEn": "Dabie & Tongbai Mountain Saddle",
-      "chokepointZh": "春秋称大隧、直辕、冥阨（义阳三关），扼淮河上游与江汉平原分水岭最低山口，历为中原南下武汉、荆襄之兵家必争通道。",
+      "chokepointZh": "春秋時代には大隧、直轅、冥阨（義陽三関）と称された。淮河上流と江漢平原の分水嶺における最低の隘路であり、中原から武漢、荊襄へ南下する際の兵家必争の要衝であった。",
       "chokepointEn": "One of the Three Passes of Yiyang at the saddle between the Tongbai and Dabie mountains, controlling the north-south corridor between the Central Plains and the middle Yangtze.",
       "eraNames": [
         {
@@ -15173,7 +18842,9 @@ window.ATLAS_LORE_DATA = {
         "直辕",
         "义阳三关",
         "武胜关（冥阨）"
-      ]
+      ],
+      "chokepointJa": "春秋時代には大隧、直轅、冥阨（義陽三関）と称された。淮河上流と江漢平原の分水嶺における最低の隘路であり、中原から武漢、荊襄へ南下する際の兵家必争の要衝であった。",
+      "rangeJa": "大別山・桐柏山交界隘口"
     },
     {
       "key": "xianxiaguan",
@@ -15188,10 +18859,12 @@ window.ATLAS_LORE_DATA = {
       "appear": 878,
       "focusYear": 878,
       "align": "l",
-      "rangeZh": "仙霞岭 · 浙闽赣三省交界",
+      "rangeZh": "仙霞嶺・浙閩贛三省交界",
       "rangeEn": "Xianxia Ridge (Zhejiang-Fujian Border)",
-      "chokepointZh": "唐乾符五年黄巢军自浙入闽刊山开道七百里，始通仙霞古道；崇山峻岭夹峙竹林石级，为钱塘江流域通往建州（福建）之唯一陆路锁钥。",
-      "chokepointEn": "Cut through the Xianxia Mountains by Huang Chao’s army in 878 CE, guarding the mountain trail linking Zhejiang with Fujian."
+      "chokepointZh": "唐の乾符五年（878年）、黄巣軍が浙江から福建へ侵攻する際、山を切り開き七百里の道を開通させ、仙霞古道が初めて開かれた。崇山峻嶺に竹林と石段が連なり、銭塘江流域から建州（福建）へ通じる唯一の陸路の要衝であった。",
+      "chokepointEn": "Cut through the Xianxia Mountains by Huang Chao’s army in 878 CE, guarding the mountain trail linking Zhejiang with Fujian.",
+      "chokepointJa": "唐の乾符五年（878年）、黄巣軍が浙江から福建へ侵攻する際、山を切り開き七百里の道を開通させ、仙霞古道が初めて開かれた。崇山峻嶺に竹林と石段が連なり、銭塘江流域から建州（福建）へ通じる唯一の陸路の要衝であった。",
+      "rangeJa": "仙霞嶺・浙閩贛三省交界"
     },
     {
       "key": "meiguan",
@@ -15206,9 +18879,9 @@ window.ATLAS_LORE_DATA = {
       "appear": -214,
       "focusYear": 716,
       "align": "r",
-      "rangeZh": "五岭大庾岭 · 赣粤古驿道",
+      "rangeZh": "五嶺大庾嶺・贛粤古驛道",
       "rangeEn": "Dayu Ridge of the Five Ridges",
-      "chokepointZh": "秦置横浦关，唐开元四年张九龄奉诏凿辟大庾岭新路，沟通长江水系章水与珠江水系浈水，成为唐宋明清南北商旅与文人迁谪第一驿道。",
+      "chokepointZh": "秦代に横浦関が置かれた。唐の開元四年（716年）、張九齢が詔を奉じて大庾嶺に新路を開鑿し、長江水系の章水と珠江水系の浈水とを結びつけた。これにより唐宋明清の時代を通じて、南北の商旅や流罪となった文人にとって最も重要な駅道となった。",
       "chokepointEn": "Widened across the Dayu Ridge by Chancellor Zhang Jiuling in 716 CE to link the Gan and Pearl river basins across the Five Ridges.",
       "eraNames": [
         {
@@ -15223,7 +18896,9 @@ window.ATLAS_LORE_DATA = {
         "梅岭",
         "秦关",
         "梅关（大庾岭）"
-      ]
+      ],
+      "chokepointJa": "秦代に横浦関が置かれた。唐の開元四年（716年）、張九齢が詔を奉じて大庾嶺に新路を開鑿し、長江水系の章水と珠江水系の浈水とを結びつけた。これにより唐宋明清の時代を通じて、南北の商旅や流罪となった文人にとって最も重要な駅道となった。",
+      "rangeJa": "五嶺大庾嶺・贛粤古驛道"
     }
   ],
   "CITY_LORE": [
@@ -15233,10 +18908,12 @@ window.ATLAS_LORE_DATA = {
         108.94,
         34.26
       ],
-      "tagZh": "关中四塞 · 汉唐帝都",
+      "tagZh": "関中四塞・漢唐の帝都",
       "tagEn": "Guanzhong Heartland · Imperial Capital",
-      "descZh": "北濒渭水、南依秦岭，居“八水绕长安”之关中形胜。周、秦、西汉、新、前赵、前秦、后秦、西魏、北周、隋、唐等十余朝建都于此，为丝绸之路东方起点与汉唐国际都会。",
-      "descEn": "Cradled between the Wei River and the Qinling Mountains in the Guanzhong Basin, it served as imperial capital for over ten dynasties including Zhou, Qin, Western Han, Sui, and Tang, and as the eastern terminus of the Silk Road."
+      "descZh": "北は渭水に臨み、南は秦嶺に依る。「八水繞長安」と称される關中の要衝に位置した。周、秦、西漢、新、前趙、前秦、後秦、西魏、北周、隋、唐など十余りの王朝がここに都を置き、絲綢之路の東方起点、また漢唐代の国際都会として栄えた。",
+      "descEn": "Cradled between the Wei River and the Qinling Mountains in the Guanzhong Basin, it served as imperial capital for over ten dynasties including Zhou, Qin, Western Han, Sui, and Tang, and as the eastern terminus of the Silk Road.",
+      "descJa": "北は渭水に臨み、南は秦嶺に依る。「八水繞長安」と称される關中の要衝に位置した。周、秦、西漢、新、前趙、前秦、後秦、西魏、北周、隋、唐など十余りの王朝がここに都を置き、絲綢之路の東方起点、また漢唐代の国際都会として栄えた。",
+      "tagJa": "関中四塞・漢唐の帝都"
     },
     {
       "modern": "咸阳",
@@ -15244,10 +18921,12 @@ window.ATLAS_LORE_DATA = {
         108.71,
         34.33
       ],
-      "tagZh": "毕陌渭北 · 大秦帝都",
+      "tagZh": "畢陌渭北・大秦の帝都",
       "tagEn": "North Bank of Wei River · Qin Imperial Capital",
-      "descZh": "南临渭水、北依九嵕诸山，山水俱阳故名咸阳。秦孝公十二年自栎阳迁都于此，商鞅变法、秦始皇兼并六国皆以此为中枢，汉唐时为京畿渭北陵邑与丝路西出首驿。",
-      "descEn": "Situated on the northern bank of the Wei River south of the Jiuzong hills, Xianyang became the Qin capital in 350 BCE under Duke Xiao and Shang Yang, serving as the command center for Qin Shi Huang's unification of China."
+      "descZh": "南は渭水に臨み、北は九嵕諸山に依る。山と水が共に陽に面することから咸陽と名付けられた。秦の孝公十二年（前350年）に櫟陽から遷都し、商鞅の変法や秦の始皇帝による六国併合はここを中枢として行われた。漢唐時代には、京畿の渭北陵邑や、シルクロード西出の最初の宿駅となった。",
+      "descEn": "Situated on the northern bank of the Wei River south of the Jiuzong hills, Xianyang became the Qin capital in 350 BCE under Duke Xiao and Shang Yang, serving as the command center for Qin Shi Huang's unification of China.",
+      "descJa": "南は渭水に臨み、北は九嵕諸山に依る。山と水が共に陽に面することから咸陽と名付けられた。秦の孝公十二年（前350年）に櫟陽から遷都し、商鞅の変法や秦の始皇帝による六国併合はここを中枢として行われた。漢唐時代には、京畿の渭北陵邑や、シルクロード西出の最初の宿駅となった。",
+      "tagJa": "畢陌渭北・大秦の帝都"
     },
     {
       "modern": "洛阳",
@@ -15255,10 +18934,12 @@ window.ATLAS_LORE_DATA = {
         112.45,
         34.62
       ],
-      "tagZh": "天下之中 · 河洛都会",
+      "tagZh": "天下之中・河洛都会",
       "tagEn": "Center of the Realm · Heart of Heluo",
-      "descZh": "居伊洛盆地腹心，北靠邙山、南望伊阙，控河洛水陆枢轴。自东周、东汉、曹魏、西晋、北魏至隋唐五代屡为帝都或东都，素有“河洛都会、天下之中”之称。",
-      "descEn": "Set in the Yi–Luo basin between Mangshan and the Longmen Gorge, Luoyang stood at the geographic center of ancient China, serving as capital or eastern capital for Eastern Zhou, Eastern Han, Cao Wei, Western Jin, Northern Wei, Sui, and Tang."
+      "descZh": "伊洛盆地の中心部に位置し、北は邙山に背を向け、南は伊闕を望み、河洛の水陸交通の要衝を掌握する。東周、東漢、曹魏、西晋、北魏から隋唐五代に至るまで、しばしば帝都または東都とされ、「河洛都会、天下之中」と称されてきた。",
+      "descEn": "Set in the Yi–Luo basin between Mangshan and the Longmen Gorge, Luoyang stood at the geographic center of ancient China, serving as capital or eastern capital for Eastern Zhou, Eastern Han, Cao Wei, Western Jin, Northern Wei, Sui, and Tang.",
+      "descJa": "伊洛盆地の中心部に位置し、北は邙山に背を向け、南は伊闕を望み、河洛の水陸交通の要衝を掌握する。東周、東漢、曹魏、西晋、北魏から隋唐五代に至るまで、しばしば帝都または東都とされ、「河洛都会、天下之中」と称されてきた。",
+      "tagJa": "天下之中・河洛都会"
     },
     {
       "modern": "南京",
@@ -15266,10 +18947,12 @@ window.ATLAS_LORE_DATA = {
         118.8,
         32.06
       ],
-      "tagZh": "钟山龙蟠 · 六朝古都",
+      "tagZh": "鐘山龍蟠・六朝の古都",
       "tagEn": "Yangtze Metropolis · Six Dynasties Capital",
-      "descZh": "北凭大江天堑，东据钟山、西扼石头城，有“钟山龙蟠、石城虎踞”之势。孙吴、东晋与南朝宋齐梁陈、南唐、明初、太平天国及中华民国皆建都于此，为江南文脉与政治中枢。",
-      "descEn": "Anchored by Purple Mountain in the east and Stone City bluff on the Yangtze River, Nanjing was the imperial seat of the Six Dynasties, Southern Tang, early Ming, and the Republic of China."
+      "descZh": "北は大江（長江）の天然の要害に拠り、東は鐘山に拠り、西は石頭城を扼し、「鐘山龍蟠、石城虎踞」の勢いを持つ。孫呉、東晋、南朝の宋斉梁陳、南唐、明初、太平天国、そして中華民国がここに都を置き、江南の文化と政治の中枢となった。",
+      "descEn": "Anchored by Purple Mountain in the east and Stone City bluff on the Yangtze River, Nanjing was the imperial seat of the Six Dynasties, Southern Tang, early Ming, and the Republic of China.",
+      "descJa": "北は大江（長江）の天然の要害に拠り、東は鐘山に拠り、西は石頭城を扼し、「鐘山龍蟠、石城虎踞」の勢いを持つ。孫呉、東晋、南朝の宋斉梁陳、南唐、明初、太平天国、そして中華民国がここに都を置き、江南の文化と政治の中枢となった。",
+      "tagJa": "鐘山龍蟠・六朝の古都"
     },
     {
       "modern": "北京",
@@ -15277,10 +18960,12 @@ window.ATLAS_LORE_DATA = {
         116.4,
         39.9
       ],
-      "tagZh": "幽燕锁钥 · 金元明清帝都",
+      "tagZh": "幽燕の要衝地。金・元・明・清の帝都。",
       "tagEn": "Yan–Taihang Pivot · Capital of Jin, Yuan, Ming & Qing",
-      "descZh": "背倚燕山、西屏太行、南俯华北平原，扼居庸与古北诸口，自古为中原与塞北交汇锁钥。自燕蓟故都、唐幽州藩镇，演进为辽南京、金中都、元大都及明清与现代中国首都。",
-      "descEn": "Backed by the Yanshan and Taihang ranges at the northern apex of the North China Plain, Beijing evolved from the Warring States capital of Yan and Tang Youzhou into the imperial capital of Liao, Jin, Yuan, Ming, Qing, and modern China."
+      "descZh": "北は燕山に背を向け、西は太行山脈を屏風とし、南は華北平原を見下ろす。居庸関と古北口などの要衝を扼し、古くから中原と塞北の交わる要衝であった。燕薊の故都、唐の幽州藩鎮から、遼の南京、金の中都、元の大都、そして明清と現代中国の首都へと発展した。",
+      "descEn": "Backed by the Yanshan and Taihang ranges at the northern apex of the North China Plain, Beijing evolved from the Warring States capital of Yan and Tang Youzhou into the imperial capital of Liao, Jin, Yuan, Ming, Qing, and modern China.",
+      "descJa": "北は燕山に背を向け、西は太行山脈を屏風とし、南は華北平原を見下ろす。居庸関と古北口などの要衝を扼し、古くから中原と塞北の交わる要衝であった。燕薊の故都、唐の幽州藩鎮から、遼の南京、金の中都、元の大都、そして明清と現代中国の首都へと発展した。",
+      "tagJa": "幽燕の要衝地。金・元・明・清の帝都。"
     },
     {
       "modern": "开封",
@@ -15288,10 +18973,12 @@ window.ATLAS_LORE_DATA = {
         114.35,
         34.79
       ],
-      "tagZh": "八荒争凑 · 汴水都会",
+      "tagZh": "八荒争湊。汴水の都会。",
       "tagEn": "Bian Canal Hub · Northern Song Capital",
-      "descZh": "居豫东平畴，凭鸿沟与通济渠（汴河）连通黄河与江淮漕运。战国魏都大梁，五代梁晋汉周及北宋定鼎东京汴梁，北宋时为“八荒争凑、万国咸通”之天下首善都会。",
-      "descEn": "Linked by the Honggou and Bian canals between the Yellow and Huai rivers, Kaifeng served as the Warring States Wei capital of Daliang and reached its zenith as Bianjing, the bustling metropolis of the Five Dynasties and Northern Song."
+      "descZh": "豫東の平野に位置し、鴻溝と通濟渠（汴河）によって黄河と江淮の漕運路を結んだ。戦国時代の魏の都、大梁であり、五代の梁・晋・漢・周、および北宋が東京汴梁に都を定めた。北宋時代には「八荒争湊、万国咸通」と称される天下第一の都会となった。",
+      "descEn": "Linked by the Honggou and Bian canals between the Yellow and Huai rivers, Kaifeng served as the Warring States Wei capital of Daliang and reached its zenith as Bianjing, the bustling metropolis of the Five Dynasties and Northern Song.",
+      "descJa": "豫東の平野に位置し、鴻溝と通濟渠（汴河）によって黄河と江淮の漕運路を結んだ。戦国時代の魏の都、大梁であり、五代の梁・晋・漢・周、および北宋が東京汴梁に都を定めた。北宋時代には「八荒争湊、万国咸通」と称される天下第一の都会となった。",
+      "tagJa": "八荒争湊。汴水の都会。"
     },
     {
       "modern": "杭州",
@@ -15299,10 +18986,12 @@ window.ATLAS_LORE_DATA = {
         120.15,
         30.27
       ],
-      "tagZh": "东南形胜 · 三吴都会",
+      "tagZh": "東南の形勝。三呉の都会。",
       "tagEn": "Qiantang Metropolis · Southern Song Capital",
-      "descZh": "西拥西湖群山，东临钱塘江口，北接京杭大运河南端。隋置杭州后随漕运勃兴，五代为吴越国都，南宋定行在于临安府，商贾云集、人文荟萃，号称“东南第一州”。",
-      "descEn": "Situated between West Lake, the Qiantang River estuary, and the southern terminus of the Grand Canal, Hangzhou flourished as the capital of Wuyue and the Southern Song imperial seat of Lin'an."
+      "descZh": "西に西湖と群山を擁し、東に錢塘江の河口に臨み、北に京杭大運河の南端に接する。隋が杭州を設置して以来、漕運の発展と共に興隆した。五代には呉越国の都となり、南宋は臨安府に行在を定めた。商賈雲集し、人文薈萃し、「東南第一州」と称された。",
+      "descEn": "Situated between West Lake, the Qiantang River estuary, and the southern terminus of the Grand Canal, Hangzhou flourished as the capital of Wuyue and the Southern Song imperial seat of Lin'an.",
+      "descJa": "西に西湖と群山を擁し、東に錢塘江の河口に臨み、北に京杭大運河の南端に接する。隋が杭州を設置して以来、漕運の発展と共に興隆した。五代には呉越国の都となり、南宋は臨安府に行在を定めた。商賈雲集し、人文薈萃し、「東南第一州」と称された。",
+      "tagJa": "東南の形勝。三呉の都会。"
     },
     {
       "modern": "成都",
@@ -15310,10 +18999,12 @@ window.ATLAS_LORE_DATA = {
         104.07,
         30.57
       ],
-      "tagZh": "天府奥区 · 锦官故都",
+      "tagZh": "天府の奥区。錦官の故都。",
       "tagEn": "Sichuan Basin Core · Land of Abundance",
-      "descZh": "居川西成都平原腹心，仰赖李冰都江堰水利而“水旱从人、不知饥馑”。自古蜀王都、秦汉蜀郡、三国蜀汉帝都至唐宋“扬一益二”之西南巨镇，两千余年城址与城名未改。",
-      "descEn": "Irrigated by the Dujiangyan system on the western Sichuan plain, Chengdu has retained its name and site for over two millennia as the capital of Shu-Han and the premier metropolis of southwestern China."
+      "descZh": "川西の成都平原の中心部に位置し、李冰の都江堰水利の恩恵を受け、「水旱従人、不知飢饉」と称された。古くは蜀の王都、秦漢の蜀郡、三国時代の蜀漢の帝都、そして唐宋時代には「揚一益二」と称される西南の大都市として栄えた。二千余年以上にわたり、城址と城名が変わっていない。",
+      "descEn": "Irrigated by the Dujiangyan system on the western Sichuan plain, Chengdu has retained its name and site for over two millennia as the capital of Shu-Han and the premier metropolis of southwestern China.",
+      "descJa": "川西の成都平原の中心部に位置し、李冰の都江堰水利の恩恵を受け、「水旱従人、不知飢饉」と称された。古くは蜀の王都、秦漢の蜀郡、三国時代の蜀漢の帝都、そして唐宋時代には「揚一益二」と称される西南の大都市として栄えた。二千余年以上にわたり、城址と城名が変わっていない。",
+      "tagJa": "天府の奥区。錦官の故都。"
     },
     {
       "modern": "安阳",
@@ -15321,10 +19012,12 @@ window.ATLAS_LORE_DATA = {
         114.39,
         36.1
       ],
-      "tagZh": "殷商故都 · 建安霸府",
+      "tagZh": "殷の故都、建安の覇府",
       "tagEn": "Shang Heartland · Six-Dynasty Northern Capital",
-      "descZh": "西依太行、东眺河北平原，洹水与漳水横贯其境。殷商盘庚迁殷于此（甲骨文出土地），战国西门豹治邺，汉末曹操营建邺城霸府，后赵、冉魏、前燕、东魏、北齐相继建都于邺。",
-      "descEn": "Set at the eastern foot of the Taihang Mountains along the Huan and Zhang rivers, Anyang encompasses the Late Shang capital of Yin and ancient Ye — seat of Cao Cao and imperial capital of Later Zhao, Former Yan, Eastern Wei, and Northern Qi."
+      "descZh": "西に太行山脈に依り、東に河北平原を望み、洹水と漳水がその地を横断する。殷商の盤庚が殷をここに遷都し（甲骨文の出土地）、戦国時代には西門豹が鄴を治め、漢末には曹操が鄴城に覇府を営建した。その後、後趙、冉魏、前燕、東魏、北斉が相次いで鄴に都を置いた。",
+      "descEn": "Set at the eastern foot of the Taihang Mountains along the Huan and Zhang rivers, Anyang encompasses the Late Shang capital of Yin and ancient Ye — seat of Cao Cao and imperial capital of Later Zhao, Former Yan, Eastern Wei, and Northern Qi.",
+      "descJa": "西に太行山脈に依り、東に河北平原を望み、洹水と漳水がその地を横断する。殷商の盤庚が殷をここに遷都し（甲骨文の出土地）、戦国時代には西門豹が鄴を治め、漢末には曹操が鄴城に覇府を営建した。その後、後趙、冉魏、前燕、東魏、北斉が相次いで鄴に都を置いた。",
+      "tagJa": "殷の故都、建安の覇府"
     },
     {
       "modern": "襄阳",
@@ -15332,10 +19025,12 @@ window.ATLAS_LORE_DATA = {
         112.12,
         32.01
       ],
-      "tagZh": "汉水咽喉 · 天下腰膂",
+      "tagZh": "漢水の咽喉、天下の腰膂",
       "tagEn": "Han River Hinge · North–South Strategic Pivot",
-      "descZh": "北通汝洛、南控江陵、西扼武当、东瞰江汉，三面环水、一面傍山。自三国关羽水淹七军、东晋南朝北伐，至南宋孟珙与吕文德坚守抗蒙，历代皆为南北攻守必争之“天下腰膂”。",
-      "descEn": "Guarding the middle Han River at the southern exit of the Nanyang Basin, Xiangyang linked the Central Plains with the middle Yangtze and stood for centuries as the decisive military pivot between north and south."
+      "descZh": "北は汝洛に通じ、南は江陵を扼し、西は武当を抑え、東は江漢を望む。三面を水に囲まれ、一面を山に臨む。三国時代には関羽が水攻めで七軍を壊滅させ、東晋・南朝の北伐では、南宋の孟珙と呂文徳が堅守してモンゴル軍に抗戦するなど、歴代にわたり南北攻防の要衝「天下の腰膂」であった。",
+      "descEn": "Guarding the middle Han River at the southern exit of the Nanyang Basin, Xiangyang linked the Central Plains with the middle Yangtze and stood for centuries as the decisive military pivot between north and south.",
+      "descJa": "北は汝洛に通じ、南は江陵を扼し、西は武当を抑え、東は江漢を望む。三面を水に囲まれ、一面を山に臨む。三国時代には関羽が水攻めで七軍を壊滅させ、東晋・南朝の北伐では、南宋の孟珙と呂文徳が堅守してモンゴル軍に抗戦するなど、歴代にわたり南北攻防の要衝「天下の腰膂」であった。",
+      "tagJa": "漢水の咽喉、天下の腰膂"
     },
     {
       "modern": "荆州",
@@ -15343,10 +19038,12 @@ window.ATLAS_LORE_DATA = {
         112.2,
         30.35
       ],
-      "tagZh": "荆楚雄都 · 江汉锁钥",
+      "tagZh": "荊楚の雄都、江漢の鎖鑰",
       "tagEn": "Chu Heartland · Middle Yangtze Citadel",
-      "descZh": "古称郢都、江陵，西控三峡巫巴之险，东接云梦江汉之饶。春秋战国楚国定都纪南城四百余年，三国“借荆州”与六朝荆州都督皆驻江陵，为长江中游第一军政中枢。",
-      "descEn": "Known historically as Ying and Jiangling, Jingzhou commanded the middle Yangtze exit below the Three Gorges, serving as the Warring States Chu capital for four centuries and the key military governor seat of the Six Dynasties."
+      "descZh": "古くは郢都、江陵と称され、西は三峡の巫巴の険要を扼し、東は雲夢・江漢の豊かな地と接する。春秋戦国時代には楚国が紀南城に四百年余り都を置き、三国時代の「荊州を借りる」故事や六朝時代の荊州都督も江陵に駐屯し、長江中流域における第一の軍事・政治の中心であった。",
+      "descEn": "Known historically as Ying and Jiangling, Jingzhou commanded the middle Yangtze exit below the Three Gorges, serving as the Warring States Chu capital for four centuries and the key military governor seat of the Six Dynasties.",
+      "descJa": "古くは郢都、江陵と称され、西は三峡の巫巴の険要を扼し、東は雲夢・江漢の豊かな地と接する。春秋戦国時代には楚国が紀南城に四百年余り都を置き、三国時代の「荊州を借りる」故事や六朝時代の荊州都督も江陵に駐屯し、長江中流域における第一の軍事・政治の中心であった。",
+      "tagJa": "荊楚の雄都、江漢の鎖鑰"
     },
     {
       "modern": "扬州",
@@ -15354,10 +19051,12 @@ window.ATLAS_LORE_DATA = {
         119.41,
         32.39
       ],
-      "tagZh": "淮左名都 · 运河咽喉",
+      "tagZh": "淮左の名都、運河の咽喉",
       "tagEn": "Grand Canal Hub · Salt & Trade Metropolis",
-      "descZh": "古称广陵、江都，扼长江与大运河交汇咽喉。自吴王夫差开邗沟、汉封吴王刘濞，至隋炀帝驻跸江都、唐代“扬一益二”及明清两淮盐运中枢，久为东南漕盐与商贸都会。",
-      "descEn": "Commanding the junction of the Yangtze River and the Grand Canal, Yangzhou (Guangling) thrived under the Sui, Tang, and Qing dynasties as the premier hub of canal grain transport and the Lianghuai salt monopoly."
+      "descZh": "古くは広陵、江都と称され、長江と大運河の合流点の要衝を扼する。呉王夫差が邗溝を開削し、漢の呉王劉濞が封じられ、隋煬帝が江都に駐蹕し、唐代には「揚一益二」と称され、明清代には両淮塩運の中心となるなど、長く東南の漕塩と商業都市として栄えた。",
+      "descEn": "Commanding the junction of the Yangtze River and the Grand Canal, Yangzhou (Guangling) thrived under the Sui, Tang, and Qing dynasties as the premier hub of canal grain transport and the Lianghuai salt monopoly.",
+      "descJa": "古くは広陵、江都と称され、長江と大運河の合流点の要衝を扼する。呉王夫差が邗溝を開削し、漢の呉王劉濞が封じられ、隋煬帝が江都に駐蹕し、唐代には「揚一益二」と称され、明清代には両淮塩運の中心となるなど、長く東南の漕塩と商業都市として栄えた。",
+      "tagJa": "淮左の名都、運河の咽喉"
     },
     {
       "modern": "苏州",
@@ -15365,10 +19064,12 @@ window.ATLAS_LORE_DATA = {
         120.62,
         31.3
       ],
-      "tagZh": "吴会首郡 · 东南财赋",
+      "tagZh": "呉会の首郡・東南の財源",
       "tagEn": "Wu Cultural Core · Taihu Economic Hub",
-      "descZh": "古称姑苏、吴郡、平江，东傍淞沪、西拥太湖，水网纵横。春秋吴国阖闾、夫差建都于此，秦汉为会稽郡治，唐宋以降“苏湖熟、天下足”，为江南农桑丝绸与文教翘楚。",
-      "descEn": "Set between Lake Tai and the lower Yangtze water network, Suzhou (Gusu) was the ancient capital of Wu and rose from the Tang and Song dynasties onward as China's foremost center of grain, silk, and literati culture."
+      "descZh": "古くは姑蘇、呉郡、平江と称され、東は淞滬に隣接し、西は太湖を擁し、水路が縦横に走る。春秋時代の呉国の闔閭、夫差がここに都を置き、秦漢代には会稽郡の郡治となり、唐宋以降は「蘇湖熟すれば天下足る」と称され、江南の農桑、絹織物、文教の中心として栄えた。",
+      "descEn": "Set between Lake Tai and the lower Yangtze water network, Suzhou (Gusu) was the ancient capital of Wu and rose from the Tang and Song dynasties onward as China's foremost center of grain, silk, and literati culture.",
+      "descJa": "古くは姑蘇、呉郡、平江と称され、東は淞滬に隣接し、西は太湖を擁し、水路が縦横に走る。春秋時代の呉国の闔閭、夫差がここに都を置き、秦漢代には会稽郡の郡治となり、唐宋以降は「蘇湖熟すれば天下足る」と称され、江南の農桑、絹織物、文教の中心として栄えた。",
+      "tagJa": "呉会の首郡・東南の財源"
     },
     {
       "modern": "泉州",
@@ -15376,10 +19077,12 @@ window.ATLAS_LORE_DATA = {
         118.67,
         24.87
       ],
-      "tagZh": "刺桐古港 · 海丝起点",
+      "tagZh": "刺桐古港・海のシルクロードの起点",
       "tagEn": "Zayton Port · Maritime Silk Road Hub",
-      "descZh": "背倚戴云山、面临泉州湾，扼晋江入海口。唐代开港，北宋置市舶司，南宋至元代以“刺桐港（Zayton）”享誉亚欧，梯航万国、商舶云集，为海上丝绸之路东方第一大港。",
-      "descEn": "At the mouth of the Jin River on the Fujian coast, Quanzhou established a Maritime Trade Superintendency under the Song and became world-famous under the Yuan as Zayton, the largest port of the Maritime Silk Road."
+      "descZh": "戴雲山を背にし、泉州湾に面し、晋江の河口を扼する。唐代に開港し、北宋には市舶司が置かれた。南宋から元代にかけて「刺桐港（ザイトン）」としてアジア・ヨーロッパにその名を知られ、多くの国の船が往来し、商船がひしめき合った。海のシルクロードにおける東方第一の大港であった。",
+      "descEn": "At the mouth of the Jin River on the Fujian coast, Quanzhou established a Maritime Trade Superintendency under the Song and became world-famous under the Yuan as Zayton, the largest port of the Maritime Silk Road.",
+      "descJa": "戴雲山を背にし、泉州湾に面し、晋江の河口を扼する。唐代に開港し、北宋には市舶司が置かれた。南宋から元代にかけて「刺桐港（ザイトン）」としてアジア・ヨーロッパにその名を知られ、多くの国の船が往来し、商船がひしめき合った。海のシルクロードにおける東方第一の大港であった。",
+      "tagJa": "刺桐古港・海のシルクロードの起点"
     },
     {
       "modern": "广州",
@@ -15387,10 +19090,12 @@ window.ATLAS_LORE_DATA = {
         113.26,
         23.13
       ],
-      "tagZh": "岭南首府 · 千年商都",
+      "tagZh": "嶺南の首府・千年の商都",
       "tagEn": "Lingnan Metropolis · Millennial Maritime Port",
-      "descZh": "古称番禺，北障五岭、南临南海，控东、西、北三江总汇之珠江口。秦置南海郡，汉初为南越国都，唐设市舶使、明清为十三行通商口岸，两千余年海贸长盛不衰。",
-      "descEn": "Commanding the Pearl River Delta south of the Five Ridges, Guangzhou (Panyu) served as seat of Qin Nanhai Commandery, capital of Nanyue, and China's uninterrupted southern maritime trade gateway for over two millennia."
+      "descZh": "古くは番禺と呼ばれ、北は五嶺に遮られ、南は南海に臨み、東・西・北の三江が合流する珠江の河口を扼する。秦代には南海郡が置かれ、漢初には南越國の都となった。唐代には市舶使が置かれ、明清代には十三行の通商港として栄え、二千余年にわたり海上貿易が途切れることなく繁栄した。",
+      "descEn": "Commanding the Pearl River Delta south of the Five Ridges, Guangzhou (Panyu) served as seat of Qin Nanhai Commandery, capital of Nanyue, and China's uninterrupted southern maritime trade gateway for over two millennia.",
+      "descJa": "古くは番禺と呼ばれ、北は五嶺に遮られ、南は南海に臨み、東・西・北の三江が合流する珠江の河口を扼する。秦代には南海郡が置かれ、漢初には南越國の都となった。唐代には市舶使が置かれ、明清代には十三行の通商港として栄え、二千余年にわたり海上貿易が途切れることなく繁栄した。",
+      "tagJa": "嶺南の首府・千年の商都"
     },
     {
       "modern": "敦煌",
@@ -15398,10 +19103,12 @@ window.ATLAS_LORE_DATA = {
         94.66,
         40.14
       ],
-      "tagZh": "河西咽喉 · 丝路明珠",
+      "tagZh": "河西の要衝・シルクロードの真珠",
       "tagEn": "Hexi Throat · Silk Road Oasis",
-      "descZh": "古称沙州，处河西走廊最西端党河绿洲，西控阳关与玉门关，扼丝绸之路南北两道总咽喉。汉武帝列置河西四郡，十六国至隋唐莫高窟千佛竞凿，晚唐张议潮于此率归义军复归唐廷。",
-      "descEn": "An oasis at the western end of the Hexi Corridor flanked by Yangguan and Yumen passes, Dunhuang (Shazhou) controlled the bifurcation of the Silk Road and preserved a millennium of Buddhist art at the Mogao Caves."
+      "descZh": "古くは沙州と呼ばれ、河西回廊の最西端、党河のオアシスに位置し、西は陽關と玉門關を扼し、シルクロードの南北両道の総要衝を扼する。漢の武帝は河西四郡を設置し、十六国時代から隋唐にかけて莫高窟に千仏が競って彫られた。晩唐には張議潮がここで歸義軍を率いて唐朝に復帰した。",
+      "descEn": "An oasis at the western end of the Hexi Corridor flanked by Yangguan and Yumen passes, Dunhuang (Shazhou) controlled the bifurcation of the Silk Road and preserved a millennium of Buddhist art at the Mogao Caves.",
+      "descJa": "古くは沙州と呼ばれ、河西回廊の最西端、党河のオアシスに位置し、西は陽關と玉門關を扼し、シルクロードの南北両道の総要衝を扼する。漢の武帝は河西四郡を設置し、十六国時代から隋唐にかけて莫高窟に千仏が競って彫られた。晩唐には張議潮がここで歸義軍を率いて唐朝に復帰した。",
+      "tagJa": "河西の要衝・シルクロードの真珠"
     },
     {
       "modern": "太原",
@@ -15409,10 +19116,12 @@ window.ATLAS_LORE_DATA = {
         112.55,
         37.87
       ],
-      "tagZh": "表里山河 · 龙城重镇",
+      "tagZh": "表裏山河、龍城の要衝",
       "tagEn": "Fen River Citadel · Northern Bastion",
-      "descZh": "古称晋阳，居太原盆地北端，左带太行、右挟吕梁、中贯汾水。春秋赵简子营晋阳，战国为赵初都，北齐为别都，李渊父子起兵晋阳肇建大唐，五代后唐后晋后汉及北汉皆发祥于此。",
-      "descEn": "Flanked by the Taihang and Lüliang mountains at the head of the Fen River basin, Jinyang (Taiyuan) was the early Zhao capital, launching pad of the Tang Dynasty, and military citadel of northern China."
+      "descZh": "古くは晋陽と呼ばれ、太原盆地の北端に位置し、左に太行山脈を帯び、右に呂梁山脈を挟み、中央を汾水が貫く。春秋時代には趙簡子が晋陽を築き、戦国時代には趙の最初の都となり、北斉では別都とされた。李淵父子は晋陽で挙兵して大唐を建国し、五代の後唐、後晉、後漢、そして北漢もここから興った。",
+      "descEn": "Flanked by the Taihang and Lüliang mountains at the head of the Fen River basin, Jinyang (Taiyuan) was the early Zhao capital, launching pad of the Tang Dynasty, and military citadel of northern China.",
+      "descJa": "古くは晋陽と呼ばれ、太原盆地の北端に位置し、左に太行山脈を帯び、右に呂梁山脈を挟み、中央を汾水が貫く。春秋時代には趙簡子が晋陽を築き、戦国時代には趙の最初の都となり、北斉では別都とされた。李淵父子は晋陽で挙兵して大唐を建国し、五代の後唐、後晉、後漢、そして北漢もここから興った。",
+      "tagJa": "表裏山河、龍城の要衝"
     },
     {
       "modern": "大同",
@@ -15420,10 +19129,12 @@ window.ATLAS_LORE_DATA = {
         113.3,
         40.08
       ],
-      "tagZh": "北魏帝都 · 塞上雄镇",
+      "tagZh": "北魏の帝都、塞上の雄鎮",
       "tagEn": "Northern Wei Capital · Frontier Stronghold",
-      "descZh": "古称平城，处内外长城之间大同盆地，控扼雁门与阴山南北通道。汉高祖白登之围即在此地，北魏定都平城近百年并开凿云冈石窟，辽金尊为西京，明代为九边之首大同镇。",
-      "descEn": "Positioned in the Datong Basin between the Inner and Outer Great Walls, Pingcheng (Datong) served for nearly a century as the Northern Wei imperial capital (home to the Yungang Grottoes), Western Capital of Liao and Jin, and premier Ming frontier garrison."
+      "descZh": "古くは平城と呼ばれ、内外の長城に挟まれた大同盆地に位置し、雁門と陰山を結ぶ南北の交通路を扼した。漢の高祖が白登の囲みに遭った地であり、北魏は平城に都を定め約百年、雲岡石窟を開鑿した。遼・金代には西京とされ、明代には九辺の首府である大同鎮が置かれた。",
+      "descEn": "Positioned in the Datong Basin between the Inner and Outer Great Walls, Pingcheng (Datong) served for nearly a century as the Northern Wei imperial capital (home to the Yungang Grottoes), Western Capital of Liao and Jin, and premier Ming frontier garrison.",
+      "descJa": "古くは平城と呼ばれ、内外の長城に挟まれた大同盆地に位置し、雁門と陰山を結ぶ南北の交通路を扼した。漢の高祖が白登の囲みに遭った地であり、北魏は平城に都を定め約百年、雲岡石窟を開鑿した。遼・金代には西京とされ、明代には九辺の首府である大同鎮が置かれた。",
+      "tagJa": "北魏の帝都、塞上の雄鎮"
     },
     {
       "modern": "武汉",
@@ -15431,10 +19142,12 @@ window.ATLAS_LORE_DATA = {
         114.31,
         30.59
       ],
-      "tagZh": "江汉交汇 · 九省通衢",
+      "tagZh": "長江・漢水合流の地、九省通衢",
       "tagEn": "Yangtze–Han Confluence · Thoroughfare of Nine Provinces",
-      "descZh": "古称夏口、江夏、鄂州、武昌，居长江与汉水交汇处，龟蛇锁大江。自三国孙吴筑夏口城、六朝郢州江防，至唐宋鄂州商埠、元明清湖广会城及辛亥武昌首义，为华中水陆总枢纽。",
-      "descEn": "Straddling the confluence of the Yangtze and Han rivers, Wuhan (ancient Xiakou, Ezhou, and Wuchang) grew from a Three Kingdoms river fortress into the provincial capital of Huguang and birthplace of the 1911 Wuchang Uprising."
+      "descZh": "古くは夏口、江夏、鄂州、武昌と呼ばれ、長江と漢水の合流点に位置し、亀山と蛇山が長江を扼する。三国時代の孫呉が夏口城を築き、六朝時代には郢州の江防拠点となり、唐宋代には鄂州の商業港として栄えた。元・明・清代には湖広の省都となり、辛亥革命の武昌起義が勃発した地であり、華中における水陸交通の総枢軸となった。",
+      "descEn": "Straddling the confluence of the Yangtze and Han rivers, Wuhan (ancient Xiakou, Ezhou, and Wuchang) grew from a Three Kingdoms river fortress into the provincial capital of Huguang and birthplace of the 1911 Wuchang Uprising.",
+      "descJa": "古くは夏口、江夏、鄂州、武昌と呼ばれ、長江と漢水の合流点に位置し、亀山と蛇山が長江を扼する。三国時代の孫呉が夏口城を築き、六朝時代には郢州の江防拠点となり、唐宋代には鄂州の商業港として栄えた。元・明・清代には湖広の省都となり、辛亥革命の武昌起義が勃発した地であり、華中における水陸交通の総枢軸となった。",
+      "tagJa": "長江・漢水合流の地、九省通衢"
     },
     {
       "modern": "重庆",
@@ -15442,10 +19155,12 @@ window.ATLAS_LORE_DATA = {
         106.55,
         29.56
       ],
-      "tagZh": "巴国故都 · 三江锁钥",
+      "tagZh": "巴国の故都、三江の鎖鑰",
       "tagEn": "Ancient Ba Capital · Upper Yangtze Fortress",
-      "descZh": "古称江州、渝州、恭州，扼长江与嘉陵江交汇处，山环水绕、层峦耸翠。先秦为巴国都城，秦置巴郡，南宋光宗先封恭王后即位改称重庆府，合州钓鱼城曾坚守三十六年抗击蒙哥汗大军。",
-      "descEn": "Built on a rocky peninsula at the confluence of the Yangtze and Jialing rivers, Chongqing (ancient Jiangzhou and Yuzhou) was the capital of ancient Ba, seat of Qin Ba Commandery, site of the Song fortress Diaoyucheng, and China's wartime capital."
+      "descZh": "古くは江州、渝州、恭州と呼ばれ、長江と嘉陵江の合流点を扼し、山々に囲まれ、水が巡り、幾重にも連なる山々が緑に覆われている。先秦時代には巴国の都城であり、秦は巴郡を置いた。南宋の光宗が恭王に封じられた後、即位して重慶府と改称した。合州の釣魚城は、かつて三十六年間、モンケ・ハンの大軍に抗戦し堅守した。",
+      "descEn": "Built on a rocky peninsula at the confluence of the Yangtze and Jialing rivers, Chongqing (ancient Jiangzhou and Yuzhou) was the capital of ancient Ba, seat of Qin Ba Commandery, site of the Song fortress Diaoyucheng, and China's wartime capital.",
+      "descJa": "古くは江州、渝州、恭州と呼ばれ、長江と嘉陵江の合流点を扼し、山々に囲まれ、水が巡り、幾重にも連なる山々が緑に覆われている。先秦時代には巴国の都城であり、秦は巴郡を置いた。南宋の光宗が恭王に封じられた後、即位して重慶府と改称した。合州の釣魚城は、かつて三十六年間、モンケ・ハンの大軍に抗戦し堅守した。",
+      "tagJa": "巴国の故都、三江の鎖鑰"
     },
     {
       "modern": "长沙",
@@ -15453,10 +19168,12 @@ window.ATLAS_LORE_DATA = {
         112.94,
         28.23
       ],
-      "tagZh": "荆湘都会 · 潇湘文脉",
+      "tagZh": "荊湘の都、瀟湘の文脈",
       "tagEn": "Xiang River Metropolis · Huxiang Cultural Hub",
-      "descZh": "古称临湘、潭州，居湘江下游河谷，西望岳麓、北接洞庭。战国为楚南重镇，秦置长沙郡，西汉封长沙国（马王堆汉墓所在），五代为马楚都城，宋代岳麓书院倡道南学，文脉绵延千年。",
-      "descEn": "Set on the lower Xiang River between Mount Yuelu and Dongting Lake, Changsha (Tanzhou) served as Qin commandery seat, Western Han kingdom capital, Five Dynasties Ma Chu capital, and home of the famed Yuelu Academy."
+      "descZh": "古くは臨湘、潭州と呼ばれ、湘江下流の河谷に位置し、西に岳麓山を望み、北は洞庭湖に接する。戦国時代には楚の南方の要衝であり、秦は長沙郡を置いた。西漢代には長沙国に封じられ（馬王堆漢墓の所在地）、五代十国時代には馬楚の都城となった。宋代には岳麓書院が道南学を提唱し、その文脈は千年以上にわたり連綿と続いた。",
+      "descEn": "Set on the lower Xiang River between Mount Yuelu and Dongting Lake, Changsha (Tanzhou) served as Qin commandery seat, Western Han kingdom capital, Five Dynasties Ma Chu capital, and home of the famed Yuelu Academy.",
+      "descJa": "古くは臨湘、潭州と呼ばれ、湘江下流の河谷に位置し、西に岳麓山を望み、北は洞庭湖に接する。戦国時代には楚の南方の要衝であり、秦は長沙郡を置いた。西漢代には長沙国に封じられ（馬王堆漢墓の所在地）、五代十国時代には馬楚の都城となった。宋代には岳麓書院が道南学を提唱し、その文脈は千年以上にわたり連綿と続いた。",
+      "tagJa": "荊湘の都、瀟湘の文脈"
     },
     {
       "modern": "南昌",
@@ -15464,10 +19181,12 @@ window.ATLAS_LORE_DATA = {
         115.89,
         28.68
       ],
-      "tagZh": "襟江带湖 · 江西首府",
+      "tagZh": "江を襟とし湖を帯とす、江西の首府",
       "tagEn": "Gan River Metropolis · Poyang Gate",
-      "descZh": "古称豫章、洪州，扼赣江下游、北濒鄱阳湖，有“襟三江而带五湖，控蛮荆而引瓯越”之势。汉高祖时灌婴筑城置豫章郡，唐设江南西道治洪州（滕王阁所在），宋元明清皆为江西首府。",
-      "descEn": "Commanding the lower Gan River southwest of Poyang Lake, Nanchang (Yuzhang / Hongzhou) was founded in the early Western Han, celebrated in Wang Bo's Preface to the Pavilion of Prince Teng, and served as capital of Jiangxi."
+      "descZh": "古くは豫章、洪州と称され、贛江下流を扼し、北は鄱陽湖に臨む。「三江を襟とし五湖を帯とし、蛮荊を制し瓯越を引く」と称される要衝である。漢の高祖の時代に灌嬰が城を築き豫章郡を置いた。唐代には江南西道の治所が洪州（滕王閣の所在地）に置かれ、宋、元、明、清の各代を通じて江西の首府であった。",
+      "descEn": "Commanding the lower Gan River southwest of Poyang Lake, Nanchang (Yuzhang / Hongzhou) was founded in the early Western Han, celebrated in Wang Bo's Preface to the Pavilion of Prince Teng, and served as capital of Jiangxi.",
+      "descJa": "古くは豫章、洪州と称され、贛江下流を扼し、北は鄱陽湖に臨む。「三江を襟とし五湖を帯とし、蛮荊を制し瓯越を引く」と称される要衝である。漢の高祖の時代に灌嬰が城を築き豫章郡を置いた。唐代には江南西道の治所が洪州（滕王閣の所在地）に置かれ、宋、元、明、清の各代を通じて江西の首府であった。",
+      "tagJa": "江を襟とし湖を帯とす、江西の首府"
     },
     {
       "modern": "福州",
@@ -15475,10 +19194,12 @@ window.ATLAS_LORE_DATA = {
         119.3,
         26.08
       ],
-      "tagZh": "八闽首府 · 海滨邹鲁",
+      "tagZh": "八閩の首府、海浜の鄒魯",
       "tagEn": "Min River Estuary · Capital of Fujian",
-      "descZh": "古称东冶、侯官、晋安，居闽江下游入海盆地，三山鼎峙。秦置闽中郡，汉初为闽越王无诸都城，唐置福建观察使，五代为闽国都城，宋明以降文教昌盛、海贸繁华，为八闽军政首府。",
-      "descEn": "Cradled in the lower Min River basin facing the East China Sea, Fuzhou (Dongye) was the seat of Qin Minzhong Commandery, capital of Minyue and Five Dynasties Min, and long-standing capital of Fujian."
+      "descZh": "古くは東冶、侯官、晋安と称され、閩江下流の入海盆地に位置し、三山が鼎立する。秦は閩中郡を置き、漢初には閩越王無諸の都城となった。唐代には福建観察使が置かれ、五代十国時代には閩国の都城となった。宋、明以降は文教が昌盛し、海上貿易が繁栄し、八閩の軍政首府であった。",
+      "descEn": "Cradled in the lower Min River basin facing the East China Sea, Fuzhou (Dongye) was the seat of Qin Minzhong Commandery, capital of Minyue and Five Dynasties Min, and long-standing capital of Fujian.",
+      "descJa": "古くは東冶、侯官、晋安と称され、閩江下流の入海盆地に位置し、三山が鼎立する。秦は閩中郡を置き、漢初には閩越王無諸の都城となった。唐代には福建観察使が置かれ、五代十国時代には閩国の都城となった。宋、明以降は文教が昌盛し、海上貿易が繁栄し、八閩の軍政首府であった。",
+      "tagJa": "八閩の首府、海浜の鄒魯"
     },
     {
       "modern": "徐州",
@@ -15486,10 +19207,12 @@ window.ATLAS_LORE_DATA = {
         117.18,
         34.26
       ],
-      "tagZh": "五省通衢 · 南北兵冲",
+      "tagZh": "五省に通じる要衝、南北の兵衝",
       "tagEn": "Crossroads of Five Provinces · Battleground of Empires",
-      "descZh": "古称彭城，居黄淮平原中枢，北控齐鲁、南屏江淮、西接汴洛。项羽灭秦后自立为西楚霸王定都彭城，刘裕由此起兵北伐，自古为南北水陆要冲与决定中原大局之兵家必争之地。",
-      "descEn": "At the crossroads of the Yellow and Huai plains linking Shandong, Henan, and Jianghuai, Pengcheng (Xuzhou) was Xiang Yu's Western Chu capital and one of Chinese history's most contested military pivots."
+      "descZh": "古くは彭城と称され、黄淮平原の中枢に位置し、北は斉魯を制し、南は江淮を屏し、西は汴洛に接する。項羽は秦を滅ぼした後、自ら西楚の覇王を称して彭城に都を定めた。劉裕はここから北伐の兵を起こし、古来、南北の水陸交通の要衝であり、中原の情勢を決定する兵家必争の地であった。",
+      "descEn": "At the crossroads of the Yellow and Huai plains linking Shandong, Henan, and Jianghuai, Pengcheng (Xuzhou) was Xiang Yu's Western Chu capital and one of Chinese history's most contested military pivots.",
+      "descJa": "古くは彭城と称され、黄淮平原の中枢に位置し、北は斉魯を制し、南は江淮を屏し、西は汴洛に接する。項羽は秦を滅ぼした後、自ら西楚の覇王を称して彭城に都を定めた。劉裕はここから北伐の兵を起こし、古来、南北の水陸交通の要衝であり、中原の情勢を決定する兵家必争の地であった。",
+      "tagJa": "五省に通じる要衝、南北の兵衝"
     },
     {
       "modern": "南阳",
@@ -15497,10 +19220,12 @@ window.ATLAS_LORE_DATA = {
         112.53,
         33
       ],
-      "tagZh": "南都形胜 · 宛洛孔道",
+      "tagZh": "南都の要衝、宛洛の孔道",
       "tagEn": "Nanyang Basin Hub · Gateway to Jingxiang",
-      "descZh": "古称宛城，居伏牛山与桐柏山环抱之南阳盆地，北通洛阳、西入武关、南下襄汉。战国楚宛邑、秦南阳郡治，东汉光武帝刘秀起兵于此尊为“南都”，诸葛亮躬耕于城西卧龙岗。",
-      "descEn": "Enclosed within the Nanyang Basin between Mount Funiu and the Han River valley, Wancheng (Nanyang) controlled routes to Luoyang, Wuguan, and Xiangyang, serving as Emperor Guangwu's Southern Capital and Zhuge Liang's retreat."
+      "descZh": "古くは宛城と称され、伏牛山と桐柏山に抱かれた南陽盆地に位置し、北は洛陽に通じ、西は武関に入り、南は襄漢に下る。戦国時代には楚の宛邑、秦代には南陽郡の治所であった。後漢の光武帝劉秀はここで挙兵し、「南都」と尊称された。諸葛亮は城西の臥龍崗で躬耕した。",
+      "descEn": "Enclosed within the Nanyang Basin between Mount Funiu and the Han River valley, Wancheng (Nanyang) controlled routes to Luoyang, Wuguan, and Xiangyang, serving as Emperor Guangwu's Southern Capital and Zhuge Liang's retreat.",
+      "descJa": "古くは宛城と称され、伏牛山と桐柏山に抱かれた南陽盆地に位置し、北は洛陽に通じ、西は武関に入り、南は襄漢に下る。戦国時代には楚の宛邑、秦代には南陽郡の治所であった。後漢の光武帝劉秀はここで挙兵し、「南都」と尊称された。諸葛亮は城西の臥龍崗で躬耕した。",
+      "tagJa": "南都の要衝、宛洛の孔道"
     },
     {
       "modern": "汉中",
@@ -15508,10 +19233,12 @@ window.ATLAS_LORE_DATA = {
         107.02,
         33.07
       ],
-      "tagZh": "秦巴锁钥 · 汉家发祥",
+      "tagZh": "秦巴の鎖鑰、漢家発祥の地",
       "tagEn": "Qinling–Bashan Bastion · Cradle of the Han Dynasty",
-      "descZh": "古称南郑、梁州、兴元，居秦岭与大巴山之间汉中盆地，北扼褒斜、陈仓、子午诸栈道，南控金牛蜀道。秦楚争霸要冲，刘邦受封汉王自此定三秦而兴汉室，诸葛亮屯兵于此六出祁山。",
-      "descEn": "Nestled between the Qinling and Daba mountains along the upper Han River, Hanzhong (Nanzheng) guarded the plank roads linking Guanzhong and Sichuan, where Liu Bang launched the Han Dynasty and Zhuge Liang staged his northern campaigns."
+      "descZh": "古くは南鄭、梁州、興元と呼ばれ、秦嶺と大巴山に挟まれた漢中盆地に位置する。北は褒斜、陳倉、子午などの桟道を扼し、南は金牛の蜀道を制した。秦楚が覇権を争った要衝であり、劉邦は漢王に封じられ、ここから三秦を平定し、漢室を興した。また、諸葛亮はここに兵を屯し、六度祁山に出兵した。",
+      "descEn": "Nestled between the Qinling and Daba mountains along the upper Han River, Hanzhong (Nanzheng) guarded the plank roads linking Guanzhong and Sichuan, where Liu Bang launched the Han Dynasty and Zhuge Liang staged his northern campaigns.",
+      "descJa": "古くは南鄭、梁州、興元と呼ばれ、秦嶺と大巴山に挟まれた漢中盆地に位置する。北は褒斜、陳倉、子午などの桟道を扼し、南は金牛の蜀道を制した。秦楚が覇権を争った要衝であり、劉邦は漢王に封じられ、ここから三秦を平定し、漢室を興した。また、諸葛亮はここに兵を屯し、六度祁山に出兵した。",
+      "tagJa": "秦巴の鎖鑰、漢家発祥の地"
     },
     {
       "modern": "济南",
@@ -15519,10 +19246,12 @@ window.ATLAS_LORE_DATA = {
         117,
         36.65
       ],
-      "tagZh": "岱北重镇 · 泉城名都",
+      "tagZh": "岱北の重鎮、泉城の名都",
       "tagEn": "North of Mount Tai · City of Springs",
-      "descZh": "古称历城、齐州，南依泰山、北临黄河（古济水），众泉汇流成大明湖。汉置济南郡，唐为齐州重镇，宋升济南府（李清照、辛弃疾故里），金元明清逐步取代青州成为山东军政首府。",
-      "descEn": "Set between the northern slopes of Mount Tai and the Yellow River (ancient Ji River), Licheng (Jinan) is famed for its artesian springs and rose from the Song, Ming, and Qing eras as the provincial capital of Shandong."
+      "descZh": "古くは歷城、齊州と呼ばれ、南は泰山に依り、北は黃河（古の濟水）に臨み、多くの泉が合流して大明湖を形成する。漢代に濟南郡が置かれ、唐代には齊州の重鎮となり、宋代には濟南府に昇格した（李清照、辛棄疾の故里）。金、元、明、清代には青州に代わり、山東の軍政首府となった。",
+      "descEn": "Set between the northern slopes of Mount Tai and the Yellow River (ancient Ji River), Licheng (Jinan) is famed for its artesian springs and rose from the Song, Ming, and Qing eras as the provincial capital of Shandong.",
+      "descJa": "古くは歷城、齊州と呼ばれ、南は泰山に依り、北は黃河（古の濟水）に臨み、多くの泉が合流して大明湖を形成する。漢代に濟南郡が置かれ、唐代には齊州の重鎮となり、宋代には濟南府に昇格した（李清照、辛棄疾の故里）。金、元、明、清代には青州に代わり、山東の軍政首府となった。",
+      "tagJa": "岱北の重鎮、泉城の名都"
     },
     {
       "modern": "济宁",
@@ -15530,10 +19259,12 @@ window.ATLAS_LORE_DATA = {
         116.99,
         35.6
       ],
-      "tagZh": "周鲁故都 · 儒家圣地",
+      "tagZh": "周魯の故都、儒家聖地",
       "tagEn": "Capital of Lu · Birthplace of Confucius",
-      "descZh": "辖境曲阜古为周公封鲁之都，孔子生于此、葬于洙泗之上，孔庙、孔府、孔林绵延两千余年，为中华儒学圣地；元明清京杭大运河会通河贯通后，济宁更成为鲁西南漕运河道总督重镇。",
-      "descEn": "Home to Qufu — the ancient capital of the State of Lu and birthplace of Confucius — and a major Grand Canal administrative hub under the Yuan, Ming, and Qing dynasties."
+      "descZh": "その管轄する曲阜は古くは周公が魯に封じられた都であり、孔子はここで生まれ、洙泗のほとりに葬られた。孔廟、孔府、孔林は二千余年にわたり続き、中華儒学の聖地である。元、明、清代に京杭大運河の會通河が貫通すると、濟寧は魯西南の漕運河道総督の重鎮となった。",
+      "descEn": "Home to Qufu — the ancient capital of the State of Lu and birthplace of Confucius — and a major Grand Canal administrative hub under the Yuan, Ming, and Qing dynasties.",
+      "descJa": "その管轄する曲阜は古くは周公が魯に封じられた都であり、孔子はここで生まれ、洙泗のほとりに葬られた。孔廟、孔府、孔林は二千余年にわたり続き、中華儒学の聖地である。元、明、清代に京杭大運河の會通河が貫通すると、濟寧は魯西南の漕運河道総督の重鎮となった。",
+      "tagJa": "周魯の故都、儒家聖地"
     },
     {
       "modern": "淄博",
@@ -15541,10 +19272,12 @@ window.ATLAS_LORE_DATA = {
         118.35,
         36.82
       ],
-      "tagZh": "海岱雄都 · 稷下学宫",
+      "tagZh": "斉の雄都、稷下の学宮",
       "tagEn": "Capital of Qi · Jixia Academy Heartland",
-      "descZh": "古称临淄，北临渤海湾平原、南依鲁中山地，淄水穿城而过。姜齐与田齐定都临淄六百余年，战国时城内十万户、车毂击人肩摩，稷下学宫百家争鸣，为先秦东方第一大都会。",
-      "descEn": "Ancient Linzi stood between the northern Shandong mountains and the Bohai plain as capital of the State of Qi for over six centuries, famed for its prosperity and the Jixia Academy where Warring States philosophers debated."
+      "descZh": "古くは臨淄と呼ばれ、北は渤海湾平原に臨み、南は魯中山地に依り、淄水が城内を流れる。姜齊と田齊は六百余年にわたり臨淄を都とした。戦国時代には城内に十万戸を数え、車の轂がぶつかり、人の肩が触れ合うほど賑わい、稷下學宮では諸子百家が議論を爭わせた。先秦時代の東方第一の大都会であった。",
+      "descEn": "Ancient Linzi stood between the northern Shandong mountains and the Bohai plain as capital of the State of Qi for over six centuries, famed for its prosperity and the Jixia Academy where Warring States philosophers debated.",
+      "descJa": "古くは臨淄と呼ばれ、北は渤海湾平原に臨み、南は魯中山地に依り、淄水が城内を流れる。姜齊と田齊は六百余年にわたり臨淄を都とした。戦国時代には城内に十万戸を数え、車の轂がぶつかり、人の肩が触れ合うほど賑わい、稷下學宮では諸子百家が議論を爭わせた。先秦時代の東方第一の大都会であった。",
+      "tagJa": "斉の雄都、稷下の学宮"
     },
     {
       "modern": "邯郸",
@@ -15552,10 +19285,12 @@ window.ATLAS_LORE_DATA = {
         114.49,
         36.61
       ],
-      "tagZh": "赵国雄都 · 燕赵要冲",
+      "tagZh": "趙国の雄都、燕趙の要衝",
       "tagEn": "Capital of Zhao · Taihang Eastern Foot Hub",
-      "descZh": "西依太行山滏口陉、东临华北平原。战国赵敬侯迁都邯郸，赵武灵王于此胡服骑射，廉颇蔺相如将相和、信陵君窃符救赵及秦始皇降生皆在此城；宋代辖境大名府更为河北抗辽陪都北京。",
-      "descEn": "Commanding the eastern exit of the Fukou Pass through the Taihang Mountains, Handan was the Warring States capital of Zhao where King Wuling introduced mounted archery, and later encompassed the Song Northern Capital of Daming."
+      "descZh": "西は太行山脈の滏口陘に接し、東は華北平原に臨む。戦国時代には趙の敬侯が邯鄲に遷都し、趙の武霊王はここで胡服騎射を導入した。廉頗と藺相如の将相和、信陵君の窃符救趙、そして秦の始皇帝の誕生もこの地で起こった。宋代には、その管轄下にあった大名府が河北における遼に対する陪都（北京）とされた。",
+      "descEn": "Commanding the eastern exit of the Fukou Pass through the Taihang Mountains, Handan was the Warring States capital of Zhao where King Wuling introduced mounted archery, and later encompassed the Song Northern Capital of Daming.",
+      "descJa": "西は太行山脈の滏口陘に接し、東は華北平原に臨む。戦国時代には趙の敬侯が邯鄲に遷都し、趙の武霊王はここで胡服騎射を導入した。廉頗と藺相如の将相和、信陵君の窃符救趙、そして秦の始皇帝の誕生もこの地で起こった。宋代には、その管轄下にあった大名府が河北における遼に対する陪都（北京）とされた。",
+      "tagJa": "趙国の雄都、燕趙の要衝"
     },
     {
       "modern": "运城",
@@ -15563,10 +19298,12 @@ window.ATLAS_LORE_DATA = {
         110.95,
         35.12
       ],
-      "tagZh": "河东盐池 · 三晋腹地",
+      "tagZh": "河東の塩池、三晋の腹地",
       "tagEn": "Hedong Salt Lake · Cradle of Early Wei",
-      "descZh": "古称安邑、蒲坂、河东，居黄河大曲东岸运城盆地，坐拥解州天然盐池。传说舜都蒲坂、夏都安邑，战国初为魏国都城，秦汉以降为河东郡治与蒲津渡锁钥，唐代尊为中都河中府。",
-      "descEn": "Bounded by the great bend of the Yellow River and the Xiechi Salt Lake, Hedong (Anyi / Puban) was the early capital of Warring States Wei, seat of Hedong Commandery, and site of the strategic Pujin Ferry."
+      "descZh": "古くは安邑、蒲坂、河東と呼ばれた。黄河の大湾曲部の東岸に位置する運城盆地にあり、解州の天然塩池を擁する。伝説では舜の都が蒲坂、夏の都が安邑であった。戦国時代初期には魏の都城となり、秦漢以降は河東郡の郡治および蒲津渡の要衝として栄えた。唐代には中都河中府と尊称された。",
+      "descEn": "Bounded by the great bend of the Yellow River and the Xiechi Salt Lake, Hedong (Anyi / Puban) was the early capital of Warring States Wei, seat of Hedong Commandery, and site of the strategic Pujin Ferry.",
+      "descJa": "古くは安邑、蒲坂、河東と呼ばれた。黄河の大湾曲部の東岸に位置する運城盆地にあり、解州の天然塩池を擁する。伝説では舜の都が蒲坂、夏の都が安邑であった。戦国時代初期には魏の都城となり、秦漢以降は河東郡の郡治および蒲津渡の要衝として栄えた。唐代には中都河中府と尊称された。",
+      "tagJa": "河東の塩池、三晋の腹地"
     },
     {
       "modern": "武威",
@@ -15574,10 +19311,12 @@ window.ATLAS_LORE_DATA = {
         102.64,
         37.93
       ],
-      "tagZh": "河西首郡 · 五凉古都",
+      "tagZh": "河西の首郡、五涼の古都",
       "tagEn": "Premier Commandery of Hexi · Capital of Five Liangs",
-      "descZh": "古称姑臧、凉州，北临腾格里沙漠、南依祁连山冷龙岭，为自陇入河西走廊第一大绿洲。汉武帝置武威郡，十六国前凉、后凉、南凉、北凉及大凉相继建都姑臧，号“河西都会”。",
-      "descEn": "The largest oasis at the eastern entrance of the Hexi Corridor north of the Qilian Mountains, Guzang (Liangzhou / Wuwei) served as capital of the Five Liang kingdoms and the military-commercial hub of Hexi."
+      "descZh": "古くは姑臧、涼州と呼ばれた。北は騰格里砂漠に接し、南は祁連山脈の冷竜嶺に依る。隴から河西回廊に入る最初の、最大のオアシスである。漢の武帝が武威郡を設置し、十六国時代には前涼、後涼、南涼、北涼、そして大涼が相次いで姑臧に都を置いた。この地は「河西都会」と称された。",
+      "descEn": "The largest oasis at the eastern entrance of the Hexi Corridor north of the Qilian Mountains, Guzang (Liangzhou / Wuwei) served as capital of the Five Liang kingdoms and the military-commercial hub of Hexi.",
+      "descJa": "古くは姑臧、涼州と呼ばれた。北は騰格里砂漠に接し、南は祁連山脈の冷竜嶺に依る。隴から河西回廊に入る最初の、最大のオアシスである。漢の武帝が武威郡を設置し、十六国時代には前涼、後涼、南涼、北涼、そして大涼が相次いで姑臧に都を置いた。この地は「河西都会」と称された。",
+      "tagJa": "河西の首郡、五涼の古都"
     },
     {
       "modern": "张掖",
@@ -15585,10 +19324,12 @@ window.ATLAS_LORE_DATA = {
         100.45,
         38.93
       ],
-      "tagZh": "塞上江南 · 河西中枢",
+      "tagZh": "塞上江南・河西回廊の要衝",
       "tagEn": "Oasis of the Hexi Corridor · Ganzhou Hub",
-      "descZh": "古称甘州，南枕祁连雪峰、北依合黎山，黑河（弱水）贯境滋养沃野，素有“金张掖”之誉。汉武帝取“张国臂掖，以通西域”置张掖郡，隋炀帝于焉支山下大合西域二十七国，西夏与元代皆为甘州重镇。",
-      "descEn": "Watered by the Heihe River beneath the snow-capped Qilian Mountains, Zhangye (Ganzhou) was named by Emperor Wu of Han for 'extending the arm of the realm to the Western Regions' and hosted Emperor Yang of Sui's 609 CE Western Regions Durbar."
+      "descZh": "古くは甘州と呼ばれた。南は祁連山脈の雪峰を枕とし、北は合黎山に依る。黒河（弱水）が境内を流れ、沃野を潤すことから「金張掖」の誉れを持つ。漢の武帝は「国の臂（ひじ）を張って、西域に通じる」という意味から張掖郡を設置した。隋の煬帝は焉支山の下で西域二十七国を大会し、西夏と元代には甘州の重鎮であった。",
+      "descEn": "Watered by the Heihe River beneath the snow-capped Qilian Mountains, Zhangye (Ganzhou) was named by Emperor Wu of Han for 'extending the arm of the realm to the Western Regions' and hosted Emperor Yang of Sui's 609 CE Western Regions Durbar.",
+      "descJa": "古くは甘州と呼ばれた。南は祁連山脈の雪峰を枕とし、北は合黎山に依る。黒河（弱水）が境内を流れ、沃野を潤すことから「金張掖」の誉れを持つ。漢の武帝は「国の臂（ひじ）を張って、西域に通じる」という意味から張掖郡を設置した。隋の煬帝は焉支山の下で西域二十七国を大会し、西夏と元代には甘州の重鎮であった。",
+      "tagJa": "塞上江南・河西回廊の要衝"
     },
     {
       "modern": "酒泉",
@@ -15596,10 +19337,12 @@ window.ATLAS_LORE_DATA = {
         98.49,
         39.73
       ],
-      "tagZh": "河西锁钥 · 边塞雄郡",
+      "tagZh": "河西回廊の要衝・辺境の雄郡",
       "tagEn": "Western Hexi Stronghold · Gateway to Jade Gate",
-      "descZh": "古称肃州，辖境含瓜州（晋昌），南靠祁连山冰川、北扼马鬃山。汉武帝元狩二年霍去病大破匈奴后始置酒泉郡（传霍去病倾御赐酒于泉与三军共饮），唐代瓜州为玄奘西行出塞之地与安西咽喉。",
-      "descEn": "Established after Huo Qubing's 121 BCE victory over the Xiongnu, Jiuquan (Suzhou) and neighboring Guazhou guarded the western narrows of the Hexi Corridor where Xuanzang crossed outward on his pilgrimage."
+      "descZh": "古くは肅州と呼ばれ、その管轄は瓜州（晋昌）を含んだ。南は祁連山の氷河に接し、北は馬鬃山を扼する。前121年、漢の武帝の元狩二年、霍去病が匈奴を大破した後、酒泉郡が初めて置かれた（伝承によれば、霍去病が皇帝から賜った酒を泉に注ぎ、全軍と共に飲んだことに由来する）。唐代には、瓜州は玄奘が西域へ旅立った地であり、安西都護府への要衝であった。",
+      "descEn": "Established after Huo Qubing's 121 BCE victory over the Xiongnu, Jiuquan (Suzhou) and neighboring Guazhou guarded the western narrows of the Hexi Corridor where Xuanzang crossed outward on his pilgrimage.",
+      "descJa": "古くは肅州と呼ばれ、その管轄は瓜州（晋昌）を含んだ。南は祁連山の氷河に接し、北は馬鬃山を扼する。前121年、漢の武帝の元狩二年、霍去病が匈奴を大破した後、酒泉郡が初めて置かれた（伝承によれば、霍去病が皇帝から賜った酒を泉に注ぎ、全軍と共に飲んだことに由来する）。唐代には、瓜州は玄奘が西域へ旅立った地であり、安西都護府への要衝であった。",
+      "tagJa": "河西回廊の要衝・辺境の雄郡"
     },
     {
       "modern": "天水",
@@ -15607,10 +19350,12 @@ window.ATLAS_LORE_DATA = {
         105.72,
         34.58
       ],
-      "tagZh": "陇右门户 · 关陇孔道",
+      "tagZh": "隴右の門戸・關隴の要路",
       "tagEn": "Gateway to Longyou · Wei River Upper Hub",
-      "descZh": "古称上邽、成纪、秦州，居渭河上游河谷，东接关中陇关、南通汉中祁山（街亭所在）。秦人先祖非子牧马发祥之地，汉置天水郡（飞将军李广故里），三国诸葛亮北伐首争天水、街亭，历代为关中经略陇右之门户。",
-      "descEn": "Straddling the upper Wei River valley between Longshan and Qishan, Tianshui (Qinzhou / Shanggui) was the cradle of the early Qin people, hometown of Han general Li Guang, and focal battlefield of Zhuge Liang's northern campaigns."
+      "descZh": "古くは上邽、成紀、秦州と呼ばれた。渭河上流の河谷に位置し、東は關中の隴關に接し、南は漢中の祁山に通じる（街亭の所在地）。秦の先祖である非子が馬を牧し、その発祥の地となった。漢代には天水郡が置かれ（飛将軍李廣の故里）、三国時代には諸葛亮が北伐において天水や街亭を最初に争奪した。歴代、關中が隴右を経営する上での要衝であった。",
+      "descEn": "Straddling the upper Wei River valley between Longshan and Qishan, Tianshui (Qinzhou / Shanggui) was the cradle of the early Qin people, hometown of Han general Li Guang, and focal battlefield of Zhuge Liang's northern campaigns.",
+      "descJa": "古くは上邽、成紀、秦州と呼ばれた。渭河上流の河谷に位置し、東は關中の隴關に接し、南は漢中の祁山に通じる（街亭の所在地）。秦の先祖である非子が馬を牧し、その発祥の地となった。漢代には天水郡が置かれ（飛将軍李廣の故里）、三国時代には諸葛亮が北伐において天水や街亭を最初に争奪した。歴代、關中が隴右を経営する上での要衝であった。",
+      "tagJa": "隴右の門戸・關隴の要路"
     },
     {
       "modern": "银川",
@@ -15618,10 +19363,12 @@ window.ATLAS_LORE_DATA = {
         106.23,
         38.49
       ],
-      "tagZh": "塞上江南 · 西夏王都",
+      "tagZh": "塞上江南・西夏の王都",
       "tagEn": "Helan Mountain Oasis · Western Xia Capital",
-      "descZh": "古称兴庆府、中兴府、宁夏卫，西屏贺兰山以御朔漠寒流，东引黄河秦渠、汉延渠灌溉平畴，号“塞上江南”。党项李元昊定都兴庆府立西夏近两百年，贺兰山东麓留有西夏王陵。",
-      "descEn": "Sheltered on the west by the Helan Mountains and irrigated on the east by Yellow River canals, Yinchuan (Xingqing) flourished for nearly two centuries as the royal capital of the Tangut Western Xia Empire."
+      "descZh": "古くは興慶府、中興府、寧夏衛と呼ばれた。西は賀蘭山が屏風のように連なり朔漠からの寒流を防ぎ、東は黄河から秦渠、漢延渠を引き込み平野を灌漑し、「塞上江南」と称された。党項族の李元昊が興慶府を都と定め、約200年にわたり西夏を建国した。賀蘭山東麓には西夏王陵が残されている。",
+      "descEn": "Sheltered on the west by the Helan Mountains and irrigated on the east by Yellow River canals, Yinchuan (Xingqing) flourished for nearly two centuries as the royal capital of the Tangut Western Xia Empire.",
+      "descJa": "古くは興慶府、中興府、寧夏衛と呼ばれた。西は賀蘭山が屏風のように連なり朔漠からの寒流を防ぎ、東は黄河から秦渠、漢延渠を引き込み平野を灌漑し、「塞上江南」と称された。党項族の李元昊が興慶府を都と定め、約200年にわたり西夏を建国した。賀蘭山東麓には西夏王陵が残されている。",
+      "tagJa": "塞上江南・西夏の王都"
     },
     {
       "modern": "拉萨",
@@ -15629,10 +19376,12 @@ window.ATLAS_LORE_DATA = {
         91.11,
         29.65
       ],
-      "tagZh": "雪域王都 · 圣城逻些",
+      "tagZh": "雪域の王都・聖都ラサ",
       "tagEn": "Tibetan Plateau Capital · Historic Lhasa",
-      "descZh": "古称逻些（惹萨），坐落于拉萨河（吉曲）谷地。公元7世纪松赞干布统一青藏高原后自雅砻迁都逻些，迎娶唐文成公主并始建布达拉宫与大昭寺（立有唐蕃会盟碑），自此成为雪域高原政教中枢。",
-      "descEn": "Set in the Lhasa River valley at 3,650 meters, Rasa (Lhasa) became the capital of the Tibetan Empire under Songtsen Gampo in the 7th century, home to the Potala Palace, Jokhang Temple, and the 823 CE Tang–Tubo Treaty Pillar."
+      "descZh": "古くは邏些（ラサ、惹薩とも）と呼ばれ、ラサ河（キチュ）の谷地に位置する。7世紀、松贊干布が青藏高原を統一した後、雅礱から邏些に遷都し、唐の文成公主を迎え、ポタラ宮と大昭寺を創建した（唐蕃会盟碑が建立されている）。これ以降、雪域高原の政教の中心地となった。",
+      "descEn": "Set in the Lhasa River valley at 3,650 meters, Rasa (Lhasa) became the capital of the Tibetan Empire under Songtsen Gampo in the 7th century, home to the Potala Palace, Jokhang Temple, and the 823 CE Tang–Tubo Treaty Pillar.",
+      "descJa": "古くは邏些（ラサ、惹薩とも）と呼ばれ、ラサ河（キチュ）の谷地に位置する。7世紀、松贊干布が青藏高原を統一した後、雅礱から邏些に遷都し、唐の文成公主を迎え、ポタラ宮と大昭寺を創建した（唐蕃会盟碑が建立されている）。これ以降、雪域高原の政教の中心地となった。",
+      "tagJa": "雪域の王都・聖都ラサ"
     },
     {
       "modern": "昆明",
@@ -15640,10 +19389,12 @@ window.ATLAS_LORE_DATA = {
         102.71,
         25.04
       ],
-      "tagZh": "滇池明珠 · 西南都会",
+      "tagZh": "滇池の真珠・西南の都会",
       "tagEn": "Dianchi Basin Metropolis · Capital of Yunnan",
-      "descZh": "古称滇池、拓东、善阐、中庆路、云南府，三面环山、南濒滇池。古滇国中心，汉武帝置益州郡，南诏设拓东城、大理国为善阐府，元代赛典赤·赡思丁移云南行省治中庆路，自此确立为云南首府。",
-      "descEn": "Embracing the northern shore of Dianchi Lake, Kunming evolved from the seat of Han Yizhou Commandery and Dali's Shanchan Prefecture into the provincial capital of Yunnan under Yuan governor Sayyid Ajjal Shams al-Din."
+      "descZh": "古くは滇池、拓東、善闡、中慶路、雲南府などと呼ばれた。三方を山に囲まれ、南は滇池に臨む。古代滇国の中心地であり、漢の武帝が益州郡を置いた。南詔は拓東城を設け、大理国は善闡府とした。元代には賽典赤・贍思丁が雲南行省の治所を中慶路に移し、これ以降、雲南の首府としての地位を確立した。",
+      "descEn": "Embracing the northern shore of Dianchi Lake, Kunming evolved from the seat of Han Yizhou Commandery and Dali's Shanchan Prefecture into the provincial capital of Yunnan under Yuan governor Sayyid Ajjal Shams al-Din.",
+      "descJa": "古くは滇池、拓東、善闡、中慶路、雲南府などと呼ばれた。三方を山に囲まれ、南は滇池に臨む。古代滇国の中心地であり、漢の武帝が益州郡を置いた。南詔は拓東城を設け、大理国は善闡府とした。元代には賽典赤・贍思丁が雲南行省の治所を中慶路に移し、これ以降、雲南の首府としての地位を確立した。",
+      "tagJa": "滇池の真珠・西南の都会"
     },
     {
       "modern": "大理",
@@ -15651,10 +19402,12 @@ window.ATLAS_LORE_DATA = {
         100.23,
         25.59
       ],
-      "tagZh": "苍洱形胜 · 南诏大理都城",
+      "tagZh": "蒼洱の要衝・南詔と大理の都",
       "tagEn": "Cangshan–Erhai Heartland · Nanzhao & Dali Capital",
-      "descZh": "古称太和城、羊苴咩城，西依点苍山十九峰、东临洱海，扼博南古道与滇藏茶马古道交汇处。唐代南诏国与宋代段氏大理国先后立都于此五百余年，崇圣寺三塔巍然屹立。",
-      "descEn": "Framed between the nineteen peaks of Mount Cangshan and Erhai Lake at the crossroads of the Southern Silk Road and Tea-Horse Road, Dali served for over five centuries as the royal capital of Nanzhao and the Kingdom of Dali."
+      "descZh": "古くは太和城、羊苴咩城と呼ばれた。西は点蒼山の十九峰に依り、東は洱海に臨み、博南古道と滇蔵茶馬古道の交差点に位置する。唐代の南詔国と宋代の段氏大理国が、前後して五百余年にわたり都を置き、崇聖寺三塔が巍然とそびえ立つ。",
+      "descEn": "Framed between the nineteen peaks of Mount Cangshan and Erhai Lake at the crossroads of the Southern Silk Road and Tea-Horse Road, Dali served for over five centuries as the royal capital of Nanzhao and the Kingdom of Dali.",
+      "descJa": "古くは太和城、羊苴咩城と呼ばれた。西は点蒼山の十九峰に依り、東は洱海に臨み、博南古道と滇蔵茶馬古道の交差点に位置する。唐代の南詔国と宋代の段氏大理国が、前後して五百余年にわたり都を置き、崇聖寺三塔が巍然とそびえ立つ。",
+      "tagJa": "蒼洱の要衝・南詔と大理の都"
     },
     {
       "modern": "桂林",
@@ -15662,10 +19415,12 @@ window.ATLAS_LORE_DATA = {
         110.29,
         25.27
       ],
-      "tagZh": "灵渠锁钥 · 岭西首府",
+      "tagZh": "霊渠の要衝・嶺西の首府",
       "tagEn": "Lingqu Canal Hub · Historic Capital of Guangxi",
-      "descZh": "古称始安、桂州、静江府，处漓江走廊与越城岭南麓。秦始皇开凿灵渠沟通湘水与漓水，使桂林成为中原入桂越咽喉；唐置桂管经略使，宋升静江府，明清两代五百余年皆为广西省会（靖江王城所在）。",
-      "descEn": "Linked to the Yangtze basin by Qin Shi Huang's Lingqu Canal across the Yuecheng Ridge, Guilin (Guizhou / Jingjiang) guarded the gateway to western Lingnan and served as the provincial capital of Guangxi throughout the Ming and Qing."
+      "descZh": "古くは始安、桂州、静江府と呼ばれた。漓江回廊と越城嶺の南麓に位置する。秦の始皇帝が霊渠を開削し、湘水と漓水を繋げたことで、桂林は中原から嶺南へ入る要衝となった。唐代には桂管経略使が置かれ、宋代には静江府に昇格し、明清両代の五百余年にわたり広西省会（靖江王城の所在地）であった。",
+      "descEn": "Linked to the Yangtze basin by Qin Shi Huang's Lingqu Canal across the Yuecheng Ridge, Guilin (Guizhou / Jingjiang) guarded the gateway to western Lingnan and served as the provincial capital of Guangxi throughout the Ming and Qing.",
+      "descJa": "古くは始安、桂州、静江府と呼ばれた。漓江回廊と越城嶺の南麓に位置する。秦の始皇帝が霊渠を開削し、湘水と漓水を繋げたことで、桂林は中原から嶺南へ入る要衝となった。唐代には桂管経略使が置かれ、宋代には静江府に昇格し、明清両代の五百余年にわたり広西省会（靖江王城の所在地）であった。",
+      "tagJa": "霊渠の要衝・嶺西の首府"
     },
     {
       "modern": "绍兴",
@@ -15673,10 +19428,11 @@ window.ATLAS_LORE_DATA = {
         120.58,
         30
       ],
-      "tagZh": "於越故都 · 浙东文脉",
+      "tagZh": "越の古都・浙東の文脈",
       "tagEn": "Capital of Ancient Yue · Cultural Heart of Zhe-Dong",
       "descZh": "古称会稽、山阴、越州，南屏会稽山、北临钱塘江口。传大禹计功会稽、勾践卧薪尝胆定都于此；东晋王羲之兰亭雅集开山水诗文风气，南宋高宗改元绍兴并升越州为绍兴府（宋六陵所在）。",
-      "descEn": "At the northern foot of Mount Kuaiji, Shaoxing (Kuaiji / Shanyin / Yuezhou) was the capital of King Goujian of Yue, site of Wang Xizhi's 353 CE Orchid Pavilion Gathering, and auxiliary capital of the Southern Song."
+      "descEn": "At the northern foot of Mount Kuaiji, Shaoxing (Kuaiji / Shanyin / Yuezhou) was the capital of King Goujian of Yue, site of Wang Xizhi's 353 CE Orchid Pavilion Gathering, and auxiliary capital of the Southern Song.",
+      "tagJa": "越の古都・浙東の文脈"
     },
     {
       "modern": "宁波",
@@ -15684,10 +19440,12 @@ window.ATLAS_LORE_DATA = {
         121.55,
         29.87
       ],
-      "tagZh": "三江门户 · 东海名港",
+      "tagZh": "三江の門戸・東海の名港",
       "tagEn": "East China Sea Port · Terminus of the Grand Canal",
-      "descZh": "古称句章、明州、庆元府，居余姚江、奉化江、甬江三江交汇口，与舟山群岛隔海相依。唐开元中置明州，为浙东运河入海口与遣唐使、高丽日本海舶登陆大港，明代取“海定则波宁”改称宁波府（天一阁所在）。",
-      "descEn": "At the confluence of three rivers where the Zhe-Dong Canal meets the East China Sea, Mingzhou (Ningbo) was a premier Tang–Song port for trade with Japan and Korea and home to the Ming Tianyi Pavilion library."
+      "descZh": "古くは句章、明州、慶元府と呼ばれた。余姚江、奉化江、甬江の三江合流点に位置し、舟山群島とは海を隔てて隣接する。唐の開元年間には明州が置かれ、浙東運河の河口として、遣唐使や高麗・日本の海舶が寄港する一大港湾となった。明代には「海定まれば波寧し」の意から寧波府と改称された（天一閣が所在する）。",
+      "descEn": "At the confluence of three rivers where the Zhe-Dong Canal meets the East China Sea, Mingzhou (Ningbo) was a premier Tang–Song port for trade with Japan and Korea and home to the Ming Tianyi Pavilion library.",
+      "descJa": "古くは句章、明州、慶元府と呼ばれた。余姚江、奉化江、甬江の三江合流点に位置し、舟山群島とは海を隔てて隣接する。唐の開元年間には明州が置かれ、浙東運河の河口として、遣唐使や高麗・日本の海舶が寄港する一大港湾となった。明代には「海定まれば波寧し」の意から寧波府と改称された（天一閣が所在する）。",
+      "tagJa": "三江の門戸・東海の名港"
     },
     {
       "modern": "温州",
@@ -15695,10 +19453,12 @@ window.ATLAS_LORE_DATA = {
         120.66,
         28.01
       ],
-      "tagZh": "东瓯故都 · 东南名郡",
+      "tagZh": "東甌の古都・東南の名郡",
       "tagEn": "Capital of Dong'ou · Oujiang Maritime Port",
-      "descZh": "古称东瓯、永嘉，北倚括苍与雁荡、东临东海，控瓯江入海口。汉初封勾践后裔摇为东海王都东瓯，东晋太宁元年郭璞卜筑永嘉郡城，谢灵运任太守创山水诗派，南宋“永嘉学派”倡经世致用之学。",
-      "descEn": "Guarding the mouth of the Ou River between the Yandang Mountains and the East China Sea, Wenzhou (Dong'ou / Yongjia) was the birthplace of Xie Lingyun's landscape poetry and the pragmatic Southern Song Yongjia School."
+      "descZh": "古くは東甌、永嘉と呼ばれた。北は括蒼山脈と雁蕩山に、東は東海に面し、甌江の河口を扼する。漢初、勾践の後裔である搖が東海王に封じられ、東甌に都を置いた。東晋の太寧元年（323年）、郭璞が永嘉郡城を卜築し、謝霊運が太守として赴任し、山水詩派を創始した。南宋では「永嘉学派」が経世致用の学を提唱した。",
+      "descEn": "Guarding the mouth of the Ou River between the Yandang Mountains and the East China Sea, Wenzhou (Dong'ou / Yongjia) was the birthplace of Xie Lingyun's landscape poetry and the pragmatic Southern Song Yongjia School.",
+      "descJa": "古くは東甌、永嘉と呼ばれた。北は括蒼山脈と雁蕩山に、東は東海に面し、甌江の河口を扼する。漢初、勾践の後裔である搖が東海王に封じられ、東甌に都を置いた。東晋の太寧元年（323年）、郭璞が永嘉郡城を卜築し、謝霊運が太守として赴任し、山水詩派を創始した。南宋では「永嘉学派」が経世致用の学を提唱した。",
+      "tagJa": "東甌の古都・東南の名郡"
     },
     {
       "modern": "九江",
@@ -15706,10 +19466,12 @@ window.ATLAS_LORE_DATA = {
         116,
         29.7
       ],
-      "tagZh": "九派浔阳 · 赣北门户",
+      "tagZh": "九派潯陽・贛北の門戸",
       "tagEn": "Middle–Lower Yangtze Throat · Northern Gate of Jiangxi",
-      "descZh": "古称柴桑、寻阳（浔阳）、江州，背倚庐山、北临长江、东控鄱阳湖口，号“众水汇集、九派浔阳”。三国周瑜驻水军于柴桑，东晋至宋元置江州（陶渊明归隐、白居易《琵琶行》及《水浒》浔阳楼所在）。",
-      "descEn": "Backed by Mount Lu where Poyang Lake empties into the Yangtze River, Jiujiang (Chaisang / Xunyang / Jiangzhou) was Zhou Yu's naval base, Tao Yuanming's homeland, and the setting of Bai Juyi's Pipa Song."
+      "descZh": "古くは柴桑、尋陽（潯陽）、江州と呼ばれた。廬山を背にし、北は長江に臨み、東は鄱陽湖の河口を扼し、「衆水匯集、九派潯陽」と称された。三国時代には周瑜が柴桑に水軍を駐屯させ、東晋から宋元代にかけて江州が置かれた（陶淵明が隠棲し、白居易の『琵琶行』や『水滸伝』の潯陽楼の舞台となった地である）。",
+      "descEn": "Backed by Mount Lu where Poyang Lake empties into the Yangtze River, Jiujiang (Chaisang / Xunyang / Jiangzhou) was Zhou Yu's naval base, Tao Yuanming's homeland, and the setting of Bai Juyi's Pipa Song.",
+      "descJa": "古くは柴桑、尋陽（潯陽）、江州と呼ばれた。廬山を背にし、北は長江に臨み、東は鄱陽湖の河口を扼し、「衆水匯集、九派潯陽」と称された。三国時代には周瑜が柴桑に水軍を駐屯させ、東晋から宋元代にかけて江州が置かれた（陶淵明が隠棲し、白居易の『琵琶行』や『水滸伝』の潯陽楼の舞台となった地である）。",
+      "tagJa": "九派潯陽・贛北の門戸"
     },
     {
       "modern": "赣州",
@@ -15717,10 +19479,12 @@ window.ATLAS_LORE_DATA = {
         114.93,
         25.83
       ],
-      "tagZh": "章贡合流 · 五岭北门",
+      "tagZh": "章貢合流・五嶺北門",
       "tagEn": "Confluence of Zhang & Gong · Gateway Over the Meiguan Pass",
-      "descZh": "古称南康、虔州，处章水与贡水合流成赣江之处，南扼大庾岭梅关古道，为江西通往粤闽湘之咽喉。宋代筑建砖石城墙与福寿沟防洪体系（辛弃疾于此写下《菩萨蛮·书江西造口壁》），明代王阳明任南赣巡抚驻节于此。",
-      "descEn": "Where the Zhang and Gong rivers merge to form the Gan River north of Meiguan Pass, Ganzhou (Qianzhou) controlled the main artery between Jiangxi and Guangdong, famed for its Song brick walls and Wang Yangming's governorship."
+      "descZh": "古くは南康、虔州と呼ばれた。章水と貢水が合流して贛江となる地点に位置し、南は大庾嶺の梅関古道を扼し、江西から粤（広東）、閩（福建）、湘（湖南）へ通じる要衝であった。宋代には煉瓦石造りの城壁と福寿溝と呼ばれる治水システムが築かれ（辛棄疾はここで『菩薩蛮・書江西造口壁』を詠んだ）、明代には王陽明が南贛巡撫として駐節した。",
+      "descEn": "Where the Zhang and Gong rivers merge to form the Gan River north of Meiguan Pass, Ganzhou (Qianzhou) controlled the main artery between Jiangxi and Guangdong, famed for its Song brick walls and Wang Yangming's governorship.",
+      "descJa": "古くは南康、虔州と呼ばれた。章水と貢水が合流して贛江となる地点に位置し、南は大庾嶺の梅関古道を扼し、江西から粤（広東）、閩（福建）、湘（湖南）へ通じる要衝であった。宋代には煉瓦石造りの城壁と福寿溝と呼ばれる治水システムが築かれ（辛棄疾はここで『菩薩蛮・書江西造口壁』を詠んだ）、明代には王陽明が南贛巡撫として駐節した。",
+      "tagJa": "章貢合流・五嶺北門"
     },
     {
       "modern": "景德镇",
@@ -15728,10 +19492,12 @@ window.ATLAS_LORE_DATA = {
         117.18,
         29.27
       ],
-      "tagZh": "千年瓷都 · 御窑珠山",
+      "tagZh": "千年瓷都・御窯珠山",
       "tagEn": "Millennial Porcelain Capital · Imperial Kiln Center",
-      "descZh": "古称昌南镇，依傍高岭山瓷土与昌江水运。北宋景德元年真宗诏进御瓷底书“景德年制”遂得今名，元代设浮梁磁局创烧元青花，明清于珠山设御器厂督造宫廷用瓷，白瓷青花行销全球。",
-      "descEn": "Rich in kaolin clay along the Chang River, Jingdezhen received its imperial name in 1004 CE under Emperor Zhenzong of Song and served under the Yuan, Ming, and Qing imperial kilns as the porcelain capital of the world."
+      "descZh": "古くは昌南鎮（しょうなんちん）と呼ばれ、高嶺山（こうれいざん）の陶土と昌江（しょうこう）の水運に恵まれた。北宋の景徳元年（1004年）、真宗（しんそう）が献上された御器の底に「景徳年製」と記させたことから、現在の名を得る。元代には浮梁磁局（ふりょうじきょく）が置かれ、元青花（げんせいか）を創焼。明清代には珠山（しゅざん）に御器廠（ぎょきしょう）が設けられ、宮廷用磁器を監督製造し、白磁や青花（せいか）は世界中に流通した。",
+      "descEn": "Rich in kaolin clay along the Chang River, Jingdezhen received its imperial name in 1004 CE under Emperor Zhenzong of Song and served under the Yuan, Ming, and Qing imperial kilns as the porcelain capital of the world.",
+      "descJa": "古くは昌南鎮（しょうなんちん）と呼ばれ、高嶺山（こうれいざん）の陶土と昌江（しょうこう）の水運に恵まれた。北宋の景徳元年（1004年）、真宗（しんそう）が献上された御器の底に「景徳年製」と記させたことから、現在の名を得る。元代には浮梁磁局（ふりょうじきょく）が置かれ、元青花（げんせいか）を創焼。明清代には珠山（しゅざん）に御器廠（ぎょきしょう）が設けられ、宮廷用磁器を監督製造し、白磁や青花（せいか）は世界中に流通した。",
+      "tagJa": "千年瓷都・御窯珠山"
     },
     {
       "modern": "黄山",
@@ -15739,10 +19505,12 @@ window.ATLAS_LORE_DATA = {
         118.43,
         29.87
       ],
-      "tagZh": "新安形胜 · 文献名邦",
+      "tagZh": "新安形勝・文献名邦",
       "tagEn": "Xin'an River Basin · Homeland of Huizhou Culture",
-      "descZh": "古称新安、歙州、徽州，群山环抱、新安江穿流而过。隋置歙州，北宋宣和三年改称徽州，统领一府六县（歙、休宁、婺源、祁门、黟、绩溪），为朱熹理学故里与明清徽商、徽墨歙砚、新安画派之发祥地。",
-      "descEn": "Cradled in the Xin'an River basin south of Mount Huangshan, Huizhou (Shezhou) was the ancestral homeland of Neo-Confucian philosopher Zhu Xi and the center of Ming–Qing Huizhou merchants, ink-making, and architecture."
+      "descZh": "古くは新安（しんあん）、歙州（きゅうしゅう）、徽州（きしゅう）と呼ばれ、群山に囲まれ新安江（しんあんこう）が貫流する。隋代に歙州が置かれ、北宋の宣和三年（1121年）に徽州と改称され、一府六県（歙、休寧、婺源、祁門、黟、績渓）を統括した。朱熹（しゅき）の理学の故里であり、明清代の徽商（きしょう）、徽墨（きぼく）や歙硯（きゅうけん）、新安画派（しんあんがは）の発祥地となった。",
+      "descEn": "Cradled in the Xin'an River basin south of Mount Huangshan, Huizhou (Shezhou) was the ancestral homeland of Neo-Confucian philosopher Zhu Xi and the center of Ming–Qing Huizhou merchants, ink-making, and architecture.",
+      "descJa": "古くは新安（しんあん）、歙州（きゅうしゅう）、徽州（きしゅう）と呼ばれ、群山に囲まれ新安江（しんあんこう）が貫流する。隋代に歙州が置かれ、北宋の宣和三年（1121年）に徽州と改称され、一府六県（歙、休寧、婺源、祁門、黟、績渓）を統括した。朱熹（しゅき）の理学の故里であり、明清代の徽商（きしょう）、徽墨（きぼく）や歙硯（きゅうけん）、新安画派（しんあんがは）の発祥地となった。",
+      "tagJa": "新安形勝・文献名邦"
     },
     {
       "modern": "淮安",
@@ -15750,10 +19518,12 @@ window.ATLAS_LORE_DATA = {
         119.14,
         33.5
       ],
-      "tagZh": "运河之都 · 南北漕运咽喉",
+      "tagZh": "運河の都・南北漕運の咽喉",
       "tagEn": "Grand Canal & Huai River Pivot · Grain Transport Capital",
-      "descZh": "古称淮阴、山阳、楚州，处淮河、京杭大运河与洪泽湖交汇枢轴。秦汉淮阴为韩信故里，南宋楚州为韩世忠抗金江淮前哨，明清设漕运总督与南河总督驻节于此，统管天下漕船北上，号“九省通衢、运河之都”。",
-      "descEn": "At the critical junction of the Huai River and the Grand Canal beside Hongze Lake, Huai'an (Huaiyin / Chuzhou) was hometown of Han Xin, a Song frontier fortress, and headquarters of the Ming–Qing Director-General of Grain Transport."
+      "descZh": "古くは淮陰（わいいん）、山陽（さんよう）、楚州（そしゅう）と呼ばれ、淮河（わいが）、京杭大運河（けいこうだいうんが）、洪沢湖（こうたくこ）が交わる枢軸に位置する。秦漢代の淮陰は韓信（かんしん）の故里であり、南宋の楚州は韓世忠（かんせいじゅう）が金に抗した江淮（こうわい）の前哨基地であった。明清代には漕運総督（そううんそうとく）と南河総督（なんがそうとく）が駐節し、天下の漕船（そうせん）の北上を統括したことから、「九省通衢（きゅうしょうつうく）、運河の都」と称された。",
+      "descEn": "At the critical junction of the Huai River and the Grand Canal beside Hongze Lake, Huai'an (Huaiyin / Chuzhou) was hometown of Han Xin, a Song frontier fortress, and headquarters of the Ming–Qing Director-General of Grain Transport.",
+      "descJa": "古くは淮陰（わいいん）、山陽（さんよう）、楚州（そしゅう）と呼ばれ、淮河（わいが）、京杭大運河（けいこうだいうんが）、洪沢湖（こうたくこ）が交わる枢軸に位置する。秦漢代の淮陰は韓信（かんしん）の故里であり、南宋の楚州は韓世忠（かんせいじゅう）が金に抗した江淮（こうわい）の前哨基地であった。明清代には漕運総督（そううんそうとく）と南河総督（なんがそうとく）が駐節し、天下の漕船（そうせん）の北上を統括したことから、「九省通衢（きゅうしょうつうく）、運河の都」と称された。",
+      "tagJa": "運河の都・南北漕運の咽喉"
     },
     {
       "modern": "镇江",
@@ -15761,10 +19531,12 @@ window.ATLAS_LORE_DATA = {
         119.45,
         32.2
       ],
-      "tagZh": "江河交汇 · 建康门户",
+      "tagZh": "長江と運河の交差点。建康の門戸。",
       "tagEn": "Yangtze–Canal Crossroads · River Shield of Nanjing",
-      "descZh": "古称京口、润州，北临大江、西屏建康，扼长江与江南运河十字交汇口，焦山、金山、北固山三山鼎立江滨。三国孙权初镇京口筑铁瓮城，东晋北府兵由此崛起，南宋韩世忠黄天荡阻金、辛弃疾登北固亭怀古皆在于此。",
-      "descEn": "Commanding the southern bank of the Yangtze where it meets the Grand Canal east of Nanjing, Jingkou (Zhenjiang) was Sun Quan's early citadel, base of the Eastern Jin Northern Garrison Army, and subject of Xin Qiji's Beigu Pavilion lyric."
+      "descZh": "古くは京口（けいこう）、潤州（じゅんしゅう）と呼ばれ、北は大江（長江）に臨み、西は建康（けんこう）を屏護する。長江と江南運河（こうなんうんが）の交差点の要衝を扼し、焦山（しょうざん）、金山（きんざん）、北固山（ほっこざん）の三山が江浜（こうひん）に鼎立する。三国時代、孫権（そんけん）が京口を拠点として鉄甕城（てつおうじょう）を築き、東晋の北府兵（ほくふへい）がここから台頭した。南宋では韓世忠が黄天蕩（こうてんとう）で金を阻み、辛棄疾（しんきしつ）が北固亭（ほっこてい）に登って懐古の詩を詠んだのもこの地である。",
+      "descEn": "Commanding the southern bank of the Yangtze where it meets the Grand Canal east of Nanjing, Jingkou (Zhenjiang) was Sun Quan's early citadel, base of the Eastern Jin Northern Garrison Army, and subject of Xin Qiji's Beigu Pavilion lyric.",
+      "descJa": "古くは京口（けいこう）、潤州（じゅんしゅう）と呼ばれ、北は大江（長江）に臨み、西は建康（けんこう）を屏護する。長江と江南運河（こうなんうんが）の交差点の要衝を扼し、焦山（しょうざん）、金山（きんざん）、北固山（ほっこざん）の三山が江浜（こうひん）に鼎立する。三国時代、孫権（そんけん）が京口を拠点として鉄甕城（てつおうじょう）を築き、東晋の北府兵（ほくふへい）がここから台頭した。南宋では韓世忠が黄天蕩（こうてんとう）で金を阻み、辛棄疾（しんきしつ）が北固亭（ほっこてい）に登って懐古の詩を詠んだのもこの地である。",
+      "tagJa": "長江と運河の交差点。建康の門戸。"
     },
     {
       "modern": "合肥",
@@ -15772,10 +19544,12 @@ window.ATLAS_LORE_DATA = {
         117.28,
         31.86
       ],
-      "tagZh": "江淮首郡 · 魏吴兵冲",
+      "tagZh": "江淮の要衝。魏と呉の激戦地。",
       "tagEn": "Central Jianghuai Bastion · Three Kingdoms Frontier",
-      "descZh": "古称庐州，居江淮分水岭与巢湖北岸，因东淝河、南淝河交汇得名，左控濡须、右屏寿春。三国时曹操筑合肥新城，张辽威震逍遥津、满宠坚守拒吴，南北朝至宋代久为经略江淮之军事锁钥。",
-      "descEn": "Situated between the Yangtze and Huai rivers north of Chaohu Lake, Hefei (Luzhou) was the central Jianghuai fortress where Cao Wei general Zhang Liao famously defeated Sun Quan at Xiaoyao Ford."
+      "descZh": "古くは廬州と呼ばれ、江淮分水嶺と巢湖の北岸に位置する。東淝河と南淝河の合流に由来し、左に濡須を制し、右に壽春を屏障とした。三国時代には曹操が合肥新城を築き、張遼が逍遙津で武名を轟かせ、満寵が堅守して呉を退けた。南北朝から宋代にかけて、長く江淮経営の軍事要衝であった。",
+      "descEn": "Situated between the Yangtze and Huai rivers north of Chaohu Lake, Hefei (Luzhou) was the central Jianghuai fortress where Cao Wei general Zhang Liao famously defeated Sun Quan at Xiaoyao Ford.",
+      "descJa": "古くは廬州と呼ばれ、江淮分水嶺と巢湖の北岸に位置する。東淝河と南淝河の合流に由来し、左に濡須を制し、右に壽春を屏障とした。三国時代には曹操が合肥新城を築き、張遼が逍遙津で武名を轟かせ、満寵が堅守して呉を退けた。南北朝から宋代にかけて、長く江淮経営の軍事要衝であった。",
+      "tagJa": "江淮の要衝。魏と呉の激戦地。"
     },
     {
       "modern": "淮南",
@@ -15783,10 +19557,12 @@ window.ATLAS_LORE_DATA = {
         116.78,
         32.58
       ],
-      "tagZh": "楚国晚都 · 淝水古战场",
+      "tagZh": "楚の末期の都。淝水の古戦場。",
       "tagEn": "Late Chu Capital · Site of the Battle of Fei River",
-      "descZh": "辖境寿春（寿县）北临淮水、东傍淝水、南濒芍陂，扼淮河中游渡口。战国晚期楚考烈王迁都寿春，汉置淮南国（《淮南子》编纂地），三国“淮南三叛”与东晋太元八年（383年）谢安、谢玄大破前秦苻坚之淝水之战皆决战于此。",
-      "descEn": "Centered on historic Shouchun along the middle Huai and Fei rivers, it served as the final capital of Warring States Chu and the battlefield where Eastern Jin defeated Former Qin at the Battle of Fei River in 383 CE."
+      "descZh": "寿春（寿県）の地は北を淮水、東を淝水、南を芍陂に臨み、淮河中流の渡河地点を扼する。戦国時代末期には楚の考烈王が寿春に遷都し、漢代には淮南国が置かれた（『淮南子』編纂の地）。三国時代の「淮南三叛」と、東晋の太元8年（383年）に謝安・謝玄が前秦の苻堅を大破した淝水の戦いは、いずれもこの地で決戦が行われた。",
+      "descEn": "Centered on historic Shouchun along the middle Huai and Fei rivers, it served as the final capital of Warring States Chu and the battlefield where Eastern Jin defeated Former Qin at the Battle of Fei River in 383 CE.",
+      "descJa": "寿春（寿県）の地は北を淮水、東を淝水、南を芍陂に臨み、淮河中流の渡河地点を扼する。戦国時代末期には楚の考烈王が寿春に遷都し、漢代には淮南国が置かれた（『淮南子』編纂の地）。三国時代の「淮南三叛」と、東晋の太元8年（383年）に謝安・謝玄が前秦の苻堅を大破した淝水の戦いは、いずれもこの地で決戦が行われた。",
+      "tagJa": "楚の末期の都。淝水の古戦場。"
     },
     {
       "modern": "岳阳",
@@ -15805,10 +19581,12 @@ window.ATLAS_LORE_DATA = {
         111.29,
         30.69
       ],
-      "tagZh": "三峡东口 · 川鄂咽喉",
+      "tagZh": "三峡の東口、川鄂の要衝。",
       "tagEn": "Eastern Mouth of the Three Gorges · Throat of Chu and Shu",
-      "descZh": "古称夷陵、西陵、峡州，当长江出三峡西陵峡入江汉平原之交界，“上控巴夔、下引荆襄”。战国白起拔郢先烧夷陵，三国刘备东征孙吴败绩于夷陵猇亭，欧阳修曾贬夷陵县令，自古为川鄂水陆锁钥。",
-      "descEn": "At the eastern exit of Xiling Gorge where the Yangtze emerges from the Three Gorges onto the Jianghan Plain, Yiling (Xiazhou / Yichang) was the strategic gateway between Sichuan and Hubei and site of the 222 CE Battle of Yiling."
+      "descZh": "古くは夷陵、西陵、峡州と呼ばれ、長江が三峡の西陵峡を出て江漢平原に入る境に位置し、「上は巴夔を制し、下は荊襄を導く」と称された。戦国時代には白起が郢を攻略する前に夷陵を焼き、三国時代には劉備が孫呉を東征したが夷陵の猇亭で敗北した。欧陽修はかつて夷陵県令に左遷され、古来より川鄂（四川と湖北）の水陸の要衝であった。",
+      "descEn": "At the eastern exit of Xiling Gorge where the Yangtze emerges from the Three Gorges onto the Jianghan Plain, Yiling (Xiazhou / Yichang) was the strategic gateway between Sichuan and Hubei and site of the 222 CE Battle of Yiling.",
+      "descJa": "古くは夷陵、西陵、峡州と呼ばれ、長江が三峡の西陵峡を出て江漢平原に入る境に位置し、「上は巴夔を制し、下は荊襄を導く」と称された。戦国時代には白起が郢を攻略する前に夷陵を焼き、三国時代には劉備が孫呉を東征したが夷陵の猇亭で敗北した。欧陽修はかつて夷陵県令に左遷され、古来より川鄂（四川と湖北）の水陸の要衝であった。",
+      "tagJa": "三峡の東口、川鄂の要衝。"
     },
     {
       "modern": "商丘",
@@ -15816,10 +19594,12 @@ window.ATLAS_LORE_DATA = {
         115.65,
         34.41
       ],
-      "tagZh": "微子封宋 · 北宋陪都",
+      "tagZh": "微子、宋に封ぜられる地。北宋の陪都。",
       "tagEn": "Ancient State of Song · Southern Capital of Northern Song",
-      "descZh": "古称商、宋、睢阳、宋州、归德府，居豫东黄淮平原要冲。商族发祥地与周封微子启于宋之故都，安史之乱张巡、许远死守睢阳保住江淮赋税命脉；宋真宗以宋太祖发祥于宋州归德军，升为陪都南京应天府（1127年赵构即位于此）。",
-      "descEn": "Cradled on the eastern Henan plain as the ancient capital of the State of Song, Suiyang (Shangqiu) withstood the 757 CE Siege of Suiyang protecting the Tang Grand Canal and served as the Southern Capital Yingtian Prefecture of Northern Song."
+      "descZh": "古くは商、宋、睢陽、宋州、歸徳府と呼ばれ、豫東の黄淮平原の要衝に位置する。商族の発祥地であり、周が微子啓を宋に封じた故都でもある。安史の乱では、張巡と許遠が睢陽を死守し、江淮の賦税の命脈を保った。宋真宗は、宋太祖が宋州歸徳軍で発祥したことから、これを陪都南京應天府に昇格させた（1127年、趙構がここで即位した）。",
+      "descEn": "Cradled on the eastern Henan plain as the ancient capital of the State of Song, Suiyang (Shangqiu) withstood the 757 CE Siege of Suiyang protecting the Tang Grand Canal and served as the Southern Capital Yingtian Prefecture of Northern Song.",
+      "descJa": "古くは商、宋、睢陽、宋州、歸徳府と呼ばれ、豫東の黄淮平原の要衝に位置する。商族の発祥地であり、周が微子啓を宋に封じた故都でもある。安史の乱では、張巡と許遠が睢陽を死守し、江淮の賦税の命脈を保った。宋真宗は、宋太祖が宋州歸徳軍で発祥したことから、これを陪都南京應天府に昇格させた（1127年、趙構がここで即位した）。",
+      "tagJa": "微子、宋に封ぜられる地。北宋の陪都。"
     },
     {
       "modern": "许昌",
@@ -15827,10 +19607,12 @@ window.ATLAS_LORE_DATA = {
         113.85,
         34.04
       ],
-      "tagZh": "汉魏故都 · 中原腹心",
+      "tagZh": "漢魏の故都。中原の腹心。",
       "tagEn": "Eastern Han & Wei Capital · Central Plains Hub",
-      "descZh": "古称许、许都、许州，居豫中平原腹地，北通郑洛、南接汝颍。东汉建安元年（196年）曹操奉汉献帝迁都于许，推行屯田、总揽朝政二十五年；曹丕代汉建魏，改许县曰“许昌”（意为“魏基昌于许”），列为曹魏五都之一。",
-      "descEn": "In the heart of the central Henan plain, Xu (Xuchang) became the imperial seat in 196 CE when Cao Cao welcomed Emperor Xian of Han, serving for twenty-five years as the political nerve center of late Han and one of the Five Capitals of Cao Wei."
+      "descZh": "古くは許、許都、許州と呼ばれ、豫中平原の腹地に位置し、北は鄭洛に通じ、南は汝潁に接する。後漢の建安元年（196年）、曹操が漢献帝を奉じて許に遷都し、屯田を推し進め、25年にわたり朝政を総攬した。曹丕が漢に代わって魏を建てた際、許県を「許昌」（魏の基が許で昌盛する意）と改称し、曹魏の五都の一つとした。",
+      "descEn": "In the heart of the central Henan plain, Xu (Xuchang) became the imperial seat in 196 CE when Cao Cao welcomed Emperor Xian of Han, serving for twenty-five years as the political nerve center of late Han and one of the Five Capitals of Cao Wei.",
+      "descJa": "古くは許、許都、許州と呼ばれ、豫中平原の腹地に位置し、北は鄭洛に通じ、南は汝潁に接する。後漢の建安元年（196年）、曹操が漢献帝を奉じて許に遷都し、屯田を推し進め、25年にわたり朝政を総攬した。曹丕が漢に代わって魏を建てた際、許県を「許昌」（魏の基が許で昌盛する意）と改称し、曹魏の五都の一つとした。",
+      "tagJa": "漢魏の故都。中原の腹心。"
     },
     {
       "modern": "郑州",
@@ -15838,10 +19620,12 @@ window.ATLAS_LORE_DATA = {
         113.62,
         34.75
       ],
-      "tagZh": "虎牢东屏 · 鸿沟枢轴",
+      "tagZh": "虎牢関の東の屏風。鴻溝の枢軸。",
       "tagEn": "Xingyang–Hulao Corridor · Yellow River Canal Hub",
-      "descZh": "辖境含古管城、荥阳，北临黄河、西依嵩山与虎牢关，居天下水陆中枢。商代中期隞都所在，战国魏开鸿沟引河水入淮，楚汉相争刘邦项羽对峙于荥阳成皋、划鸿沟为界，隋唐通济渠由此引黄河东下江淮。",
-      "descEn": "Flanked by the Yellow River to the north and Mount Song and Hulao Pass to the west, Zhengzhou and neighboring Xingyang formed the contested pivot of the Chu–Han Contention and the intake hub of the Honggou and Sui–Tang Bian canals."
+      "descZh": "古くは管城、滎陽を含み、北は黄河に臨み、西は嵩山と虎牢関に依り、天下の水陸交通の枢要を占める。商代中期には隞都が置かれた。戦国時代の魏は鴻溝を開削して黄河の水を淮水に引いた。楚漢の争いでは、劉邦と項羽が滎陽と成皋で対峙し、鴻溝を境界とした。隋唐の通済渠はここから黄河の水を東の江淮へ引いた。",
+      "descEn": "Flanked by the Yellow River to the north and Mount Song and Hulao Pass to the west, Zhengzhou and neighboring Xingyang formed the contested pivot of the Chu–Han Contention and the intake hub of the Honggou and Sui–Tang Bian canals.",
+      "descJa": "古くは管城、滎陽を含み、北は黄河に臨み、西は嵩山と虎牢関に依り、天下の水陸交通の枢要を占める。商代中期には隞都が置かれた。戦国時代の魏は鴻溝を開削して黄河の水を淮水に引いた。楚漢の争いでは、劉邦と項羽が滎陽と成皋で対峙し、鴻溝を境界とした。隋唐の通済渠はここから黄河の水を東の江淮へ引いた。",
+      "tagJa": "虎牢関の東の屏風。鴻溝の枢軸。"
     },
     {
       "modern": "宝鸡",
@@ -15849,10 +19633,12 @@ window.ATLAS_LORE_DATA = {
         107.14,
         34.36
       ],
-      "tagZh": "周秦肇基 · 陈仓锁钥",
+      "tagZh": "周・秦両王朝発祥の地、陳倉の要衝。",
       "tagEn": "Cradle of Zhou and Qin · Gateway to the Chencang Road",
-      "descZh": "古称陈仓、雍城、凤翔府，居关中平原西端，北倚千山、南屏秦岭大散关、中贯渭水。周人发祥于岐山周原，秦自德公至献公定都雍城近三百年；刘邦“明修栈道、暗度陈仓”由此定三秦，唐肃宗至德二载改陈仓为宝鸡。",
-      "descEn": "At the western head of the Guanzhong Plain above the Wei River and Dasan Pass, Baoji encompasses the Zhou ancestral homeland at Qishan, the early Qin capital of Yongcheng, and Chencang — where Han Xin emerged to conquer the Three Qins."
+      "descZh": "古くは陳倉、雍城、鳳翔府と呼ばれ、関中平原の西端に位置し、北は千山に倚り、南は秦嶺大散関に屏され、中央を渭水が貫く。周人は岐山周原で発祥し、秦は徳公から献公まで約300年間、雍城を都とした。劉邦は「明修棧道、暗度陳倉」の計でここから三秦を平定した。唐の粛宗は至徳二載（757年）に陳倉を宝鶏と改称した。",
+      "descEn": "At the western head of the Guanzhong Plain above the Wei River and Dasan Pass, Baoji encompasses the Zhou ancestral homeland at Qishan, the early Qin capital of Yongcheng, and Chencang — where Han Xin emerged to conquer the Three Qins.",
+      "descJa": "古くは陳倉、雍城、鳳翔府と呼ばれ、関中平原の西端に位置し、北は千山に倚り、南は秦嶺大散関に屏され、中央を渭水が貫く。周人は岐山周原で発祥し、秦は徳公から献公まで約300年間、雍城を都とした。劉邦は「明修棧道、暗度陳倉」の計でここから三秦を平定した。唐の粛宗は至徳二載（757年）に陳倉を宝鶏と改称した。",
+      "tagJa": "周・秦両王朝発祥の地、陳倉の要衝。"
     },
     {
       "modern": "延安",
@@ -15860,10 +19646,12 @@ window.ATLAS_LORE_DATA = {
         109.49,
         36.59
       ],
-      "tagZh": "陕北锁钥 · 革命圣地",
+      "tagZh": "陝北の要衝、革命の聖地。",
       "tagEn": "Northern Shaanxi Bastion · Revolutionary Yan'an",
-      "descZh": "古称肤施、延州、延安府，居黄土高原延河与汾川河交汇谷地，宝塔山、清凉山、凤凰山三山鼎峙。秦汉上郡重镇，北宋时范仲淹、沈括先后经略延州以御西夏（沈括取延州“石油”入墨并载入《梦溪笔谈》），近代为中共中央驻地。",
-      "descEn": "Set at the confluence of the Yan River in the Loess Plateau, Yanzhou (Yan'an) was the Northern Song frontier command where Fan Zhongyan and Shen Kuo defended against Western Xia, and later the headquarters of the Chinese Communist Party (1937–1947)."
+      "descZh": "古くは膚施、延州、延安府と呼ばれた。黄土高原の延河と汾川河が合流する谷間に位置し、宝塔山、清涼山、鳳凰山の三山がそびえ立つ。秦・漢代には上郡の要衝であり、北宋時代には范仲淹、沈括が相次いで延州を経営し、西夏を防衛した（沈括は延州の「石油」を墨に用い、『夢渓筆談』に記録している）。近代には中共中央の所在地となった。",
+      "descEn": "Set at the confluence of the Yan River in the Loess Plateau, Yanzhou (Yan'an) was the Northern Song frontier command where Fan Zhongyan and Shen Kuo defended against Western Xia, and later the headquarters of the Chinese Communist Party (1937–1947).",
+      "descJa": "古くは膚施、延州、延安府と呼ばれた。黄土高原の延河と汾川河が合流する谷間に位置し、宝塔山、清涼山、鳳凰山の三山がそびえ立つ。秦・漢代には上郡の要衝であり、北宋時代には范仲淹、沈括が相次いで延州を経営し、西夏を防衛した（沈括は延州の「石油」を墨に用い、『夢渓筆談』に記録している）。近代には中共中央の所在地となった。",
+      "tagJa": "陝北の要衝、革命の聖地。"
     },
     {
       "modern": "榆林",
@@ -15871,10 +19659,12 @@ window.ATLAS_LORE_DATA = {
         109.73,
         38.29
       ],
-      "tagZh": "九边重镇 · 塞上驼城",
+      "tagZh": "九辺の重鎮、塞上の駝城。",
       "tagEn": "Ming Nine-Garrison Stronghold · Site of Tongwancheng",
-      "descZh": "北临毛乌素沙地、南控无定河谷，辖境含秦汉上郡肤施、夏州统万城及麟州。十六国赫连勃勃筑白色都城“统万城”，北宋杨家将祖籍麟州世代戍边，明代筑榆林卫城列为“九边”重镇之延绥镇，拱卫陕北与河套门户。",
-      "descEn": "On the border of the Mu Us Desert and the Wuding River valley, Yulin encompasses Helian Bobo's white Xiongnu capital of Tongwancheng and served under the Ming Dynasty as the Yansui Garrison among the Nine Frontier Defense Commands."
+      "descZh": "北は毛烏素砂地に接し、南は無定河谷を扼する。その管轄地域には秦・漢代の上郡膚施、夏州統萬城、および麟州が含まれる。十六国時代には赫連勃勃が白い都城「統萬城」を築き、北宋時代には楊家将の祖籍である麟州が代々辺境を守った。明代には楡林衛城が築かれ、「九辺」の重鎮である延綏鎮とされ、陝北と河套の要衝を拱衛した。",
+      "descEn": "On the border of the Mu Us Desert and the Wuding River valley, Yulin encompasses Helian Bobo's white Xiongnu capital of Tongwancheng and served under the Ming Dynasty as the Yansui Garrison among the Nine Frontier Defense Commands.",
+      "descJa": "北は毛烏素砂地に接し、南は無定河谷を扼する。その管轄地域には秦・漢代の上郡膚施、夏州統萬城、および麟州が含まれる。十六国時代には赫連勃勃が白い都城「統萬城」を築き、北宋時代には楊家将の祖籍である麟州が代々辺境を守った。明代には楡林衛城が築かれ、「九辺」の重鎮である延綏鎮とされ、陝北と河套の要衝を拱衛した。",
+      "tagJa": "九辺の重鎮、塞上の駝城。"
     },
     {
       "modern": "沈阳",
@@ -15893,10 +19683,11 @@ window.ATLAS_LORE_DATA = {
         123.17,
         41.27
       ],
-      "tagZh": "辽东首郡 · 东北古都",
+      "tagZh": "遼東の首府・遼、金の副都",
       "tagEn": "Millennial Seat of Liaodong · Auxiliary Capital of Liao & Jin",
       "descZh": "古称襄平、辽东城、东京辽阳府，居太子河畔。自战国燕置辽东郡治襄平，秦汉魏晋隋唐千余年皆为东北军政中心；辽、金两代均定为陪都“东京辽阳府”，明设辽东都指挥使司，素有“东北第一古城”之称。",
-      "descEn": "Founded in the Warring States as Xiangping, seat of Yan's Liaodong Commandery, Liaoyang remained the premier administrative center of the northeast for over a millennium and served as the Eastern Capital of both the Liao and Jin dynasties."
+      "descEn": "Founded in the Warring States as Xiangping, seat of Yan's Liaodong Commandery, Liaoyang remained the premier administrative center of the northeast for over a millennium and served as the Eastern Capital of both the Liao and Jin dynasties.",
+      "tagJa": "遼東の首府・遼、金の副都"
     },
     {
       "modern": "牡丹江",
@@ -15904,10 +19695,12 @@ window.ATLAS_LORE_DATA = {
         129.48,
         44.58
       ],
-      "tagZh": "海东盛国 · 宁古塔重镇",
+      "tagZh": "海東盛國・寧古塔の要衝",
       "tagEn": "Bohai Upper Capital · Qing Ningguta Garrison",
-      "descZh": "居牡丹江（古忽汗水）中游盆地。唐代靺鞨大祚荣建渤海国，仿唐长安城营建上京龙泉府（今宁安东京城），号“海东盛国”；清初设宁古塔昂邦章京（后改宁古塔将军），统辖松花江、乌苏里江、黑龙江流域及库页岛。",
-      "descEn": "In the middle Mudan River basin, this region housed Upper Capital Longquan Prefecture of the Tang-era Bohai Kingdom and the early Qing garrison of Ningguta, which administered the Amur, Ussuri, and Sakhalin frontiers."
+      "descZh": "牡丹江（古くは忽汗水）中流域の盆地に位置する。唐代、靺靨の大祚榮が渤海國を建国し、唐の長安城を模して上京龍泉府（現在の寧安市東京城）を建設、「海東盛國」と称した。清初には寧古塔の昂邦章京（後に寧古塔将軍と改称）が置かれ、松花江、烏蘇里江、黒龍江流域および庫頁島を管轄した。",
+      "descEn": "In the middle Mudan River basin, this region housed Upper Capital Longquan Prefecture of the Tang-era Bohai Kingdom and the early Qing garrison of Ningguta, which administered the Amur, Ussuri, and Sakhalin frontiers.",
+      "descJa": "牡丹江（古くは忽汗水）中流域の盆地に位置する。唐代、靺靨の大祚榮が渤海國を建国し、唐の長安城を模して上京龍泉府（現在の寧安市東京城）を建設、「海東盛國」と称した。清初には寧古塔の昂邦章京（後に寧古塔将軍と改称）が置かれ、松花江、烏蘇里江、黒龍江流域および庫頁島を管轄した。",
+      "tagJa": "海東盛國・寧古塔の要衝"
     },
     {
       "modern": "哈尔滨",
@@ -15915,10 +19708,12 @@ window.ATLAS_LORE_DATA = {
         126.96,
         45.54
       ],
-      "tagZh": "女真肇兴 · 金朝上京",
+      "tagZh": "女真勃興の地・金朝の上京",
       "tagEn": "Homeland of the Jurchens · Jin Upper Capital Huining",
-      "descZh": "辖境阿城（阿什河流域，古按出虎水）为女真完颜部肇兴之地。1115年完颜阿骨打于此称帝建大金国，定都上京会宁府，先后灭辽、破北宋，历金太祖、太宗、熙宗及海陵王初年四朝三十八载，为12世纪东北亚政治中枢。",
-      "descEn": "Along the Ashi River (ancient Anchuhu Water) southeast of modern Harbin, Wanyan Aguda founded the Jurchen Jin Dynasty in 1115 CE, making Upper Capital Huining Prefecture its imperial seat for thirty-eight years."
+      "descZh": "管轄する阿城（阿什河流域、古くは按出虎水）は、女真の完顔部が勃興した地である。1115年、完顔阿骨打がここで帝位に就き大金國を建国、上京會寧府を都とした。相次いで遼を滅ぼし、北宋を破り、金太祖、太宗、熙宗、および海陵王の初年までの四朝38年間、12世紀の東北亞における政治中枢であった。",
+      "descEn": "Along the Ashi River (ancient Anchuhu Water) southeast of modern Harbin, Wanyan Aguda founded the Jurchen Jin Dynasty in 1115 CE, making Upper Capital Huining Prefecture its imperial seat for thirty-eight years.",
+      "descJa": "管轄する阿城（阿什河流域、古くは按出虎水）は、女真の完顔部が勃興した地である。1115年、完顔阿骨打がここで帝位に就き大金國を建国、上京會寧府を都とした。相次いで遼を滅ぼし、北宋を破り、金太祖、太宗、熙宗、および海陵王の初年までの四朝38年間、12世紀の東北亞における政治中枢であった。",
+      "tagJa": "女真勃興の地・金朝の上京"
     },
     {
       "modern": "呼和浩特",
@@ -15926,10 +19721,12 @@ window.ATLAS_LORE_DATA = {
         111.65,
         40.82
       ],
-      "tagZh": "阴山南麓 · 塞北重镇",
+      "tagZh": "陰山南麓・塞北の要衝",
       "tagEn": "Southern Foot of Yinshan · Steppe–Agrarian Crossroads",
-      "descZh": "北依阴山大青山、南濒黄河河套（土默川平原），辖境含战国秦汉云中郡、拓跋北魏早期都城盛乐、北魏六镇之武川镇（隋唐帝室发源地）及明代阿勒坦汗与三娘子所筑“归化城”、清代绥远城。",
-      "descEn": "On the Tumochuan Plain between the Yinshan Mountains and the Yellow River bend, Hohhot encompasses Warring States Yunzhong, early Northern Wei capital Shengle, the Wuchuan Garrison, and Altan Khan's 16th-century Guihua City."
+      "descZh": "北は陰山の大青山に、南は黄河の河套（土默川平原）に接する。その管轄地域には、戦国・秦漢時代の雲中郡、拓跋北魏初期の都盛樂、北魏六鎮の一つである武川鎮（隋唐帝室の発祥地）、および明代のアルタン・ハーンと三娘子が築いた「帰化城」、清代の綏遠城が含まれる。",
+      "descEn": "On the Tumochuan Plain between the Yinshan Mountains and the Yellow River bend, Hohhot encompasses Warring States Yunzhong, early Northern Wei capital Shengle, the Wuchuan Garrison, and Altan Khan's 16th-century Guihua City.",
+      "descJa": "北は陰山の大青山に、南は黄河の河套（土默川平原）に接する。その管轄地域には、戦国・秦漢時代の雲中郡、拓跋北魏初期の都盛樂、北魏六鎮の一つである武川鎮（隋唐帝室の発祥地）、および明代のアルタン・ハーンと三娘子が築いた「帰化城」、清代の綏遠城が含まれる。",
+      "tagJa": "陰山南麓・塞北の要衝"
     },
     {
       "modern": "喀什",
@@ -15937,10 +19734,12 @@ window.ATLAS_LORE_DATA = {
         75.99,
         39.47
       ],
-      "tagZh": "葱岭东门 · 丝路南北交汇",
+      "tagZh": "葱嶺の東門、絲路の南北交差点。",
       "tagEn": "Eastern Foot of the Pamirs · Convergence of Silk Road Routes",
-      "descZh": "古称疏勒，居塔里木盆地最西端喀什噶尔绿洲，背倚帕米尔高原（古葱岭），为丝绸之路天山南道与西域南道交汇总枢纽。东汉班超驻守疏勒经营西域，唐列为安西四镇之一，宋元为喀喇汗朝重镇，清设喀什噶尔参赞大臣。",
-      "descEn": "At the western apex of the Tarim Basin beneath the Pamir Mountains, Kashgar (Shule) was where the northern and southern branches of the Silk Road converged, serving as Ban Chao's base and one of the Four Garrisons of Anxi."
+      "descZh": "古くは疏勒と称され、タリム盆地最西端のカシュガルオアシスに位置する。パミール高原（古くは葱嶺）を背にし、シルクロードの天山南道と西域南道が交わる重要な拠点であった。後漢の班超が疏勒に駐屯して西域を経営し、唐代には安西四鎮の一つとされた。宋元時代にはカラハン朝の要衝となり、清代にはカシュガル参賛大臣が置かれた。",
+      "descEn": "At the western apex of the Tarim Basin beneath the Pamir Mountains, Kashgar (Shule) was where the northern and southern branches of the Silk Road converged, serving as Ban Chao's base and one of the Four Garrisons of Anxi.",
+      "descJa": "古くは疏勒と称され、タリム盆地最西端のカシュガルオアシスに位置する。パミール高原（古くは葱嶺）を背にし、シルクロードの天山南道と西域南道が交わる重要な拠点であった。後漢の班超が疏勒に駐屯して西域を経営し、唐代には安西四鎮の一つとされた。宋元時代にはカラハン朝の要衝となり、清代にはカシュガル参賛大臣が置かれた。",
+      "tagJa": "葱嶺の東門、絲路の南北交差点。"
     },
     {
       "modern": "吐鲁番",
@@ -15948,10 +19747,12 @@ window.ATLAS_LORE_DATA = {
         89.19,
         42.95
       ],
-      "tagZh": "天山南麓 · 西域门户",
+      "tagZh": "天山南麓、西域の門戸。",
       "tagEn": "Turpan Depression Oasis · Ancient Gaochang & Jiaohe",
-      "descZh": "古称车师前国交河城、高昌、西州，居天山博格达峰南麓吐鲁番盆地。汉置戊己校尉屯田高昌壁，麴氏高昌国与玄奘结坛讲经于此，唐贞观十四年侯君集平高昌置西州及安西都护府初治，后为高昌回鹘王都。",
-      "descEn": "In the Turpan Depression south of Bogda Peak, Turpan preserves the cliff-top ruins of Jiaohe and ancient Gaochang — site of Han military colonies, Tang Xizhou Prefecture, and initial seat of the Anxi Protectorate."
+      "descZh": "古くは車師前国交河城、高昌、西州と称され、天山山脈のボグダ峰南麓に位置するトルファン盆地に所在する。漢代には戊己校尉が置かれ高昌壁で屯田が行われた。麴氏高昌国では玄奘が壇を結んで講経を行った。唐の貞観14年（640年）、侯君集が高昌を平定し、西州と安西都護府を設置、その最初の治所となった。後に高昌回鶻の王都となった。",
+      "descEn": "In the Turpan Depression south of Bogda Peak, Turpan preserves the cliff-top ruins of Jiaohe and ancient Gaochang — site of Han military colonies, Tang Xizhou Prefecture, and initial seat of the Anxi Protectorate.",
+      "descJa": "古くは車師前国交河城、高昌、西州と称され、天山山脈のボグダ峰南麓に位置するトルファン盆地に所在する。漢代には戊己校尉が置かれ高昌壁で屯田が行われた。麴氏高昌国では玄奘が壇を結んで講経を行った。唐の貞観14年（640年）、侯君集が高昌を平定し、西州と安西都護府を設置、その最初の治所となった。後に高昌回鶻の王都となった。",
+      "tagJa": "天山南麓、西域の門戸。"
     },
     {
       "modern": "阿克苏",
@@ -15959,10 +19760,12 @@ window.ATLAS_LORE_DATA = {
         82.96,
         41.72
       ],
-      "tagZh": "西域北道中枢 · 安西都护府",
+      "tagZh": "西域北道の枢軸、安西都護府。",
       "tagEn": "Central Oasis of Northern Tarim · Seat of Anxi Protectorate",
-      "descZh": "辖境库车古称龟兹，北依天山南麓、南临塔里木河，控西域北道正中枢轴。两汉西域都护府（乌垒）与西域长史府毗邻于此，鸠摩罗什生于龟兹，唐显庆三年移安西大都护府驻龟兹统辖西域四镇，克孜尔石窟冠绝西域。",
-      "descEn": "Centered on historic Kucha (Qiuci) at the midpoint of the Northern Silk Road along the southern foot of Tianshan, this oasis was birthplace of Kumarajiva and headquarters of the Tang Grand Protectorate of Anxi."
+      "descZh": "その管轄地域であるクチャは古くは亀茲と称され、北は天山南麓に、南はタリム河に臨み、西域北道の枢軸を扼する地である。両漢の西域都護府（烏塁）と西域長史府が近接して置かれた。鳩摩羅什は亀茲で生まれた。唐の顕慶3年（658年）、安西大都護府が亀茲に移され、西域四鎮を統轄した。キジル石窟は西域随一の規模を誇る。",
+      "descEn": "Centered on historic Kucha (Qiuci) at the midpoint of the Northern Silk Road along the southern foot of Tianshan, this oasis was birthplace of Kumarajiva and headquarters of the Tang Grand Protectorate of Anxi.",
+      "descJa": "その管轄地域であるクチャは古くは亀茲と称され、北は天山南麓に、南はタリム河に臨み、西域北道の枢軸を扼する地である。両漢の西域都護府（烏塁）と西域長史府が近接して置かれた。鳩摩羅什は亀茲で生まれた。唐の顕慶3年（658年）、安西大都護府が亀茲に移され、西域四鎮を統轄した。キジル石窟は西域随一の規模を誇る。",
+      "tagJa": "西域北道の枢軸、安西都護府。"
     },
     {
       "modern": "和田",
@@ -15970,10 +19773,12 @@ window.ATLAS_LORE_DATA = {
         79.92,
         37.11
       ],
-      "tagZh": "昆仑北麓 · 西域玉都",
+      "tagZh": "崑崙北麓、西域の玉都。",
       "tagEn": "Southern Tarim Oasis · Ancient Kingdom of Khotan",
-      "descZh": "古称于阗，南枕昆仑山、北临塔克拉玛干沙漠，玉龙喀什河与喀拉喀什河盛产和田美玉。汉通西域南道大国，东汉班超服于阗，唐列为安西四镇之一（置毗沙都督府），于阗王室自称“唐之宗属”姓李氏，长期护卫丝路南道。",
-      "descEn": "Fed by the White Jade and Black Jade rivers at the northern foot of the Kunlun Mountains, Khotan (Yutian) was a major Buddhist kingdom on the Southern Silk Road and one of the Tang Dynasty's Four Garrisons of Anxi."
+      "descZh": "古くは于闐と称され、南は崑崙山脈に、北はタクラマカン砂漠に接し、玉龍喀什河とカラ喀什河では和田美玉が豊富に産出される。漢代には西域南道の大国として通交した。後漢の班超は于闐を服属させた。唐代には安西四鎮の一つとされ（毗沙都督府が置かれた）、于闐王室は「唐の宗属」を自称し李氏を名乗り、長きにわたり絲路南道を護衛した。",
+      "descEn": "Fed by the White Jade and Black Jade rivers at the northern foot of the Kunlun Mountains, Khotan (Yutian) was a major Buddhist kingdom on the Southern Silk Road and one of the Tang Dynasty's Four Garrisons of Anxi.",
+      "descJa": "古くは于闐と称され、南は崑崙山脈に、北はタクラマカン砂漠に接し、玉龍喀什河とカラ喀什河では和田美玉が豊富に産出される。漢代には西域南道の大国として通交した。後漢の班超は于闐を服属させた。唐代には安西四鎮の一つとされ（毗沙都督府が置かれた）、于闐王室は「唐の宗属」を自称し李氏を名乗り、長きにわたり絲路南道を護衛した。",
+      "tagJa": "崑崙北麓、西域の玉都。"
     },
     {
       "modern": "伊宁",
@@ -15981,10 +19786,12 @@ window.ATLAS_LORE_DATA = {
         81.33,
         43.92
       ],
-      "tagZh": "天山北路 · 伊犁将军驻地",
+      "tagZh": "天山北路・伊犁将軍の駐屯地",
       "tagEn": "Ili River Valley · Seat of the Qing General of Ili",
-      "descZh": "居天山北路伊犁河谷沃野，汉代为乌孙国游牧之地，唐属北庭都护府及濛池、昆陵都护府，元为察合台汗国阿力麻里重镇；清乾隆二十七年（1762年）设总统伊犁等处将军驻惠远城，统辖天山南北与巴尔喀什湖以东军政。",
-      "descEn": "In the fertile Ili River valley of northern Xinjiang, Yining (Huiyuan) was homeland of the ancient Wusun, site of Yuan Almaliq, and seat of the Qing General of Ili who governed all of Xinjiang from 1762 onward."
+      "descZh": "天山北路のイリ河谷の沃野に位置する。漢代には烏孫国の遊牧地であった。唐代には北庭都護府および濛池都護府、昆陵都護府に属した。元代にはチャガタイ・ハン国のアルマリクの要衝であった。清の乾隆27年（1762年）、恵遠城にイリ等処将軍が置かれ、天山南北とバルハシ湖以東の軍政を統轄した。",
+      "descEn": "In the fertile Ili River valley of northern Xinjiang, Yining (Huiyuan) was homeland of the ancient Wusun, site of Yuan Almaliq, and seat of the Qing General of Ili who governed all of Xinjiang from 1762 onward.",
+      "descJa": "天山北路のイリ河谷の沃野に位置する。漢代には烏孫国の遊牧地であった。唐代には北庭都護府および濛池都護府、昆陵都護府に属した。元代にはチャガタイ・ハン国のアルマリクの要衝であった。清の乾隆27年（1762年）、恵遠城にイリ等処将軍が置かれ、天山南北とバルハシ湖以東の軍政を統轄した。",
+      "tagJa": "天山北路・伊犁将軍の駐屯地"
     },
     {
       "modern": "乌鲁木齐",
@@ -15992,10 +19799,12 @@ window.ATLAS_LORE_DATA = {
         87.62,
         43.82
       ],
-      "tagZh": "天山北麓 · 新疆首府",
+      "tagZh": "天山北麓・新疆の首府",
       "tagEn": "Northern Tianshan Hub · Capital of Xinjiang",
-      "descZh": "古称轮台（唐北庭轮台县）、迪化，居天山博格达峰北麓与准噶尔盆地南缘通道。唐代于乌拉泊筑轮台城征丝路商税（岑参“轮台东门送君去”即此），清乾隆二十八年筑迪化城，光绪十年（1884年）新疆建省定为省会。",
-      "descEn": "Guarding the pass between Bogda Peak and the Dzungarian Basin, Urumqi encompasses Tang-era Luntai (celebrated in Cen Shen's frontier poetry) and Qing Dihua, becoming provincial capital when Xinjiang Province was established in 1884."
+      "descZh": "古くは輪臺（唐代の北庭輪臺県）、迪化と呼ばれ、天山ボグダ峰北麓とジュンガル盆地南縁の通路に位置する。唐代にはウラ泊に輪臺城が築かれ、シルクロードの商税が徴収された（岑参の詩「輪臺東門送君去」はこの地を指す）。清の乾隆28年（1763年）に迪化城が築かれ、光緒10年（1884年）に新疆省が設置されると省都と定められた。",
+      "descEn": "Guarding the pass between Bogda Peak and the Dzungarian Basin, Urumqi encompasses Tang-era Luntai (celebrated in Cen Shen's frontier poetry) and Qing Dihua, becoming provincial capital when Xinjiang Province was established in 1884.",
+      "descJa": "古くは輪臺（唐代の北庭輪臺県）、迪化と呼ばれ、天山ボグダ峰北麓とジュンガル盆地南縁の通路に位置する。唐代にはウラ泊に輪臺城が築かれ、シルクロードの商税が徴収された（岑参の詩「輪臺東門送君去」はこの地を指す）。清の乾隆28年（1763年）に迪化城が築かれ、光緒10年（1884年）に新疆省が設置されると省都と定められた。",
+      "tagJa": "天山北麓・新疆の首府"
     },
     {
       "modern": "贵阳",
@@ -16003,10 +19812,12 @@ window.ATLAS_LORE_DATA = {
         106.63,
         26.65
       ],
-      "tagZh": "黔中腹心 · 西南驿道枢纽",
+      "tagZh": "黔中（貴州中部）の要衝・西南の駅道枢軸",
       "tagEn": "Central Guizhou Hub · Crossroads of Yunnan–Guizhou",
-      "descZh": "古称顺元城、贵阳府，居云贵高原东斜坡苗岭中段，扼湘黔、川黔、滇黔驿道十字中心。元置顺元路宣抚司，明永乐十一年（1413年）设贵州承宣布政使司治此（王阳明贬龙场驿悟道、讲学文明书院即在贵阳），自此为贵州省会。",
-      "descEn": "At the crossroads of imperial post roads across the Yunnan–Guizhou Plateau, Guiyang became provincial capital when Guizhou Province was established in 1413 CE, and was where Wang Yangming attained his philosophical realization at Longchang."
+      "descZh": "古くは順元城、貴陽府と呼ばれ、雲貴高原東斜面の苗嶺中段に位置し、湘黔、川黔、滇黔の各駅道の交差点の中心を扼する要衝である。元代には順元路宣撫司が置かれ、明の永楽11年（1413年）に貴州承宣布政使司が設置されてその治所となり（王陽明が龍場駅に左遷され悟りを開き、文明書院で講学したのも貴陽である）、以後、貴州省の省会となった。",
+      "descEn": "At the crossroads of imperial post roads across the Yunnan–Guizhou Plateau, Guiyang became provincial capital when Guizhou Province was established in 1413 CE, and was where Wang Yangming attained his philosophical realization at Longchang.",
+      "descJa": "古くは順元城、貴陽府と呼ばれ、雲貴高原東斜面の苗嶺中段に位置し、湘黔、川黔、滇黔の各駅道の交差点の中心を扼する要衝である。元代には順元路宣撫司が置かれ、明の永楽11年（1413年）に貴州承宣布政使司が設置されてその治所となり（王陽明が龍場駅に左遷され悟りを開き、文明書院で講学したのも貴陽である）、以後、貴州省の省会となった。",
+      "tagJa": "黔中（貴州中部）の要衝・西南の駅道枢軸"
     },
     {
       "modern": "遵义",
@@ -16014,10 +19825,12 @@ window.ATLAS_LORE_DATA = {
         106.93,
         27.72
       ],
-      "tagZh": "娄山锁钥 · 播州故都",
+      "tagZh": "婁山の要衝・播州の旧都",
       "tagEn": "Loushan Pass Citadel · Historic Seat of Bozhou",
-      "descZh": "古称播州，北扼大娄山娄山关、南临乌江天险，控川黔通道咽喉。唐贞观十三年置播州，自晚唐乾符三年杨端入播至明万历二十八年（1600年）平播改土归流置遵义府，杨氏世守播州七百余年（海龙屯遗址所在）；1935年遵义会议召开于此。",
-      "descEn": "Guarding Loushan Pass between the Wujiang River and Sichuan, Bozhou (Zunyi) was ruled for over seven centuries by the hereditary Yang chieftains centered on Hailongtun Fortress before becoming Zunyi Prefecture in 1600 CE."
+      "descZh": "古くは播州と呼ばれ、北は大婁山の婁山関を扼し、南は烏江の天険に臨み、川黔（四川・貴州）間の通路の要衝を抑える。唐の貞観13年（639年）に播州が置かれ、晩唐の乾符3年（876年）に楊端が播州に入って以来、明の万暦28年（1600年）に播州が平定され、改土帰流によって遵義府が置かれるまで、楊氏が700年以上にわたり播州を世襲統治した（海龍屯遺跡はこの地にある）。1935年には遵義会議がここで開催された。",
+      "descEn": "Guarding Loushan Pass between the Wujiang River and Sichuan, Bozhou (Zunyi) was ruled for over seven centuries by the hereditary Yang chieftains centered on Hailongtun Fortress before becoming Zunyi Prefecture in 1600 CE.",
+      "descJa": "古くは播州と呼ばれ、北は大婁山の婁山関を扼し、南は烏江の天険に臨み、川黔（四川・貴州）間の通路の要衝を抑える。唐の貞観13年（639年）に播州が置かれ、晩唐の乾符3年（876年）に楊端が播州に入って以来、明の万暦28年（1600年）に播州が平定され、改土帰流によって遵義府が置かれるまで、楊氏が700年以上にわたり播州を世襲統治した（海龍屯遺跡はこの地にある）。1935年には遵義会議がここで開催された。",
+      "tagJa": "婁山の要衝・播州の旧都"
     },
     {
       "modern": "南宁",
@@ -16025,10 +19838,12 @@ window.ATLAS_LORE_DATA = {
         108.37,
         22.82
       ],
-      "tagZh": "邕江枢纽 · 岭南西南重镇",
+      "tagZh": "邕江の枢要 · 嶺南西南の要衝",
       "tagEn": "Yong River Basin · Frontier Hub of Southern Guangxi",
-      "descZh": "古称晋兴、邕州、南宁路，居左江与右江汇合后之邕江河谷盆地，南控十万大山与交趾通道、东接珠江水系。东晋大兴元年置晋兴郡，唐设邕管经略使治邕州，北宋狄青夜夺昆仑关平侬智高，元泰定元年取“南疆安宁”改称南宁。",
-      "descEn": "Situated in the Yong River basin below the confluence of the Zuo and You rivers, Yongzhou (Nanning) was the Tang military command for the southwestern frontier, site of Di Qing's 1053 victory at Kunlun Pass, and modern capital of Guangxi."
+      "descZh": "古くは晋興、邕州、南寧路と呼ばれ、左江と右江が合流した後の邕江河谷盆地に位置し、南は十万大山と交趾への通路を抑え、東は珠江水系に接する。東晋の大興元年（318年）に晋興郡が置かれ、唐代には邕管経略使が置かれ邕州を治め、北宋の狄青は夜間に崑崙関を奪取して儂智高を平定した。元の泰定元年（1324年）に「南疆安寧」の意から南寧と改称された。",
+      "descEn": "Situated in the Yong River basin below the confluence of the Zuo and You rivers, Yongzhou (Nanning) was the Tang military command for the southwestern frontier, site of Di Qing's 1053 victory at Kunlun Pass, and modern capital of Guangxi.",
+      "descJa": "古くは晋興、邕州、南寧路と呼ばれ、左江と右江が合流した後の邕江河谷盆地に位置し、南は十万大山と交趾への通路を抑え、東は珠江水系に接する。東晋の大興元年（318年）に晋興郡が置かれ、唐代には邕管経略使が置かれ邕州を治め、北宋の狄青は夜間に崑崙関を奪取して儂智高を平定した。元の泰定元年（1324年）に「南疆安寧」の意から南寧と改称された。",
+      "tagJa": "邕江の枢要 · 嶺南西南の要衝"
     },
     {
       "modern": "海口",
@@ -16036,10 +19851,12 @@ window.ATLAS_LORE_DATA = {
         110.33,
         20.03
       ],
-      "tagZh": "琼州门户 · 海南首府",
+      "tagZh": "瓊州の門戸 · 海南の首府",
       "tagEn": "Qiongzhou Strait Port · Historic Seat of Qiongzhou",
-      "descZh": "辖境琼山古称琼州、琼州府，北临琼州海峡与雷州半岛隔海相望，南控南渡江入海口（海口浦）。唐贞观五年置琼州，宋元明清千余年皆为海南全岛军政与文教中心（五公祠及丘濬、海瑞故里）。",
-      "descEn": "Facing the Qiongzhou Strait at the mouth of the Nandu River, Qiongzhou (Haikou) served from the Tang through the Qing dynasties as the administrative and cultural capital of Hainan Island, hometown of Ming statesmen Qiu Jun and Hai Rui."
+      "descZh": "瓊山を管轄する地域は古くは瓊州、瓊州府と称された。北は瓊州海峡を隔てて雷州半島と向かい合い、南は南渡江の河口（海口浦）を扼する。唐の貞観五年（631年）に瓊州が置かれ、宋・元・明・清の千余年にわたり、海南島全島の軍事・行政・文教の中心地であった（五公祠や丘濬、海瑞の故里）。",
+      "descEn": "Facing the Qiongzhou Strait at the mouth of the Nandu River, Qiongzhou (Haikou) served from the Tang through the Qing dynasties as the administrative and cultural capital of Hainan Island, hometown of Ming statesmen Qiu Jun and Hai Rui.",
+      "descJa": "瓊山を管轄する地域は古くは瓊州、瓊州府と称された。北は瓊州海峡を隔てて雷州半島と向かい合い、南は南渡江の河口（海口浦）を扼する。唐の貞観五年（631年）に瓊州が置かれ、宋・元・明・清の千余年にわたり、海南島全島の軍事・行政・文教の中心地であった（五公祠や丘濬、海瑞の故里）。",
+      "tagJa": "瓊州の門戸 · 海南の首府"
     },
     {
       "modern": "台北",
@@ -16047,10 +19864,12 @@ window.ATLAS_LORE_DATA = {
         121.56,
         25.03
       ],
-      "tagZh": "淡水河枢纽 · 宝岛首府",
+      "tagZh": "淡水河の枢要 · 宝島の首府",
       "tagEn": "Tamsui River Basin · Capital of Taiwan",
-      "descZh": "古称艋舺、大稻埕、台北府，居台湾岛北端台北盆地，控淡水河与基隆河交汇入海通道。清光绪元年（1875年）沈葆桢奏设台北府，光绪十一年台湾建省后刘铭传驻节台北兴筑铁路、近代市政；1945年于台北公会堂接受日本投降，台湾光复。",
-      "descEn": "In the Taipei Basin along the Tamsui River in northern Taiwan, Taipei Prefecture was established in 1875 and modernized under first provincial governor Liu Mingchuan after Taiwan became a province in 1885."
+      "descZh": "古くは艋舺、大稻埕、台北府と称された。台湾島北端の台北盆地に位置し、淡水河と基隆河が合流して海に至る水路を扼する。清の光緒元年（1875年）、沈葆楨が上奏して台北府が設置され、光緒十一年（1885年）に台湾が省として設置された後、劉銘傳が台北に駐在し、鉄道や近代的な市政を整備した。1945年、台北公会堂で日本の降伏を受け入れ、台湾は光復した。",
+      "descEn": "In the Taipei Basin along the Tamsui River in northern Taiwan, Taipei Prefecture was established in 1875 and modernized under first provincial governor Liu Mingchuan after Taiwan became a province in 1885.",
+      "descJa": "古くは艋舺、大稻埕、台北府と称された。台湾島北端の台北盆地に位置し、淡水河と基隆河が合流して海に至る水路を扼する。清の光緒元年（1875年）、沈葆楨が上奏して台北府が設置され、光緒十一年（1885年）に台湾が省として設置された後、劉銘傳が台北に駐在し、鉄道や近代的な市政を整備した。1945年、台北公会堂で日本の降伏を受け入れ、台湾は光復した。",
+      "tagJa": "淡水河の枢要 · 宝島の首府"
     },
     {
       "modern": "台南",
@@ -16058,10 +19877,12 @@ window.ATLAS_LORE_DATA = {
         120.2,
         23
       ],
-      "tagZh": "鹿耳门锁钥 · 全台首府",
+      "tagZh": "鹿耳門の鎖鑰 · 全台の首府",
       "tagEn": "Lu'ermen Harbor · Historic Capital of Taiwan",
-      "descZh": "古称大员、赤嵌、东都承天府、台湾府，居台湾西南海岸平原。台湾古籍三国吴称夷洲、隋唐宋称流求、元称瑠求、明称小琉球与东番；1624年荷兰人据大员筑热兰遮城，“台湾”之名遂由大员音转扩指全岛。1661年郑成功自鹿耳门登陆驱荷复台，置东都承天府（郑经改称东宁）；清康熙二十二年（1683年）施琅平台，次年设台湾府隶福建省，统辖全岛二百余年，号“全台首府”。",
-      "descEn": "Historically known as Tayouan, Chikan, Chengtian Fu, and Taiwan Fu on Taiwan's southwestern coastal plain. Recorded as Yizhou under Eastern Wu, Liuqiu from Sui through Yuan, and Xiaoliuqiu or Dongfan under the Ming, the island took the name 'Taiwan' from Tayouan, where the Dutch built Fort Zeelandia in 1624. Koxinga landed at Lu'ermen in 1661 to expel the Dutch and found Chengtian Prefecture (Dongdu, later Dongning); after Shi Lang secured the island in 1683, the Qing established Taiwan Prefecture here in 1684 under Fujian Province for over two centuries."
+      "descZh": "古くは台南は大員、赤嵌、東都承天府、台湾府と称された。台湾西南の海岸平野に位置する。台湾は古くは三国時代の呉では夷洲と呼ばれ、隋・唐・宋では流求、元では瑠求、明では小琉球や東番と称された。1624年、オランダ人が大員を占拠し、熱蘭遮城を築いたことで、「台湾」の名は大員が転訛して島全体を指すようになった。1661年、鄭成功が鹿耳門から上陸してオランダ人を駆逐し、台湾を回復、東都承天府を設置した（鄭経が東寧と改称）。清の康熙二十二年（1683年）、施琅が台湾を平定し、翌年、福建省に属する台湾府を設置し、二百年余りにわたり全島を統轄し、「全台首府」と称された。",
+      "descEn": "Historically known as Tayouan, Chikan, Chengtian Fu, and Taiwan Fu on Taiwan's southwestern coastal plain. Recorded as Yizhou under Eastern Wu, Liuqiu from Sui through Yuan, and Xiaoliuqiu or Dongfan under the Ming, the island took the name 'Taiwan' from Tayouan, where the Dutch built Fort Zeelandia in 1624. Koxinga landed at Lu'ermen in 1661 to expel the Dutch and found Chengtian Prefecture (Dongdu, later Dongning); after Shi Lang secured the island in 1683, the Qing established Taiwan Prefecture here in 1684 under Fujian Province for over two centuries.",
+      "descJa": "古くは台南は大員、赤嵌、東都承天府、台湾府と称された。台湾西南の海岸平野に位置する。台湾は古くは三国時代の呉では夷洲と呼ばれ、隋・唐・宋では流求、元では瑠求、明では小琉球や東番と称された。1624年、オランダ人が大員を占拠し、熱蘭遮城を築いたことで、「台湾」の名は大員が転訛して島全体を指すようになった。1661年、鄭成功が鹿耳門から上陸してオランダ人を駆逐し、台湾を回復、東都承天府を設置した（鄭経が東寧と改称）。清の康熙二十二年（1683年）、施琅が台湾を平定し、翌年、福建省に属する台湾府を設置し、二百年余りにわたり全島を統轄し、「全台首府」と称された。",
+      "tagJa": "鹿耳門の鎖鑰 · 全台の首府"
     },
     {
       "modern": "上海",
@@ -16069,10 +19890,12 @@ window.ATLAS_LORE_DATA = {
         121.47,
         31.23
       ],
-      "tagZh": "江海通津 · 远东第一都会",
+      "tagZh": "長江と海の要衝・極東随一の国際都市",
       "tagEn": "Mouth of the Yangtze · Premier Modern Metropolis",
-      "descZh": "古属松江府（华亭），扼长江入海口与黄浦江、吴淞江交汇处。唐设华亭县，北宋置上海务，元至元二十八年（1291年）立上海县，明代黄道婆革新棉纺致“松江布衣被天下”，近代开埠后崛起为中国与远东最大工商业及金融航运都会。",
-      "descEn": "At the confluence of the Huangpu River and the Yangtze Estuary, Shanghai grew from Yuan-era Shanghai County and Ming Songjiang's cotton textile center into modern China's largest port, industrial, and financial metropolis."
+      "descZh": "古くは松江府（華亭）に属した。長江の河口と黄浦江、呉淞江の合流地点を扼する。唐代に華亭県が設置され、北宋に上海務が置かれ、元の至元二十八年（1291年）に上海県が設置された。明代には黄道婆が綿紡績を革新し、「松江の布が天下を覆う」と称され、近代に開港されて以降、中国と極東最大の商工業・金融・海運都市として台頭した。",
+      "descEn": "At the confluence of the Huangpu River and the Yangtze Estuary, Shanghai grew from Yuan-era Shanghai County and Ming Songjiang's cotton textile center into modern China's largest port, industrial, and financial metropolis.",
+      "descJa": "古くは松江府（華亭）に属した。長江の河口と黄浦江、呉淞江の合流地点を扼する。唐代に華亭県が設置され、北宋に上海務が置かれ、元の至元二十八年（1291年）に上海県が設置された。明代には黄道婆が綿紡績を革新し、「松江の布が天下を覆う」と称され、近代に開港されて以降、中国と極東最大の商工業・金融・海運都市として台頭した。",
+      "tagJa": "長江と海の要衝・極東随一の国際都市"
     },
     {
       "modern": "天津",
@@ -16080,10 +19903,12 @@ window.ATLAS_LORE_DATA = {
         117.2,
         39.13
       ],
-      "tagZh": "九河下梢 · 京畿海防门户",
+      "tagZh": "九河の河口・京畿の海防の要衝",
       "tagEn": "Hai River Estuary · Maritime Gateway to Beijing",
-      "descZh": "古称直沽寨、海津镇、天津卫，处南北大运河与海河五水汇流奔海之枢轴。金元为海运漕粮转输大港“直沽”，明永乐二年（1404年）成祖赐名“天津”（天子津渡）并筑天津卫城拱卫京师，清代及近代为北方第一通商大埠。",
-      "descEn": "Where the North and South Grand Canals meet the Hai River tributaries before entering the Bohai Sea, Zhigu was named Tianjin ('Ford of the Son of Heaven') by the Yongle Emperor in 1404 as the maritime shield of Beijing."
+      "descZh": "古くは直沽寨、海津鎮、天津衛と呼ばれた。京杭大運河と海河の五つの支流が合流し、海へ注ぐ要衝に位置する。金・元代には、海運による漕運米の輸送拠点である大港「直沽」として栄えた。明の永楽2年（1404年）、成祖は「天津」（天子の渡し）と命名し、京師を拱衛する天津衛城を築いた。清代および近代には、北方随一の通商港となった。",
+      "descEn": "Where the North and South Grand Canals meet the Hai River tributaries before entering the Bohai Sea, Zhigu was named Tianjin ('Ford of the Son of Heaven') by the Yongle Emperor in 1404 as the maritime shield of Beijing.",
+      "descJa": "古くは直沽寨、海津鎮、天津衛と呼ばれた。京杭大運河と海河の五つの支流が合流し、海へ注ぐ要衝に位置する。金・元代には、海運による漕運米の輸送拠点である大港「直沽」として栄えた。明の永楽2年（1404年）、成祖は「天津」（天子の渡し）と命名し、京師を拱衛する天津衛城を築いた。清代および近代には、北方随一の通商港となった。",
+      "tagJa": "九河の河口・京畿の海防の要衝"
     },
     {
       "modern": "西宁",
@@ -16091,10 +19916,12 @@ window.ATLAS_LORE_DATA = {
         101.78,
         36.62
       ],
-      "tagZh": "河湟锁钥 · 唐蕃古道咽喉",
+      "tagZh": "河湟の要衝・唐蕃古道の咽喉",
       "tagEn": "Huangshui Valley Hub · Gateway to the Tibetan Plateau",
-      "descZh": "古称临羌、西平郡、鄯州、青唐城，居湟水谷地，扼河西走廊、陇右与青藏高原交汇咽喉。西汉赵充国于此河湟屯田，十六国南凉建都西平，隋唐为陇右道重镇与唐蕃古道门户，北宋唃厮啰政权都青唐，崇宁三年收复改称西宁州。",
-      "descEn": "Commanding the Huangshui River valley between Longyou and the Tibetan Plateau, Xining (ancient Xiping / Shanzhou / Qingtang) was site of Zhao Chongguo's Han military colonies, capital of Southern Liang and Gusiluo, and hub of the Tang–Tubo Road."
+      "descZh": "古くは臨羌、西平郡、鄯州、青唐城と呼ばれた。湟水谷地に位置し、河西回廊、隴右、青蔵高原が交わる要衝を扼する。前漢の趙充国がこの地で河湟屯田を行い、五胡十六国時代には南涼が西平に都を置いた。隋・唐代には隴右道の重鎮、また唐蕃古道の玄関口となった。北宋時代には唃廝囉政権が青唐に都を置き、崇寧3年（1104年）に宋が奪還し、西寧州と改称した。",
+      "descEn": "Commanding the Huangshui River valley between Longyou and the Tibetan Plateau, Xining (ancient Xiping / Shanzhou / Qingtang) was site of Zhao Chongguo's Han military colonies, capital of Southern Liang and Gusiluo, and hub of the Tang–Tubo Road.",
+      "descJa": "古くは臨羌、西平郡、鄯州、青唐城と呼ばれた。湟水谷地に位置し、河西回廊、隴右、青蔵高原が交わる要衝を扼する。前漢の趙充国がこの地で河湟屯田を行い、五胡十六国時代には南涼が西平に都を置いた。隋・唐代には隴右道の重鎮、また唐蕃古道の玄関口となった。北宋時代には唃廝囉政権が青唐に都を置き、崇寧3年（1104年）に宋が奪還し、西寧州と改称した。",
+      "tagJa": "河湟の要衝・唐蕃古道の咽喉"
     },
     {
       "modern": "长春",
@@ -16102,10 +19929,12 @@ window.ATLAS_LORE_DATA = {
         125.32,
         43.88
       ],
-      "tagZh": "松辽腹心 · 吉林省会",
+      "tagZh": "松遼平原の中心・吉林省の省都",
       "tagEn": "Songliao Plain Hub · Capital of Jilin",
-      "descZh": "古属扶余国与辽金黄龙府南境，居松辽平原腹地伊通河畔。清嘉庆五年（1800年）设长春厅，光绪十五年升长春府，近代随中东铁路与南满铁路交汇迅速崛起；1954年由吉林市移省会于长春，为中国汽车工业与科教重镇。",
-      "descEn": "In the center of the Songliao Plain along the Yitong River, Changchun grew from a Qing frontier subprefecture established in 1800 and a major railway junction into the modern provincial capital of Jilin."
+      "descZh": "古くは夫余国、遼・金代には黄龍府の南境に属した。松遼平原の奥地、伊通河畔に位置する。清の嘉慶5年（1800年）に長春庁が設置され、光緒15年（1889年）には長春府に昇格した。近代には東清鉄道と南満州鉄道の交差点として急速に発展した。1954年には吉林市から長春に省都が移され、中国の自動車工業と科学教育の重要拠点となっている。",
+      "descEn": "In the center of the Songliao Plain along the Yitong River, Changchun grew from a Qing frontier subprefecture established in 1800 and a major railway junction into the modern provincial capital of Jilin.",
+      "descJa": "古くは夫余国、遼・金代には黄龍府の南境に属した。松遼平原の奥地、伊通河畔に位置する。清の嘉慶5年（1800年）に長春庁が設置され、光緒15年（1889年）には長春府に昇格した。近代には東清鉄道と南満州鉄道の交差点として急速に発展した。1954年には吉林市から長春に省都が移され、中国の自動車工業と科学教育の重要拠点となっている。",
+      "tagJa": "松遼平原の中心・吉林省の省都"
     },
     {
       "modern": "大连",
@@ -16113,10 +19942,12 @@ window.ATLAS_LORE_DATA = {
         121.62,
         38.91
       ],
-      "tagZh": "辽东极南 · 渤海咽喉",
+      "tagZh": "遼東半島の最南端、渤海の咽喉。",
       "tagEn": "Tip of Liaodong Peninsula · Bohai Strait Sentinel",
-      "descZh": "古称三山浦、青泥洼、旅顺口，居辽东半岛最南端，与山东蓬莱隔渤海海峡相望，共扼京津海上门户。唐代置乌骨、青泥浦为征高句丽水路要冲，明设金州卫与旅顺口水师，清代建旅顺北洋水师基地，今为北方重要国际航运中心。",
-      "descEn": "At the southern tip of the Liaodong Peninsula guarding the Bohai Strait opposite Shandong, Dalian and Lushun served as a Tang naval staging port, Ming Jinzhou Guard, and Qing Beiyang Fleet base."
+      "descZh": "古くは三山浦、青泥窪、旅順口と呼ばれた。遼東半島の最南端に位置し、山東省蓬莱と渤海海峡を挟んで向かい合い、共に京津の海上玄関口を扼する。唐代には烏骨、青泥浦が高句麗征討の水路の要衝とされた。明代には金州衛と旅順口水師が置かれ、清代には旅順に北洋水師基地が建設された。現在では北方における重要な国際海運の中心となっている。",
+      "descEn": "At the southern tip of the Liaodong Peninsula guarding the Bohai Strait opposite Shandong, Dalian and Lushun served as a Tang naval staging port, Ming Jinzhou Guard, and Qing Beiyang Fleet base.",
+      "descJa": "古くは三山浦、青泥窪、旅順口と呼ばれた。遼東半島の最南端に位置し、山東省蓬莱と渤海海峡を挟んで向かい合い、共に京津の海上玄関口を扼する。唐代には烏骨、青泥浦が高句麗征討の水路の要衝とされた。明代には金州衛と旅順口水師が置かれ、清代には旅順に北洋水師基地が建設された。現在では北方における重要な国際海運の中心となっている。",
+      "tagJa": "遼東半島の最南端、渤海の咽喉。"
     },
     {
       "modern": "厦门",
@@ -16124,10 +19955,12 @@ window.ATLAS_LORE_DATA = {
         118.09,
         24.48
       ],
-      "tagZh": "鹭岛海门 · 闽南通商大港",
+      "tagZh": "鷺島海門、閩南の通商大港。",
       "tagEn": "Egret Island Harbor · Southeastern Maritime Hub",
-      "descZh": "古称嘉禾屿、中左所，扼九龙江入海口与台湾海峡西岸要冲，与金门隔海相望。明洪武二十七年筑中左千户所城（属永宁卫），明末郑成功据思明州（厦门）训练水师并由此东征驱荷复台；清设福建水师提督驻节，近代列为五口通商口岸与经济特区。",
-      "descEn": "On an island harbor at the mouth of the Jiulong River facing the Taiwan Strait, Xiamen (Ming Zhongzuosuo) served as Zheng Chenggong's naval base for recovering Taiwan, seat of the Qing Fujian Naval Commander, and a modern Special Economic Zone."
+      "descZh": "古くは嘉禾嶼、中左所と称された。九龍江の河口と台湾海峡西岸の要衝を扼し、金門島と海を隔てて相対する。明の洪武二十七年（1394年）、中左千戸所城が築かれ（永寧衛に属した）、明末には鄭成功が思明州（廈門）を拠点に水師を訓練し、ここから東征してオランダ勢力を駆逐し台湾を回復した。清代には福建水師提督が駐屯し、近代には五口通商港の一つ、また経済特区に指定された。",
+      "descEn": "On an island harbor at the mouth of the Jiulong River facing the Taiwan Strait, Xiamen (Ming Zhongzuosuo) served as Zheng Chenggong's naval base for recovering Taiwan, seat of the Qing Fujian Naval Commander, and a modern Special Economic Zone.",
+      "descJa": "古くは嘉禾嶼、中左所と称された。九龍江の河口と台湾海峡西岸の要衝を扼し、金門島と海を隔てて相対する。明の洪武二十七年（1394年）、中左千戸所城が築かれ（永寧衛に属した）、明末には鄭成功が思明州（廈門）を拠点に水師を訓練し、ここから東征してオランダ勢力を駆逐し台湾を回復した。清代には福建水師提督が駐屯し、近代には五口通商港の一つ、また経済特区に指定された。",
+      "tagJa": "鷺島海門、閩南の通商大港。"
     },
     {
       "modern": "汕头",
@@ -16135,10 +19968,12 @@ window.ATLAS_LORE_DATA = {
         116.68,
         23.35
       ],
-      "tagZh": "韩江出海口 · 岭东门户",
+      "tagZh": "韓江の河口、嶺東の門戸。",
       "tagEn": "Han River Delta Port · Gateway of Eastern Guangdong",
-      "descZh": "古属潮州府揭阳、澄海境（沙汕头），居韩江、榕江、练江三江入海汇流处，南控南澳岛海防锁钥。元代称厦岭，明嘉靖间设沙汕头铳台，清康熙五十六年筑沙汕头炮台，咸丰十年开埠后成为潮汕百载商埠、华侨出入祖庭大港与经济特区。",
-      "descEn": "At the coastal confluence of the Han, Rong, and Lian rivers in eastern Guangdong, Shantou evolved from a Ming–Qing coastal artillery garrison under Chaozhou Prefecture into the primary treaty port and overseas Chinese gateway of Chaoshan."
+      "descZh": "古くは潮州府の掲陽、澄海県域（沙汕頭）に属した。韓江、榕江、練江の三江が合流し海に注ぐ地点に位置し、南には南澳島という海防の要衝を控える。元代には厦嶺と称され、明の嘉靖年間には沙汕頭銃台が設置された。清の康熙五十六年（1717年）には沙汕頭砲台が築かれ、咸豊十年（1860年）の開港後、潮汕地方の百年の商埠、華僑の出入りの拠点となる大港、そして経済特区となった。",
+      "descEn": "At the coastal confluence of the Han, Rong, and Lian rivers in eastern Guangdong, Shantou evolved from a Ming–Qing coastal artillery garrison under Chaozhou Prefecture into the primary treaty port and overseas Chinese gateway of Chaoshan.",
+      "descJa": "古くは潮州府の掲陽、澄海県域（沙汕頭）に属した。韓江、榕江、練江の三江が合流し海に注ぐ地点に位置し、南には南澳島という海防の要衝を控える。元代には厦嶺と称され、明の嘉靖年間には沙汕頭銃台が設置された。清の康熙五十六年（1717年）には沙汕頭砲台が築かれ、咸豊十年（1860年）の開港後、潮汕地方の百年の商埠、華僑の出入りの拠点となる大港、そして経済特区となった。",
+      "tagJa": "韓江の河口、嶺東の門戸。"
     },
     {
       "modern": "深圳",
@@ -16146,10 +19981,12 @@ window.ATLAS_LORE_DATA = {
         114.06,
         22.54
       ],
-      "tagZh": "南海前哨 · 改革开放窗口",
+      "tagZh": "南海の前哨、改革開放の窓口。",
       "tagEn": "Pearl River Estuary East Bank · Pioneer Special Economic Zone",
-      "descZh": "古属宝安、东莞、新安县，控珠江口东岸与大鹏湾海防门户。东晋咸和六年置宝安县（治南头城），唐设屯门军镇护卫广州外海航道，明置大鹏守御千户所与东莞守御千户所抗倭，万历元年析置新安县；1980年设立深圳经济特区，崛起为现代创新都会。",
-      "descEn": "Guarding the eastern bank of the Pearl River Estuary around ancient Nantou (Eastern Jin Bao'an County and Ming Xin'an County), Shenzhen transformed after 1980 from a historic coastal defense post into China's flagship Special Economic Zone."
+      "descZh": "古くは宝安、東莞、新安県に属し、珠江口東岸と大鵬湾の海防の門戸を扼する。東晋の咸和六年（331年）に宝安県が置かれ（県治は南頭城）、唐代には屯門軍鎮が設置され、広州の外海航路を護衛した。明代には大鵬守御千戸所と東莞守御千戸所が置かれ、倭寇に対抗した。万暦元年（1573年）には新安県が分離設置された。1980年に深圳経済特区が設立され、現代の革新的な大都市へと発展した。",
+      "descEn": "Guarding the eastern bank of the Pearl River Estuary around ancient Nantou (Eastern Jin Bao'an County and Ming Xin'an County), Shenzhen transformed after 1980 from a historic coastal defense post into China's flagship Special Economic Zone.",
+      "descJa": "古くは宝安、東莞、新安県に属し、珠江口東岸と大鵬湾の海防の門戸を扼する。東晋の咸和六年（331年）に宝安県が置かれ（県治は南頭城）、唐代には屯門軍鎮が設置され、広州の外海航路を護衛した。明代には大鵬守御千戸所と東莞守御千戸所が置かれ、倭寇に対抗した。万暦元年（1573年）には新安県が分離設置された。1980年に深圳経済特区が設立され、現代の革新的な大都市へと発展した。",
+      "tagJa": "南海の前哨、改革開放の窓口。"
     },
     {
       "modern": "珠海",
@@ -16157,10 +19994,12 @@ window.ATLAS_LORE_DATA = {
         113.58,
         22.27
       ],
-      "tagZh": "珠江口西岸 · 香山海门",
+      "tagZh": "珠江口西岸・香山海門",
       "tagEn": "West Bank of Lingdingyang · Gateway to Macao",
-      "descZh": "古属香山县（南宋绍兴二十二年置），居珠江口西岸、直面零丁洋，南与澳门陆路相连。南宋末文天祥被俘过零丁洋留下千古绝唱，宋少帝与陆秀夫曾驻跸香山梅蔚；近代唐家湾、翠亨村一带开中西文化风气之先，1980年设为经济特区。",
-      "descEn": "On the western shore of the Pearl River Estuary facing Lingdingyang — where Wen Tianxiang composed his immortal poem in 1279 — Zhuhai (historically part of Song–Qing Xiangshan County) adjoins Macao as a coastal Special Economic Zone."
+      "descZh": "古くは香山県（南宋の紹興二十二年（1152年）に設置）に属し、珠江口西岸に位置し、零丁洋に面する。南はマカオと陸路で繋がる。南宋末、文天祥は捕らえられ零丁洋を通過する際に千古の絶唱を残した。宋の少帝と陸秀夫も香山の梅蔚に駐跸した。近代には唐家湾、翠亨村一帯が中西文化交流の先駆けとなり、1980年に経済特区に指定された。",
+      "descEn": "On the western shore of the Pearl River Estuary facing Lingdingyang — where Wen Tianxiang composed his immortal poem in 1279 — Zhuhai (historically part of Song–Qing Xiangshan County) adjoins Macao as a coastal Special Economic Zone.",
+      "descJa": "古くは香山県（南宋の紹興二十二年（1152年）に設置）に属し、珠江口西岸に位置し、零丁洋に面する。南はマカオと陸路で繋がる。南宋末、文天祥は捕らえられ零丁洋を通過する際に千古の絶唱を残した。宋の少帝と陸秀夫も香山の梅蔚に駐跸した。近代には唐家湾、翠亨村一帯が中西文化交流の先駆けとなり、1980年に経済特区に指定された。",
+      "tagJa": "珠江口西岸・香山海門"
     },
     {
       "modern": "香港",
@@ -16168,10 +20007,12 @@ window.ATLAS_LORE_DATA = {
         114.17,
         22.32
       ],
-      "tagZh": "香江维港 · 东方之珠",
+      "tagZh": "香江ヴィクトリア港・東方の真珠",
       "tagEn": "Victoria Harbour · Global Financial & Shipping Hub",
-      "descZh": "古属番禺、宝安、东莞、新安县，拥维多利亚港深水良港，扼珠江口东侧与南海国际航道咽喉。唐代设屯门军镇护航广州海贸，南宋末端宗、少帝曾驻跸九龙官富场（今宋王臺）；1842年后沦为英占殖民地，1997年7月1日中国恢复行使主权，设香港特别行政区。",
-      "descEn": "Part of historic Bao'an and Xin'an counties at the eastern entrance to the Pearl River Estuary, Hong Kong sheltered the Tang Tuen Mun naval garrison and the fleeing Southern Song court before growing around Victoria Harbour and returning to China in 1997."
+      "descZh": "昔は番禺、宝安、東莞、新安の各県に属し、ヴィクトリア港という水深の深い良港を擁し、珠江口東側と南海国際航路の要衝を扼する。唐代には屯門軍鎮が置かれ、広州の海上貿易を護衛した。南宋末期には端宗、少帝が九龍の官富場（現在の宋王臺）に滞在した。1842年以降、イギリスの植民地となり、1997年7月1日、中国が主権を回復し、香港特別行政区が設置された。",
+      "descEn": "Part of historic Bao'an and Xin'an counties at the eastern entrance to the Pearl River Estuary, Hong Kong sheltered the Tang Tuen Mun naval garrison and the fleeing Southern Song court before growing around Victoria Harbour and returning to China in 1997.",
+      "descJa": "昔は番禺、宝安、東莞、新安の各県に属し、ヴィクトリア港という水深の深い良港を擁し、珠江口東側と南海国際航路の要衝を扼する。唐代には屯門軍鎮が置かれ、広州の海上貿易を護衛した。南宋末期には端宗、少帝が九龍の官富場（現在の宋王臺）に滞在した。1842年以降、イギリスの植民地となり、1997年7月1日、中国が主権を回復し、香港特別行政区が設置された。",
+      "tagJa": "香江ヴィクトリア港・東方の真珠"
     },
     {
       "modern": "澳门",
@@ -16179,10 +20020,12 @@ window.ATLAS_LORE_DATA = {
         113.54,
         22.19
       ],
-      "tagZh": "濠镜澳口 · 中西交汇门户",
+      "tagZh": "濠鏡澳口・東西交流の玄関口",
       "tagEn": "Haojing Peninsula · East–West Maritime Crossroads",
-      "descZh": "古称濠镜澳、香山澳，属广东香山县，居珠江口西侧半岛与离岛。明嘉靖三十二年（1553年）葡萄牙人借口舟触风浪曝晒水渍贡物入居濠镜，明清两代设海防同知、前山寨与关闸严加管辖，为16—18世纪中西海上贸易与西学东渐第一枢纽；1999年12月20日回归祖国。",
-      "descEn": "Historically Haojing'ao of Xiangshan County at the western mouth of the Pearl River, Macao became the earliest permanent hub of Sino-European maritime trade and cultural exchange under the Ming before returning to Chinese sovereignty in 1999."
+      "descZh": "昔は濠鏡澳、香山澳と呼ばれ、広東省香山県に属し、珠江口西側の半島と離島に位置する。明の嘉靖32年（1553年）、ポルトガル人が船が風浪に遭い貢物が水浸しになったと称して濠鏡に入居した。明清両代には海防同知、前山寨、関閘が置かれ厳しく管轄され、16世紀から18世紀にかけて東西海上貿易と西洋学術東漸の最初の拠点となった。1999年12月20日、祖国に復帰した。",
+      "descEn": "Historically Haojing'ao of Xiangshan County at the western mouth of the Pearl River, Macao became the earliest permanent hub of Sino-European maritime trade and cultural exchange under the Ming before returning to Chinese sovereignty in 1999.",
+      "descJa": "昔は濠鏡澳、香山澳と呼ばれ、広東省香山県に属し、珠江口西側の半島と離島に位置する。明の嘉靖32年（1553年）、ポルトガル人が船が風浪に遭い貢物が水浸しになったと称して濠鏡に入居した。明清両代には海防同知、前山寨、関閘が置かれ厳しく管轄され、16世紀から18世紀にかけて東西海上貿易と西洋学術東漸の最初の拠点となった。1999年12月20日、祖国に復帰した。",
+      "tagJa": "濠鏡澳口・東西交流の玄関口"
     }
   ],
   "PLACE_GAZETTEER": [
@@ -19373,7 +23216,7 @@ window.ATLAS_LORE_DATA = {
       "modern": "台湾台南",
       "coord": [
         120.21,
-        23.0
+        23
       ],
       "zoom": 2.4
     }
@@ -19383,7 +23226,7 @@ window.ATLAS_LORE_DATA = {
       "key": "mengzi",
       "zh": "孟子",
       "en": "Mencius",
-      "courtesyZh": "孟轲 · 亚圣 · 仁政民本",
+      "courtesyZh": "孟軻・亜聖・仁政民本",
       "courtesyEn": "Meng Ke, Second Sage of Confucianism",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19397,13 +23240,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "孟子"
-      ]
+      ],
+      "courtesyJa": "孟軻・亜聖・仁政民本"
     },
     {
       "key": "shangyang",
       "zh": "商鞅",
       "en": "Shang Yang",
-      "courtesyZh": "卫鞅 · 商君",
+      "courtesyZh": "衛鞅・商君",
       "courtesyEn": "Lord of Shang",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19413,18 +23257,20 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "卫鞅",
         "公孙鞅",
-        "商君"
+        "商君",
+        "公孫鞅"
       ],
       "tokens": [
         "商鞅",
         "卫鞅"
-      ]
+      ],
+      "courtesyJa": "衛鞅・商君"
     },
     {
       "key": "sunbin",
       "zh": "孙膑",
       "en": "Sun Bin",
-      "courtesyZh": "齐国军师 · 兵家代表",
+      "courtesyZh": "斉国の軍師・兵家の代表者",
       "courtesyEn": "Strategist of Qi",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19432,17 +23278,20 @@ window.ATLAS_LORE_DATA = {
         -316
       ],
       "aliases": [
-        "孙子兵法孙膑"
+        "孙子兵法孙膑",
+        "孫子兵法孫膑"
       ],
       "tokens": [
-        "孙膑"
-      ]
+        "孙膑",
+        "孫膑"
+      ],
+      "courtesyJa": "斉国の軍師・兵家の代表者"
     },
     {
       "key": "quyuan",
       "zh": "屈原",
       "en": "Qu Yuan",
-      "courtesyZh": "楚大夫 · 字灵均",
+      "courtesyZh": "楚の大夫。字は霊均。",
       "courtesyEn": "Patriot Poet of Chu",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19456,13 +23305,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "屈原"
-      ]
+      ],
+      "courtesyJa": "楚の大夫。字は霊均。"
     },
     {
       "key": "baiqi",
       "zh": "白起",
       "en": "Bai Qi",
-      "courtesyZh": "秦武安君 · 战国名将",
+      "courtesyZh": "秦の武安君。戦国時代の名将。",
       "courtesyEn": "Lord Wu'an of Qin",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19474,13 +23324,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "白起"
-      ]
+      ],
+      "courtesyJa": "秦の武安君。戦国時代の名将。"
     },
     {
       "key": "limu",
       "zh": "李牧",
       "en": "Li Mu",
-      "courtesyZh": "赵国名将 · 武安君",
+      "courtesyZh": "趙国の名将。武安君。",
       "courtesyEn": "General of Zhao",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19490,13 +23341,14 @@ window.ATLAS_LORE_DATA = {
       "aliases": [],
       "tokens": [
         "李牧"
-      ]
+      ],
+      "courtesyJa": "趙国の名将。武安君。"
     },
     {
       "key": "wangjian",
       "zh": "王翦",
       "en": "Wang Jian",
-      "courtesyZh": "秦灭六国主帅 · 武成侯",
+      "courtesyZh": "秦の六国平定の主帥。武成侯。",
       "courtesyEn": "Chief General of Qin",
       "dynastyKey": "zhanguo",
       "span": [
@@ -19506,13 +23358,14 @@ window.ATLAS_LORE_DATA = {
       "aliases": [],
       "tokens": [
         "王翦"
-      ]
+      ],
+      "courtesyJa": "秦の六国平定の主帥。武成侯。"
     },
     {
       "key": "qinshihuang",
       "zh": "秦始皇",
       "en": "Qin Shi Huang",
-      "courtesyZh": "嬴政 · 始皇帝",
+      "courtesyZh": "嬴政。始皇帝。",
       "courtesyEn": "First Emperor of China",
       "dynastyKey": "qin",
       "span": [
@@ -19532,13 +23385,14 @@ window.ATLAS_LORE_DATA = {
         "嬴政",
         "秦王政",
         "始皇"
-      ]
+      ],
+      "courtesyJa": "嬴政。始皇帝。"
     },
     {
       "key": "mengtian",
       "zh": "蒙恬",
       "en": "Meng Tian",
-      "courtesyZh": "秦大将 · 威振匈奴",
+      "courtesyZh": "秦の大将。匈奴に威を振るった。",
       "courtesyEn": "General of Qin",
       "dynastyKey": "qin",
       "span": [
@@ -19548,13 +23402,14 @@ window.ATLAS_LORE_DATA = {
       "aliases": [],
       "tokens": [
         "蒙恬"
-      ]
+      ],
+      "courtesyJa": "秦の大将。匈奴に威を振るった。"
     },
     {
       "key": "xiangyu",
-      "zh": "项羽",
+      "zh": "項羽",
       "en": "Xiang Yu",
-      "courtesyZh": "西楚霸王 · 名籍字羽",
+      "courtesyZh": "西楚の覇王。名は籍、字は羽。",
       "courtesyEn": "Hegemon-King of Western Chu",
       "dynastyKey": "qin",
       "span": [
@@ -19564,17 +23419,28 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "项籍",
         "西楚霸王",
-        "霸王"
+        "霸王",
+        "項籍",
+        "西楚覇王",
+        "覇王"
       ],
       "tokens": [
-        "项羽"
-      ]
+        "项羽",
+        "項羽",
+        "西楚覇王",
+        "西楚霸王",
+        "覇王",
+        "霸王",
+        "破釜沈舟",
+        "項籍"
+      ],
+      "courtesyJa": "西楚の覇王。名は籍、字は羽。"
     },
     {
       "key": "liubang",
-      "zh": "刘邦",
+      "zh": "劉邦",
       "en": "Liu Bang",
-      "courtesyZh": "汉高祖 · 字季",
+      "courtesyZh": "漢の高祖。字は季。",
       "courtesyEn": "Emperor Gaozu of Han",
       "dynastyKey": "xihan",
       "span": [
@@ -19585,17 +23451,28 @@ window.ATLAS_LORE_DATA = {
         "汉高祖",
         "汉高帝",
         "沛公",
-        "汉王刘邦"
+        "汉王刘邦",
+        "漢高祖",
+        "漢高帝",
+        "漢王劉邦",
+        "高祖"
       ],
       "tokens": [
-        "刘邦"
-      ]
+        "刘邦",
+        "劉邦",
+        "漢高祖",
+        "漢高帝",
+        "沛公",
+        "漢王劉邦",
+        "高祖"
+      ],
+      "courtesyJa": "漢の高祖。字は季。"
     },
     {
       "key": "hanxin",
       "zh": "韩信",
       "en": "Han Xin",
-      "courtesyZh": "淮阴侯 · 汉初兵仙",
+      "courtesyZh": "淮陰侯・漢の大将軍。天下無双の「兵仙」と称され、暗度陳倉・背水之陣・十面埋伏を指揮。",
       "courtesyEn": "Marquis of Huaiyin",
       "dynastyKey": "xihan",
       "span": [
@@ -19606,14 +23483,17 @@ window.ATLAS_LORE_DATA = {
         "淮阴侯"
       ],
       "tokens": [
-        "韩信"
-      ]
+        "韩信",
+        "韓信"
+      ],
+      "courtesyJa": "淮陰侯・漢の大将軍。天下無双の「兵仙」と称され、暗度陳倉・背水之陣・十面埋伏を指揮。",
+      "journeyKey": "hanxin"
     },
     {
       "key": "zhangliang",
-      "zh": "张良",
+      "zh": "張良",
       "en": "Zhang Liang",
-      "courtesyZh": "留侯 · 字子房",
+      "courtesyZh": "留侯。字は子房。",
       "courtesyEn": "Marquis of Liu",
       "dynastyKey": "xihan",
       "span": [
@@ -19623,17 +23503,23 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "子房",
         "留侯",
-        "张子房"
+        "张子房",
+        "張子房"
       ],
       "tokens": [
-        "张良"
-      ]
+        "张良",
+        "張良",
+        "子房",
+        "留侯",
+        "張子房"
+      ],
+      "courtesyJa": "留侯。字は子房。"
     },
     {
       "key": "hanwendi",
-      "zh": "汉文帝",
+      "zh": "漢文帝",
       "en": "Emperor Wen of Han",
-      "courtesyZh": "刘恒 · 文景之治",
+      "courtesyZh": "劉恒。文景の治を築いた。",
       "courtesyEn": "Liu Heng",
       "dynastyKey": "xihan",
       "span": [
@@ -19642,19 +23528,27 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "刘恒",
-        "孝文帝刘恒"
+        "孝文帝刘恒",
+        "劉恒",
+        "孝文帝劉恒",
+        "孝文帝"
       ],
       "tokens": [
         "汉文帝",
         "文景之治",
-        "平诸吕"
-      ]
+        "平诸吕",
+        "漢文帝",
+        "諸呂平定",
+        "劉恒",
+        "平諸吕"
+      ],
+      "courtesyJa": "劉恒。文景の治を築いた。"
     },
     {
       "key": "hanwudi",
-      "zh": "汉武帝",
+      "zh": "漢武帝",
       "en": "Emperor Wu of Han",
-      "courtesyZh": "刘彻 · 雄才大略",
+      "courtesyZh": "劉徹。雄才大略の君主。",
       "courtesyEn": "Liu Che",
       "dynastyKey": "xihan",
       "span": [
@@ -19664,7 +23558,10 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "刘彻",
         "汉世宗",
-        "刘彘"
+        "刘彘",
+        "劉徹",
+        "漢世宗",
+        "劉彘"
       ],
       "tokens": [
         "汉武帝",
@@ -19672,14 +23569,21 @@ window.ATLAS_LORE_DATA = {
         "马邑之谋",
         "河西四郡",
         "平南越",
-        "朝鲜四郡"
-      ]
+        "朝鲜四郡",
+        "漢武帝",
+        "劉徹",
+        "馬邑之謀",
+        "南越平定",
+        "朝鮮四郡",
+        "馬邑之谋"
+      ],
+      "courtesyJa": "劉徹。雄才大略の君主。"
     },
     {
       "key": "zhangqian",
       "zh": "张骞",
       "en": "Zhang Qian",
-      "courtesyZh": "博望侯 · 凿空西域",
+      "courtesyZh": "博望侯。西域を鑿空した。",
       "courtesyEn": "Marquis of Bowang",
       "dynastyKey": "xihan",
       "span": [
@@ -19689,17 +23593,20 @@ window.ATLAS_LORE_DATA = {
       "journeyKey": "zhangqian",
       "aliases": [
         "博望侯",
-        "张子文"
+        "张子文",
+        "張子文"
       ],
       "tokens": [
-        "张骞"
-      ]
+        "张骞",
+        "張骞"
+      ],
+      "courtesyJa": "博望侯。西域を鑿空した。"
     },
     {
       "key": "weiqing",
       "zh": "卫青",
       "en": "Wei Qing",
-      "courtesyZh": "大司马大将军 · 字仲卿",
+      "courtesyZh": "大司馬大将軍。字は仲卿。",
       "courtesyEn": "Grand General of Han",
       "dynastyKey": "xihan",
       "span": [
@@ -19712,13 +23619,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "卫青"
-      ]
+      ],
+      "courtesyJa": "大司馬大将軍。字は仲卿。"
     },
     {
       "key": "huoqubing",
       "zh": "霍去病",
       "en": "Huo Qubing",
-      "courtesyZh": "冠军侯 · 大司马骠骑将军",
+      "courtesyZh": "大司馬驃騎将軍・冠軍侯。十九歳で河西回廊を平定し、二十一歳でゴビ砂漠を越えて狼居胥山に祭天の礼（封狼居胥）を行った前漢の天才騎兵将軍。",
       "courtesyEn": "Marquis Guanjun",
       "dynastyKey": "xihan",
       "span": [
@@ -19730,14 +23638,19 @@ window.ATLAS_LORE_DATA = {
         "骠骑将军"
       ],
       "tokens": [
-        "霍去病"
-      ]
+        "霍去病",
+        "封狼居胥",
+        "冠軍侯",
+        "祁連山"
+      ],
+      "courtesyJa": "大司馬驃騎将軍・冠軍侯。十九歳で河西回廊を平定し、二十一歳でゴビ砂漠を越えて狼居胥山に祭天の礼（封狼居胥）を行った前漢の天才騎兵将軍。",
+      "journeyKey": "huoqubing"
     },
     {
       "key": "simaqian",
-      "zh": "司马迁",
+      "zh": "司馬遷",
       "en": "Sima Qian",
-      "courtesyZh": "太史公 · 字子长",
+      "courtesyZh": "太史公。字は子長。",
       "courtesyEn": "Grand Historian",
       "dynastyKey": "xihan",
       "span": [
@@ -19747,17 +23660,25 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "子长",
         "太史公",
-        "司马子长"
+        "司马子长",
+        "子長",
+        "司馬子長",
+        "司馬子长"
       ],
       "tokens": [
-        "司马迁"
-      ]
+        "司马迁",
+        "司馬遷",
+        "子長",
+        "太史公",
+        "司馬子長"
+      ],
+      "courtesyJa": "太史公。字は子長。"
     },
     {
       "key": "wangmang",
       "zh": "王莽",
       "en": "Wang Mang",
-      "courtesyZh": "新朝皇帝 · 字巨君",
+      "courtesyZh": "新朝の皇帝。字は巨君。",
       "courtesyEn": "Founder of Xin Dynasty",
       "dynastyKey": "xihan",
       "span": [
@@ -19770,13 +23691,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "王莽",
         "新莽"
-      ]
+      ],
+      "courtesyJa": "新朝の皇帝。字は巨君。"
     },
     {
       "key": "liuxiu",
       "zh": "刘秀",
       "en": "Liu Xiu",
-      "courtesyZh": "汉光武帝 · 字文叔",
+      "courtesyZh": "漢の光武帝。字は文叔。",
       "courtesyEn": "Emperor Guangwu of Han",
       "dynastyKey": "donghan",
       "span": [
@@ -19787,18 +23709,22 @@ window.ATLAS_LORE_DATA = {
         "汉光武帝",
         "光武帝",
         "刘文叔",
-        "萧王"
+        "萧王",
+        "漢光武帝",
+        "劉文叔"
       ],
       "tokens": [
         "刘秀",
-        "光武"
-      ]
+        "光武",
+        "劉秀"
+      ],
+      "courtesyJa": "漢の光武帝。字は文叔。"
     },
     {
       "key": "banchao",
       "zh": "班超",
       "en": "Ban Chao",
-      "courtesyZh": "定远侯 · 字仲升",
+      "courtesyZh": "定遠侯。字は仲升。",
       "courtesyEn": "Protector-General of Western Regions",
       "dynastyKey": "donghan",
       "span": [
@@ -19811,13 +23737,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "班超"
-      ]
+      ],
+      "courtesyJa": "定遠侯。字は仲升。"
     },
     {
       "key": "caocao",
       "zh": "曹操",
       "en": "Cao Cao",
-      "courtesyZh": "魏武帝 · 字孟德",
+      "courtesyZh": "魏の武帝。字は孟徳。",
       "courtesyEn": "King Wu of Wei",
       "dynastyKey": "donghan",
       "span": [
@@ -19830,17 +23757,20 @@ window.ATLAS_LORE_DATA = {
         "曹孟德",
         "阿瞒",
         "曹阿瞒",
-        "曹公"
+        "曹公",
+        "孟徳",
+        "曹孟徳"
       ],
       "tokens": [
         "曹操"
-      ]
+      ],
+      "courtesyJa": "魏の武帝。字は孟徳。"
     },
     {
       "key": "liubei",
-      "zh": "刘备",
+      "zh": "劉備",
       "en": "Liu Bei",
-      "courtesyZh": "汉昭烈帝 · 字玄德",
+      "courtesyZh": "漢の昭烈帝。字は玄徳。",
       "courtesyEn": "Emperor Zhaolie of Shu Han",
       "dynastyKey": "sanguo",
       "span": [
@@ -19852,18 +23782,31 @@ window.ATLAS_LORE_DATA = {
         "刘玄德",
         "汉昭烈帝",
         "昭烈帝",
-        "先主"
+        "先主",
+        "玄徳",
+        "劉玄徳",
+        "漢昭烈帝",
+        "劉備玄徳"
       ],
       "tokens": [
         "刘备",
-        "三顾茅庐"
-      ]
+        "三顾茅庐",
+        "劉備",
+        "玄徳",
+        "劉玄徳",
+        "漢昭烈帝",
+        "昭烈帝",
+        "先主",
+        "三顧茅廬",
+        "三顧の礼"
+      ],
+      "courtesyJa": "漢の昭烈帝。字は玄徳。"
     },
     {
       "key": "sunquan",
-      "zh": "孙权",
+      "zh": "孫権",
       "en": "Sun Quan",
-      "courtesyZh": "吴大帝 · 字仲谋",
+      "courtesyZh": "呉の大帝。字は仲謀。",
       "courtesyEn": "Emperor Da of Eastern Wu",
       "dynastyKey": "sanguo",
       "span": [
@@ -19873,18 +23816,32 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "仲谋",
         "孙仲谋",
-        "吴大帝"
+        "吴大帝",
+        "仲謀",
+        "孫仲謀",
+        "呉大帝",
+        "吳大帝",
+        "孫仲谋"
       ],
       "tokens": [
         "孙权",
-        "孙刘联军"
-      ]
+        "孙刘联军",
+        "孫権",
+        "孫權",
+        "孫劉連軍",
+        "孫劉聯軍",
+        "仲謀",
+        "孫仲謀",
+        "呉大帝",
+        "孫劉联军"
+      ],
+      "courtesyJa": "呉の大帝。字は仲謀。"
     },
     {
       "key": "zhugeliang",
       "zh": "诸葛亮",
       "en": "Zhuge Liang",
-      "courtesyZh": "武乡侯 · 字孔明 · 卧龙",
+      "courtesyZh": "武郷侯。字は孔明。臥龍。",
       "courtesyEn": "Kongming, Chancellor of Shu",
       "dynastyKey": "sanguo",
       "span": [
@@ -19898,17 +23855,21 @@ window.ATLAS_LORE_DATA = {
         "卧龙",
         "武侯",
         "诸葛武侯",
-        "Kongming"
+        "Kongming",
+        "諸葛孔明",
+        "諸葛武侯"
       ],
       "tokens": [
-        "诸葛亮"
-      ]
+        "诸葛亮",
+        "諸葛亮"
+      ],
+      "courtesyJa": "武郷侯。字は孔明。臥龍。"
     },
     {
       "key": "guanyu",
-      "zh": "关羽",
+      "zh": "関羽",
       "en": "Guan Yu",
-      "courtesyZh": "汉寿亭侯 · 字云长",
+      "courtesyZh": "漢寿亭侯。字は雲長。",
       "courtesyEn": "General of Shu Han",
       "dynastyKey": "sanguo",
       "span": [
@@ -19920,17 +23881,34 @@ window.ATLAS_LORE_DATA = {
         "关云长",
         "关公",
         "美髯公",
-        "武圣"
+        "武圣",
+        "雲長",
+        "関雲長",
+        "關雲長",
+        "関公",
+        "關公",
+        "武聖",
+        "關云长"
       ],
       "tokens": [
-        "关羽"
-      ]
+        "关羽",
+        "関羽",
+        "關羽",
+        "雲長",
+        "関雲長",
+        "關雲長",
+        "関公",
+        "關公",
+        "美髯公",
+        "武聖"
+      ],
+      "courtesyJa": "漢寿亭侯。字は雲長。"
     },
     {
       "key": "zhouyu",
       "zh": "周瑜",
       "en": "Zhou Yu",
-      "courtesyZh": "东吴大都督 · 字公瑾",
+      "courtesyZh": "呉の大都督。字は公瑾。",
       "courtesyEn": "Grand Commander of Eastern Wu",
       "dynastyKey": "donghan",
       "span": [
@@ -19944,13 +23922,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "周瑜"
-      ]
+      ],
+      "courtesyJa": "呉の大都督。字は公瑾。"
     },
     {
       "key": "luxun",
       "zh": "陆逊",
       "en": "Lu Xun",
-      "courtesyZh": "东吴丞相 · 字伯言",
+      "courtesyZh": "呉の丞相。字は伯言。",
       "courtesyEn": "Chancellor of Eastern Wu",
       "dynastyKey": "sanguo",
       "span": [
@@ -19959,17 +23938,21 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "陆伯言",
-        "陆议"
+        "陆议",
+        "陸伯言",
+        "陸议"
       ],
       "tokens": [
-        "陆逊"
-      ]
+        "陆逊",
+        "陸逊"
+      ],
+      "courtesyJa": "呉の丞相。字は伯言。"
     },
     {
       "key": "simayi",
-      "zh": "司马懿",
+      "zh": "司馬懿",
       "en": "Sima Yi",
-      "courtesyZh": "晋宣帝 · 字仲达",
+      "courtesyZh": "晋の宣帝。字は仲達。",
       "courtesyEn": "Regent of Cao Wei",
       "dynastyKey": "sanguo",
       "span": [
@@ -19979,18 +23962,26 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "仲达",
         "司马仲达",
-        "晋宣帝"
+        "晋宣帝",
+        "仲達",
+        "司馬仲達",
+        "晉宣帝",
+        "司馬仲达"
       ],
       "tokens": [
         "司马懿",
-        "五丈原"
-      ]
+        "五丈原",
+        "司馬懿",
+        "仲達",
+        "司馬仲達"
+      ],
+      "courtesyJa": "晋の宣帝。字は仲達。"
     },
     {
       "key": "wangxizhi",
       "zh": "王羲之",
       "en": "Wang Xizhi",
-      "courtesyZh": "书圣 · 字逸少 · 王右军",
+      "courtesyZh": "書聖。字は逸少。王右軍とも称された。",
       "courtesyEn": "Sage of Calligraphy",
       "dynastyKey": "dongjin",
       "span": [
@@ -20005,13 +23996,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "王羲之",
         "兰亭"
-      ]
+      ],
+      "courtesyJa": "書聖。字は逸少。王右軍とも称された。"
     },
     {
       "key": "xiean",
       "zh": "谢安",
       "en": "Xie An",
-      "courtesyZh": "东晋太傅 · 字安石",
+      "courtesyZh": "東晋の太傅。字は安石。",
       "courtesyEn": "Chancellor of Eastern Jin",
       "dynastyKey": "dongjin",
       "span": [
@@ -20026,13 +24018,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "谢安",
         "淝水之战"
-      ]
+      ],
+      "courtesyJa": "東晋の太傅。字は安石。"
     },
     {
       "key": "taoyuanming",
       "zh": "陶渊明",
       "en": "Tao Yuanming",
-      "courtesyZh": "靖节先生 · 字元亮 · 五柳先生",
+      "courtesyZh": "靖節先生。字は元亮。五柳先生とも称された。",
       "courtesyEn": "Master of Five Willows",
       "dynastyKey": "dongjin",
       "span": [
@@ -20047,14 +24040,15 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "陶渊明"
-      ]
+      ],
+      "courtesyJa": "靖節先生。字は元亮。五柳先生とも称された。"
     },
     {
       "key": "liuyu",
-      "zh": "刘裕",
+      "zh": "劉裕",
       "en": "Liu Yu",
-      "courtesyZh": "南朝宋武帝 · 寄奴",
-      "courtesyEn": "Emperor Wu of Liu Song",
+      "courtesyZh": "南朝宋の高祖武帝。幼名は寄奴。北府軍を率いて南燕・後蜀・後秦を滅ぼし、洛陽・長安を奪還。「金戈鉄馬、気呑万里如虎」と称された南朝随一の英雄。",
+      "courtesyEn": "Emperor Wu of Liu Song, Great Northern Expedition Commander",
       "dynastyKey": "nanbei",
       "span": [
         363,
@@ -20063,17 +24057,26 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "宋武帝",
         "寄奴",
-        "刘寄奴"
+        "刘寄奴",
+        "劉寄奴",
+        "宋高祖",
+        "徳輿"
       ],
       "tokens": [
-        "刘裕"
-      ]
+        "刘裕",
+        "劉裕",
+        "宋武帝",
+        "却月陣",
+        "気呑万里"
+      ],
+      "courtesyJa": "南朝宋の高祖武帝。幼名は寄奴。北府軍を率いて南燕・後蜀・後秦を滅ぼし、洛陽・長安を奪還。「金戈鉄馬、気呑万里如虎」と称された南朝随一の英雄。",
+      "journeyKey": "liuyu"
     },
     {
       "key": "xiaowendi",
       "zh": "北魏孝文帝",
       "en": "Emperor Xiaowen of Northern Wei",
-      "courtesyZh": "拓跋宏（元宏） · 汉化改革",
+      "courtesyZh": "拓跋宏（元宏）。漢化政策を推進した。",
       "courtesyEn": "Tuoba Hong / Yuan Hong",
       "dynastyKey": "nanbei",
       "span": [
@@ -20088,13 +24091,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "孝文帝",
         "拓跋宏"
-      ]
+      ],
+      "courtesyJa": "拓跋宏（元宏）。漢化政策を推進した。"
     },
     {
       "key": "yangjian",
       "zh": "杨坚",
       "en": "Emperor Wen of Sui",
-      "courtesyZh": "隋文帝 · 开皇之治",
+      "courtesyZh": "隋の文帝。開皇の治を敷いた。",
       "courtesyEn": "Yang Jian",
       "dynastyKey": "sui",
       "span": [
@@ -20108,14 +24112,16 @@ window.ATLAS_LORE_DATA = {
         "杨坚",
         "隋灭陈",
         "开皇",
-        "启民可汗"
-      ]
+        "启民可汗",
+        "楊堅"
+      ],
+      "courtesyJa": "隋の文帝。開皇の治を敷いた。"
     },
     {
       "key": "yangguang",
       "zh": "隋炀帝",
       "en": "Emperor Yang of Sui",
-      "courtesyZh": "杨广 · 开凿大运河",
+      "courtesyZh": "楊広。大運河を開鑿した。",
       "courtesyEn": "Yang Guang",
       "dynastyKey": "sui",
       "span": [
@@ -20124,19 +24130,24 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "杨广",
-        "晋王广"
+        "晋王广",
+        "楊廣",
+        "晉王廣"
       ],
       "tokens": [
         "隋炀帝",
         "杨广",
-        "通济渠"
-      ]
+        "通济渠",
+        "隋煬帝",
+        "楊廣"
+      ],
+      "courtesyJa": "楊広。大運河を開鑿した。"
     },
     {
       "key": "lishimin",
       "zh": "唐太宗",
       "en": "Emperor Taizong of Tang",
-      "courtesyZh": "李世民 · 贞观之治 · 天可汗",
+      "courtesyZh": "李世民。貞観の治を敷き、天可汗と称された。",
       "courtesyEn": "Li Shimin",
       "dynastyKey": "tang",
       "span": [
@@ -20153,13 +24164,14 @@ window.ATLAS_LORE_DATA = {
         "太宗",
         "贞观之治",
         "安西都护府"
-      ]
+      ],
+      "courtesyJa": "李世民。貞観の治を敷き、天可汗と称された。"
     },
     {
       "key": "lijing",
       "zh": "李靖",
       "en": "Li Jing",
-      "courtesyZh": "卫国公 · 字药师 · 大唐军神",
+      "courtesyZh": "衛国公。字は薬師。三千騎で厳冬の定襄・陰山を夜襲して東突厥を滅ぼし、六十五歳で黄河源流・青海まで吐谷渾を遠征平定した「大唐の軍神」。",
       "courtesyEn": "Duke of Wei",
       "dynastyKey": "tang",
       "span": [
@@ -20171,14 +24183,18 @@ window.ATLAS_LORE_DATA = {
         "卫国公"
       ],
       "tokens": [
-        "李靖"
-      ]
+        "李靖",
+        "衛国公",
+        "李薬師"
+      ],
+      "courtesyJa": "衛国公。字は薬師。三千騎で厳冬の定襄・陰山を夜襲して東突厥を滅ぼし、六十五歳で黄河源流・青海まで吐谷渾を遠征平定した「大唐の軍神」。",
+      "journeyKey": "lijing"
     },
     {
       "key": "xuanzang",
       "zh": "玄奘",
       "en": "Xuanzang",
-      "courtesyZh": "三藏法师 · 西行求法",
+      "courtesyZh": "三蔵法師。西域へ赴き求法した。",
       "courtesyEn": "Master Tripitaka",
       "dynastyKey": "tang",
       "span": [
@@ -20194,13 +24210,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "玄奘"
-      ]
+      ],
+      "courtesyJa": "三蔵法師。西域へ赴き求法した。"
     },
     {
       "key": "wuzetian",
       "zh": "武则天",
       "en": "Wu Zetian",
-      "courtesyZh": "武曌 · 则天大圣皇帝",
+      "courtesyZh": "武曌。則天大聖皇帝として君臨した。",
       "courtesyEn": "Empress Regnant of Zhou",
       "dynastyKey": "tang",
       "span": [
@@ -20210,18 +24227,21 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "武曌",
         "武后",
-        "则天皇帝"
+        "则天皇帝",
+        "則天皇帝"
       ],
       "tokens": [
         "武则天",
-        "武周"
-      ]
+        "武周",
+        "武則天"
+      ],
+      "courtesyJa": "武曌。則天大聖皇帝として君臨した。"
     },
     {
       "key": "tangxuanzong",
       "zh": "唐玄宗",
       "en": "Emperor Xuanzong of Tang",
-      "courtesyZh": "李隆基 · 唐明皇 · 开元盛世",
+      "courtesyZh": "李隆基。唐の明皇として開元の盛世を築いた。",
       "courtesyEn": "Li Longji",
       "dynastyKey": "tang",
       "span": [
@@ -20237,13 +24257,14 @@ window.ATLAS_LORE_DATA = {
         "唐玄宗",
         "李隆基",
         "开元盛世"
-      ]
+      ],
+      "courtesyJa": "李隆基。唐の明皇として開元の盛世を築いた。"
     },
     {
       "key": "wangwei",
       "zh": "王维",
       "en": "Wang Wei",
-      "courtesyZh": "诗佛 · 字摩诘 · 尚书右丞",
+      "courtesyZh": "詩仏。字は摩詰。尚書右丞を務めた。",
       "courtesyEn": "Poet Buddha",
       "dynastyKey": "tang",
       "span": [
@@ -20258,13 +24279,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "王维"
-      ]
+      ],
+      "courtesyJa": "詩仏。字は摩詰。尚書右丞を務めた。"
     },
     {
       "key": "libai",
       "zh": "李白",
       "en": "Li Bai",
-      "courtesyZh": "诗仙 · 字太白 · 青莲居士",
+      "courtesyZh": "詩仙。字は太白、青蓮居士と号す。",
       "courtesyEn": "Poet Immortal",
       "dynastyKey": "tang",
       "span": [
@@ -20283,13 +24305,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "李白"
-      ]
+      ],
+      "courtesyJa": "詩仙。字は太白、青蓮居士と号す。"
     },
     {
       "key": "dufu",
       "zh": "杜甫",
       "en": "Du Fu",
-      "courtesyZh": "诗圣 · 字子美 · 少陵野老",
+      "courtesyZh": "詩聖。字は子美、少陵野老と号す。",
       "courtesyEn": "Poet Sage",
       "dynastyKey": "tang",
       "span": [
@@ -20308,13 +24331,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "杜甫"
-      ]
+      ],
+      "courtesyJa": "詩聖。字は子美、少陵野老と号す。"
     },
     {
       "key": "gaoshi",
       "zh": "高适",
       "en": "Gao Shi",
-      "courtesyZh": "字达夫 · 渤海县侯 · 边塞诗派代表",
+      "courtesyZh": "字は達夫。渤海県侯に封じられ、辺塞詩派の代表とされる。",
       "courtesyEn": "Frontier Poet & Military Governor",
       "dynastyKey": "tang",
       "span": [
@@ -20328,13 +24352,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "高适"
-      ]
+      ],
+      "courtesyJa": "字は達夫。渤海県侯に封じられ、辺塞詩派の代表とされる。"
     },
     {
       "key": "guoziyi",
       "zh": "郭子仪",
       "en": "Guo Ziyi",
-      "courtesyZh": "汾阳郡王 · 再造唐室",
+      "courtesyZh": "汾陽郡王。唐室を再造した功績で知られる。",
       "courtesyEn": "Prince of Fenyang",
       "dynastyKey": "tang",
       "span": [
@@ -20347,13 +24372,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "郭子仪"
-      ]
+      ],
+      "courtesyJa": "汾陽郡王。唐室を再造した功績で知られる。"
     },
     {
       "key": "yanzhenqing",
       "zh": "颜真卿",
       "en": "Yan Zhenqing",
-      "courtesyZh": "颜鲁公 · 字清臣 · 书法宗师",
+      "courtesyZh": "顏魯公。字は清臣。書法の宗師。",
       "courtesyEn": "Duke of Lu",
       "dynastyKey": "tang",
       "span": [
@@ -20367,13 +24393,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "颜真卿"
-      ]
+      ],
+      "courtesyJa": "顏魯公。字は清臣。書法の宗師。"
     },
     {
       "key": "hanyu",
       "zh": "韩愈",
       "en": "Han Yu",
-      "courtesyZh": "韩昌黎 · 字退之 · 唐宋八大家之首",
+      "courtesyZh": "韓昌黎。字は退之。唐宋八大家の筆頭。",
       "courtesyEn": "Master Changli",
       "dynastyKey": "tang",
       "span": [
@@ -20384,17 +24411,22 @@ window.ATLAS_LORE_DATA = {
         "退之",
         "韩退之",
         "韩昌黎",
-        "韩文公"
+        "韩文公",
+        "韓退之",
+        "韓昌黎",
+        "韓文公"
       ],
       "tokens": [
-        "韩愈"
-      ]
+        "韩愈",
+        "韓愈"
+      ],
+      "courtesyJa": "韓昌黎。字は退之。唐宋八大家の筆頭。"
     },
     {
       "key": "baijuyi",
       "zh": "白居易",
       "en": "Bai Juyi",
-      "courtesyZh": "诗魔 · 字乐天 · 香山居士",
+      "courtesyZh": "詩魔。字は楽天、香山居士と号す。",
       "courtesyEn": "Layman of Fragrant Mountain",
       "dynastyKey": "tang",
       "span": [
@@ -20409,13 +24441,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "白居易"
-      ]
+      ],
+      "courtesyJa": "詩魔。字は楽天、香山居士と号す。"
     },
     {
       "key": "liuzongyuan",
       "zh": "柳宗元",
       "en": "Liu Zongyuan",
-      "courtesyZh": "柳河东 · 柳柳州 · 字子厚",
+      "courtesyZh": "柳河東、柳柳州とも称される。字は子厚。",
       "courtesyEn": "Master Hedong",
       "dynastyKey": "tang",
       "span": [
@@ -20430,13 +24463,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "柳宗元"
-      ]
+      ],
+      "courtesyJa": "柳河東、柳柳州とも称される。字は子厚。"
     },
     {
       "key": "liuyuxi",
       "zh": "刘禹锡",
       "en": "Liu Yuxi",
-      "courtesyZh": "诗豪 · 字梦得",
+      "courtesyZh": "詩豪。字は夢得。",
       "courtesyEn": "Poet Hero of Mid-Tang",
       "dynastyKey": "tang",
       "span": [
@@ -20446,17 +24480,20 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "梦得",
         "刘梦得",
-        "诗豪"
+        "诗豪",
+        "劉梦得"
       ],
       "tokens": [
-        "刘禹锡"
-      ]
+        "刘禹锡",
+        "劉禹锡"
+      ],
+      "courtesyJa": "詩豪。字は夢得。"
     },
     {
       "key": "zhaokuangyin",
-      "zh": "赵匡胤",
+      "zh": "趙匡胤",
       "en": "Emperor Taizu of Song",
-      "courtesyZh": "宋太祖 · 结束五代十国",
+      "courtesyZh": "宋太祖。五代十国を平定した。",
       "courtesyEn": "Zhao Kuangyin",
       "dynastyKey": "beisong",
       "span": [
@@ -20465,7 +24502,9 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "宋太祖",
-        "赵点检"
+        "赵点检",
+        "趙点検",
+        "趙点检"
       ],
       "tokens": [
         "赵匡胤",
@@ -20474,14 +24513,21 @@ window.ATLAS_LORE_DATA = {
         "平荆南",
         "灭后蜀",
         "灭南汉",
-        "灭南唐"
-      ]
+        "灭南唐",
+        "趙匡胤",
+        "陳橋兵変",
+        "杯酒釈兵権",
+        "宋太祖",
+        "杯酒释兵権",
+        "灭南漢"
+      ],
+      "courtesyJa": "宋太祖。五代十国を平定した。"
     },
     {
       "key": "fanzhongyan",
       "zh": "范仲淹",
       "en": "Fan Zhongyan",
-      "courtesyZh": "范文正公 · 字希文 · 先忧后乐",
+      "courtesyZh": "范文正公。字は希文。先憂後楽の精神を唱えた。",
       "courtesyEn": "Statesman & Writer of Song",
       "dynastyKey": "beisong",
       "span": [
@@ -20491,17 +24537,21 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "希文",
         "范希文",
-        "范文正公"
+        "范文正公",
+        "範希文",
+        "範文正公"
       ],
       "tokens": [
-        "范仲淹"
-      ]
+        "范仲淹",
+        "範仲淹"
+      ],
+      "courtesyJa": "范文正公。字は希文。先憂後楽の精神を唱えた。"
     },
     {
       "key": "ouyangxiu",
       "zh": "欧阳修",
       "en": "Ouyang Xiu",
-      "courtesyZh": "醉翁 · 六一居士 · 字永叔",
+      "courtesyZh": "酔翁、六一居士と号し、字は永叔。",
       "courtesyEn": "Old Drunkard & Historian",
       "dynastyKey": "beisong",
       "span": [
@@ -20516,13 +24566,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "欧阳修"
-      ]
+      ],
+      "courtesyJa": "酔翁、六一居士と号し、字は永叔。"
     },
     {
       "key": "wanganshi",
       "zh": "王安石",
       "en": "Wang Anshi",
-      "courtesyZh": "荆国公 · 字介甫 · 熙宁变法",
+      "courtesyZh": "荊国公。字は介甫。熙寧の変法を主導した。",
       "courtesyEn": "Chancellor & Reformer of Song",
       "dynastyKey": "beisong",
       "span": [
@@ -20538,13 +24589,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "王安石",
         "熙宁变法"
-      ]
+      ],
+      "courtesyJa": "荊国公。字は介甫。熙寧の変法を主導した。"
     },
     {
       "key": "simaguang",
       "zh": "司马光",
       "en": "Sima Guang",
-      "courtesyZh": "温国公 · 字君实 · 主编资治通鉴",
+      "courtesyZh": "温国公。字は君実。『資治通鑑』を主編した。",
       "courtesyEn": "Author of Zizhi Tongjian",
       "dynastyKey": "beisong",
       "span": [
@@ -20555,18 +24607,22 @@ window.ATLAS_LORE_DATA = {
         "君实",
         "司马君实",
         "涑水先生",
-        "司马温公"
+        "司马温公",
+        "司馬君实",
+        "司馬温公"
       ],
       "tokens": [
         "司马光",
-        "资治通鉴"
-      ]
+        "资治通鉴",
+        "司馬光"
+      ],
+      "courtesyJa": "温国公。字は君実。『資治通鑑』を主編した。"
     },
     {
       "key": "sushi",
       "zh": "苏轼",
       "en": "Su Shi",
-      "courtesyZh": "苏东坡 · 字子瞻 · 东坡居士",
+      "courtesyZh": "蘇東坡。字は子瞻。東坡居士と号した。",
       "courtesyEn": "Su Dongpo",
       "dynastyKey": "beisong",
       "span": [
@@ -20586,13 +24642,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "苏轼",
         "苏东坡"
-      ]
+      ],
+      "courtesyJa": "蘇東坡。字は子瞻。東坡居士と号した。"
     },
     {
       "key": "liqingzhao",
       "zh": "李清照",
       "en": "Li Qingzhao",
-      "courtesyZh": "易安居士 · 千古第一才女",
+      "courtesyZh": "易安居士。千古第一の才女。",
       "courtesyEn": "Master of Ci Poetry",
       "dynastyKey": "nansong",
       "span": [
@@ -20605,13 +24662,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "李清照"
-      ]
+      ],
+      "courtesyJa": "易安居士。千古第一の才女。"
     },
     {
       "key": "yuefei",
-      "zh": "岳飞",
+      "zh": "岳飛",
       "en": "Yue Fei",
-      "courtesyZh": "岳武穆 · 字鹏举 · 精忠报国",
+      "courtesyZh": "南宋の抗金名将。字は鵬挙、諡は武穆。「尽忠報国」を背に刻み、岳家軍を率いて四度北伐を敢行。郾城・朱仙鎮で金軍を大破し開封奪還目前まで迫った。",
       "courtesyEn": "Loyalist Marshal of Southern Song",
       "dynastyKey": "nansong",
       "span": [
@@ -20622,18 +24680,28 @@ window.ATLAS_LORE_DATA = {
         "鹏举",
         "岳鹏举",
         "岳武穆",
-        "岳王"
+        "岳王",
+        "岳鵬挙",
+        "鵬挙"
       ],
       "tokens": [
         "岳飞",
-        "风波亭"
-      ]
+        "风波亭",
+        "岳飛",
+        "精忠報国",
+        "岳武穆",
+        "岳鵬挙",
+        "朱仙鎮",
+        "郾城"
+      ],
+      "courtesyJa": "南宋の抗金名将。字は鵬挙、諡は武穆。「尽忠報国」を背に刻み、岳家軍を率いて四度北伐を敢行。郾城・朱仙鎮で金軍を大破し開封奪還目前まで迫った。",
+      "journeyKey": "yuefei"
     },
     {
       "key": "luyou",
-      "zh": "陆游",
+      "zh": "陸游",
       "en": "Lu You",
-      "courtesyZh": "放翁 · 字务观 · 爱国诗宗",
+      "courtesyZh": "陸游。号は放翁、字は務観。愛国詩人として知られる。",
       "courtesyEn": "Patriot Poet of Southern Song",
       "dynastyKey": "nansong",
       "span": [
@@ -20643,17 +24711,24 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "放翁",
         "陆放翁",
-        "陆务观"
+        "陆务观",
+        "務観",
+        "陸放翁",
+        "陸务观"
       ],
       "tokens": [
-        "陆游"
-      ]
+        "陆游",
+        "陸游",
+        "務観",
+        "放翁"
+      ],
+      "courtesyJa": "陸游。号は放翁、字は務観。愛国詩人として知られる。"
     },
     {
       "key": "xinqiji",
-      "zh": "辛弃疾",
+      "zh": "辛棄疾",
       "en": "Xin Qiji",
-      "courtesyZh": "稼轩居士 · 字幼安 · 词中之龙",
+      "courtesyZh": "辛棄疾。号は稼軒居士、字は幼安。詞の大家と称された。",
       "courtesyEn": "Jiaxuan, Warrior-Poet",
       "dynastyKey": "nansong",
       "span": [
@@ -20665,17 +24740,22 @@ window.ATLAS_LORE_DATA = {
         "辛稼轩",
         "幼安",
         "辛幼安",
-        "Jiaxuan"
+        "Jiaxuan",
+        "稼軒"
       ],
       "tokens": [
-        "辛弃疾"
-      ]
+        "辛弃疾",
+        "辛棄疾",
+        "幼安",
+        "稼軒"
+      ],
+      "courtesyJa": "辛棄疾。号は稼軒居士、字は幼安。詞の大家と称された。"
     },
     {
       "key": "wentianxiang",
       "zh": "文天祥",
       "en": "Wen Tianxiang",
-      "courtesyZh": "文山先生 · 字宋瑞 · 丹心照汗青",
+      "courtesyZh": "文天祥。号は文山先生、字は宋瑞。丹心汗青を照らすの言葉を残した。",
       "courtesyEn": "Grand Chancellor & Martyr of Song",
       "dynastyKey": "nansong",
       "span": [
@@ -20690,13 +24770,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "文天祥"
-      ]
+      ],
+      "courtesyJa": "文天祥。号は文山先生、字は宋瑞。丹心汗青を照らすの言葉を残した。"
     },
     {
       "key": "genghiskhan",
       "zh": "成吉思汗",
       "en": "Genghis Khan",
-      "courtesyZh": "铁木真 · 元太祖 · 统一蒙古",
+      "courtesyZh": "モンゴル帝国初代カアン（元太祖・テムジン）。モンゴル高原を統一し、金朝を野狐嶺に破って中都を陥落させ、中央アジアのホラズム・シャー朝および西夏を征服した。",
       "courtesyEn": "Temujin",
       "dynastyKey": "nansong",
       "span": [
@@ -20709,14 +24790,19 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "成吉思汗",
-        "铁木真"
-      ]
+        "铁木真",
+        "チンギス・カン",
+        "鉄木真",
+        "鐵木真"
+      ],
+      "courtesyJa": "モンゴル帝国初代カアン（元太祖・テムジン）。モンゴル高原を統一し、金朝を野狐嶺に破って中都を陥落させ、中央アジアのホラズム・シャー朝および西夏を征服した。",
+      "journeyKey": "genghiskhan"
     },
     {
       "key": "kublaikhan",
       "zh": "忽必烈",
       "en": "Kublai Khan",
-      "courtesyZh": "元世祖 · 创立行省一统全国",
+      "courtesyZh": "モンゴル帝国第5代カアン・大元ウルス初代皇帝（元世祖・クビライ）。チベット高原東縁を縦断して大理国を平定（革囊渡江）し、大都を建設、南宋を滅ぼして全土を統一した。",
       "courtesyEn": "Emperor Shizu of Yuan",
       "dynastyKey": "yuan",
       "span": [
@@ -20729,14 +24815,20 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "忽必烈",
         "崖山海战",
-        "京杭大运河全线贯通"
-      ]
+        "京杭大运河全线贯通",
+        "クビライ",
+        "元世祖",
+        "革囊渡江",
+        "崖山"
+      ],
+      "courtesyJa": "モンゴル帝国第5代カアン・大元ウルス初代皇帝（元世祖・クビライ）。チベット高原東縁を縦断して大理国を平定（革囊渡江）し、大都を建設、南宋を滅ぼして全土を統一した。",
+      "journeyKey": "kublaikhan"
     },
     {
       "key": "zhuyuanzhang",
       "zh": "朱元璋",
       "en": "Zhu Yuanzhang",
-      "courtesyZh": "明太祖 · 洪武皇帝 · 朱重八",
+      "courtesyZh": "明太祖。洪武帝。幼名は朱重八。",
       "courtesyEn": "Hongwu Emperor of Ming",
       "dynastyKey": "ming",
       "span": [
@@ -20752,13 +24844,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "朱元璋",
         "胡惟庸案"
-      ]
+      ],
+      "courtesyJa": "明太祖。洪武帝。幼名は朱重八。"
     },
     {
       "key": "zhudi",
       "zh": "朱棣",
       "en": "Zhu Di",
-      "courtesyZh": "明成祖 · 永乐大帝 · 燕王",
+      "courtesyZh": "明成祖。永楽帝。燕王であった。",
       "courtesyEn": "Yongle Emperor of Ming",
       "dynastyKey": "ming",
       "span": [
@@ -20776,13 +24869,14 @@ window.ATLAS_LORE_DATA = {
         "靖难",
         "永乐",
         "奴儿干都司"
-      ]
+      ],
+      "courtesyJa": "明成祖。永楽帝。燕王であった。"
     },
     {
       "key": "zhenghe",
       "zh": "郑和",
       "en": "Zheng He",
-      "courtesyZh": "三宝太监 · 七下西洋",
+      "courtesyZh": "鄭和（ていわ）、三宝太監として七度西洋に遠征した。",
       "courtesyEn": "Admiral of the Treasure Fleet",
       "dynastyKey": "ming",
       "span": [
@@ -20792,17 +24886,19 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "马三保",
         "三宝太监",
-        "三保太监"
+        "三保太监",
+        "馬三保"
       ],
       "tokens": [
         "郑和"
-      ]
+      ],
+      "courtesyJa": "鄭和（ていわ）、三宝太監として七度西洋に遠征した。"
     },
     {
       "key": "yuqian",
       "zh": "于谦",
       "en": "Yu Qian",
-      "courtesyZh": "于忠肃 · 字廷益 · 再造社稷",
+      "courtesyZh": "于謙（うけん）、字は廷益。忠肅公と諡され、土木の変で明朝の社稷を再建した。",
       "courtesyEn": "Minister of War of Ming",
       "dynastyKey": "ming",
       "span": [
@@ -20818,13 +24914,14 @@ window.ATLAS_LORE_DATA = {
         "于谦",
         "土木堡",
         "夺门之变"
-      ]
+      ],
+      "courtesyJa": "于謙（うけん）、字は廷益。忠肅公と諡され、土木の変で明朝の社稷を再建した。"
     },
     {
       "key": "wangyangming",
       "zh": "王阳明",
       "en": "Wang Yangming",
-      "courtesyZh": "王守仁 · 阳明心学宗师 · 知行合一",
+      "courtesyZh": "王陽明（おうようめい）、名は守仁。陽明心学の宗師であり、「知行合一」を提唱した。",
       "courtesyEn": "Master of Mind-Heart Neo-Confucianism",
       "dynastyKey": "ming",
       "span": [
@@ -20842,13 +24939,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "王阳明",
         "王守仁"
-      ]
+      ],
+      "courtesyJa": "王陽明（おうようめい）、名は守仁。陽明心学の宗師であり、「知行合一」を提唱した。"
     },
     {
       "key": "qijiguang",
       "zh": "戚继光",
       "en": "Qi Jiguang",
-      "courtesyZh": "戚武毅 · 字元敬 · 抗倭筑边名将",
+      "courtesyZh": "戚継光（せきけいこう）、字は元敬。武毅公と諡され、倭寇を撃退し、辺境防衛を強化した名将。",
       "courtesyEn": "Anti-Pirate & Great Wall General",
       "dynastyKey": "ming",
       "span": [
@@ -20861,13 +24959,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "戚继光"
-      ]
+      ],
+      "courtesyJa": "戚継光（せきけいこう）、字は元敬。武毅公と諡され、倭寇を撃退し、辺境防衛を強化した名将。"
     },
     {
       "key": "zhangjuzheng",
       "zh": "张居正",
       "en": "Zhang Juzheng",
-      "courtesyZh": "张太岳 · 字叔大 · 万历首辅",
+      "courtesyZh": "張居正（ちょうきょせい）、字は叔大。太岳先生とも称され、万暦帝の時代に首輔として改革を主導した。",
       "courtesyEn": "Grand Secretary & Reformer",
       "dynastyKey": "ming",
       "span": [
@@ -20877,18 +24976,23 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "张叔大",
         "张太岳",
-        "张江陵"
+        "张江陵",
+        "張叔大",
+        "張太岳",
+        "張江陵"
       ],
       "tokens": [
         "张居正",
-        "一条鞭法"
-      ]
+        "一条鞭法",
+        "張居正"
+      ],
+      "courtesyJa": "張居正（ちょうきょせい）、字は叔大。太岳先生とも称され、万暦帝の時代に首輔として改革を主導した。"
     },
     {
       "key": "zhengchenggong",
       "zh": "郑成功",
       "en": "Zheng Chenggong",
-      "courtesyZh": "延平王 · 国姓爷 · 收复台湾",
+      "courtesyZh": "鄭成功（ていせいこう）、延平王。国姓爺として知られ、台湾を奪還した。",
       "courtesyEn": "Koxinga, Prince of Yanping",
       "dynastyKey": "qing",
       "span": [
@@ -20903,13 +25007,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "郑成功"
-      ]
+      ],
+      "courtesyJa": "鄭成功（ていせいこう）、延平王。国姓爺として知られ、台湾を奪還した。"
     },
     {
       "key": "kangxi",
       "zh": "康熙帝",
       "en": "Kangxi Emperor",
-      "courtesyZh": "爱新觉罗·玄烨 · 清圣祖",
+      "courtesyZh": "康熙帝（こうきてい）、名は愛新覚羅・玄燁。清の聖祖として知られる。",
       "courtesyEn": "Xuanye, Emperor Shengzu of Qing",
       "dynastyKey": "qing",
       "span": [
@@ -20929,13 +25034,14 @@ window.ATLAS_LORE_DATA = {
         "尼布楚条约",
         "七世达赖",
         "西藏定局"
-      ]
+      ],
+      "courtesyJa": "康熙帝（こうきてい）、名は愛新覚羅・玄燁。清の聖祖として知られる。"
     },
     {
       "key": "linzexu",
       "zh": "林则徐",
       "en": "Lin Zexu",
-      "courtesyZh": "林文忠公 · 字元抚 · 虎门销烟",
+      "courtesyZh": "林則徐（りんそくじょ）、字は元撫。文忠公と諡され、虎門でアヘンを銷却した。",
       "courtesyEn": "Imperial Commissioner",
       "dynastyKey": "qing",
       "span": [
@@ -20949,14 +25055,16 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "林则徐",
-        "虎门"
-      ]
+        "虎门",
+        "林則徐"
+      ],
+      "courtesyJa": "林則徐（りんそくじょ）、字は元撫。文忠公と諡され、虎門でアヘンを銷却した。"
     },
     {
       "key": "zengguofan",
       "zh": "曾国藩",
       "en": "Zeng Guofan",
-      "courtesyZh": "曾文正公 · 字伯涵 · 湘军统帅",
+      "courtesyZh": "曾文正公、字は伯涵。湘軍の統帥。",
       "courtesyEn": "Statesman & Founder of Hunan Army",
       "dynastyKey": "qing",
       "span": [
@@ -20971,13 +25079,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "曾国藩",
         "天京陷落"
-      ]
+      ],
+      "courtesyJa": "曾文正公、字は伯涵。湘軍の統帥。"
     },
     {
       "key": "zuozongtang",
       "zh": "左宗棠",
       "en": "Zuo Zongtang",
-      "courtesyZh": "左文襄公 · 字季高 · 收复新疆",
+      "courtesyZh": "左文襄公、字は季高。新疆を回復した。",
       "courtesyEn": "Statesman & Recoverer of Xinjiang",
       "dynastyKey": "qing",
       "span": [
@@ -20991,13 +25100,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "左宗棠",
         "新疆建省"
-      ]
+      ],
+      "courtesyJa": "左文襄公、字は季高。新疆を回復した。"
     },
     {
       "key": "sunzhongshan",
       "zh": "孙中山",
       "en": "Sun Yat-sen",
-      "courtesyZh": "孙文 · 字逸仙 · 近代民主革命先行者",
+      "courtesyZh": "孫文、字は逸仙。近代民主革命の先駆者。",
       "courtesyEn": "Founder of the Republic of China",
       "dynastyKey": "roc",
       "span": [
@@ -21007,19 +25117,23 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "孙文",
         "孙逸仙",
-        "中山先生"
+        "中山先生",
+        "孫文",
+        "孫逸仙"
       ],
       "tokens": [
         "孙中山",
         "中华民国成立",
-        "黄埔军校"
-      ]
+        "黄埔军校",
+        "孫中山"
+      ],
+      "courtesyJa": "孫文、字は逸仙。近代民主革命の先駆者。"
     },
     {
       "key": "jiangjieshi",
       "zh": "蒋介石",
       "en": "Chiang Kai-shek",
-      "courtesyZh": "蒋中正 · 北伐与抗战统帅",
+      "courtesyZh": "蔣中正。北伐と抗戦の統帥。",
       "courtesyEn": "Chiang Chung-cheng",
       "dynastyKey": "roc",
       "span": [
@@ -21037,13 +25151,14 @@ window.ATLAS_LORE_DATA = {
         "西安事变",
         "重庆陪都",
         "渡江战役"
-      ]
+      ],
+      "courtesyJa": "蔣中正。北伐と抗戦の統帥。"
     },
     {
       "key": "maozedong",
       "zh": "毛泽东",
       "en": "Mao Zedong",
-      "courtesyZh": "字润之 · 中华人民共和国主要缔造者",
+      "courtesyZh": "字は潤之。中華人民共和国の主要な建国者。",
       "courtesyEn": "Founding Leader of the PRC",
       "dynastyKey": "prc",
       "span": [
@@ -21058,13 +25173,14 @@ window.ATLAS_LORE_DATA = {
         "毛泽东",
         "中国共产党第一次全国代表大会",
         "开国大典"
-      ]
+      ],
+      "courtesyJa": "字は潤之。中華人民共和国の主要な建国者。"
     },
     {
       "key": "dengxiaoping",
       "zh": "邓小平",
       "en": "Deng Xiaoping",
-      "courtesyZh": "改革开放总设计师",
+      "courtesyZh": "改革開放の総設計者。",
       "courtesyEn": "Architect of Reform & Opening-Up",
       "dynastyKey": "prc",
       "span": [
@@ -21079,13 +25195,14 @@ window.ATLAS_LORE_DATA = {
         "改革开放",
         "经济特区",
         "香港回归"
-      ]
+      ],
+      "courtesyJa": "改革開放の総設計者。"
     },
     {
       "key": "chensheng",
       "zh": "陈胜",
       "en": "Chen Sheng",
-      "courtesyZh": "张楚王 · 大泽乡首义",
+      "courtesyZh": "張楚王。大澤郷の蜂起を起こした。",
       "courtesyEn": "Leader of Dazexiang Uprising",
       "dynastyKey": "qin",
       "span": [
@@ -21094,18 +25211,20 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "陈涉",
-        "陈胜吴广"
+        "陈胜吴广",
+        "陈胜吴廣"
       ],
       "tokens": [
         "陈胜",
         "大泽乡"
-      ]
+      ],
+      "courtesyJa": "張楚王。大澤郷の蜂起を起こした。"
     },
     {
       "key": "lvbu",
       "zh": "吕布",
       "en": "Lü Bu",
-      "courtesyZh": "温侯 · 字奉先 · 汉末猛将",
+      "courtesyZh": "温侯、字は奉先。漢末の猛将。",
       "courtesyEn": "Fierce Warlord of Late Han",
       "dynastyKey": "donghan",
       "span": [
@@ -21120,13 +25239,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "吕布"
-      ]
+      ],
+      "courtesyJa": "温侯、字は奉先。漢末の猛将。"
     },
     {
       "key": "yuanshao",
       "zh": "袁绍",
       "en": "Yuan Shao",
-      "courtesyZh": "冀州牧 · 字本初 · 四世三公",
+      "courtesyZh": "冀州牧。字は本初。四世三公。",
       "courtesyEn": "Warlord of Northern China",
       "dynastyKey": "donghan",
       "span": [
@@ -21140,13 +25260,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "袁绍",
         "官渡之战"
-      ]
+      ],
+      "courtesyJa": "冀州牧。字は本初。四世三公。"
     },
     {
       "key": "zhangfei",
       "zh": "张飞",
       "en": "Zhang Fei",
-      "courtesyZh": "车骑将军 · 字益德",
+      "courtesyZh": "車騎将軍。字は益徳。",
       "courtesyEn": "General of Shu Han",
       "dynastyKey": "sanguo",
       "span": [
@@ -21155,17 +25276,21 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "张翼德",
-        "张益德"
+        "张益德",
+        "張翼徳",
+        "張益徳"
       ],
       "tokens": [
-        "张飞"
-      ]
+        "张飞",
+        "張飛"
+      ],
+      "courtesyJa": "車騎将軍。字は益徳。"
     },
     {
       "key": "zhaoyun",
       "zh": "赵云",
       "en": "Zhao Yun",
-      "courtesyZh": "顺平侯 · 字子龙 · 常山赵子龙",
+      "courtesyZh": "順平侯。字は子龍。常山趙子龍。",
       "courtesyEn": "General of Shu Han",
       "dynastyKey": "sanguo",
       "span": [
@@ -21174,17 +25299,20 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "赵子龙",
-        "子龙"
+        "子龙",
+        "趙子龙"
       ],
       "tokens": [
-        "赵云"
-      ]
+        "赵云",
+        "趙云"
+      ],
+      "courtesyJa": "順平侯。字は子龍。常山趙子龍。"
     },
     {
       "key": "jiangwei",
       "zh": "姜维",
       "en": "Jiang Wei",
-      "courtesyZh": "大将军 · 字伯约 · 九伐中原",
+      "courtesyZh": "大将軍。字は伯約。九伐中原。",
       "courtesyEn": "Supreme General of Late Shu Han",
       "dynastyKey": "sanguo",
       "span": [
@@ -21197,14 +25325,16 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "姜维",
         "剑阁",
-        "剑门关"
-      ]
+        "剑门关",
+        "剑门關"
+      ],
+      "courtesyJa": "大将軍。字は伯約。九伐中原。"
     },
     {
       "key": "dengai",
-      "zh": "邓艾",
+      "zh": "鄧艾",
       "en": "Deng Ai",
-      "courtesyZh": "太尉 · 字士载 · 偷渡阴平灭蜀",
+      "courtesyZh": "魏の太尉。字は士載。剣閣で膠着した戦局を打破すべく、人跡未踏の陰平山道七百里を踏破（陰平偷渡）し、綿竹・成都を奇襲して蜀漢を滅ぼした。",
       "courtesyEn": "Conqueror of Shu Han",
       "dynastyKey": "sanguo",
       "span": [
@@ -21216,14 +25346,19 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "邓艾",
-        "淮南屯田"
-      ]
+        "淮南屯田",
+        "鄧艾",
+        "陰平",
+        "綿竹"
+      ],
+      "courtesyJa": "魏の太尉。字は士載。剣閣で膠着した戦局を打破すべく、人跡未踏の陰平山道七百里を踏破（陰平偷渡）し、綿竹・成都を奇襲して蜀漢を滅ぼした。",
+      "journeyKey": "dengai"
     },
     {
       "key": "huanwen",
       "zh": "桓温",
       "en": "Huan Wen",
-      "courtesyZh": "东晋大司马 · 字元子 · 三次北伐",
+      "courtesyZh": "東晋大司馬。字は元子。三度北伐を行った。",
       "courtesyEn": "Grand Marshal of Eastern Jin",
       "dynastyKey": "dongjin",
       "span": [
@@ -21235,13 +25370,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "桓温"
-      ]
+      ],
+      "courtesyJa": "東晋大司馬。字は元子。三度北伐を行った。"
     },
     {
       "key": "fujian",
       "zh": "苻坚",
       "en": "Fu Jian",
-      "courtesyZh": "前秦世祖天王 · 统一北方",
+      "courtesyZh": "前秦世祖天王。北方を統一した。",
       "courtesyEn": "Heavenly King of Former Qin",
       "dynastyKey": "dongjin",
       "span": [
@@ -21249,17 +25385,20 @@ window.ATLAS_LORE_DATA = {
         385
       ],
       "aliases": [
-        "前秦苻坚"
+        "前秦苻坚",
+        "前秦苻堅"
       ],
       "tokens": [
-        "苻坚"
-      ]
+        "苻坚",
+        "苻堅"
+      ],
+      "courtesyJa": "前秦世祖天王。北方を統一した。"
     },
     {
       "key": "xiexuan",
       "zh": "谢玄",
       "en": "Xie Xuan",
-      "courtesyZh": "康乐公 · 北府兵统帅",
+      "courtesyZh": "康楽公。北府兵の統帥。",
       "courtesyEn": "Commander of Northern Garrison",
       "dynastyKey": "dongjin",
       "span": [
@@ -21272,13 +25411,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "谢玄",
         "北府兵"
-      ]
+      ],
+      "courtesyJa": "康楽公。北府兵の統帥。"
     },
     {
       "key": "anlushan",
       "zh": "安禄山",
       "en": "An Lushan",
-      "courtesyZh": "三镇节度使 · 燕帝",
+      "courtesyZh": "三鎮節度使、燕帝",
       "courtesyEn": "Instigator of An Lushan Rebellion",
       "dynastyKey": "tang",
       "span": [
@@ -21290,13 +25430,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "安禄山"
-      ]
+      ],
+      "courtesyJa": "三鎮節度使、燕帝"
     },
     {
       "key": "huangchao",
       "zh": "黄巢",
       "en": "Huang Chao",
-      "courtesyZh": "冲天大将军 · 大齐皇帝",
+      "courtesyZh": "冲天大将軍、大齊皇帝",
       "courtesyEn": "Leader of Late Tang Peasant War",
       "dynastyKey": "tang",
       "span": [
@@ -21308,13 +25449,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "黄巢"
-      ]
+      ],
+      "courtesyJa": "冲天大将軍、大齊皇帝"
     },
     {
       "key": "licunxu",
       "zh": "李存勖",
       "en": "Li Cunxu",
-      "courtesyZh": "后唐庄宗 · 灭梁建唐",
+      "courtesyZh": "後唐莊宗。梁を滅ぼし唐を建てる",
       "courtesyEn": "Emperor Zhuangzong of Later Tang",
       "dynastyKey": "wudai",
       "span": [
@@ -21328,13 +25470,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "李存勖",
         "后唐庄宗"
-      ]
+      ],
+      "courtesyJa": "後唐莊宗。梁を滅ぼし唐を建てる"
     },
     {
       "key": "chairong",
       "zh": "柴荣",
       "en": "Chai Rong",
-      "courtesyZh": "后周世宗 · 五代第一明君",
+      "courtesyZh": "後周世宗、五代第一の明君",
       "courtesyEn": "Emperor Shizong of Later Zhou",
       "dynastyKey": "wudai",
       "span": [
@@ -21350,13 +25493,14 @@ window.ATLAS_LORE_DATA = {
         "周世宗",
         "柴荣",
         "高平之战"
-      ]
+      ],
+      "courtesyJa": "後周世宗、五代第一の明君"
     },
     {
       "key": "liyu_nt",
       "zh": "李煜",
       "en": "Li Yu",
-      "courtesyZh": "南唐后主 · 词圣 · 字重光",
+      "courtesyZh": "南唐後主、詞聖。字は重光",
       "courtesyEn": "Last Ruler of Southern Tang & Poet",
       "dynastyKey": "wudai",
       "span": [
@@ -21371,13 +25515,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "李煜",
         "李后主"
-      ]
+      ],
+      "courtesyJa": "南唐後主、詞聖。字は重光"
     },
     {
       "key": "hanshizhong",
       "zh": "韩世忠",
       "en": "Han Shizhong",
-      "courtesyZh": "蕲王 · 字良臣 · 中兴四将",
+      "courtesyZh": "蘄王、字は良臣、中興四将",
       "courtesyEn": "Loyalist General of Southern Song",
       "dynastyKey": "nansong",
       "span": [
@@ -21386,17 +25531,21 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "韩良臣",
-        "韩蕲王"
+        "韩蕲王",
+        "韓良臣",
+        "韓蕲王"
       ],
       "tokens": [
-        "韩世忠"
-      ]
+        "韩世忠",
+        "韓世忠"
+      ],
+      "courtesyJa": "蘄王、字は良臣、中興四将"
     },
     {
       "key": "xuda",
       "zh": "徐达",
       "en": "Xu Da",
-      "courtesyZh": "中山王 · 字天德 · 开国第一功臣",
+      "courtesyZh": "中山王、字は天德。開国第一の功臣",
       "courtesyEn": "Chief Founding General of Ming",
       "dynastyKey": "ming",
       "span": [
@@ -21405,17 +25554,19 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "徐天德",
-        "中山王"
+        "中山王",
+        "徐天徳"
       ],
       "tokens": [
         "徐达"
-      ]
+      ],
+      "courtesyJa": "中山王、字は天德。開国第一の功臣"
     },
     {
       "key": "nurhaci",
       "zh": "努尔哈赤",
       "en": "Nurhaci",
-      "courtesyZh": "清太祖 · 建立后金八旗",
+      "courtesyZh": "清太祖。後金と八旗を建立",
       "courtesyEn": "Founder of Later Jin (Qing)",
       "dynastyKey": "ming",
       "span": [
@@ -21429,13 +25580,14 @@ window.ATLAS_LORE_DATA = {
         "努尔哈赤",
         "萨尔浒",
         "后金"
-      ]
+      ],
+      "courtesyJa": "清太祖。後金と八旗を建立"
     },
     {
       "key": "huangtaiji",
       "zh": "皇太极",
       "en": "Hong Taiji",
-      "courtesyZh": "清太宗 · 改国号大清",
+      "courtesyZh": "清太宗。国号を大清と改めた。",
       "courtesyEn": "Emperor Taizong of Qing",
       "dynastyKey": "ming",
       "span": [
@@ -21449,13 +25601,14 @@ window.ATLAS_LORE_DATA = {
         "皇太极",
         "盛京称帝",
         "松锦"
-      ]
+      ],
+      "courtesyJa": "清太宗。国号を大清と改めた。"
     },
     {
       "key": "lizicheng",
       "zh": "李自成",
       "en": "Li Zicheng",
-      "courtesyZh": "闯王 · 大顺皇帝",
+      "courtesyZh": "闖王。大順皇帝。",
       "courtesyEn": "Dashing King, Rebel Leader",
       "dynastyKey": "ming",
       "span": [
@@ -21470,13 +25623,14 @@ window.ATLAS_LORE_DATA = {
         "李自成",
         "崇祯自缢",
         "一片石"
-      ]
+      ],
+      "courtesyJa": "闖王。大順皇帝。"
     },
     {
       "key": "yongzheng",
       "zh": "雍正帝",
       "en": "Yongzheng Emperor",
-      "courtesyZh": "爱新觉罗·胤禛 · 摊丁入亩 · 设军机处",
+      "courtesyZh": "愛新覚羅胤禛。攤丁入畝を実施し、軍機処を設置した。",
       "courtesyEn": "Yinzhen, Emperor Shizong of Qing",
       "dynastyKey": "qing",
       "span": [
@@ -21492,13 +25646,14 @@ window.ATLAS_LORE_DATA = {
         "雍正",
         "军机处",
         "改土归流"
-      ]
+      ],
+      "courtesyJa": "愛新覚羅胤禛。攤丁入畝を実施し、軍機処を設置した。"
     },
     {
       "key": "qianlong",
       "zh": "乾隆帝",
       "en": "Qianlong Emperor",
-      "courtesyZh": "爱新觉罗·弘历 · 十全武功 · 奠定极盛版图",
+      "courtesyZh": "愛新覚羅弘暦。十全武功を達成し、清朝最盛期の版図を確立した。",
       "courtesyEn": "Hongli, Emperor Gaozong of Qing",
       "dynastyKey": "qing",
       "span": [
@@ -21516,14 +25671,16 @@ window.ATLAS_LORE_DATA = {
         "准噶尔汗国",
         "大小和卓",
         "大小金川",
-        "马戛尔尼"
-      ]
+        "马戛尔尼",
+        "馬戛尔尼"
+      ],
+      "courtesyJa": "愛新覚羅弘暦。十全武功を達成し、清朝最盛期の版図を確立した。"
     },
     {
       "key": "hongxiuquan",
       "zh": "洪秀全",
       "en": "Hong Xiuquan",
-      "courtesyZh": "太平天国天王",
+      "courtesyZh": "太平天国天王。",
       "courtesyEn": "Heavenly King of Taiping",
       "dynastyKey": "qing",
       "span": [
@@ -21539,13 +25696,14 @@ window.ATLAS_LORE_DATA = {
         "定都天京",
         "天京事变",
         "天京陷落"
-      ]
+      ],
+      "courtesyJa": "太平天国天王。"
     },
     {
       "key": "lihongzhang",
       "zh": "李鸿章",
       "en": "Li Hongzhang",
-      "courtesyZh": "李文忠公 · 字渐甫 · 北洋通商大臣",
+      "courtesyZh": "李文忠公。字は漸甫。北洋通商大臣を務めた。",
       "courtesyEn": "Late Qing Statesman & Diplomat",
       "dynastyKey": "qing",
       "span": [
@@ -21560,14 +25718,16 @@ window.ATLAS_LORE_DATA = {
         "李鸿章",
         "北洋水师",
         "马关条约",
-        "辛丑条约"
-      ]
+        "辛丑条约",
+        "馬關条约"
+      ],
+      "courtesyJa": "李文忠公。字は漸甫。北洋通商大臣を務めた。"
     },
     {
       "key": "xiaohe",
       "zh": "萧何",
       "en": "Xiao He",
-      "courtesyZh": "汉初三杰 · 开国丞相",
+      "courtesyZh": "漢初三傑の一人。漢の開国丞相。",
       "courtesyEn": "Founding Chancellor of Han",
       "dynastyKey": "xihan",
       "span": [
@@ -21581,13 +25741,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "萧何"
-      ]
+      ],
+      "courtesyJa": "漢初三傑の一人。漢の開国丞相。"
     },
     {
       "key": "suwu",
       "zh": "苏武",
       "en": "Su Wu",
-      "courtesyZh": "持节牧羊 · 字子卿",
+      "courtesyZh": "節を持して羊を牧したことで知られる。字は子卿。",
       "courtesyEn": "Han Envoy to the Xiongnu",
       "dynastyKey": "xihan",
       "span": [
@@ -21600,13 +25761,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "苏武"
-      ]
+      ],
+      "courtesyJa": "節を持して羊を牧したことで知られる。字は子卿。"
     },
     {
       "key": "lisi",
       "zh": "李斯",
       "en": "Li Si",
-      "courtesyZh": "秦朝丞相",
+      "courtesyZh": "秦の丞相。",
       "courtesyEn": "Chancellor of Qin",
       "dynastyKey": "qin",
       "span": [
@@ -21618,13 +25780,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "李斯"
-      ]
+      ],
+      "courtesyJa": "秦の丞相。"
     },
     {
       "key": "weizheng",
       "zh": "魏征",
       "en": "Wei Zheng",
-      "courtesyZh": "贞观谏臣 · 字玄成",
+      "courtesyZh": "貞観の諫臣。字は玄成。",
       "courtesyEn": "Remonstrating Minister of Zhenguan",
       "dynastyKey": "tang",
       "span": [
@@ -21639,13 +25802,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "魏征",
         "魏徵"
-      ]
+      ],
+      "courtesyJa": "貞観の諫臣。字は玄成。"
     },
     {
       "key": "direnjie",
       "zh": "狄仁杰",
       "en": "Di Renjie",
-      "courtesyZh": "武周名相 · 字怀英",
+      "courtesyZh": "武周の名相。字は懐英。",
       "courtesyEn": "Grand Chancellor of Wu Zhou",
       "dynastyKey": "tang",
       "span": [
@@ -21659,13 +25823,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "狄仁杰"
-      ]
+      ],
+      "courtesyJa": "武周の名相。字は懐英。"
     },
     {
       "key": "kouzhun",
       "zh": "寇准",
       "en": "Kou Zhun",
-      "courtesyZh": "北宋名相 · 莱国公",
+      "courtesyZh": "北宋の名相。莱国公。",
       "courtesyEn": "Chancellor of Northern Song",
       "dynastyKey": "beisong",
       "span": [
@@ -21680,13 +25845,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "寇准",
         "澶渊之盟"
-      ]
+      ],
+      "courtesyJa": "北宋の名相。莱国公。"
     },
     {
       "key": "baozheng",
       "zh": "包拯",
       "en": "Bao Zheng",
-      "courtesyZh": "包青天 · 字希仁",
+      "courtesyZh": "包青天。字は希仁。",
       "courtesyEn": "Upright Prefect of Kaifeng",
       "dynastyKey": "beisong",
       "span": [
@@ -21702,13 +25868,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "包拯"
-      ]
+      ],
+      "courtesyJa": "包青天。字は希仁。"
     },
     {
       "key": "xuxiake",
       "zh": "徐霞客",
       "en": "Xu Xiake",
-      "courtesyZh": "地理学家 · 名弘祖",
+      "courtesyZh": "地理学者。名は弘祖。",
       "courtesyEn": "Geographer and Travel Writer",
       "dynastyKey": "ming",
       "span": [
@@ -21723,13 +25890,14 @@ window.ATLAS_LORE_DATA = {
       "tokens": [
         "徐霞客",
         "徐弘祖"
-      ]
+      ],
+      "courtesyJa": "地理学者。名は弘祖。"
     },
     {
       "key": "yuanchonghuan",
       "zh": "袁崇焕",
       "en": "Yuan Chonghuan",
-      "courtesyZh": "蓟辽督师 · 字元素",
+      "courtesyZh": "薊遼督師。字は元素。",
       "courtesyEn": "Supreme Commander of Jizhou and Liaodong",
       "dynastyKey": "ming",
       "span": [
@@ -21743,13 +25911,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "袁崇焕"
-      ]
+      ],
+      "courtesyJa": "薊遼督師。字は元素。"
     },
     {
       "key": "yanghu",
       "zh": "羊祜",
       "en": "Yang Hu",
-      "courtesyZh": "叔子 · 镇南开济 · 岘山堕泪",
+      "courtesyZh": "叔子。鎮南開済。峴山堕涙。",
       "courtesyEn": "Shuzi, Jin Strategist on the Han River",
       "dynastyKey": "xijin",
       "span": [
@@ -21763,13 +25932,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "羊祜"
-      ]
+      ],
+      "courtesyJa": "叔子。鎮南開済。峴山堕涙。"
     },
     {
       "key": "duyu",
       "zh": "杜预",
       "en": "Du Yu",
-      "courtesyZh": "元凯 · 杜武库 · 势如破竹",
+      "courtesyZh": "杜預 (字は元凱) は、その博識から「杜武庫」と称され、呉平定において破竹の勢いで進軍した。",
       "courtesyEn": "Yuankai, Polymath General Who Conquered Wu",
       "dynastyKey": "xijin",
       "span": [
@@ -21783,13 +25953,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "杜预"
-      ]
+      ],
+      "courtesyJa": "杜預 (字は元凱) は、その博識から「杜武庫」と称され、呉平定において破竹の勢いで進軍した。"
     },
     {
       "key": "zuti",
       "zh": "祖逖",
       "en": "Zu Ti",
-      "courtesyZh": "士稚 · 闻鸡起舞 · 中流击楫",
+      "courtesyZh": "祖逖 (字は士稚) は、鶏鳴起舞の故事で知られ、中流に楫を撃つと誓って北伐を敢行した。",
       "courtesyEn": "Shizhi, Northern Expedition General of Jin",
       "dynastyKey": "xijin",
       "span": [
@@ -21802,13 +25973,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "祖逖"
-      ]
+      ],
+      "courtesyJa": "祖逖 (字は士稚) は、鶏鳴起舞の故事で知られ、中流に楫を撃つと誓って北伐を敢行した。"
     },
     {
       "key": "liukun",
       "zh": "刘琨",
       "en": "Liu Kun",
-      "courtesyZh": "越石 · 枕戈待旦 · 百炼成钢",
+      "courtesyZh": "劉琨 (字は越石) は、枕戈待旦の覚悟で異民族と戦い、百錬成鋼の精神で晋の復興を期した。",
       "courtesyEn": "Yueshi, Defender of Bingzhou and Poet-General",
       "dynastyKey": "xijin",
       "span": [
@@ -21817,17 +25989,21 @@ window.ATLAS_LORE_DATA = {
       ],
       "aliases": [
         "刘越石",
-        "大司马刘琨"
+        "大司马刘琨",
+        "劉越石",
+        "大司馬劉琨"
       ],
       "tokens": [
-        "刘琨"
-      ]
+        "刘琨",
+        "劉琨"
+      ],
+      "courtesyJa": "劉琨 (字は越石) は、枕戈待旦の覚悟で異民族と戦い、百錬成鋼の精神で晋の復興を期した。"
     },
     {
       "key": "zuchongzhi",
       "zh": "祖冲之",
       "en": "Zu Chongzhi",
-      "courtesyZh": "文远 · 圆周率七位 · 大明历宗师",
+      "courtesyZh": "祖沖之 (字は文遠) は、円周率を小数点以下七桁まで算出し、大明暦を制定した数学者・天文学者である。",
       "courtesyEn": "Wenyuan, Mathematician and Astronomer",
       "dynastyKey": "nanbei",
       "span": [
@@ -21841,13 +26017,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "祖冲之"
-      ]
+      ],
+      "courtesyJa": "祖沖之 (字は文遠) は、円周率を小数点以下七桁まで算出し、大明暦を制定した数学者・天文学者である。"
     },
     {
       "key": "lidaoyuan",
       "zh": "郦道元",
       "en": "Li Daoyuan",
-      "courtesyZh": "善长 · 《水经注》地理巨匠",
+      "courtesyZh": "酈道元 (字は善長) は、地理書『水経注』を著した地理学の大家である。",
       "courtesyEn": "Shanchang, Geographer and Author of Shuijing Zhu",
       "dynastyKey": "nanbei",
       "span": [
@@ -21860,13 +26037,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "郦道元"
-      ]
+      ],
+      "courtesyJa": "酈道元 (字は善長) は、地理書『水経注』を著した地理学の大家である。"
     },
     {
       "key": "shenkuo",
       "zh": "沈括",
       "en": "Shen Kuo",
-      "courtesyZh": "存中 · 梦溪丈人 · 《梦溪笔谈》",
+      "courtesyZh": "沈括 (字は存中) は、「夢渓丈人」と称され、その博識を『夢渓筆談』に著した。",
       "courtesyEn": "Cunzhong, Polymath Scientist and Statesman",
       "dynastyKey": "beisong",
       "span": [
@@ -21880,13 +26058,14 @@ window.ATLAS_LORE_DATA = {
       ],
       "tokens": [
         "沈括"
-      ]
+      ],
+      "courtesyJa": "沈括 (字は存中) は、「夢渓丈人」と称され、その博識を『夢渓筆談』に著した。"
     },
     {
       "key": "yeluchucai",
       "zh": "耶律楚材",
       "en": "Yelu Chucai",
-      "courtesyZh": "晋卿 · 湛然居士 · 止杀定策",
+      "courtesyZh": "耶律楚材 (字は晋卿) は、湛然居士と号し、モンゴル帝国の宰相として殺戮を止め、統治制度を確立した。",
       "courtesyEn": "Jinqing, Khitan Chancellor of the Mongol Empire",
       "dynastyKey": "yuan",
       "span": [
@@ -21896,17 +26075,19 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "耶律晋卿",
         "湛然居士",
-        "吾图撒合里"
+        "吾图撒合里",
+        "耶律晉卿"
       ],
       "tokens": [
         "耶律楚材"
-      ]
+      ],
+      "courtesyJa": "耶律楚材 (字は晋卿) は、湛然居士と号し、モンゴル帝国の宰相として殺戮を止め、統治制度を確立した。"
     },
     {
       "key": "marcopolo",
       "zh": "马可·波罗",
       "en": "Marco Polo",
-      "courtesyZh": "威尼斯旅行家 · 《东方见闻录》",
+      "courtesyZh": "マルコ・ポーロは、ヴェネツィアの旅行家で、フビライ・ハンの元に仕え、その見聞を『東方見聞録』に著した。",
       "courtesyEn": "Venetian Traveler at Kublai Khan's Court",
       "dynastyKey": "yuan",
       "span": [
@@ -21916,18 +26097,23 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "马可波罗",
         "东方见闻录",
-        "马可·波罗游记"
+        "马可·波罗游记",
+        "馬可波罗",
+        "馬可·波罗游记"
       ],
       "tokens": [
         "马可·波罗",
-        "马可波罗"
-      ]
+        "马可波罗",
+        "馬可·波罗",
+        "馬可波罗"
+      ],
+      "courtesyJa": "マルコ・ポーロは、ヴェネツィアの旅行家で、フビライ・ハンの元に仕え、その見聞を『東方見聞録』に著した。"
     },
     {
       "key": "yuxi",
       "zh": "传国玉玺",
       "en": "Heirloom Seal of the Realm",
-      "courtesyZh": "和氏之璧 · 秦制汉传 · 受命于天既寿永昌",
+      "courtesyZh": "和氏の璧。秦が製作し、漢を経て後唐に伝わった。玉璽には「受命于天、既寿永昌」（天命を受け、寿永く昌盛ならん）と刻まれていた。",
       "courtesyEn": "Heshi Bi Jade · Carved by Qin, Passed Through Han to Later Tang",
       "descZh": "《资治通鉴》卷二百八十载：秦始皇命李斯磨楚和氏璧制之，文曰“受命于天，既寿永昌”。自秦子婴奉玺降汉，历两汉、魏晋、南朝、隋唐凡千余载，至公元936年后唐末帝李从珂登洛阳玄武楼自焚，遂失所在。",
       "descEn": "Carved under Qin Shi Huang from the Heshi Bi jade with the eight characters 'Having received the Mandate from Heaven, may the Emperor lead a long and prosperous life', the seal passed from Qin through Han, Wei, Jin, the Southern Dynasties, Sui, and Tang before vanishing in the flames of Xuanwu Tower in 936 CE.",
@@ -21949,7 +26135,8 @@ window.ATLAS_LORE_DATA = {
         "汉传国玺",
         "heirloom seal",
         "imperial seal",
-        "heshi bi"
+        "heshi bi",
+        "漢传国玺"
       ],
       "tokens": [],
       "stops": [
@@ -22258,7 +26445,189 @@ window.ATLAS_LORE_DATA = {
           "quoteZh": "《资治通鉴·后晋纪一》卷二百八十：“辛巳，唐主聚后妃以下及传国宝、器玩，登玄武楼，纵火自焚……至唐末帝自燔，自是传国宝失所在。”",
           "quoteEn": "Zizhi Tongjian, Vol. 280: 'On day Xinsi, the Tang ruler gathered the empress, consorts, the Heirloom Seal, and palace treasures, ascended Xuanwu Tower, and set himself on fire... From the time the final Emperor of Later Tang burned himself, the Heirloom Seal of the Realm was lost.'"
         }
-      ]
+      ],
+      "courtesyJa": "和氏の璧。秦が製作し、漢を経て後唐に伝わった。玉璽には「受命于天、既寿永昌」（天命を受け、寿永く昌盛ならん）と刻まれていた。"
+    },
+    {
+      "key": "gaoxianzhi",
+      "zh": "高仙芝",
+      "en": "Gao Xianzhi",
+      "courtesyZh": "安西四鎮節度使・右羽林大將軍。パミール高原を越えて小勃律・朅師を平定し、タラス河畔でアッバース朝軍と激突。",
+      "courtesyJa": "安西四鎮節度使・右羽林大將軍。パミール高原を越えて小勃律・朅師を平定し、タラス河畔でアッバース朝軍と激突。",
+      "courtesyEn": "Military Governor of Anxi, Commander at Battle of Talas",
+      "dynastyKey": "tang",
+      "span": [
+        700,
+        756
+      ],
+      "aliases": [
+        "密雲郡公",
+        "安西節度使",
+        "怛邏斯之戦",
+        "タラス河畔の戦い"
+      ],
+      "tokens": [
+        "高仙芝",
+        "怛罗斯",
+        "怛邏斯",
+        "タラス",
+        "小勃律",
+        "石国"
+      ],
+      "journeyKey": "gaoxianzhi"
+    },
+    {
+      "key": "heichichangzhi",
+      "zh": "黒歯常之",
+      "en": "Heichi Changzhi",
+      "courtesyZh": "百済の達率から唐の燕国公・左武衛大将軍へ。任存城で蘇定方を撃退、青海・良非川で吐蕃を破り、両井で東突厥を撃破した名将。",
+      "courtesyJa": "百済の達率から唐の燕国公・左武衛大将軍へ。任存城で蘇定方を撃退、青海・良非川で吐蕃を破り、両井で東突厥を撃破した名将。",
+      "courtesyEn": "Baekje commander and renowned Tang general; victor at Imjon, Liangfeichuan, and Liangjing.",
+      "dynastyKey": "tang",
+      "span": [
+        630,
+        689
+      ],
+      "aliases": [
+        "黒歯常之",
+        "黑齿常之",
+        "黒歯恒元",
+        "燕国公",
+        "達率",
+        "河源軍経略大使",
+        "左武衛大将軍"
+      ],
+      "tokens": [
+        "黒歯常之",
+        "黑齿常之",
+        "百済",
+        "任存城",
+        "吐蕃",
+        "良非川",
+        "両井",
+        "河源軍",
+        "酷吏",
+        "周興"
+      ],
+      "journeyKey": "heichichangzhi"
+    },
+    {
+      "key": "hedin",
+      "zh": "スヴェン・ヘディン",
+      "en": "Sven Hedin",
+      "courtesyZh": "スウェーデンの地理学者・中央アジア探検家。タクラマカン砂漠を縦断し、「さまよえる湖」ロプノールと幻の古代都市・楼蘭故城を発見。トランス・ヒマラヤ山脈を踏査し、西北科学考査団を率いた。",
+      "courtesyJa": "スウェーデンの地理学者・中央アジア探検家。タクラマカン砂漠を縦断し、「さまよえる湖」ロプノールと幻の古代都市・楼蘭故城を発見。トランス・ヒマラヤ山脈を踏査し、西北科学考査団を率いた。",
+      "courtesyEn": "Swedish geographer & explorer; discoverer of Loulan, mapper of Transhimalaya, and leader of the Sino-Swedish Expedition.",
+      "dynastyKey": "qing",
+      "span": [
+        1895,
+        1934
+      ],
+      "aliases": [
+        "ヘディン",
+        "斯文・赫定",
+        "斯文赫定",
+        "Sven Hedin",
+        "さまよえる湖",
+        "西北科学考査団"
+      ],
+      "tokens": [
+        "ヘディン",
+        "スヴェン・ヘディン",
+        "斯文赫定",
+        "西北科学考査団"
+      ],
+      "journeyKey": "hedin"
+    },
+    {
+      "key": "stein",
+      "zh": "オーレル・スタイン",
+      "en": "Aurel Stein",
+      "courtesyZh": "イギリスの考古学者・東洋学者。玄奘三蔵『大唐西域記』を指針に3度の中央アジア探検を敢行し、ニヤ遺跡、ミーラン有翼天使壁画、漢代玉門関、そして敦煌莫高窟「蔵経洞」の膨大な写本・仏画を世に出した。",
+      "courtesyJa": "イギリスの考古学者・東洋学者。玄奘三蔵『大唐西域記』を指針に3度の中央アジア探検を敢行し、ニヤ遺跡、ミーラン有翼天使壁画、漢代玉門関、そして敦煌莫高窟「蔵経洞」の膨大な写本・仏画を世に出した。",
+      "courtesyEn": "Hungarian-British archaeologist; excavated Niya, Miran, Han Jade Gate, and recovered the Dunhuang Library Cave manuscripts.",
+      "dynastyKey": "qing",
+      "span": [
+        1900,
+        1915
+      ],
+      "aliases": [
+        "スタイン",
+        "オーレル・スタイン",
+        "司代諾",
+        "斯坦因",
+        "Aurel Stein",
+        "敦煌蔵経洞"
+      ],
+      "tokens": [
+        "スタイン",
+        "オーレル・スタイン",
+        "司代諾",
+        "斯坦因"
+      ],
+      "journeyKey": "stein"
+    },
+    {
+      "key": "otani",
+      "zh": "大谷探検隊（大谷光瑞・橘瑞超）",
+      "en": "Otani Expeditions",
+      "courtesyZh": "西本願寺第22代法主・大谷光瑞が組織し、渡辺哲信・堀賢雄・橘瑞超・野村栄三郎・吉川小一郎ら若き僧侶が3次にわたり敢行した西域仏跡探検隊。キジル千仏洞調査や楼蘭での「李柏文書」発見など世界的な業績を残した。",
+      "courtesyJa": "西本願寺第22代法主・大谷光瑞が組織し、渡辺哲信・堀賢雄・橘瑞超・野村栄三郎・吉川小一郎ら若き僧侶が3次にわたり敢行した西域仏跡探検隊。キジル千仏洞調査や楼蘭での「李柏文書」発見など世界的な業績を残した。",
+      "courtesyEn": "Three Japanese Buddhist archaeological expeditions organized by Count Kozui Otani; famous for the Li Bo manuscript at Loulan.",
+      "dynastyKey": "qing",
+      "span": [
+        1902,
+        1914
+      ],
+      "aliases": [
+        "大谷探検隊",
+        "大谷光瑞",
+        "橘瑞超",
+        "渡辺哲信",
+        "堀賢雄",
+        "吉川小一郎",
+        "野村栄三郎",
+        "李柏文書",
+        "新西域記"
+      ],
+      "tokens": [
+        "大谷探検隊",
+        "大谷光瑞",
+        "橘瑞超",
+        "渡辺哲信",
+        "堀賢雄",
+        "吉川小一郎",
+        "李柏文書"
+      ],
+      "journeyKey": "otani"
+    },
+    {
+      "key": "nhksilkroad",
+      "zh": "NHKシルクロード（絲綢之路）",
+      "en": "NHK Silk Road (Sichou zhi Lu)",
+      "courtesyZh": "1980年より放送されたNHKと中国中央電視台（CCTV）による歴史的共同制作ドキュメンタリー『NHK特集 シルクロード —絲綢之路—』。長安から河西回廊・敦煌・楼蘭・ホータン・天山南北路・パミール高原、さらにローマへの道を辿った。",
+      "courtesyJa": "1980年より放送されたNHKと中国中央電視台（CCTV）による歴史的共同制作ドキュメンタリー『NHK特集 シルクロード —絲綢之路—』。長安から河西回廊・敦煌・楼蘭・ホータン・天山南北路・パミール高原、さらにローマへの道を辿った。",
+      "courtesyEn": "Milestone 1980s NHK-CCTV documentary series tracing the Silk Road from Chang'an across the Hexi Corridor, Lop Nor, Taklamakan, and Pamirs to Rome.",
+      "dynastyKey": "prc",
+      "span": [
+        1979,
+        1984
+      ],
+      "aliases": [
+        "NHKシルクロード",
+        "絲綢之路",
+        "シルクロード絲綢之路",
+        "NHK特集 シルクロード",
+        "喜多郎",
+        "井上靖",
+        "司馬遼太郎"
+      ],
+      "tokens": [
+        "NHKシルクロード",
+        "絲綢之路",
+        "NHK特集"
+      ],
+      "journeyKey": "nhksilkroad"
     }
   ],
   "POLITY_PROFILES": [
@@ -22286,8 +26655,9 @@ window.ATLAS_LORE_DATA = {
         "开明蜀",
         "蜀国"
       ],
-      "summaryZh": "成都平原古国，历经蚕丛、柏灌、鱼凫、杜宇至开明氏立国，都成都。战国中期开明氏北取汉中南郑，与秦、楚接壤；前316年蜀与巴、苴交战求救于秦，秦惠文王采司马错策由石牛道伐蜀，灭蜀王置蜀郡，开启李冰治水与天府之国。",
-      "summaryEn": "Ancient kingdom of the Chengdu plain ruled in the Warring States by the Kaiming dynasty. When war broke out between Shu, Ba and Ju in 316 BCE, King Huiwen of Qin sent Sima Cuo south over the Stone Cattle Road to conquer Shu and establish Shu Commandery."
+      "summaryZh": "成都平原に栄えた古代国家。蚕叢、柏灌、魚鳧、杜宇の各氏を経て、開明氏が建国し、成都を都とした。戦国中期、開明氏は北方の漢中南鄭を奪取し、秦・楚と国境を接した。前316年、蜀は巴・苴と交戦し、秦に救援を求めた。秦の恵文王は司馬錯の策を採用し、石牛道から蜀を伐った。蜀王を滅ぼし、蜀郡を設置したことで、李冰の治水事業と「天府の国」の基礎が築かれた。",
+      "summaryEn": "Ancient kingdom of the Chengdu plain ruled in the Warring States by the Kaiming dynasty. When war broke out between Shu, Ba and Ju in 316 BCE, King Huiwen of Qin sent Sima Cuo south over the Stone Cattle Road to conquer Shu and establish Shu Commandery.",
+      "summaryJa": "成都平原に栄えた古代国家。蚕叢、柏灌、魚鳧、杜宇の各氏を経て、開明氏が建国し、成都を都とした。戦国中期、開明氏は北方の漢中南鄭を奪取し、秦・楚と国境を接した。前316年、蜀は巴・苴と交戦し、秦に救援を求めた。秦の恵文王は司馬錯の策を採用し、石牛道から蜀を伐った。蜀王を滅ぼし、蜀郡を設置したことで、李冰の治水事業と「天府の国」の基礎が築かれた。"
     },
     {
       "key": "ba_state",
@@ -22312,8 +26682,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "巴子国"
       ],
-      "summaryZh": "川东峡江劲国，以虎为图腾，巴师勇锐善舞。都江州（今重庆），后迫于楚国西进迁阆中；前316年与蜀、苴相攻，秦将司马错灭蜀后顺势举巴，虏巴王归秦，以其地置巴郡。",
-      "summaryEn": "A martial kingdom of eastern Sichuan and the Three Gorges, centered at Jiangzhou (Chongqing) and later Langzhong. In 316 BCE, immediately after conquering Shu, Qin general Sima Cuo annexed Ba and established Ba Commandery."
+      "summaryZh": "四川東部の峡江地帯に栄えた強国。虎をトーテムとし、その兵は勇猛で舞踊に長じた。江州（現在の重慶）を都としたが、後に楚の圧迫により西進し、閬中に遷都した。前316年、蜀・苴と交戦した。秦将司馬錯は蜀を滅ぼした後、その勢いで巴を攻め取り、巴王を捕らえ秦に送還し、その地に巴郡を設置した。",
+      "summaryEn": "A martial kingdom of eastern Sichuan and the Three Gorges, centered at Jiangzhou (Chongqing) and later Langzhong. In 316 BCE, immediately after conquering Shu, Qin general Sima Cuo annexed Ba and established Ba Commandery.",
+      "summaryJa": "四川東部の峡江地帯に栄えた強国。虎をトーテムとし、その兵は勇猛で舞踊に長じた。江州（現在の重慶）を都としたが、後に楚の圧迫により西進し、閬中に遷都した。前316年、蜀・苴と交戦した。秦将司馬錯は蜀を滅ぼした後、その勢いで巴を攻め取り、巴王を捕らえ秦に送還し、その地に巴郡を設置した。"
     },
     {
       "key": "yue_state",
@@ -22340,8 +26711,9 @@ window.ATLAS_LORE_DATA = {
         "于越",
         "勾践越国"
       ],
-      "summaryZh": "姒姓诸侯国，勾践灭吴称霸后北迁都琅琊；战国初越王翳畏齐南迁返吴（姑苏）。前306年越王无疆北伐齐，听齐使之说转攻楚国，为楚怀王大败所杀，尽取故吴地至浙江，越国自此分崩为闽越、东瓯等百越诸部。",
-      "summaryEn": "After King Goujian conquered Wu and moved his capital north to Langya, King Yi returned south to Wu (Suzhou). In 306 BCE King Wujiang attacked Chu and was defeated and slain by King Huai of Chu, who annexed Yue lands down to the Qiantang River while Yue remnants dispersed into Minyue and Dong'ou."
+      "summaryZh": "姒姓の諸侯国。勾践が呉を滅ぼし覇者となった後、琅琊に遷都した。戦国初期、越王翳は斉を畏れて南遷し、呉（姑蘇）に戻った。前306年、越王無彊は北方の斉を伐ったが、斉の使者の説得により矛先を楚に向けた。楚の懐王に大敗させられ殺されたため、楚は旧呉の地から浙江に至るまでを全て奪取した。越国はこれにより閩越、東甌などの百越諸部に分裂した。",
+      "summaryEn": "After King Goujian conquered Wu and moved his capital north to Langya, King Yi returned south to Wu (Suzhou). In 306 BCE King Wujiang attacked Chu and was defeated and slain by King Huai of Chu, who annexed Yue lands down to the Qiantang River while Yue remnants dispersed into Minyue and Dong'ou.",
+      "summaryJa": "姒姓の諸侯国。勾践が呉を滅ぼし覇者となった後、琅琊に遷都した。戦国初期、越王翳は斉を畏れて南遷し、呉（姑蘇）に戻った。前306年、越王無彊は北方の斉を伐ったが、斉の使者の説得により矛先を楚に向けた。楚の懐王に大敗させられ殺されたため、楚は旧呉の地から浙江に至るまでを全て奪取した。越国はこれにより閩越、東甌などの百越諸部に分裂した。"
     },
     {
       "key": "zhongshan",
@@ -22362,10 +26734,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "鲜虞"
       ],
-      "summaryZh": "白狄鲜虞所建的千乘之国，夹处燕赵之间。前406年曾为魏所灭，约前380年复国，都灵寿；前323年参与五国相王。赵武灵王胡服骑射后屡攻中山，前296年赵灭中山。",
+      "summaryZh": "白狄の鮮虞が建国した千乗の国で、燕と趙の間に挟まれて存在した。前406年、魏に滅ぼされたが、約前380年に復国し、霊寿を都とした。前323年には五国相王に参加した。趙の武霊王が胡服騎射を導入した後、中山を度々攻撃し、前296年、趙が中山を滅ぼした。",
       "summaryEn": "A 'thousand-chariot' state of the White Di (Xianyu) wedged between Yan and Zhao. Conquered by Wei in 406 BCE, it revived around 380 BCE with its capital at Lingshou and joined the 'Five States Proclaiming Kings' (323 BCE), before Zhao annexed it in 296 BCE.",
       "rulersZh": "中山桓公 → 成公 → 中山王厝 → 中山王妾子 → 中山王尚",
-      "rulersEn": "Duke Huan → Duke Cheng → King Cuo → King Qiezi → King Shang"
+      "rulersEn": "Duke Huan → Duke Cheng → King Cuo → King Qiezi → King Shang",
+      "summaryJa": "白狄の鮮虞が建国した千乗の国で、燕と趙の間に挟まれて存在した。前406年、魏に滅ぼされたが、約前380年に復国し、霊寿を都とした。前323年には五国相王に参加した。趙の武霊王が胡服騎射を導入した後、中山を度々攻撃し、前296年、趙が中山を滅ぼした。"
     },
     {
       "key": "song_state",
@@ -22392,8 +26765,9 @@ window.ATLAS_LORE_DATA = {
         "子姓宋",
         "商宋"
       ],
-      "summaryZh": "周初封殷商后裔微子启于商丘，为礼乐大邦，墨子、庄子皆宋人。战国中期戴氏剔成司城专政；前318年宋王偃自立为王，东败齐、南败楚、西败魏，迁都彭城，号“五千乘之劲宋”。前286年齐湣王合魏、楚之师灭宋，三分其地。",
-      "summaryEn": "Enfeoffed at Shangqiu for the descendants of the Shang royal house and homeland of Mozi and Zhuangzi, Song rose briefly under King Yan (proclaimed 318 BCE), who defeated Qi, Chu and Wei from Pengcheng before a coalition of Qi, Wei and Chu conquered and partitioned Song in 286 BCE."
+      "summaryZh": "周初、殷商の子孫である微子啓が商丘に封じられた国。礼楽の大国であり、墨子、荘子も宋の人であった。戦国中期には戴氏の剔成が司城として専権を振るった。前318年、宋王偃は自立して王を称し、東は斉を、南は楚を、西は魏を破った。彭城に遷都し、「五千乗の強宋」と称された。前286年、斉の湣王は魏・楚の軍と連合して宋を滅ぼし、その領土を三分した。",
+      "summaryEn": "Enfeoffed at Shangqiu for the descendants of the Shang royal house and homeland of Mozi and Zhuangzi, Song rose briefly under King Yan (proclaimed 318 BCE), who defeated Qi, Chu and Wei from Pengcheng before a coalition of Qi, Wei and Chu conquered and partitioned Song in 286 BCE.",
+      "summaryJa": "周初、殷商の子孫である微子啓が商丘に封じられた国。礼楽の大国であり、墨子、荘子も宋の人であった。戦国中期には戴氏の剔成が司城として専権を振るった。前318年、宋王偃は自立して王を称し、東は斉を、南は楚を、西は魏を破った。彭城に遷都し、「五千乗の強宋」と称された。前286年、斉の湣王は魏・楚の軍と連合して宋を滅ぼし、その領土を三分した。"
     },
     {
       "key": "yiqu",
@@ -22416,8 +26790,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "义渠戎"
       ],
-      "summaryZh": "陇东泾水流域最强盛的西戎方国，控弦善骑，与秦相争数百年。秦惠文王时义渠称臣，前314年秦攻取义渠二十五城；前272年秦宣太后诱杀义渠王于甘泉宫，发兵灭义渠，秦遂于西北置陇西、北地、上郡并筑长城拒胡。",
-      "summaryEn": "The most powerful Western Rong kingdom in the Jing River basin of eastern Gansu, long a rival on Qin's northwestern flank. In 272 BCE Queen Dowager Xuan of Qin lured and killed the King of Yiqu at Ganquan Palace, annexed its territory into Longxi, Beidi and Shang commanderies, and built Qin's northern wall."
+      "summaryZh": "隴東の涇水流域に栄えた最強の西戎方国。弓馬に長け、秦と数百年にわたり争った。秦の恵文王の時代には義渠は臣従したが、前314年、秦は義渠の二十五城を攻め取った。前272年、秦の宣太后は甘泉宮で義渠王を誘殺し、兵を発して義渠を滅ぼした。秦は西北に隴西、北地、上郡を設置し、長城を築いて胡を防いだ。",
+      "summaryEn": "The most powerful Western Rong kingdom in the Jing River basin of eastern Gansu, long a rival on Qin's northwestern flank. In 272 BCE Queen Dowager Xuan of Qin lured and killed the King of Yiqu at Ganquan Palace, annexed its territory into Longxi, Beidi and Shang commanderies, and built Qin's northern wall.",
+      "summaryJa": "隴東の涇水流域に栄えた最強の西戎方国。弓馬に長け、秦と数百年にわたり争った。秦の恵文王の時代には義渠は臣従したが、前314年、秦は義渠の二十五城を攻め取った。前272年、秦の宣太后は甘泉宮で義渠王を誘殺し、兵を発して義渠を滅ぼした。秦は西北に隴西、北地、上郡を設置し、長城を築いて胡を防いだ。"
     },
     {
       "key": "dongzhou",
@@ -22446,8 +26821,9 @@ window.ATLAS_LORE_DATA = {
         "周王室",
         "东周"
       ],
-      "summaryZh": "平王东迁后周室衰微，战国时局促于洛邑王畿，分裂为西周公、东周公二小国。前403年威烈王册命韩赵魏为诸侯，前386年安王命田和为齐侯；前256年秦昭襄王攻入洛邑，周赧王卒、九鼎入秦，前249年秦庄襄王灭东周公，周祀遂绝。",
-      "summaryEn": "Reduced to a small royal domain around Luoyi during the Warring States and split between the Dukes of Western and Eastern Zhou, the royal house formally recognized Han, Zhao and Wei (403 BCE) and Tian Qi (386 BCE) before Qin took Luoyi and the Nine Tripods in 256 BCE and extinguished the Eastern Zhou remnant in 249 BCE."
+      "summaryZh": "平王の東遷後、周室は衰微し、戦国時代には洛邑の王畿に逼塞し、西周公と東周公の二小国に分裂した。前403年、威烈王は韓・趙・魏を諸侯に冊命し、前386年、安王は田和を斉侯に命じた。前256年、秦の昭襄王が洛邑に攻め入り、周の赧王は死去し、九鼎は秦に入った。前249年、秦の荘襄王が東周公を滅ぼし、周の祭祀は途絶えた。",
+      "summaryEn": "Reduced to a small royal domain around Luoyi during the Warring States and split between the Dukes of Western and Eastern Zhou, the royal house formally recognized Han, Zhao and Wei (403 BCE) and Tian Qi (386 BCE) before Qin took Luoyi and the Nine Tripods in 256 BCE and extinguished the Eastern Zhou remnant in 249 BCE.",
+      "summaryJa": "平王の東遷後、周室は衰微し、戦国時代には洛邑の王畿に逼塞し、西周公と東周公の二小国に分裂した。前403年、威烈王は韓・趙・魏を諸侯に冊命し、前386年、安王は田和を斉侯に命じた。前256年、秦の昭襄王が洛邑に攻め入り、周の赧王は死去し、九鼎は秦に入った。前249年、秦の荘襄王が東周公を滅ぼし、周の祭祀は途絶えた。"
     },
     {
       "key": "lu_state",
@@ -22474,8 +26850,9 @@ window.ATLAS_LORE_DATA = {
         "姬姓鲁",
         "邹鲁"
       ],
-      "summaryZh": "周公旦长子伯禽受封于曲阜，秉“周礼尽在鲁”之传统，为儒家发源地。战国初鲁穆公礼遇子思、墨子，改革三桓世卿制；后国势日蹙于齐、楚之间，前249年楚考烈王遣春申君黄歇东征灭鲁，鲁顷公迁于莒，鲁亡。",
-      "summaryEn": "Founded at Qufu for Boqin, son of the Duke of Zhou, Lu preserved Zhou ritual traditions and was the cradle of Confucianism. Duke Mu reformed the Three Huan lineages and patronized Zisi, but squeezed between Qi and Chu, Lu was annexed by Chu in 249 BCE."
+      "summaryZh": "周公旦の長子伯禽が曲阜に封じられ、「周礼は魯に尽くあり」と称される伝統を継承し、儒家の発祥地となった。戦国初期、魯穆公は子思や墨子を厚遇し、三桓の世卿制を改革した。その後、國勢は齊と楚に挟まれ日ごとに衰退し、前249年、楚の考烈王は春申君黃歇を派遣して東征させ魯を滅ぼした。魯頃公は莒に遷され、魯は滅亡した。",
+      "summaryEn": "Founded at Qufu for Boqin, son of the Duke of Zhou, Lu preserved Zhou ritual traditions and was the cradle of Confucianism. Duke Mu reformed the Three Huan lineages and patronized Zisi, but squeezed between Qi and Chu, Lu was annexed by Chu in 249 BCE.",
+      "summaryJa": "周公旦の長子伯禽が曲阜に封じられ、「周礼は魯に尽くあり」と称される伝統を継承し、儒家の発祥地となった。戦国初期、魯穆公は子思や墨子を厚遇し、三桓の世卿制を改革した。その後、國勢は齊と楚に挟まれ日ごとに衰退し、前249年、楚の考烈王は春申君黃歇を派遣して東征させ魯を滅ぼした。魯頃公は莒に遷され、魯は滅亡した。"
     },
     {
       "key": "han_state",
@@ -22496,10 +26873,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "韩国"
       ],
-      "summaryZh": "三家分晋所立，七雄中最弱。前375年韩哀侯灭郑，迁都新郑；韩昭侯用申不害，一度国治兵强。地处秦东出要冲，屡遭蚕食；前262年上党降赵引发长平之战，前230年秦破新郑，韩为六国中首亡。",
+      "summaryZh": "三晋分立により成立し、戦国七雄の中で最も弱小であった。前375年、韓哀侯は鄭を滅ぼし、新鄭に遷都した。韓昭侯は申不害を登用し、一時的に國は治まり兵力も強盛となった。秦の東進の要衝に位置し、度々蠶食された。前262年、上黨が趙に降伏したことが長平の戦いを引き起こし、前230年、秦が新鄭を破り、韓は六國の中で最初に滅亡した。",
       "summaryEn": "The weakest of the seven powers, formed from the partition of Jin. Marquis Ai conquered Zheng and moved to Xinzheng (375 BCE); Marquis Zhao's minister Shen Buhai strengthened the state. Squeezed by Qin's eastward drive, Han ceded Shangdang (262 BCE), triggering Changping, and in 230 BCE became the first of the six states conquered by Qin.",
       "rulersZh": "韩景侯 → 烈侯 → 文侯 → 哀侯 → 昭侯 → 宣惠王 → 襄王 → 釐王 → 桓惠王 → 韩王安",
-      "rulersEn": "Marquis Jing → Marquis Lie → Marquis Ai → Marquis Zhao → King Xuanhui → King Xiang → King Xi → King Huanhui → King An"
+      "rulersEn": "Marquis Jing → Marquis Lie → Marquis Ai → Marquis Zhao → King Xuanhui → King Xiang → King Xi → King Huanhui → King An",
+      "summaryJa": "三晋分立により成立し、戦国七雄の中で最も弱小であった。前375年、韓哀侯は鄭を滅ぼし、新鄭に遷都した。韓昭侯は申不害を登用し、一時的に國は治まり兵力も強盛となった。秦の東進の要衝に位置し、度々蠶食された。前262年、上黨が趙に降伏したことが長平の戦いを引き起こし、前230年、秦が新鄭を破り、韓は六國の中で最初に滅亡した。"
     },
     {
       "key": "wei_state",
@@ -22523,10 +26901,11 @@ window.ATLAS_LORE_DATA = {
         "魏国",
         "梁国"
       ],
-      "summaryZh": "三家分晋所立，魏文侯任李悝变法、吴起守西河，战国初期称霸中原。魏惠王时迁都大梁，桂陵、马陵两败于齐，河西之地尽入于秦；前225年秦将王贲引河水灌大梁，魏亡。",
+      "summaryZh": "三晋分立により成立し、魏文侯は李悝を登用して變法を行い、吳起に西河を守らせ、戦国初期に中原の覇者となった。魏惠王の時代に大梁に遷都したが、桂陵と馬陵で齊に二度敗れ、河西の地は全て秦に奪われた。前225年、秦將王賁が河水を引いて大梁を灌漑し、魏は滅亡した。",
       "summaryEn": "A successor state of Jin; Marquis Wen's minister Li Kui and general Wu Qi made Wei the first hegemon of the Warring States. Under King Hui it moved to Daliang, lost to Qi at Guiling and Maling and ceded Hexi to Qin. In 225 BCE Wang Ben flooded Daliang and Wei fell.",
       "rulersZh": "魏文侯 → 武侯 → 惠王 → 襄王 → 昭王 → 安釐王 → 景湣王 → 魏王假",
-      "rulersEn": "Marquis Wen → Marquis Wu → King Hui → King Xiang → King Zhao → King Anxi → King Jingmin → King Jia"
+      "rulersEn": "Marquis Wen → Marquis Wu → King Hui → King Xiang → King Zhao → King Anxi → King Jingmin → King Jia",
+      "summaryJa": "三晋分立により成立し、魏文侯は李悝を登用して變法を行い、吳起に西河を守らせ、戦国初期に中原の覇者となった。魏惠王の時代に大梁に遷都したが、桂陵と馬陵で齊に二度敗れ、河西の地は全て秦に奪われた。前225年、秦將王賁が河水を引いて大梁を灌漑し、魏は滅亡した。"
     },
     {
       "key": "chu_state",
@@ -22549,10 +26928,11 @@ window.ATLAS_LORE_DATA = {
         "楚国",
         "荆楚"
       ],
-      "summaryZh": "芈姓大国，战国疆域最广。楚悼王任吴起变法；前306年前后灭越，前278年秦将白起拔郢，楚东迁于陈，前241年再迁寿春；前223年秦将王翦破楚，楚亡。",
+      "summaryZh": "羋姓の大國で、戦国時代に最も広大な疆域を誇った。楚悼王は吳起を登用して變法を行った。前306年前後に越を滅ぼし、前278年、秦將白起が郢を陥落させると、楚は東方の陳に遷都し、前241年には壽春に再遷都した。前223年、秦將王翦が楚を破り、楚は滅亡した。",
       "summaryEn": "Mi-clan great power and the largest Warring State. King Dao backed Wu Qi's reforms; Chu absorbed Yue (c. 306 BCE), lost its capital Ying to Bai Qi in 278 BCE and moved east to Chen and then Shouchun (241 BCE), until Wang Jian's Qin army destroyed it in 223 BCE.",
       "rulersZh": "楚声王 → 悼王 → 肃王 → 宣王 → 威王 → 怀王 → 顷襄王 → 考烈王 → 幽王 → 负刍",
-      "rulersEn": "King Sheng → King Dao → King Su → King Xuan → King Wei → King Huai → King Qingxiang → King Kaolie → King You → King Fuchu"
+      "rulersEn": "King Sheng → King Dao → King Su → King Xuan → King Wei → King Huai → King Qingxiang → King Kaolie → King You → King Fuchu",
+      "summaryJa": "羋姓の大國で、戦国時代に最も広大な疆域を誇った。楚悼王は吳起を登用して變法を行った。前306年前後に越を滅ぼし、前278年、秦將白起が郢を陥落させると、楚は東方の陳に遷都し、前241年には壽春に再遷都した。前223年、秦將王翦が楚を破り、楚は滅亡した。"
     },
     {
       "key": "qin_state",
@@ -22575,10 +26955,11 @@ window.ATLAS_LORE_DATA = {
         "秦国",
         "嬴秦"
       ],
-      "summaryZh": "嬴姓诸侯国。前361年秦孝公即位，任商鞅变法，迁都咸阳；前316年灭巴蜀，前278年白起拔郢，前260年长平之战大破赵军；前230—前221年秦王嬴政次第灭韩、赵、魏、楚、燕、齐，一统天下。",
+      "summaryZh": "嬴姓の諸侯國。前361年、秦孝公が即位し、商鞅を登用して變法を行い、咸陽に遷都した。前316年に巴蜀を滅ぼし、前278年には白起が郢を陥落させ、前260年の長平の戦いでは趙軍を大破した。前230年から前221年にかけて、秦王嬴政は韓、趙、魏、楚、燕、齊を次々に滅ぼし、天下を統一した。",
       "summaryEn": "Ying-clan state. Duke Xiao (r. 361–338 BCE) empowered Shang Yang's reforms and moved the capital to Xianyang; Qin annexed Ba and Shu (316 BCE), sacked the Chu capital Ying (278 BCE), crushed Zhao at Changping (260 BCE), and under King Zheng conquered the six rival states between 230 and 221 BCE.",
       "rulersZh": "秦简公 → 孝公 → 惠文王 → 武王 → 昭襄王 → 孝文王 → 庄襄王 → 秦王政",
-      "rulersEn": "Duke Jian → Duke Xiao → King Huiwen → King Wu → King Zhaoxiang → King Xiaowen → King Zhuangxiang → King Zheng"
+      "rulersEn": "Duke Jian → Duke Xiao → King Huiwen → King Wu → King Zhaoxiang → King Xiaowen → King Zhuangxiang → King Zheng",
+      "summaryJa": "嬴姓の諸侯國。前361年、秦孝公が即位し、商鞅を登用して變法を行い、咸陽に遷都した。前316年に巴蜀を滅ぼし、前278年には白起が郢を陥落させ、前260年の長平の戦いでは趙軍を大破した。前230年から前221年にかけて、秦王嬴政は韓、趙、魏、楚、燕、齊を次々に滅ぼし、天下を統一した。"
     },
     {
       "key": "yan_state",
@@ -22600,10 +26981,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "燕国"
       ],
-      "summaryZh": "姬姓诸侯国，都蓟（今北京）。燕昭王筑台招贤，前284年乐毅合五国破齐；燕将秦开却东胡千里，置燕北五郡、筑燕北长城。前227年荆轲刺秦未遂，前226年秦破蓟，前222年燕亡。",
+      "summaryZh": "姬姓の諸侯國で、都は薊（現在の北京）。燕昭王は高台を築いて賢者を招き、前284年、樂毅が五國を率いて齊を破った。燕將秦開は東胡を千里退け、燕北五郡を設置し、燕北長城を築いた。前227年、荊軻の秦王暗殺は未遂に終わり、前226年、秦が薊を破り、前222年、燕は滅亡した。",
       "summaryEn": "Ji-clan state ruling from Ji (modern Beijing). King Zhao recruited talent and Yue Yi led the five-state rout of Qi (284 BCE); general Qin Kai drove back the Donghu and built the northern Yan walls. After Jing Ke's failed attempt on King Zheng (227 BCE), Qin took Ji (226 BCE) and ended Yan in 222 BCE.",
       "rulersZh": "燕湣公 → 简公 → 桓公 → 文公 → 易王 → 燕王哙 → 昭王 → 惠王 → 武成王 → 孝王 → 燕王喜",
-      "rulersEn": "Duke Min → Duke Wen → King Yi → King Kuai → King Zhao → King Hui → King Wucheng → King Xiao → King Xi"
+      "rulersEn": "Duke Min → Duke Wen → King Yi → King Kuai → King Zhao → King Hui → King Wucheng → King Xiao → King Xi",
+      "summaryJa": "姬姓の諸侯國で、都は薊（現在の北京）。燕昭王は高台を築いて賢者を招き、前284年、樂毅が五國を率いて齊を破った。燕將秦開は東胡を千里退け、燕北五郡を設置し、燕北長城を築いた。前227年、荊軻の秦王暗殺は未遂に終わり、前226年、秦が薊を破り、前222年、燕は滅亡した。"
     },
     {
       "key": "zhao_state",
@@ -22626,10 +27008,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "赵国"
       ],
-      "summaryZh": "三家分晋所立，前403年列为诸侯，前386年定都邯郸。赵武灵王推行胡服骑射，前296年灭中山；前260年长平之战惨败于秦；前228年秦破邯郸，公子嘉奔代称王，前222年亡。",
+      "summaryZh": "三晋分立により成立し、前403年に諸侯に列せられた。前386年、邯鄲に定都。趙武靈王は胡服騎射を推し進め、前296年に中山を滅ぼした。前260年の長平の戦いでは秦に慘敗した。前228年、秦が邯鄲を破ると、公子嘉は代に逃れて王を称したが、前222年、滅亡した。",
       "summaryEn": "Founded from the partition of Jin and recognized in 403 BCE, with its capital at Handan from 386 BCE. King Wuling's cavalry reforms let Zhao annex Zhongshan (296 BCE), but it was shattered by Qin at Changping (260 BCE). Handan fell in 228 BCE; Prince Jia held out as King of Dai until 222 BCE.",
       "rulersZh": "赵烈侯 → 武公 → 敬侯 → 成侯 → 肃侯 → 武灵王 → 惠文王 → 孝成王 → 悼襄王 → 幽缪王 → 代王嘉",
-      "rulersEn": "Marquis Lie → Marquis Jing → Marquis Cheng → Marquis Su → King Wuling → King Huiwen → King Xiaocheng → King Daoxiang → King Youmiu → King Jia of Dai"
+      "rulersEn": "Marquis Lie → Marquis Jing → Marquis Cheng → Marquis Su → King Wuling → King Huiwen → King Xiaocheng → King Daoxiang → King Youmiu → King Jia of Dai",
+      "summaryJa": "三晋分立により成立し、前403年に諸侯に列せられた。前386年、邯鄲に定都。趙武靈王は胡服騎射を推し進め、前296年に中山を滅ぼした。前260年の長平の戦いでは秦に慘敗した。前228年、秦が邯鄲を破ると、公子嘉は代に逃れて王を称したが、前222年、滅亡した。"
     },
     {
       "key": "qi_state",
@@ -22653,10 +27036,11 @@ window.ATLAS_LORE_DATA = {
         "齐国",
         "田齐"
       ],
-      "summaryZh": "前386年田和代姜齐为侯，史称田齐，都临淄，稷下学宫盛极一时。齐威王用孙膑于桂陵（前353）、马陵（前341）大破魏军；前284年乐毅率五国伐齐，几至亡国，田单以即墨复国；前221年秦军入临淄，齐王建降。",
+      "summaryZh": "前386年、田和が姜齊に代わって侯となり、史に田齊と称される。都は臨淄で、稷下學宮は一時期隆盛を極めた。齊威王は孫臏を登用し、桂陵（前353年）と馬陵（前341年）で魏軍を大破した。前284年、樂毅が五國を率いて齊を伐ち、ほとんど亡國寸前となったが、田單が即墨で國を復興させた。前221年、秦軍が臨淄に入城し、齊王建は降伏した。",
       "summaryEn": "Tian-clan Qi replaced the Jiang lords in 386 BCE and ruled from Linzi, home of the Jixia Academy. Sun Bin's victories at Guiling (353 BCE) and Maling (341 BCE) broke Wei; Yue Yi's five-state invasion of 284 BCE nearly destroyed Qi until Tian Dan's restoration from Jimo; King Jian surrendered to Qin in 221 BCE.",
       "rulersZh": "齐太公田和 → 桓公午 → 威王 → 宣王 → 湣王 → 襄王 → 齐王建",
-      "rulersEn": "Duke Tai (Tian He) → Duke Huan → King Wei → King Xuan → King Min → King Xiang → King Jian"
+      "rulersEn": "Duke Tai (Tian He) → Duke Huan → King Wei → King Xuan → King Min → King Xiang → King Jian",
+      "summaryJa": "前386年、田和が姜齊に代わって侯となり、史に田齊と称される。都は臨淄で、稷下學宮は一時期隆盛を極めた。齊威王は孫臏を登用し、桂陵（前353年）と馬陵（前341年）で魏軍を大破した。前284年、樂毅が五國を率いて齊を伐ち、ほとんど亡國寸前となったが、田單が即墨で國を復興させた。前221年、秦軍が臨淄に入城し、齊王建は降伏した。"
     },
     {
       "key": "xichu",
@@ -22684,8 +27068,9 @@ window.ATLAS_LORE_DATA = {
         "西楚霸王",
         "楚霸王"
       ],
-      "summaryZh": "前207年项羽巨鹿之战破釜沉舟歼灭秦军主力，前206年入咸阳分封十八诸侯，自立为西楚霸王，王梁楚九郡，定都彭城。楚汉战争中彭城之战以三万骑大破汉军五十六万，然久战失援，前202年垓下之战十面埋伏败亡，乌江自刎。",
-      "summaryEn": "After shattering the main Qin army at Julu (207 BCE), Xiang Yu entered Xianyang in 206 BCE, enfeoffed the Eighteen Kingdoms, and proclaimed himself Hegemon-King of Western Chu at Pengcheng. Despite routing Liu Bang at Pengcheng (205 BCE), he was encircled at Gaixia in 202 BCE and took his own life at the Wu River."
+      "summaryZh": "前207年、項羽は鉅鹿の戦いで釜を破り舟を沈める覚悟で秦軍の主力部隊を殲滅した。前206年には咸陽に入り十八諸侯を分封し、自ら西楚の覇王を称して梁楚九郡を領有し、彭城に都を定めた。楚漢戦争中の彭城の戦いでは、三万の騎兵で五十六万の漢軍を大破した。しかし、長期戦で援軍を失い、前202年の垓下の戦いでは十面埋伏の計に敗れて滅亡し、烏江で自刎した。",
+      "summaryEn": "After shattering the main Qin army at Julu (207 BCE), Xiang Yu entered Xianyang in 206 BCE, enfeoffed the Eighteen Kingdoms, and proclaimed himself Hegemon-King of Western Chu at Pengcheng. Despite routing Liu Bang at Pengcheng (205 BCE), he was encircled at Gaixia in 202 BCE and took his own life at the Wu River.",
+      "summaryJa": "前207年、項羽は鉅鹿の戦いで釜を破り舟を沈める覚悟で秦軍の主力部隊を殲滅した。前206年には咸陽に入り十八諸侯を分封し、自ら西楚の覇王を称して梁楚九郡を領有し、彭城に都を定めた。楚漢戦争中の彭城の戦いでは、三万の騎兵で五十六万の漢軍を大破した。しかし、長期戦で援軍を失い、前202年の垓下の戦いでは十面埋伏の計に敗れて滅亡し、烏江で自刎した。"
     },
     {
       "key": "nanyue",
@@ -22711,8 +27096,9 @@ window.ATLAS_LORE_DATA = {
         "南越",
         "赵氏南越"
       ],
-      "summaryZh": "秦南海郡尉赵佗于秦末绝道聚兵，前204年兼并桂林、象郡建立南越国，定都番禺（今广州），“和集百越”推行汉越融合。汉高祖、汉文帝两遣陆贾使粤，赵佗去帝号奉汉正朔；前111年汉武帝遣路博德、杨仆平南越，置南海等九郡。",
-      "summaryEn": "Founded in 204 BCE by former Qin magistrate Zhao Tuo with its capital at Panyu (Guangzhou), Nanyue united the Baiyue peoples and accepted Han suzerainty after Lu Jia's embassies. In 111 BCE Emperor Wu of Han sent Lu Bode and Yang Pu to conquer Nanyue and establish nine commanderies."
+      "summaryZh": "秦末、秦の南海郡尉であった趙佗は、交通路を遮断して兵を集め、前204年に桂林郡と象郡を併合して南越国を建国し、番禺（現在の広州）に都を定めた。「百越を和集」し、漢越融合を推進した。漢の高祖と文帝は二度、陸賈を南越に派遣し、趙佗は帝号を去って漢に臣従した。前111年、漢の武帝は路博徳と楊僕を派遣して南越を平定し、南海郡など九郡を設置した。",
+      "summaryEn": "Founded in 204 BCE by former Qin magistrate Zhao Tuo with its capital at Panyu (Guangzhou), Nanyue united the Baiyue peoples and accepted Han suzerainty after Lu Jia's embassies. In 111 BCE Emperor Wu of Han sent Lu Bode and Yang Pu to conquer Nanyue and establish nine commanderies.",
+      "summaryJa": "秦末、秦の南海郡尉であった趙佗は、交通路を遮断して兵を集め、前204年に桂林郡と象郡を併合して南越国を建国し、番禺（現在の広州）に都を定めた。「百越を和集」し、漢越融合を推進した。漢の高祖と文帝は二度、陸賈を南越に派遣し、趙佗は帝号を去って漢に臣従した。前111年、漢の武帝は路博徳と楊僕を派遣して南越を平定し、南海郡など九郡を設置した。"
     },
     {
       "key": "xiyu_duhufu",
@@ -22741,8 +27127,9 @@ window.ATLAS_LORE_DATA = {
         "西域都护",
         "西域长史府"
       ],
-      "summaryZh": "前60年（汉宣帝神爵二年）匈奴日逐王降汉，郑吉并护车师以西北道与南道，始置西域都护府于乌垒城，统辖西域三十六国，西域正式纳入中国版图。新莽末年中断；东汉永平、永元年间班超“投笔从戎”经营西域三十一年，91年复任西域都护驻龟兹它乾城，遣甘英使大秦；后改由西域长史班勇等驻柳中统辖。",
-      "summaryEn": "Established in 60 BCE under Emperor Xuan with Zheng Ji as first Protector-General at Wulei (Luntai) over both routes of the Tarim Basin, bringing the Western Regions into Han administration. Interrupted after the Xin dynasty, it was restored by Ban Chao during his thirty-one-year mission (appointed Protector-General at Kucha in 91 CE) and continued under his son Ban Yong at Liuzhong."
+      "summaryZh": "前60年（漢の宣帝の神爵二年）、匈奴の日逐王が漢に降伏し、鄭吉が車師国を西北道と南道と共に保護し、烏塁城に西域都護府が初めて設置された。これにより西域三十六国が統轄され、西域は正式に中国の版図に組み込まれた。新末に中断されたが、後漢の永平年間から永元年間にかけて、班超は「筆を投じて戎に従う」覚悟で三十一年間西域を経営し、91年には西域都護に復任して亀茲の它乾城に駐屯し、甘英を大秦に派遣した。その後、西域長史の班勇らが柳中に駐屯して統轄した。",
+      "summaryEn": "Established in 60 BCE under Emperor Xuan with Zheng Ji as first Protector-General at Wulei (Luntai) over both routes of the Tarim Basin, bringing the Western Regions into Han administration. Interrupted after the Xin dynasty, it was restored by Ban Chao during his thirty-one-year mission (appointed Protector-General at Kucha in 91 CE) and continued under his son Ban Yong at Liuzhong.",
+      "summaryJa": "前60年（漢の宣帝の神爵二年）、匈奴の日逐王が漢に降伏し、鄭吉が車師国を西北道と南道と共に保護し、烏塁城に西域都護府が初めて設置された。これにより西域三十六国が統轄され、西域は正式に中国の版図に組み込まれた。新末に中断されたが、後漢の永平年間から永元年間にかけて、班超は「筆を投じて戎に従う」覚悟で三十一年間西域を経営し、91年には西域都護に復任して亀茲の它乾城に駐屯し、甘英を大秦に派遣した。その後、西域長史の班勇らが柳中に駐屯して統轄した。"
     },
     {
       "key": "xin_wangmang",
@@ -22769,8 +27156,9 @@ window.ATLAS_LORE_DATA = {
         "新莽",
         "王莽新朝"
       ],
-      "summaryZh": "西汉外戚大司马王莽于公元8年底（初始元年）逼孺子婴禅让，建国号“新”，改长安曰常安。托古改制推行王田私属、五均六筦、屡改币制，并贬西域、匈奴与高句丽封号引发四夷交怨；天凤、地皇年间绿林、赤眉大起义爆发，23年昆阳之战主力覆灭，绿林军攻入长安诛王莽，新亡。",
-      "summaryEn": "In 8–9 CE the Han regent Wang Mang took the throne and proclaimed the Xin dynasty at Chang'an. His sweeping archaic reforms — nationalizing land as \"King's Fields\", state monopolies and repeated currency overhauls — along with frontier wars provoked the Lulin and Red Eyebrows uprisings; after his main army was crushed by Liu Xiu at Kunyang in 23 CE, rebels stormed Chang'an and killed Wang Mang."
+      "summaryZh": "前漢の外戚で大司馬であった王莽は、8年末（初始元年）に孺子嬰に禅譲を迫り、「新」を建国し、長安を常安と改称した。古制を模範とした改革を掲げ、王田私属（土地の国有化と奴婢の売買禁止）、五均六筦（物価統制と専売制）、度重なる幣制改革を推し進めた。また、西域、匈奴、高句麗の封号を貶めたことで、四夷の怨嗟を招いた。天鳳年間から地皇年間にかけて、緑林軍や赤眉軍による大規模な反乱が勃発し、23年の昆陽の戦いで主力軍が壊滅すると、緑林軍が長安に攻め入り王莽を誅殺し、新は滅亡した。",
+      "summaryEn": "In 8–9 CE the Han regent Wang Mang took the throne and proclaimed the Xin dynasty at Chang'an. His sweeping archaic reforms — nationalizing land as \"King's Fields\", state monopolies and repeated currency overhauls — along with frontier wars provoked the Lulin and Red Eyebrows uprisings; after his main army was crushed by Liu Xiu at Kunyang in 23 CE, rebels stormed Chang'an and killed Wang Mang.",
+      "summaryJa": "前漢の外戚で大司馬であった王莽は、8年末（初始元年）に孺子嬰に禅譲を迫り、「新」を建国し、長安を常安と改称した。古制を模範とした改革を掲げ、王田私属（土地の国有化と奴婢の売買禁止）、五均六筦（物価統制と専売制）、度重なる幣制改革を推し進めた。また、西域、匈奴、高句麗の封号を貶めたことで、四夷の怨嗟を招いた。天鳳年間から地皇年間にかけて、緑林軍や赤眉軍による大規模な反乱が勃発し、23年の昆陽の戦いで主力軍が壊滅すると、緑林軍が長安に攻め入り王莽を誅殺し、新は滅亡した。"
     },
     {
       "key": "chengjia",
@@ -22796,8 +27184,9 @@ window.ATLAS_LORE_DATA = {
         "公孙述政权",
         "大成（公孙述）"
       ],
-      "summaryZh": "新莽末年导江卒正公孙述据益州保境，24年自称蜀王，於鱼复筑白帝城扼守三峡；25年四月于成都称天子，国号“成家”，建元龙兴，蜀中免于战乱十余年。36年东汉光武帝遣大司马吴汉、岑彭水陆入蜀攻克成都，公孙述重伤战死。",
-      "summaryEn": "Holding Sichuan as the Xin dynasty collapsed, Gongsun Shu fortified Baidicheng at the Three Gorges and proclaimed himself Emperor of Chengjia at Chengdu in 25 CE, keeping Sichuan prosperous for over a decade until Emperor Guangwu's general Wu Han captured Chengdu in 36 CE."
+      "summaryZh": "新末、導江卒正の公孫述は益州を拠点に境域を保ち、24年には蜀王を自称し、魚復に白帝城を築いて三峡を扼守した。25年四月には成都で天子を称し、国号を「成家」とし、元号を龍興と定めたため、蜀中は十余年間戦乱を免れた。36年、後漢の光武帝は大司馬の呉漢と岑彭を派遣して水陸両面から蜀に侵攻し成都を攻略、公孫述は重傷を負い戦死した。",
+      "summaryEn": "Holding Sichuan as the Xin dynasty collapsed, Gongsun Shu fortified Baidicheng at the Three Gorges and proclaimed himself Emperor of Chengjia at Chengdu in 25 CE, keeping Sichuan prosperous for over a decade until Emperor Guangwu's general Wu Han captured Chengdu in 36 CE.",
+      "summaryJa": "新末、導江卒正の公孫述は益州を拠点に境域を保ち、24年には蜀王を自称し、魚復に白帝城を築いて三峡を扼守した。25年四月には成都で天子を称し、国号を「成家」とし、元号を龍興と定めたため、蜀中は十余年間戦乱を免れた。36年、後漢の光武帝は大司馬の呉漢と岑彭を派遣して水陸両面から蜀に侵攻し成都を攻略、公孫述は重傷を負い戦死した。"
     },
     {
       "key": "gongsun_liaodong",
@@ -22824,8 +27213,9 @@ window.ATLAS_LORE_DATA = {
         "辽东公孙氏",
         "公孙燕"
       ],
-      "summaryZh": "189年公孙度出任辽东太守，东伐高句丽、西击乌桓，跨海收胶东，辟土设乐浪、带方二郡，割据辽东半世纪。237年公孙渊自称燕王、建元绍汉，周旋于曹魏与孙吴之间；238年太尉司马懿率魏军四万长途奔袭，围破襄平斩公孙渊，辽东平定。",
-      "summaryEn": "Appointed Grand Administrator of Liaodong in 189, Gongsun Du and his heirs held the northeast for half a century from Xiangping (Liaoyang) and established Daifang Commandery. After Gongsun Yuan proclaimed himself King of Yan in 237, Cao Wei grand commander Sima Yi marched north in 238, stormed Xiangping and ended the regime."
+      "summaryZh": "189年、公孫度が遼東太守に就任し、東に高句麗を討ち、西に烏桓を撃ち、海を越えて膠東を収め、領土を広げて楽浪郡と帯方郡を設置し、半世紀にわたり遼東に割拠した。237年、公孫淵は燕王を自称し、元号を紹漢と定め、曹魏と孫呉の間で周旋した。238年、太尉の司馬懿は魏軍四万を率いて長距離強襲を行い、襄平を包囲・陥落させて公孫淵を斬り、遼東を平定した。",
+      "summaryEn": "Appointed Grand Administrator of Liaodong in 189, Gongsun Du and his heirs held the northeast for half a century from Xiangping (Liaoyang) and established Daifang Commandery. After Gongsun Yuan proclaimed himself King of Yan in 237, Cao Wei grand commander Sima Yi marched north in 238, stormed Xiangping and ended the regime.",
+      "summaryJa": "189年、公孫度が遼東太守に就任し、東に高句麗を討ち、西に烏桓を撃ち、海を越えて膠東を収め、領土を広げて楽浪郡と帯方郡を設置し、半世紀にわたり遼東に割拠した。237年、公孫淵は燕王を自称し、元号を紹漢と定め、曹魏と孫呉の間で周旋した。238年、太尉の司馬懿は魏軍四万を率いて長距離強襲を行い、襄平を包囲・陥落させて公孫淵を斬り、遼東を平定した。"
     },
     {
       "key": "caowei",
@@ -22851,8 +27241,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "魏国"
       ],
-      "summaryZh": "220年曹丕受汉献帝禅让称帝，都洛阳，据有北方。魏明帝时诸葛亮北伐，司马懿据守；249年高平陵之变后司马氏专权，263年钟会、邓艾灭蜀汉；265年司马炎代魏建晋。",
-      "summaryEn": "Cao Pi accepted Emperor Xian's abdication in 220 and ruled northern China from Luoyang. Sima Yi parried Zhuge Liang's northern campaigns; after the Gaopingling coup (249) the Sima clan dominated, conquered Shu Han in 263, and Sima Yan replaced Wei with Jin in 265."
+      "summaryZh": "220年、曹丕は漢の献帝から禅譲を受けて帝位に就き、洛陽に都を定めて北方地域を支配した。魏の明帝の時代には諸葛亮が北伐を行ったが、司馬懿がこれを防衛した。249年の高平陵の変以降、司馬氏が専権を握り、263年には鍾会と鄧艾が蜀漢を滅ぼした。265年、司馬炎は魏に代わって晋を建国した。",
+      "summaryEn": "Cao Pi accepted Emperor Xian's abdication in 220 and ruled northern China from Luoyang. Sima Yi parried Zhuge Liang's northern campaigns; after the Gaopingling coup (249) the Sima clan dominated, conquered Shu Han in 263, and Sima Yan replaced Wei with Jin in 265.",
+      "summaryJa": "220年、曹丕は漢の献帝から禅譲を受けて帝位に就き、洛陽に都を定めて北方地域を支配した。魏の明帝の時代には諸葛亮が北伐を行ったが、司馬懿がこれを防衛した。249年の高平陵の変以降、司馬氏が専権を握り、263年には鍾会と鄧艾が蜀漢を滅ぼした。265年、司馬炎は魏に代わって晋を建国した。"
     },
     {
       "key": "shuhan",
@@ -22881,8 +27272,9 @@ window.ATLAS_LORE_DATA = {
         "蜀",
         "季汉"
       ],
-      "summaryZh": "221年刘备在成都称帝，以汉为国号，史称蜀汉。222年夷陵之战败于东吴；诸葛亮辅后主刘禅，平定南中、五次北伐（228—234），卒于五丈原；姜维继续北伐。263年魏将邓艾偷渡阴平，刘禅出降。",
-      "summaryEn": "Liu Bei proclaimed himself emperor of Han at Chengdu in 221. After defeat by Wu at Yiling (222), Zhuge Liang served Liu Shan, pacified Nanzhong and led five northern campaigns (228–234) until his death at Wuzhang Plains; Jiang Wei carried on until Deng Ai's march via Yinping forced Liu Shan's surrender in 263."
+      "summaryZh": "221年、劉備は成都で帝位に就き、国号を漢とした（史称：蜀漢）。222年の夷陵の戦いでは東呉に敗れた。諸葛亮は後主劉禅を補佐し、南中を平定し、五度にわたる北伐（228〜234年）を行ったが、五丈原で没した。姜維が北伐を継続した。263年、魏将の鄧艾が陰平を密かに渡って侵攻し、劉禅は降伏した。",
+      "summaryEn": "Liu Bei proclaimed himself emperor of Han at Chengdu in 221. After defeat by Wu at Yiling (222), Zhuge Liang served Liu Shan, pacified Nanzhong and led five northern campaigns (228–234) until his death at Wuzhang Plains; Jiang Wei carried on until Deng Ai's march via Yinping forced Liu Shan's surrender in 263.",
+      "summaryJa": "221年、劉備は成都で帝位に就き、国号を漢とした（史称：蜀漢）。222年の夷陵の戦いでは東呉に敗れた。諸葛亮は後主劉禅を補佐し、南中を平定し、五度にわたる北伐（228〜234年）を行ったが、五丈原で没した。姜維が北伐を継続した。263年、魏将の鄧艾が陰平を密かに渡って侵攻し、劉禅は降伏した。"
     },
     {
       "key": "sunwu",
@@ -22910,8 +27302,9 @@ window.ATLAS_LORE_DATA = {
         "东吴",
         "吴国"
       ],
-      "summaryZh": "孙策、孙权兄弟经营江东，208年与刘备联军赤壁破曹，219年袭取荆州，222年夷陵之战陆逊大破刘备，同年孙权称吴王，229年称帝迁都建业。末帝孙皓暴政，280年晋军六路伐吴，孙皓出降。",
-      "summaryEn": "Built up in Jiangdong by Sun Ce and Sun Quan, Wu joined Liu Bei to defeat Cao Cao at Red Cliffs (208), seized Jing Province (219) and crushed Liu Bei at Yiling (222). Sun Quan became King of Wu in 222 and emperor at Jianye in 229; Sun Hao's misrule ended with Jin's six-pronged invasion and surrender in 280."
+      "summaryZh": "孫策・孫権兄弟は江東を経営し、208年、劉備と連合して赤壁で曹操を破った。219年には荊州を襲取し、222年の夷陵の戦いでは陸遜が劉備を大破した。同年、孫権は呉王を称し、229年には帝位に就き建業に遷都した。末帝の孫皓が暴政を敷いたため、280年、晉軍の六路からの侵攻を受け、孫皓は降伏した。",
+      "summaryEn": "Built up in Jiangdong by Sun Ce and Sun Quan, Wu joined Liu Bei to defeat Cao Cao at Red Cliffs (208), seized Jing Province (219) and crushed Liu Bei at Yiling (222). Sun Quan became King of Wu in 222 and emperor at Jianye in 229; Sun Hao's misrule ended with Jin's six-pronged invasion and surrender in 280.",
+      "summaryJa": "孫策・孫権兄弟は江東を経営し、208年、劉備と連合して赤壁で曹操を破った。219年には荊州を襲取し、222年の夷陵の戦いでは陸遜が劉備を大破した。同年、孫権は呉王を称し、229年には帝位に就き建業に遷都した。末帝の孫皓が暴政を敷いたため、280年、晉軍の六路からの侵攻を受け、孫皓は降伏した。"
     },
     {
       "key": "xijin_rise",
@@ -22938,8 +27331,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "司马晋"
       ],
-      "summaryZh": "263年司马昭遣邓艾、钟会灭蜀汉，265年晋王司马炎受魏元帝曹奂禅让称帝，建立西晋，定都洛阳。与江东孙吴南北对峙十五载，命羊祜、杜预镇守襄阳怀柔经略，王濬于益州大造楼船；279年底发兵二十万六路伐吴，280年克建业，三国归晋。",
-      "summaryEn": "After conquering Shu Han in 263, Sima Yan accepted Cao Wei's abdication at Luoyang in 265 to found Western Jin. Preparing for fifteen years under Yang Hu and Du Yu at Xiangyang while Wang Jun built warships in Sichuan, Jin launched a six-column invasion in late 279 and captured Jianye in 280, reunifying China."
+      "summaryZh": "263年、司馬昭は鄧艾・鍾會を派遣して蜀漢を滅ぼした。265年、晉王司馬炎は魏元帝曹奐の禅譲を受け帝位に就き、西晉を建国し洛陽に都を定めた。江東の孫吳とは南北に15年間対峙し、羊祜・杜預に襄陽を鎮守させ懐柔経略を進め、王濬には益州で楼船を多数建造させた。279年末、20万の兵を六路から吳に侵攻させ、280年には建業を攻略し、三國は晉に統一された。",
+      "summaryEn": "After conquering Shu Han in 263, Sima Yan accepted Cao Wei's abdication at Luoyang in 265 to found Western Jin. Preparing for fifteen years under Yang Hu and Du Yu at Xiangyang while Wang Jun built warships in Sichuan, Jin launched a six-column invasion in late 279 and captured Jianye in 280, reunifying China.",
+      "summaryJa": "263年、司馬昭は鄧艾・鍾會を派遣して蜀漢を滅ぼした。265年、晉王司馬炎は魏元帝曹奐の禅譲を受け帝位に就き、西晉を建国し洛陽に都を定めた。江東の孫吳とは南北に15年間対峙し、羊祜・杜預に襄陽を鎮守させ懐柔経略を進め、王濬には益州で楼船を多数建造させた。279年末、20万の兵を六路から吳に侵攻させ、280年には建業を攻略し、三國は晉に統一された。"
     },
     {
       "key": "qianliang",
@@ -22959,10 +27353,11 @@ window.ATLAS_LORE_DATA = {
         "张天锡",
         "张氏据凉州"
       ],
-      "summaryZh": "301年张轨出任凉州刺史，保境安民，中原士人避乱西奔；张氏奉晋正朔，据河西七十余年，张骏时经营高昌。376年前秦攻姑臧，张天锡出降。",
+      "summaryZh": "301年、張軌が涼州刺史に就任し、境域を保全し民を安んじたため、中原の士人が乱を避けて西方へ奔った。張氏は晉の正朔を奉じ、河西を70年余り支配した。張駿の時代には高昌を経営した。376年、前秦が姑臧を攻撃すると、張天錫は降伏した。",
       "summaryEn": "From 301 the governor Zhang Gui and his heirs held the Hexi Corridor from Guzang, sheltering refugees from the north and nominally loyal to Jin; Zhang Jun extended control to Gaochang. Former Qin's army took Guzang in 376 and Zhang Tianxi surrendered.",
       "rulersZh": "武公张轨 → 元公张寔 → 成公张茂 → 文公张骏 → 桓公张重华 → 悼公张曜灵 → 张祚 → 冲公张玄靓 → 悼公张天锡",
-      "rulersEn": "Zhang Gui → Zhang Shi → Zhang Mao → Zhang Jun → Zhang Chonghua → Zhang Yaoling → Zhang Zuo → Zhang Xuanjing → Zhang Tianxi"
+      "rulersEn": "Zhang Gui → Zhang Shi → Zhang Mao → Zhang Jun → Zhang Chonghua → Zhang Yaoling → Zhang Zuo → Zhang Xuanjing → Zhang Tianxi",
+      "summaryJa": "301年、張軌が涼州刺史に就任し、境域を保全し民を安んじたため、中原の士人が乱を避けて西方へ奔った。張氏は晉の正朔を奉じ、河西を70年余り支配した。張駿の時代には高昌を経営した。376年、前秦が姑臧を攻撃すると、張天錫は降伏した。"
     },
     {
       "key": "hanzhao",
@@ -22988,10 +27383,11 @@ window.ATLAS_LORE_DATA = {
         "前赵",
         "汉赵"
       ],
-      "summaryZh": "匈奴刘渊304年在左国城称汉王，308年称帝都平阳；刘聪时311年攻破洛阳（永嘉之乱），316年陷长安灭西晋。319年刘曜迁都长安改国号赵，史称前赵；328年洛阳之战为石勒所擒，329年亡。",
+      "summaryZh": "匈奴の劉淵は304年、左國城で漢王を称し、308年には帝位に就き平陽に都した。劉聰の時代、311年には洛陽を攻め破り（永嘉の乱）、316年には長安を陥落させ西晉を滅ぼした。319年、劉曜は長安に遷都し國號を趙と改め、史に前趙と称される。328年の洛陽の戦いで石勒に捕らえられ、329年に滅亡した。",
       "summaryEn": "The Xiongnu leader Liu Yuan proclaimed himself King of Han at Zuoguocheng (304) and emperor at Pingyang (308). Liu Cong's armies sacked Luoyang (311) and took Chang'an (316), ending Western Jin. Liu Yao moved to Chang'an and renamed the state Zhao (319); captured by Shi Le at Luoyang in 328, the state fell in 329.",
       "rulersZh": "光文帝刘渊 → 刘和 → 昭武帝刘聪 → 隐帝刘粲 → 末主刘曜",
-      "rulersEn": "Liu Yuan → Liu He → Liu Cong → Liu Can → Liu Yao"
+      "rulersEn": "Liu Yuan → Liu He → Liu Cong → Liu Can → Liu Yao",
+      "summaryJa": "匈奴の劉淵は304年、左國城で漢王を称し、308年には帝位に就き平陽に都した。劉聰の時代、311年には洛陽を攻め破り（永嘉の乱）、316年には長安を陥落させ西晉を滅ぼした。319年、劉曜は長安に遷都し國號を趙と改め、史に前趙と称される。328年の洛陽の戦いで石勒に捕らえられ、329年に滅亡した。"
     },
     {
       "key": "chenghan",
@@ -23013,10 +27409,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "大成"
       ],
-      "summaryZh": "賨人李特率流民起事，304年其子李雄据成都称王，306年称帝，国号大成；338年李寿改国号为汉，史称成汉。347年东晋桓温西征，李势出降。",
+      "summaryZh": "賨人の李特が流民を率いて挙兵し、304年、その子の李雄が成都を拠点に王を称し、306年には帝位に就き、國號を大成とした。338年、李壽が國號を漢と改め、史に成漢と称される。347年、東晉の桓溫が西征すると、李勢は降伏した。",
       "summaryEn": "Founded by refugees led by the Cong chief Li Te; his son Li Xiong took Chengdu as king (304) and emperor of Great Cheng (306). Li Shou renamed the state Han in 338, and Huan Wen's Eastern Jin expedition forced Li Shi's surrender in 347.",
       "rulersZh": "景帝李特 → 武帝李雄 → 哀帝李班 → 幽公李期 → 昭文帝李寿 → 末主李势",
-      "rulersEn": "Li Te → Li Xiong → Li Ban → Li Qi → Li Shou → Li Shi"
+      "rulersEn": "Li Te → Li Xiong → Li Ban → Li Qi → Li Shou → Li Shi",
+      "summaryJa": "賨人の李特が流民を率いて挙兵し、304年、その子の李雄が成都を拠点に王を称し、306年には帝位に就き、國號を大成とした。338年、李壽が國號を漢と改め、史に成漢と称される。347年、東晉の桓溫が西征すると、李勢は降伏した。"
     },
     {
       "key": "tuyuhun",
@@ -23044,8 +27441,9 @@ window.ATLAS_LORE_DATA = {
         "阿柴虏",
         "慕容吐谷浑"
       ],
-      "summaryZh": "辽东鲜卑慕容吐谷浑西迁甘青草原所建政权，据有青海、柴达木与河湟之地，都伏俟城，扼丝路青海道。609年隋炀帝西征曾置西海等四郡；635年唐将李靖西征迫伏允可汗降唐，唐册封诺曷钵为河源郡王、尚弘化公主。663年为吐蕃所并，670年薛仁贵大非川护送复国失利，诺曷钵率部内迁灵州。",
-      "summaryEn": "Founded by Murong Tuyuhun of the Xianbei on the Qinghai plateau with its capital at Fusi City west of Qinghai Lake, controlling the southern Silk Road bypass. After Li Jing's 635 expedition, Tang invested Khan Nuohebo and married him to Princess Honghua; Tibet conquered Tuyuhun in 663 and defeated Xue Rengui's restoration army at Dafeichuan in 670."
+      "summaryZh": "遼東鮮卑の慕容吐谷渾が甘青草原に西遷して建てた政権で、青海・柴達木・河湟の地を領有し、伏俟城に都し、シルクロード青海道の要衝を扼した。609年、隋煬帝の西征により西海など四郡が置かれた。635年、唐の將軍李靖の西征により伏允可汗は唐に降伏を迫られ、唐は諾曷鉢を河源郡王に冊封し、弘化公主を娶らせた。663年、吐蕃に併合され、670年、薛仁貴が大非川で復國を護送したが失敗し、諾曷鉢は部衆を率いて靈州に内遷した。",
+      "summaryEn": "Founded by Murong Tuyuhun of the Xianbei on the Qinghai plateau with its capital at Fusi City west of Qinghai Lake, controlling the southern Silk Road bypass. After Li Jing's 635 expedition, Tang invested Khan Nuohebo and married him to Princess Honghua; Tibet conquered Tuyuhun in 663 and defeated Xue Rengui's restoration army at Dafeichuan in 670.",
+      "summaryJa": "遼東鮮卑の慕容吐谷渾が甘青草原に西遷して建てた政権で、青海・柴達木・河湟の地を領有し、伏俟城に都し、シルクロード青海道の要衝を扼した。609年、隋煬帝の西征により西海など四郡が置かれた。635年、唐の將軍李靖の西征により伏允可汗は唐に降伏を迫られ、唐は諾曷鉢を河源郡王に冊封し、弘化公主を娶らせた。663年、吐蕃に併合され、670年、薛仁貴が大非川で復國を護送したが失敗し、諾曷鉢は部衆を率いて靈州に内遷した。"
     },
     {
       "key": "daiguo",
@@ -23067,10 +27465,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "拓跋代"
       ],
-      "summaryZh": "鲜卑拓跋部首领猗卢315年受西晋封为代王；什翼犍时置百官、定都盛乐。376年为前秦所灭，386年其孙拓跋珪复国，改称魏（北魏）。",
+      "summaryZh": "鮮卑拓跋部の首領猗盧は315年、西晉より代王に封じられた。什翼犍の時代には百官を置き、盛樂に都を定めた。376年、前秦に滅ぼされ、386年、その孫の拓跋珪が復國し、魏（北魏）と改称した。",
       "summaryEn": "In 315 Western Jin enfeoffed the Tuoba Xianbei chief Yilu as King of Dai; Shiyijian organized a court at Shengle. Former Qin destroyed Dai in 376, and his grandson Tuoba Gui restored it in 386 as Wei (Northern Wei).",
       "rulersZh": "代穆帝拓跋猗卢 → 平文帝拓跋郁律 → 惠帝拓跋贺傉 → 炀帝拓跋纥那 → 烈帝拓跋翳槐 → 昭成帝拓跋什翼犍",
-      "rulersEn": "Tuoba Yilu → Tuoba Yulü → Tuoba Heru → Tuoba Hena → Tuoba Yihuai → Tuoba Shiyijian"
+      "rulersEn": "Tuoba Yilu → Tuoba Yulü → Tuoba Heru → Tuoba Hena → Tuoba Yihuai → Tuoba Shiyijian",
+      "summaryJa": "鮮卑拓跋部の首領猗盧は315年、西晉より代王に封じられた。什翼犍の時代には百官を置き、盛樂に都を定めた。376年、前秦に滅ぼされ、386年、その孫の拓跋珪が復國し、魏（北魏）と改称した。"
     },
     {
       "key": "houzhao",
@@ -23089,10 +27488,11 @@ window.ATLAS_LORE_DATA = {
         "石虎",
         "冉闵"
       ],
-      "summaryZh": "羯人石勒319年在襄国称赵王，329年灭前赵统一北方大部，330年称帝。石虎335年迁都邺城；349年石虎死后诸子相残，350年冉闵篡立冉魏，351年后赵亡。",
+      "summaryZh": "羯人の石勒は319年、襄國で趙王を称し、329年には前趙を滅ぼし北方の大部分を統一し、330年に帝位に就いた。石虎は335年、鄴城に遷都した。349年、石虎の死後、諸子が互いに争い、350年、冉閔が簒奪して冉魏を建て、351年、後趙は滅亡した。",
       "summaryEn": "The Jie warlord Shi Le proclaimed himself King of Zhao at Xiangguo (319), destroyed Former Zhao (329) and became emperor (330). Shi Hu moved the court to Ye (335); after his death (349) his sons fought each other, Ran Min seized power in 350 and Later Zhao ended in 351.",
       "rulersZh": "明帝石勒 → 海阳王石弘 → 武帝石虎 → 石世 → 石遵 → 石鉴 → 末主石祗",
-      "rulersEn": "Shi Le → Shi Hong → Shi Hu → Shi Shi → Shi Zun → Shi Jian → Shi Zhi"
+      "rulersEn": "Shi Le → Shi Hong → Shi Hu → Shi Shi → Shi Zun → Shi Jian → Shi Zhi",
+      "summaryJa": "羯人の石勒は319年、襄國で趙王を称し、329年には前趙を滅ぼし北方の大部分を統一し、330年に帝位に就いた。石虎は335年、鄴城に遷都した。349年、石虎の死後、諸子が互いに争い、350年、冉閔が簒奪して冉魏を建て、351年、後趙は滅亡した。"
     },
     {
       "key": "qianyan",
@@ -23113,11 +27513,12 @@ window.ATLAS_LORE_DATA = {
         "慕容恪",
         "枋头"
       ],
-      "summaryZh": "鲜卑慕容皝337年称燕王，都龙城；慕容儁350年南下取蓟，352年灭冉魏称帝，357年迁都邺。369年慕容垂枋头大败桓温北伐；370年前秦王猛攻破邺城，前燕亡。",
+      "summaryZh": "鮮卑の慕容皝は337年に燕王を称し、龍城に都した。慕容儁は350年に南下して薊を奪い、352年に冉魏を滅ぼして皇帝を称し、357年に鄴へ遷都した。369年、慕容垂は枋頭で桓温の北伐軍を大破したが、370年に前秦の王猛が鄴城を攻め落とし、前燕は滅亡した。",
       "summaryEn": "Murong Huang of the Xianbei proclaimed himself King of Yan (337); Murong Jun took Ji (350), destroyed Ran Wei and became emperor (352), and moved to Ye (357). Murong Chui routed Huan Wen at Fangtou (369), but Wang Meng's Former Qin army took Ye in 370.",
       "matchFrom": 316,
       "rulersZh": "武宣帝慕容廆 → 文明帝慕容皝 → 景昭帝慕容儁 → 幽帝慕容暐",
-      "rulersEn": "Murong Hui → Murong Huang → Murong Jun → Murong Wei"
+      "rulersEn": "Murong Hui → Murong Huang → Murong Jun → Murong Wei",
+      "summaryJa": "鮮卑の慕容皝は337年に燕王を称し、龍城に都した。慕容儁は350年に南下して薊を奪い、352年に冉魏を滅ぼして皇帝を称し、357年に鄴へ遷都した。369年、慕容垂は枋頭で桓温の北伐軍を大破したが、370年に前秦の王猛が鄴城を攻め落とし、前燕は滅亡した。"
     },
     {
       "key": "ranwei",
@@ -23142,8 +27543,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "冉闵政权"
       ],
-      "summaryZh": "后赵武帝石虎养孙冉闵于349年石氏内乱中掌兵，颁布“杀胡令”；350年于邺城称帝，复姓冉，国号大魏，史称冉魏。351年攻灭后赵残部石祗于襄国；352年与前燕慕容儁、慕容恪决战于廉台被擒遇害，邺城守将奉传国玉玺南归东晋。",
-      "summaryEn": "Adopted into the Later Zhao royal house, general Ran Min seized power amid the 349 succession war and proclaimed the Wei state (Ran Wei) at Ye in 350. He eliminated the last Later Zhao claimant at Xiangguo in 351, but in 352 Former Yan forces under Murong Ke captured him at Liantai and took Ye, while the Heirloom Seal was returned to Eastern Jin."
+      "summaryZh": "後趙の武帝石虎の養孫である冉閔は、349年の石氏の内乱に乗じて兵権を掌握し、「殺胡令」を発布した。350年、鄴城で皇帝を称し、姓を冉に戻して国号を大魏とした（史称、冉魏）。351年、襄国で後趙の残党である石祗を攻め滅ぼしたが、352年に前燕の慕容儁・慕容恪と廉台で決戦し捕らえられて殺害され、鄴城の守将は伝国玉璽を奉じて東晉に帰順した。",
+      "summaryEn": "Adopted into the Later Zhao royal house, general Ran Min seized power amid the 349 succession war and proclaimed the Wei state (Ran Wei) at Ye in 350. He eliminated the last Later Zhao claimant at Xiangguo in 351, but in 352 Former Yan forces under Murong Ke captured him at Liantai and took Ye, while the Heirloom Seal was returned to Eastern Jin.",
+      "summaryJa": "後趙の武帝石虎の養孫である冉閔は、349年の石氏の内乱に乗じて兵権を掌握し、「殺胡令」を発布した。350年、鄴城で皇帝を称し、姓を冉に戻して国号を大魏とした（史称、冉魏）。351年、襄国で後趙の残党である石祗を攻め滅ぼしたが、352年に前燕の慕容儁・慕容恪と廉台で決戦し捕らえられて殺害され、鄴城の守将は伝国玉璽を奉じて東晉に帰順した。"
     },
     {
       "key": "qianqin",
@@ -23163,10 +27565,11 @@ window.ATLAS_LORE_DATA = {
         "王猛",
         "淝水"
       ],
-      "summaryZh": "氐人苻健351年据长安称天王，352年称帝。苻坚任王猛整顿内政，370年灭前燕、376年灭前凉与代，统一北方。383年淝水之战大败于东晋，北方随即分崩，385年苻坚为姚苌所杀，394年亡。",
+      "summaryZh": "氐人の苻健は351年に長安を拠点として天王を称し、352年に皇帝を称した。苻堅は王猛を任用して内政を整え、370年に前燕を、376年に前涼と代を滅ぼし、華北を統一した。383年の淝水の戦いで東晉に大敗し、華北はすぐに分裂した。385年、苻堅は姚苌に殺害され、394年に滅亡した。",
       "summaryEn": "The Di leader Fu Jian (the elder) seized Chang'an in 351. Fu Jian, advised by Wang Meng, destroyed Former Yan (370), Former Liang and Dai (376) to unify the north. The defeat at the Fei River (383) shattered the empire; Fu Jian was killed by Yao Chang (385) and the state ended in 394.",
       "rulersZh": "景明帝苻健 → 厉王苻生 → 宣昭帝苻坚 → 哀平帝苻丕 → 高帝苻登 → 末主苻崇",
-      "rulersEn": "Fu Jian (elder) → Fu Sheng → Fu Jian → Fu Pi → Fu Deng → Fu Chong"
+      "rulersEn": "Fu Jian (elder) → Fu Sheng → Fu Jian → Fu Pi → Fu Deng → Fu Chong",
+      "summaryJa": "氐人の苻健は351年に長安を拠点として天王を称し、352年に皇帝を称した。苻堅は王猛を任用して内政を整え、370年に前燕を、376年に前涼と代を滅ぼし、華北を統一した。383年の淝水の戦いで東晉に大敗し、華北はすぐに分裂した。385年、苻堅は姚苌に殺害され、394年に滅亡した。"
     },
     {
       "key": "houyan",
@@ -23186,10 +27589,11 @@ window.ATLAS_LORE_DATA = {
         "慕容宝",
         "冯跋"
       ],
-      "summaryZh": "淝水战后慕容垂384年复国称燕王，386年称帝都中山。395年参合陂之战惨败于北魏，397年中山失陷，残部退守龙城，407年为冯跋等所灭。",
+      "summaryZh": "淝水の戦いの後、慕容垂は384年に燕を復興して燕王を称し、386年に皇帝を称して中山に都した。395年の參合陂の戦いで北魏に惨敗し、397年に中山が陥落すると、残党は龍城に退き、407年に馮跋らによって滅ぼされた。",
       "summaryEn": "After Fei River, Murong Chui restored Yan (384) and ruled from Zhongshan as emperor (386). The disaster at Canhe Slope against Northern Wei (395) and the fall of Zhongshan (397) drove the court back to Longcheng, where Feng Ba ended it in 407.",
       "rulersZh": "成武帝慕容垂 → 惠愍帝慕容宝 → 昭武帝慕容盛 → 昭文帝慕容熙",
-      "rulersEn": "Murong Chui → Murong Bao → Murong Sheng → Murong Xi"
+      "rulersEn": "Murong Chui → Murong Bao → Murong Sheng → Murong Xi",
+      "summaryJa": "淝水の戦いの後、慕容垂は384年に燕を復興して燕王を称し、386年に皇帝を称して中山に都した。395年の參合陂の戦いで北魏に惨敗し、397年に中山が陥落すると、残党は龍城に退き、407年に馮跋らによって滅ぼされた。"
     },
     {
       "key": "houqin",
@@ -23209,10 +27613,11 @@ window.ATLAS_LORE_DATA = {
         "姚泓",
         "鸠摩罗什"
       ],
-      "summaryZh": "羌人姚苌384年叛前秦称万年秦王，386年入长安称帝。姚兴时国力最盛，迎鸠摩罗什入长安译经；417年东晋刘裕北伐攻克长安，姚泓出降。",
+      "summaryZh": "羌人の姚苌は384年に前秦に叛いて万年秦王を称し、386年に長安に入って皇帝を称した。姚興の時代に国力は最も盛んとなり、鳩摩羅什を長安に迎え入れて訳経を行った。417年、東晉の劉裕が北伐で長安を攻め落とし、姚泓は降伏した。",
       "summaryEn": "The Qiang general Yao Chang rebelled against Former Qin (384) and became emperor at Chang'an (386). Under Yao Xing the state flourished and welcomed Kumārajīva to translate sutras; Liu Yu's Eastern Jin expedition captured Chang'an in 417.",
       "rulersZh": "武昭帝姚苌 → 文桓帝姚兴 → 末主姚泓",
-      "rulersEn": "Yao Chang → Yao Xing → Yao Hong"
+      "rulersEn": "Yao Chang → Yao Xing → Yao Hong",
+      "summaryJa": "羌人の姚苌は384年に前秦に叛いて万年秦王を称し、386年に長安に入って皇帝を称した。姚興の時代に国力は最も盛んとなり、鳩摩羅什を長安に迎え入れて訳経を行った。417年、東晉の劉裕が北伐で長安を攻め落とし、姚泓は降伏した。"
     },
     {
       "key": "xiqin",
@@ -23229,10 +27634,11 @@ window.ATLAS_LORE_DATA = {
         "西秦",
         "乞伏"
       ],
-      "summaryZh": "陇西鲜卑乞伏国仁385年所建，据苑川、枹罕一带；400年一度为后秦所并，409年乞伏乾归复国。431年为胡夏赫连定所灭。",
+      "summaryZh": "隴西鮮卑の乞伏国仁が385年に建国し、苑川・枹罕一帯を拠点とした。400年に一時後秦に併合されたが、409年に乞伏乾歸が復国した。431年、胡夏の赫連定によって滅ぼされた。",
       "summaryEn": "Founded in 385 by Qifu Guoren of the Longxi Xianbei around Yuanchuan and Fuhan; absorbed by Later Qin in 400, revived by Qifu Qiangui in 409, and destroyed by Helian Ding of Hu Xia in 431.",
       "rulersZh": "宣烈王乞伏国仁 → 武元王乞伏乾归 → 文昭王乞伏炽盘 → 末主乞伏暮末",
-      "rulersEn": "Qifu Guoren → Qifu Qiangui → Qifu Chipan → Qifu Mumo"
+      "rulersEn": "Qifu Guoren → Qifu Qiangui → Qifu Chipan → Qifu Mumo",
+      "summaryJa": "隴西鮮卑の乞伏国仁が385年に建国し、苑川・枹罕一帯を拠点とした。400年に一時後秦に併合されたが、409年に乞伏乾歸が復国した。431年、胡夏の赫連定によって滅ぼされた。"
     },
     {
       "key": "houliang_lv",
@@ -23251,11 +27657,12 @@ window.ATLAS_LORE_DATA = {
         "吕隆",
         "段业"
       ],
-      "summaryZh": "前秦大将吕光西征龟兹归来，闻淝水败报，386年据姑臧自立，史称后凉。境内南凉、北凉相继分立，403年吕隆降后秦。",
+      "summaryZh": "前秦の大将呂光は亀茲への西征から帰還する途中、淝水の敗報を聞き、386年に姑臧を拠点として自立し、後涼と称した。領内では南涼、北涼が相次いで分立し、403年に呂隆は後秦に降伏した。",
       "summaryEn": "Lü Guang, returning from Former Qin's conquest of Kucha, learned of the Fei River defeat and made himself ruler at Guzang in 386. Southern and Northern Liang broke away, and Lü Long surrendered to Later Qin in 403.",
       "matchFrom": 384,
       "rulersZh": "懿武帝吕光 → 隐王吕绍 → 灵帝吕纂 → 末主吕隆",
-      "rulersEn": "Lü Guang → Lü Shao → Lü Zuan → Lü Long"
+      "rulersEn": "Lü Guang → Lü Shao → Lü Zuan → Lü Long",
+      "summaryJa": "前秦の大将呂光は亀茲への西征から帰還する途中、淝水の敗報を聞き、386年に姑臧を拠点として自立し、後涼と称した。領内では南涼、北涼が相次いで分立し、403年に呂隆は後秦に降伏した。"
     },
     {
       "key": "beiwei",
@@ -23281,8 +27688,9 @@ window.ATLAS_LORE_DATA = {
         "元魏",
         "后魏"
       ],
-      "summaryZh": "386年拓跋珪复国称魏王，398年迁都平城称帝。太武帝拓跋焘灭胡夏、北燕、北凉，439年统一北方，与南朝对峙；孝文帝494年迁都洛阳，推行汉化改革。523年六镇起义后尔朱荣专权，534年孝武帝西奔宇文泰，分裂为东魏、西魏。",
-      "summaryEn": "Tuoba Gui restored the Tuoba state as Wei in 386 and moved to Pingcheng as emperor (398). Emperor Taiwu conquered Hu Xia, Northern Yan and Northern Liang, unifying the north in 439; Emperor Xiaowen moved the capital to Luoyang (494) and pursued sweeping sinicization. After the Six Garrisons revolt (523) and Erzhu Rong's dominance, Emperor Xiaowu fled west to Yuwen Tai in 534 and the state split into Eastern and Western Wei."
+      "summaryZh": "386年、拓跋珪は国を復興して魏王を称し、398年に平城に遷都して皇帝を称した。太武帝拓跋燾は胡夏、北燕、北涼を滅ぼし、439年に華北を統一して南朝と対峙した。孝文帝は494年に洛陽に遷都し、漢化改革を推進した。523年の六鎮の乱の後、爾朱榮が専権を握り、534年に孝武帝が宇文泰のもとへ西奔したことで、東魏と西魏に分裂した。",
+      "summaryEn": "Tuoba Gui restored the Tuoba state as Wei in 386 and moved to Pingcheng as emperor (398). Emperor Taiwu conquered Hu Xia, Northern Yan and Northern Liang, unifying the north in 439; Emperor Xiaowen moved the capital to Luoyang (494) and pursued sweeping sinicization. After the Six Garrisons revolt (523) and Erzhu Rong's dominance, Emperor Xiaowu fled west to Yuwen Tai in 534 and the state split into Eastern and Western Wei.",
+      "summaryJa": "386年、拓跋珪は国を復興して魏王を称し、398年に平城に遷都して皇帝を称した。太武帝拓跋燾は胡夏、北燕、北涼を滅ぼし、439年に華北を統一して南朝と対峙した。孝文帝は494年に洛陽に遷都し、漢化改革を推進した。523年の六鎮の乱の後、爾朱榮が専権を握り、534年に孝武帝が宇文泰のもとへ西奔したことで、東魏と西魏に分裂した。"
     },
     {
       "key": "nanliang",
@@ -23299,10 +27707,11 @@ window.ATLAS_LORE_DATA = {
         "南凉",
         "秃发"
       ],
-      "summaryZh": "河西鲜卑秃发乌孤397年所建，据湟水流域，都乐都，406—410年一度据姑臧。414年为西秦所灭。",
+      "summaryZh": "河西鮮卑の禿髪烏孤が397年に建国。湟水流域を拠点とし、樂都を都とした。406年から410年には一時的に姑臧を占拠した。414年、西秦によって滅ぼされた。",
       "summaryEn": "Founded in 397 by Tufa Wugu of the Hexi Xianbei in the Huangshui valley (capital Ledu; Guzang 406–410); destroyed by Western Qin in 414.",
       "rulersZh": "武王秃发乌孤 → 康王秃发利鹿孤 → 景王秃发傉檀",
-      "rulersEn": "Tufa Wugu → Tufa Lilugu → Tufa Rutan"
+      "rulersEn": "Tufa Wugu → Tufa Lilugu → Tufa Rutan",
+      "summaryJa": "河西鮮卑の禿髪烏孤が397年に建国。湟水流域を拠点とし、樂都を都とした。406年から410年には一時的に姑臧を占拠した。414年、西秦によって滅ぼされた。"
     },
     {
       "key": "beiliang",
@@ -23321,10 +27730,11 @@ window.ATLAS_LORE_DATA = {
         "段业",
         "天梯山"
       ],
-      "summaryZh": "397年段业被拥立，401年卢水胡沮渠蒙逊杀段业自立，412年迁都姑臧，421年灭西凉据有河西。439年北魏太武帝攻破姑臧，北方统一，十六国时代结束。",
+      "summaryZh": "397年、段業が擁立された。401年、盧水胡の沮渠蒙遜が段業を殺害して自立し、412年に姑臧へ遷都した。421年には西涼を滅ぼし、河西を領有した。439年、北魏太武帝が姑臧を攻め落とし、北方統一を達成。これにより十六國時代は終焉を迎えた。",
       "summaryEn": "Duan Ye was enthroned in 397; Juqu Mengxun of the Lushui Hu killed him (401), moved to Guzang (412) and took Western Liang (421). Emperor Taiwu of Northern Wei captured Guzang in 439, completing the unification of the north and closing the Sixteen Kingdoms era.",
       "rulersZh": "段业 → 武宣王沮渠蒙逊 → 哀王沮渠牧犍",
-      "rulersEn": "Duan Ye → Juqu Mengxun → Juqu Mujian"
+      "rulersEn": "Duan Ye → Juqu Mengxun → Juqu Mujian",
+      "summaryJa": "397年、段業が擁立された。401年、盧水胡の沮渠蒙遜が段業を殺害して自立し、412年に姑臧へ遷都した。421年には西涼を滅ぼし、河西を領有した。439年、北魏太武帝が姑臧を攻め落とし、北方統一を達成。これにより十六國時代は終焉を迎えた。"
     },
     {
       "key": "nanyan",
@@ -23344,10 +27754,11 @@ window.ATLAS_LORE_DATA = {
         "广固",
         "滑台"
       ],
-      "summaryZh": "后燕慕容德398年南迁滑台称燕王，次年移据广固（今青州）。410年东晋刘裕北伐攻破广固，慕容超被俘。",
+      "summaryZh": "後燕の慕容德は398年に滑台へ南遷して燕王と称し、翌年には廣固（現在の青州）へ移って拠点とした。410年、東晉の劉裕が北伐を行い廣固を攻め落とし、慕容超は捕らえられた。",
       "summaryEn": "Murong De of Later Yan moved south to Huatai (398) and then to Guanggu (modern Qingzhou); Liu Yu's Eastern Jin army stormed Guanggu and captured Murong Chao in 410.",
       "rulersZh": "献武帝慕容德 → 末主慕容超",
-      "rulersEn": "Murong De → Murong Chao"
+      "rulersEn": "Murong De → Murong Chao",
+      "summaryJa": "後燕の慕容德は398年に滑台へ南遷して燕王と称し、翌年には廣固（現在の青州）へ移って拠点とした。410年、東晉の劉裕が北伐を行い廣固を攻め落とし、慕容超は捕らえられた。"
     },
     {
       "key": "qiaoshu",
@@ -23371,8 +27782,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "西蜀（谯纵）"
       ],
-      "summaryZh": "405年东晋益州兵不愿东下讨桓振而哗变，胁迫安西府参军谯纵为主，攻占成都自称成都王，史称谯蜀，后向后秦姚兴称藩。413年刘裕遣朱龄石以“函中密诏”奇兵直趋成都外水，谯纵兵败自缢，巴蜀复归东晋。",
-      "summaryEn": "In 405 mutinous Eastern Jin troops in Sichuan forced the advisor Qiao Zong to lead them; he seized Chengdu as Prince of Chengdu and became a vassal of Later Qin. In 413 Liu Yu dispatched Zhu Lingshi with sealed orders to strike directly at Chengdu via the Min River, and Qiao Zong took his own life."
+      "summaryZh": "405年、東晉の益州兵が桓振討伐のための東下を拒んで兵変を起こし、安西府参軍の譙縱を主君に擁立した。彼らは成都を攻め取り成都王と自称し、史に譙蜀と称される。後に後秦の姚興に称藩した。413年、劉裕は朱齡石を派遣し、「函中密詔」を用いて奇襲部隊を成都の外水へ直進させた。譙縱は兵敗れて自縊し、巴蜀は東晉に復帰した。",
+      "summaryEn": "In 405 mutinous Eastern Jin troops in Sichuan forced the advisor Qiao Zong to lead them; he seized Chengdu as Prince of Chengdu and became a vassal of Later Qin. In 413 Liu Yu dispatched Zhu Lingshi with sealed orders to strike directly at Chengdu via the Min River, and Qiao Zong took his own life.",
+      "summaryJa": "405年、東晉の益州兵が桓振討伐のための東下を拒んで兵変を起こし、安西府参軍の譙縱を主君に擁立した。彼らは成都を攻め取り成都王と自称し、史に譙蜀と称される。後に後秦の姚興に称藩した。413年、劉裕は朱齡石を派遣し、「函中密詔」を用いて奇襲部隊を成都の外水へ直進させた。譙縱は兵敗れて自縊し、巴蜀は東晉に復帰した。"
     },
     {
       "key": "huxia",
@@ -23394,10 +27806,11 @@ window.ATLAS_LORE_DATA = {
         "大夏",
         "赫连夏"
       ],
-      "summaryZh": "匈奴铁弗部赫连勃勃407年称天王大单于，国号大夏，413年筑统万城为都，418年一度攻取长安。427年北魏攻克统万城，431年赫连定为吐谷浑所擒，夏亡。",
+      "summaryZh": "匈奴鐵弗部の赫連勃勃は407年に天王大單于と称し、国号を大夏とした。413年には統萬城を築いて都とし、418年には一時的に長安を攻め取った。427年、北魏が統萬城を攻め落とし、431年には赫連定が吐谷渾に捕らえられ、夏は滅亡した。",
       "summaryEn": "Helian Bobo of the Tiefu Xiongnu proclaimed Great Xia in 407, built the capital Tongwancheng from 413 and briefly took Chang'an (418). Northern Wei captured Tongwan in 427, and Helian Ding was seized by the Tuyuhun in 431.",
       "rulersZh": "武烈帝赫连勃勃 → 赫连昌 → 赫连定",
-      "rulersEn": "Helian Bobo → Helian Chang → Helian Ding"
+      "rulersEn": "Helian Bobo → Helian Chang → Helian Ding",
+      "summaryJa": "匈奴鐵弗部の赫連勃勃は407年に天王大單于と称し、国号を大夏とした。413年には統萬城を築いて都とし、418年には一時的に長安を攻め取った。427年、北魏が統萬城を攻め落とし、431年には赫連定が吐谷渾に捕らえられ、夏は滅亡した。"
     },
     {
       "key": "beiyan",
@@ -23416,10 +27829,11 @@ window.ATLAS_LORE_DATA = {
         "冯弘",
         "高云"
       ],
-      "summaryZh": "407年冯跋等推高云为主取代后燕，409年冯跋即位，都龙城（今朝阳）。436年北魏来攻，冯弘东奔高句丽，北燕亡。",
+      "summaryZh": "407年、馮跋らが高雲を主君に擁立して後燕に取って代わった。409年には馮跋が即位し、龍城（現在の朝陽）を都とした。436年、北魏が侵攻すると、馮弘は東へ高句麗に逃れ、北燕は滅亡した。",
       "summaryEn": "In 407 Feng Ba and allies replaced Later Yan with Gao Yun; Feng Ba ruled from Longcheng (modern Chaoyang) from 409. When Northern Wei attacked in 436, Feng Hong fled to Goguryeo and the state ended.",
       "rulersZh": "惠懿帝高云 → 文成帝冯跋 → 昭成帝冯弘",
-      "rulersEn": "Gao Yun → Feng Ba → Feng Hong"
+      "rulersEn": "Gao Yun → Feng Ba → Feng Hong",
+      "summaryJa": "407年、馮跋らが高雲を主君に擁立して後燕に取って代わった。409年には馮跋が即位し、龍城（現在の朝陽）を都とした。436年、北魏が侵攻すると、馮弘は東へ高句麗に逃れ、北燕は滅亡した。"
     },
     {
       "key": "liusong",
@@ -23445,8 +27859,9 @@ window.ATLAS_LORE_DATA = {
         "南朝宋",
         "宋国"
       ],
-      "summaryZh": "420年刘裕代东晋称帝，国号宋，南朝之始。宋文帝元嘉之治为南朝盛世，450年北伐失利，北魏太武帝饮马长江；宗室屡相残杀，479年萧道成代宋建齐。",
-      "summaryEn": "Liu Yu replaced Eastern Jin in 420, opening the Southern Dynasties. Emperor Wen's Yuanjia era was a southern golden age, but the failed northern expedition of 450 brought Emperor Taiwu of Wei to the Yangtze; repeated princely bloodletting ended with Xiao Daocheng founding Qi in 479."
+      "summaryZh": "420年、劉裕は東晉に代わって帝位に就き、国号を宋とした。これにより南朝の始まりとなった。宋文帝の元嘉の治は南朝の盛世と称されたが、450年の北伐が失敗に終わり、北魏太武帝は長江に馬を飲ませるに至った。宗室が度々互いに殺し合った結果、479年、蕭道成が宋に代わって齊を建国した。",
+      "summaryEn": "Liu Yu replaced Eastern Jin in 420, opening the Southern Dynasties. Emperor Wen's Yuanjia era was a southern golden age, but the failed northern expedition of 450 brought Emperor Taiwu of Wei to the Yangtze; repeated princely bloodletting ended with Xiao Daocheng founding Qi in 479.",
+      "summaryJa": "420年、劉裕は東晉に代わって帝位に就き、国号を宋とした。これにより南朝の始まりとなった。宋文帝の元嘉の治は南朝の盛世と称されたが、450年の北伐が失敗に終わり、北魏太武帝は長江に馬を飲ませるに至った。宗室が度々互いに殺し合った結果、479年、蕭道成が宋に代わって齊を建国した。"
     },
     {
       "key": "nanqi",
@@ -23472,8 +27887,9 @@ window.ATLAS_LORE_DATA = {
         "南朝齐",
         "萧齐"
       ],
-      "summaryZh": "479年萧道成代宋建齐，齐武帝永明之治较为安定，文学有永明体。明帝萧鸾大杀宗室，东昏侯萧宝卷暴虐，502年雍州刺史萧衍举兵入建康，代齐建梁。",
-      "summaryEn": "Xiao Daocheng founded Qi in 479; Emperor Wu's Yongming era was relatively stable and produced the Yongming poetic style. Emperor Ming's purges and Xiao Baojuan's tyranny ended when Xiao Yan marched from Xiangyang into Jiankang and founded Liang in 502."
+      "summaryZh": "479年、蕭道成は宋に代わって齊を建国した。齊武帝の永明の治は比較的安定しており、文学では永明體が生まれた。明帝蕭鸞は宗室を大量に殺害し、東昏侯蕭寶卷は暴虐を極めた。502年、雍州刺史の蕭衍が挙兵して建康へ入城し、齊に代わって梁を建国した。",
+      "summaryEn": "Xiao Daocheng founded Qi in 479; Emperor Wu's Yongming era was relatively stable and produced the Yongming poetic style. Emperor Ming's purges and Xiao Baojuan's tyranny ended when Xiao Yan marched from Xiangyang into Jiankang and founded Liang in 502.",
+      "summaryJa": "479年、蕭道成は宋に代わって齊を建国した。齊武帝の永明の治は比較的安定しており、文学では永明體が生まれた。明帝蕭鸞は宗室を大量に殺害し、東昏侯蕭寶卷は暴虐を極めた。502年、雍州刺史の蕭衍が挙兵して建康へ入城し、齊に代わって梁を建国した。"
     },
     {
       "key": "xiaoliang",
@@ -23500,8 +27916,9 @@ window.ATLAS_LORE_DATA = {
         "南朝梁",
         "南梁"
       ],
-      "summaryZh": "502年萧衍代齐建梁，梁武帝在位近半世纪，崇佛兴学，南朝文化鼎盛。548年侯景之乱攻陷建康，武帝饿死台城；梁元帝即位江陵，554年西魏攻破江陵，557年陈霸先代梁建陈。",
-      "summaryEn": "Xiao Yan founded Liang in 502 and reigned nearly half a century as a patron of Buddhism and learning. Hou Jing's rebellion (548) took Jiankang and the emperor starved in the palace; Emperor Yuan ruled from Jiangling until Western Wei sacked it (554), and Chen Baxian founded Chen in 557."
+      "summaryZh": "502年、蕭衍が斉に代わって梁を建てた。梁武帝は半世紀近く在位し、仏教を崇敬し学問を興隆させ、南朝文化は隆盛を極めた。548年、侯景の乱により建康が陥落し、武帝は台城で餓死した。梁元帝は江陵で即位したが、554年に西魏が江陵を攻め破り、557年、陳霸先が梁に代わって陳を建てた。",
+      "summaryEn": "Xiao Yan founded Liang in 502 and reigned nearly half a century as a patron of Buddhism and learning. Hou Jing's rebellion (548) took Jiankang and the emperor starved in the palace; Emperor Yuan ruled from Jiangling until Western Wei sacked it (554), and Chen Baxian founded Chen in 557.",
+      "summaryJa": "502年、蕭衍が斉に代わって梁を建てた。梁武帝は半世紀近く在位し、仏教を崇敬し学問を興隆させ、南朝文化は隆盛を極めた。548年、侯景の乱により建康が陥落し、武帝は台城で餓死した。梁元帝は江陵で即位したが、554年に西魏が江陵を攻め破り、557年、陳霸先が梁に代わって陳を建てた。"
     },
     {
       "key": "dongwei",
@@ -23520,8 +27937,9 @@ window.ATLAS_LORE_DATA = {
         "高澄",
         "玉璧"
       ],
-      "summaryZh": "534年高欢立元善见为帝，迁都邺城，实权尽在高氏。与西魏连年交战，沙苑（537）、邙山（543）、玉璧（546）诸役互有胜负；550年高洋废帝自立，建北齐。",
-      "summaryEn": "Gao Huan enthroned Yuan Shanjian at Ye in 534 while keeping real power. Constant war with Western Wei — Shayuan (537), Mangshan (543), Yubi (546) — ended when Gao Yang deposed the emperor and founded Northern Qi in 550."
+      "summaryZh": "534年、高歡は元善見を帝位に就かせ、都を鄴城に移したが、実権は全て高氏が握っていた。西魏とは沙苑（537年）、邙山（543年）、玉璧（546年）などの戦役で連年交戦し、互いに勝敗を繰り返した。550年、高洋は帝を廃して自立し、北齊を建てた。",
+      "summaryEn": "Gao Huan enthroned Yuan Shanjian at Ye in 534 while keeping real power. Constant war with Western Wei — Shayuan (537), Mangshan (543), Yubi (546) — ended when Gao Yang deposed the emperor and founded Northern Qi in 550.",
+      "summaryJa": "534年、高歡は元善見を帝位に就かせ、都を鄴城に移したが、実権は全て高氏が握っていた。西魏とは沙苑（537年）、邙山（543年）、玉璧（546年）などの戦役で連年交戦し、互いに勝敗を繰り返した。550年、高洋は帝を廃して自立し、北齊を建てた。"
     },
     {
       "key": "xiwei",
@@ -23539,8 +27957,9 @@ window.ATLAS_LORE_DATA = {
         "宇文泰",
         "府兵"
       ],
-      "summaryZh": "535年宇文泰拥立元宝炬于长安，创立府兵制，任苏绰改制，奠定关陇集团基础。553年取巴蜀，554年攻破江陵；557年宇文觉代魏建北周。",
-      "summaryEn": "Yuwen Tai enthroned Yuan Baoju at Chang'an in 535 and built the fubing militia system and Su Chuo's reforms — the foundation of the Guanlong aristocracy. Western Wei took Sichuan (553) and sacked Jiangling (554) before Yuwen Jue founded Northern Zhou in 557."
+      "summaryZh": "535年、宇文泰は長安で元寶炬を擁立し、府兵制を創設し、蘇綽に改革を任せ、關隴集團の基礎を築いた。553年に巴蜀を奪い、554年には江陵を攻め破った。557年、宇文覺が魏に代わって北周を建てた。",
+      "summaryEn": "Yuwen Tai enthroned Yuan Baoju at Chang'an in 535 and built the fubing militia system and Su Chuo's reforms — the foundation of the Guanlong aristocracy. Western Wei took Sichuan (553) and sacked Jiangling (554) before Yuwen Jue founded Northern Zhou in 557.",
+      "summaryJa": "535年、宇文泰は長安で元寶炬を擁立し、府兵制を創設し、蘇綽に改革を任せ、關隴集團の基礎を築いた。553年に巴蜀を奪い、554年には江陵を攻め破った。557年、宇文覺が魏に代わって北周を建てた。"
     },
     {
       "key": "beiqi",
@@ -23560,8 +27979,9 @@ window.ATLAS_LORE_DATA = {
         "兰陵王",
         "斛律光"
       ],
-      "summaryZh": "550年高洋代东魏称帝，都邺，以晋阳为霸府。初期国力强盛，后主高纬昏乱，诛杀斛律光、兰陵王高长恭等名将；577年北周武帝攻破邺城，北齐亡。",
-      "summaryEn": "Gao Yang replaced Eastern Wei in 550, ruling from Ye with Jinyang as the military seat. Strong at first, the state decayed under Gao Wei, who executed the generals Hulü Guang and Gao Changgong (Prince of Lanling); Emperor Wu of Northern Zhou took Ye in 577."
+      "summaryZh": "550年、高洋は東魏に代わって帝位に就き、都を鄴とし、晉陽を覇府とした。初期は国力が強盛であったが、後主高緯の昏乱により、斛律光、蘭陵王高長恭などの名将が誅殺された。577年、北周武帝が鄴城を攻め破り、北齊は滅亡した。",
+      "summaryEn": "Gao Yang replaced Eastern Wei in 550, ruling from Ye with Jinyang as the military seat. Strong at first, the state decayed under Gao Wei, who executed the generals Hulü Guang and Gao Changgong (Prince of Lanling); Emperor Wu of Northern Zhou took Ye in 577.",
+      "summaryJa": "550年、高洋は東魏に代わって帝位に就き、都を鄴とし、晉陽を覇府とした。初期は国力が強盛であったが、後主高緯の昏乱により、斛律光、蘭陵王高長恭などの名将が誅殺された。577年、北周武帝が鄴城を攻め破り、北齊は滅亡した。"
     },
     {
       "key": "xiliang",
@@ -23583,11 +28003,12 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "后梁（南北朝）"
       ],
-      "summaryZh": "554年西魏攻破江陵后，555年扶立梁宗室萧詧为帝，都江陵，史称西梁（后梁），先后为西魏、北周、隋的附庸。587年隋文帝废之。",
+      "summaryZh": "554年に西魏が江陵を攻め破った後、555年、梁の宗室である蕭詧を帝位に就かせ、江陵を都とした。これを西梁（後梁）と称し、西魏、北周、隋の順にその附庸国となった。587年、隋文帝がこれを廃した。",
       "summaryEn": "After sacking Jiangling, Western Wei installed the Liang prince Xiao Cha as emperor there in 555. Known as Western (Later) Liang, it served as a vassal of Western Wei, Northern Zhou and Sui until Emperor Wen of Sui abolished it in 587.",
       "matchFrom": 554,
       "rulersZh": "宣帝萧詧 → 明帝萧岿 → 靖帝萧琮",
-      "rulersEn": "Xiao Cha → Xiao Kui → Xiao Cong"
+      "rulersEn": "Xiao Cha → Xiao Kui → Xiao Cong",
+      "summaryJa": "554年に西魏が江陵を攻め破った後、555年、梁の宗室である蕭詧を帝位に就かせ、江陵を都とした。これを西梁（後梁）と称し、西魏、北周、隋の順にその附庸国となった。587年、隋文帝がこれを廃した。"
     },
     {
       "key": "beizhou",
@@ -23606,8 +28027,9 @@ window.ATLAS_LORE_DATA = {
         "周武帝",
         "杨坚"
       ],
-      "summaryZh": "557年宇文觉代西魏称天王，国号周。周武帝宇文邕诛宇文护亲政，574年禁佛道，577年灭北齐统一北方；宣帝早逝后外戚杨坚辅政，581年受禅建隋。",
-      "summaryEn": "Yuwen Jue replaced Western Wei in 557. Emperor Wu (Yuwen Yong) took power from Yuwen Hu, suppressed Buddhism and Daoism (574) and destroyed Northern Qi in 577, unifying the north; after Emperor Xuan's early death the regent Yang Jian founded Sui in 581."
+      "summaryZh": "557年、宇文覺は西魏に代わって天王を称し、国号を周とした。周武帝宇文邕は宇文護を誅殺して親政を行い、574年に仏道を禁じ、577年には北齊を滅ぼして北方を統一した。宣帝の早逝後、外戚の楊堅が輔政し、581年に禅譲を受けて隋を建てた。",
+      "summaryEn": "Yuwen Jue replaced Western Wei in 557. Emperor Wu (Yuwen Yong) took power from Yuwen Hu, suppressed Buddhism and Daoism (574) and destroyed Northern Qi in 577, unifying the north; after Emperor Xuan's early death the regent Yang Jian founded Sui in 581.",
+      "summaryJa": "557年、宇文覺は西魏に代わって天王を称し、国号を周とした。周武帝宇文邕は宇文護を誅殺して親政を行い、574年に仏道を禁じ、577年には北齊を滅ぼして北方を統一した。宣帝の早逝後、外戚の楊堅が輔政し、581年に禅譲を受けて隋を建てた。"
     },
     {
       "key": "nanchen",
@@ -23631,8 +28053,9 @@ window.ATLAS_LORE_DATA = {
         "南朝陈",
         "南陈"
       ],
-      "summaryZh": "557年陈霸先代梁称帝，国土局促于长江以南。陈宣帝太建年间一度北伐取淮南，旋即失地；589年隋军渡江攻入建康，陈后主出降，南北朝结束。",
-      "summaryEn": "Chen Baxian replaced Liang in 557, ruling a shrunken realm south of the Yangtze. Emperor Xuan briefly retook Huainan in the Taijian era but lost it again; in 589 Sui armies crossed the river, Chen Shubao surrendered and the Southern and Northern Dynasties ended."
+      "summaryZh": "557年、陳霸先は梁に代わって帝位に就いたが、国土は長江以南に限定された。陳宣帝の太建年間には一時北伐を行い淮南を奪ったが、すぐに失地した。589年、隋軍が長江を渡って建康に攻め入り、陳後主が降伏し、南北朝時代は終焉を迎えた。",
+      "summaryEn": "Chen Baxian replaced Liang in 557, ruling a shrunken realm south of the Yangtze. Emperor Xuan briefly retook Huainan in the Taijian era but lost it again; in 589 Sui armies crossed the river, Chen Shubao surrendered and the Southern and Northern Dynasties ended.",
+      "summaryJa": "557年、陳霸先は梁に代わって帝位に就いたが、国土は長江以南に限定された。陳宣帝の太建年間には一時北伐を行い淮南を奪ったが、すぐに失地した。589年、隋軍が長江を渡って建康に攻め入り、陳後主が降伏し、南北朝時代は終焉を迎えた。"
     },
     {
       "key": "wagang_wei",
@@ -23658,8 +28081,9 @@ window.ATLAS_LORE_DATA = {
         "瓦岗军",
         "李密魏政权"
       ],
-      "summaryZh": "隋末翟让于河南滑州瓦岗寨聚众起义，616年纳李密之策大破隋将张须陀；617年攻占兴洛仓（洛口仓）开仓赈粮，推李密为魏公、建元永平，秦琼、程咬金、徐世勣、魏征皆出其麾下，围困东都洛阳。618年邙山之战败于王世充，李密西降唐朝。",
-      "summaryEn": "Founded by Zhai Rang at Wagang in Henan, the rebel army followed Li Mi's strategy to capture the imperial Luokou Granary in 617, proclaiming Li Mi Duke of Wei and besieging Luoyang with future Tang heroes Qin Qiong, Cheng Yaojin, Xu Shiji and Wei Zheng in its ranks. Defeated by Wang Shichong at Mangshan in 618, Li Mi submitted to Tang."
+      "summaryZh": "隋末、翟讓は河南滑州の瓦崗寨で衆を率いて蜂起した。616年、李密の策を用いて隋将張須陀を大破した。617年には興洛倉（洛口倉）を占領して食糧を放出し、李密を魏公に推戴し、永平と建元した。秦瓊、程咬金、徐世勣、魏徵らがその麾下に加わり、東都洛陽を包囲した。618年、邙山の戦いで王世充に敗れ、李密は西方の唐朝に降った。",
+      "summaryEn": "Founded by Zhai Rang at Wagang in Henan, the rebel army followed Li Mi's strategy to capture the imperial Luokou Granary in 617, proclaiming Li Mi Duke of Wei and besieging Luoyang with future Tang heroes Qin Qiong, Cheng Yaojin, Xu Shiji and Wei Zheng in its ranks. Defeated by Wang Shichong at Mangshan in 618, Li Mi submitted to Tang.",
+      "summaryJa": "隋末、翟讓は河南滑州の瓦崗寨で衆を率いて蜂起した。616年、李密の策を用いて隋将張須陀を大破した。617年には興洛倉（洛口倉）を占領して食糧を放出し、李密を魏公に推戴し、永平と建元した。秦瓊、程咬金、徐世勣、魏徵らがその麾下に加わり、東都洛陽を包囲した。618年、邙山の戦いで王世充に敗れ、李密は西方の唐朝に降った。"
     },
     {
       "key": "douxia",
@@ -23685,8 +28109,9 @@ window.ATLAS_LORE_DATA = {
         "大夏（窦建德）",
         "河北夏"
       ],
-      "summaryZh": "隋末河北起义首领窦建德于617年在乐寿称长乐王，618年改称夏王、建元五凤，619年于聊城诛宇文化及，迁都洺州，尽有河北之地，劝课农桑、政尚宽简。621年率十余万大军西援洛阳王世充，于虎牢关之战为秦王李世民所败被擒，夏亡。",
-      "summaryEn": "Peasant rebel leader Dou Jiande proclaimed himself King of Xia in Hebei (617–618), executed the regicide Yuwen Huaji at Liaocheng (619) and ruled Hebei mild-handedly from Mingzhou. Marching west in 621 to relieve Wang Shichong at Luoyang, he was defeated and captured by Li Shimin at Hulao Pass."
+      "summaryZh": "隋末の河北における反乱指導者、竇建徳は617年に楽寿で長楽王を称し、618年には夏王と改称して元号を五鳳とした。619年、聊城で宇文化及を誅殺し、洺州に遷都した。河北の地を尽く領有し、農桑を奨励し、寛大な政治を行った。621年、十余万の大軍を率いて洛陽の王世充を救援するため西進したが、虎牢関の戦いで秦王李世民に敗れて捕らえられ、夏は滅亡した。",
+      "summaryEn": "Peasant rebel leader Dou Jiande proclaimed himself King of Xia in Hebei (617–618), executed the regicide Yuwen Huaji at Liaocheng (619) and ruled Hebei mild-handedly from Mingzhou. Marching west in 621 to relieve Wang Shichong at Luoyang, he was defeated and captured by Li Shimin at Hulao Pass.",
+      "summaryJa": "隋末の河北における反乱指導者、竇建徳は617年に楽寿で長楽王を称し、618年には夏王と改称して元号を五鳳とした。619年、聊城で宇文化及を誅殺し、洺州に遷都した。河北の地を尽く領有し、農桑を奨励し、寛大な政治を行った。621年、十余万の大軍を率いて洛陽の王世充を救援するため西進したが、虎牢関の戦いで秦王李世民に敗れて捕らえられ、夏は滅亡した。"
     },
     {
       "key": "xiaoxian_liang",
@@ -23710,8 +28135,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "后梁（萧铣）"
       ],
-      "summaryZh": "西梁宣帝萧詧曾孙、罗川令萧铣于617年在巴陵起兵称梁王，618年称帝迁都江陵，恢复梁朝衣冠制度，疆域北起汉水、南达交趾、西抵三峡、东及九江，拥兵四十万。621年唐将李靖与李孝恭乘秋汛率战舰顺峡东下直逼江陵，萧铣为免生灵涂炭出降。",
-      "summaryEn": "A great-grandson of Emperor Xuan of Western Liang, Xiao Xian rose at Baling in 617 and proclaimed the Liang Empire at Jiangling in 618, ruling from the Han River and Three Gorges south to Lingnan and Jiaozhi. In autumn 621 Tang general Li Jing sailed down the flooded Yangtze gorges to besiege Jiangling, and Xiao Xian surrendered to spare the city."
+      "summaryZh": "西梁宣帝蕭詧の曾孫である羅川令蕭銑は617年に巴陵で挙兵し梁王を称した。618年には帝位につき、江陵に遷都して梁朝の衣冠制度を復活させた。その版図は北は漢水、南は交趾、西は三峡、東は九江に及び、兵力は四十万を擁した。621年、唐将李靖と李孝恭は秋の増水に乗じて戦艦を率いて峡谷を下り、江陵に迫ったため、蕭銑は民衆の塗炭の苦しみを避けるため降伏した。",
+      "summaryEn": "A great-grandson of Emperor Xuan of Western Liang, Xiao Xian rose at Baling in 617 and proclaimed the Liang Empire at Jiangling in 618, ruling from the Han River and Three Gorges south to Lingnan and Jiaozhi. In autumn 621 Tang general Li Jing sailed down the flooded Yangtze gorges to besiege Jiangling, and Xiao Xian surrendered to spare the city.",
+      "summaryJa": "西梁宣帝蕭詧の曾孫である羅川令蕭銑は617年に巴陵で挙兵し梁王を称した。618年には帝位につき、江陵に遷都して梁朝の衣冠制度を復活させた。その版図は北は漢水、南は交趾、西は三峡、東は九江に及び、兵力は四十万を擁した。621年、唐将李靖と李孝恭は秋の増水に乗じて戦艦を率いて峡谷を下り、江陵に迫ったため、蕭銑は民衆の塗炭の苦しみを避けるため降伏した。"
     },
     {
       "key": "tubo",
@@ -23735,10 +28161,11 @@ window.ATLAS_LORE_DATA = {
         "Tibet",
         "Tubo"
       ],
-      "summaryZh": "7世纪初松赞干布统一青藏高原，都逻些（今拉萨），641年迎娶唐文成公主。663年灭吐谷浑，670年大非川击败唐军，763年一度攻入长安；822年唐蕃会盟。842年朗达玛遇刺后王朝崩解，河陇之地陆续归唐。",
+      "summaryZh": "7世紀初頭、ソンツェン・ガンポがチベット高原を統一し、ラサ（現在のラサ）を都とした。641年には唐の文成公主を娶った。663年に吐谷渾を滅ぼし、670年には大非川で唐軍を撃破した。763年には一時長安を攻略した。822年には唐蕃会盟が結ばれた。842年、ラン・ダルマが暗殺されると王朝は崩壊し、河隴の地は次々と唐に帰属した。",
       "summaryEn": "Songtsen Gampo unified the Tibetan Plateau in the early 7th century, ruling from Rasa (Lhasa), and married Tang's Princess Wencheng in 641. Tibet conquered the Tuyuhun (663), defeated Tang at Dafeichuan (670), briefly occupied Chang'an (763) and concluded the Tang–Tibet treaty of 822; after Langdarma's assassination (842) the empire disintegrated.",
       "rulersZh": "松赞干布 → 芒松芒赞 → 赤都松赞 → 赤德祖赞 → 赤松德赞 → 赤德松赞 → 赤祖德赞 → 朗达玛",
-      "rulersEn": "Songtsen Gampo → Mangsong Mangtsen → Tridu Songtsen → Me Agtsom → Trisong Detsen → Sadnalegs → Ralpacan → Langdarma"
+      "rulersEn": "Songtsen Gampo → Mangsong Mangtsen → Tridu Songtsen → Me Agtsom → Trisong Detsen → Sadnalegs → Ralpacan → Langdarma",
+      "summaryJa": "7世紀初頭、ソンツェン・ガンポがチベット高原を統一し、ラサ（現在のラサ）を都とした。641年には唐の文成公主を娶った。663年に吐谷渾を滅ぼし、670年には大非川で唐軍を撃破した。763年には一時長安を攻略した。822年には唐蕃会盟が結ばれた。842年、ラン・ダルマが暗殺されると王朝は崩壊し、河隴の地は次々と唐に帰属した。"
     },
     {
       "key": "wangzheng",
@@ -23762,8 +28189,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "王郑"
       ],
-      "summaryZh": "隋末东都留守王世充于618年江都兵变后拥立越王杨侗，同年九月于邙山击败李密瓦岗军；619年废杨侗自立，国号大郑，建元开明，据守洛阳与河南诸郡。620—621年秦王李世民率唐军合围洛阳，虎牢之战擒夏王窦建德，王世充绝望出降。",
-      "summaryEn": "Holding the Sui eastern capital Luoyang, Wang Shichong defeated Li Mi's Wagang army in 618 and deposed Yang Tong in 619 to proclaim the state of Zheng. Besieged by Li Shimin from 620, Wang surrendered Luoyang in 621 immediately after Dou Jiande's relief army was crushed at Hulao Pass."
+      "summaryZh": "隋末の東都留守王世充は618年の江都兵変後、越王楊侗を擁立し、同年9月には邙山で李密の瓦崗軍を撃破した。619年、楊侗を廃して自立し、国号を大鄭とし、元号を開明と定め、洛陽と河南諸郡を拠点とした。620年から621年にかけ、秦王李世民率いる唐軍が洛陽を包囲し、虎牢の戦いで夏王竇建徳を捕らえたため、王世充は絶望して降伏した。",
+      "summaryEn": "Holding the Sui eastern capital Luoyang, Wang Shichong defeated Li Mi's Wagang army in 618 and deposed Yang Tong in 619 to proclaim the state of Zheng. Besieged by Li Shimin from 620, Wang surrendered Luoyang in 621 immediately after Dou Jiande's relief army was crushed at Hulao Pass.",
+      "summaryJa": "隋末の東都留守王世充は618年の江都兵変後、越王楊侗を擁立し、同年9月には邙山で李密の瓦崗軍を撃破した。619年、楊侗を廃して自立し、国号を大鄭とし、元号を開明と定め、洛陽と河南諸郡を拠点とした。620年から621年にかけ、秦王李世民率いる唐軍が洛陽を包囲し、虎牢の戦いで夏王竇建徳を捕らえたため、王世充は絶望して降伏した。"
     },
     {
       "key": "anxi_duhufu",
@@ -23792,8 +28220,9 @@ window.ATLAS_LORE_DATA = {
         "安西大都护府",
         "安西四镇"
       ],
-      "summaryZh": "640年唐太宗遣侯君集平定高昌，始置安西都护府于西州交河城；648年平龟兹后移治龟兹，统辖龟兹、于阗、疏勒、碎叶（或焉耆）“安西四镇”，692年王孝杰大破吐蕃复四镇。755年安史之乱后河西陷落，安西大都护郭昕率白发孤军坚守西域四十余年，约790年后始陷。",
-      "summaryEn": "Established by Emperor Taizong at Xizhou after conquering Gaochang in 640 and moved to Kucha in 648, the Anxi Protectorate governed the Tarim Basin through the Four Garrisons of Anxi (Kucha, Khotan, Kashgar, Suyab). Cut off from Chang'an after the An Lushan Rebellion, Grand Protector Guo Xin and his grey-haired garrison held out for over forty years until c. 790."
+      "summaryZh": "640年、唐太宗は侯君集を派遣して高昌を平定し、西州交河城に安西都護府を設置した。648年に亀茲を平定した後、治所を亀茲に移し、亀茲、于闐、疏勒、砕葉（または焉耆）の「安西四鎮」を統轄した。692年には王孝傑が吐蕃を大破して四鎮を回復した。755年の安史の乱後、河西が陥落すると、安西大都護郭昕は白髪の孤軍を率いて西域を四十余年にわたり堅守し、790年頃にようやく陥落した。",
+      "summaryEn": "Established by Emperor Taizong at Xizhou after conquering Gaochang in 640 and moved to Kucha in 648, the Anxi Protectorate governed the Tarim Basin through the Four Garrisons of Anxi (Kucha, Khotan, Kashgar, Suyab). Cut off from Chang'an after the An Lushan Rebellion, Grand Protector Guo Xin and his grey-haired garrison held out for over forty years until c. 790.",
+      "summaryJa": "640年、唐太宗は侯君集を派遣して高昌を平定し、西州交河城に安西都護府を設置した。648年に亀茲を平定した後、治所を亀茲に移し、亀茲、于闐、疏勒、砕葉（または焉耆）の「安西四鎮」を統轄した。692年には王孝傑が吐蕃を大破して四鎮を回復した。755年の安史の乱後、河西が陥落すると、安西大都護郭昕は白髪の孤軍を率いて西域を四十余年にわたり堅守し、790年頃にようやく陥落した。"
     },
     {
       "key": "anbei_duhufu",
@@ -23823,8 +28252,9 @@ window.ATLAS_LORE_DATA = {
         "燕然都护府",
         "瀚海都护府"
       ],
-      "summaryZh": "630年唐灭东突厥后于漠北设羁縻州府；646年唐太宗遣李世勣灭薛延陀汗国，铁勒回纥等十一部归附，647年置燕然都护府统辖瀚海、金微等六都督府及七州，开辟“参天可汗道”。663年移治回纥本部改称瀚海都护府，669年改称安北都护府，统辖大漠南北铁勒诸部。",
-      "summaryEn": "After destroying the Xueyantuo Khanate in 646, Emperor Taizong established the Yanran Protectorate in 647 over six Tiele area commands and seven prefectures across the Mongolian steppe along the Heavenly Khan Road; moved to the Orkhon valley in 663 and renamed the Anbei Protectorate in 669."
+      "summaryZh": "630年、唐が東突厥を滅ぼした後、漠北に羈縻州府を設置した。646年、唐太宗は李世勣を派遣して薛延陀汗国を滅ぼし、鉄勒、回紇など十一部が帰順した。647年には燕然都護府を設置し、瀚海、金微など六都督府と七州を統轄し、「参天可汗道」を開いた。663年、治所を回紇本部に移して瀚海都護府と改称し、669年には安北都護府と改称し、大漠南北の鉄勒諸部を統轄した。",
+      "summaryEn": "After destroying the Xueyantuo Khanate in 646, Emperor Taizong established the Yanran Protectorate in 647 over six Tiele area commands and seven prefectures across the Mongolian steppe along the Heavenly Khan Road; moved to the Orkhon valley in 663 and renamed the Anbei Protectorate in 669.",
+      "summaryJa": "630年、唐が東突厥を滅ぼした後、漠北に羈縻州府を設置した。646年、唐太宗は李世勣を派遣して薛延陀汗国を滅ぼし、鉄勒、回紇など十一部が帰順した。647年には燕然都護府を設置し、瀚海、金微など六都督府と七州を統轄し、「参天可汗道」を開いた。663年、治所を回紇本部に移して瀚海都護府と改称し、669年には安北都護府と改称し、大漠南北の鉄勒諸部を統轄した。"
     },
     {
       "key": "wuzhou",
@@ -23855,8 +28285,9 @@ window.ATLAS_LORE_DATA = {
         "大周（武周）",
         "武周朝"
       ],
-      "summaryZh": "690年武则天废唐睿宗自立，改国号为周，定都神都洛阳，史称武周。在位期间开创殿试与武举、拔擢寒门；692年遣王孝杰大破吐蕃收复安西四镇，702年置北庭都护府分辖天山南北。705年神龙政变后传位唐中宗，唐室复辟。",
-      "summaryEn": "In 690 Wu Zetian deposed Emperor Ruizong and proclaimed the Zhou dynasty (Wu Zhou) with its capital at Shendu Luoyang as China's sole female emperor regnant. She instituted palace and military examinations, promoted officials outside the old aristocracy, dispatched Wang Xiaojie to recover the Four Garrisons of Anxi from Tibet (692), and established the Beiting Protectorate north of the Tianshan (702). In 705 the Shenlong coup restored Emperor Zhongzong and the Tang dynasty."
+      "summaryZh": "690年、武則天は唐睿宗を廃して自立し、国号を周と改め、神都洛陽を都とした（史称武周）。在位中、殿試と武挙を創設し、寒門の士を抜擢した。692年には王孝傑を派遣して吐蕃を大破し、安西四鎮を回復した。702年には北庭都護府を設置し、天山南北を分轄した。705年の神龍政変後、唐中宗に位を譲り、唐室が復辟した。",
+      "summaryEn": "In 690 Wu Zetian deposed Emperor Ruizong and proclaimed the Zhou dynasty (Wu Zhou) with its capital at Shendu Luoyang as China's sole female emperor regnant. She instituted palace and military examinations, promoted officials outside the old aristocracy, dispatched Wang Xiaojie to recover the Four Garrisons of Anxi from Tibet (692), and established the Beiting Protectorate north of the Tianshan (702). In 705 the Shenlong coup restored Emperor Zhongzong and the Tang dynasty.",
+      "summaryJa": "690年、武則天は唐睿宗を廃して自立し、国号を周と改め、神都洛陽を都とした（史称武周）。在位中、殿試と武挙を創設し、寒門の士を抜擢した。692年には王孝傑を派遣して吐蕃を大破し、安西四鎮を回復した。702年には北庭都護府を設置し、天山南北を分轄した。705年の神龍政変後、唐中宗に位を譲り、唐室が復辟した。"
     },
     {
       "key": "beiting_duhufu",
@@ -23881,8 +28312,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "北庭大都护府"
       ],
-      "summaryZh": "702年武则天析安西都护府天山以北辖境，于庭州（今吉木萨尔）设北庭都护府，统辖伊州、西州、庭州与瀚海、天山、伊吾诸军，控扼天山北路、准噶尔盆地至巴尔喀什湖。安史之乱后与安西同陷绝境，李元忠等借回鹘道间关奉表入唐，坚守至790年庭州失陷。",
-      "summaryEn": "Created by Wu Zetian in 702 at Tingzhou (modern Jimsar) to administer the northern Tianshan route, Dzungaria and the Balkhash region alongside the Anxi Protectorate in the south. Isolated after the fall of Hexi in the 760s, Beiting's garrisonunder Li Yuanzhong held out for decades until Tingzhou fell to Tibet in 790."
+      "summaryZh": "702年、武則天は安西都護府の天山以北の管轄地域を分割し、庭州（現在のジムサル）に北庭都護府を設置した。伊州、西州、庭州および瀚海、天山、伊吾の諸軍を統轄し、天山北路、ジュンガル盆地からバルハシ湖に至る地域を支配した。安史の乱後、安西都護府と同様に孤立無援の状況に陥ったが、李元忠らは回鶻の道を借りて苦難の末に唐へ上表し、790年に庭州が陥落するまで堅守した。",
+      "summaryEn": "Created by Wu Zetian in 702 at Tingzhou (modern Jimsar) to administer the northern Tianshan route, Dzungaria and the Balkhash region alongside the Anxi Protectorate in the south. Isolated after the fall of Hexi in the 760s, Beiting's garrisonunder Li Yuanzhong held out for decades until Tingzhou fell to Tibet in 790.",
+      "summaryJa": "702年、武則天は安西都護府の天山以北の管轄地域を分割し、庭州（現在のジムサル）に北庭都護府を設置した。伊州、西州、庭州および瀚海、天山、伊吾の諸軍を統轄し、天山北路、ジュンガル盆地からバルハシ湖に至る地域を支配した。安史の乱後、安西都護府と同様に孤立無援の状況に陥ったが、李元忠らは回鶻の道を借りて苦難の末に唐へ上表し、790年に庭州が陥落するまで堅守した。"
     },
     {
       "key": "nanzhao",
@@ -23904,10 +28336,11 @@ window.ATLAS_LORE_DATA = {
         "异牟寻",
         "点苍山"
       ],
-      "summaryZh": "738年蒙舍诏皮逻阁在唐朝支持下统一六诏，受封云南王，都太和城（后迁阳苴咩城）。天宝年间两次大败唐军，转而依附吐蕃；794年与唐重订盟约，902年权臣郑买嗣篡位，南诏亡。",
+      "summaryZh": "738年、唐の支援を受けた蒙舍詔の皮羅閣が六詔を統一し、雲南王に封じられ、太和城（後に陽苴咩城に遷都）を都とした。天宝年間には唐軍を二度大破し、吐蕃に帰属した。794年に唐と盟約を再締結したが、902年、権臣の鄭買嗣が簒奪し、南詔は滅亡した。",
       "summaryEn": "With Tang backing, Piluoge of Mengshe unified the Six Zhao in 738 and was made King of Yunnan, ruling from Taihe (later Yangjumie). Nanzhao routed Tang armies twice in the Tianbao years and allied with Tibet, renewed its alliance with Tang in 794, and fell when the minister Zheng Maisi usurped the throne in 902.",
       "rulersZh": "皮逻阁 → 阁罗凤 → 异牟寻 → 寻阁劝 → 劝龙晟 → 劝利晟 → 劝丰祐 → 世隆 → 隆舜 → 舜化贞",
-      "rulersEn": "Piluoge → Geluofeng → Yimouxun → Xungequan → Quanlongsheng → Quanlisheng → Quanfengyou → Shilong → Longshun → Shunhuazhen"
+      "rulersEn": "Piluoge → Geluofeng → Yimouxun → Xungequan → Quanlongsheng → Quanlisheng → Quanfengyou → Shilong → Longshun → Shunhuazhen",
+      "summaryJa": "738年、唐の支援を受けた蒙舍詔の皮羅閣が六詔を統一し、雲南王に封じられ、太和城（後に陽苴咩城に遷都）を都とした。天宝年間には唐軍を二度大破し、吐蕃に帰属した。794年に唐と盟約を再締結したが、902年、権臣の鄭買嗣が簒奪し、南詔は滅亡した。"
     },
     {
       "key": "dayan_anshi",
@@ -23936,8 +28369,9 @@ window.ATLAS_LORE_DATA = {
         "安史大燕",
         "燕朝（安史）"
       ],
-      "summaryZh": "755年底身兼范阳、平卢、河东三镇节度使的安禄山自范阳起兵南下，756年元旦于洛阳称大燕皇帝、建元圣武，继而攻破潼关陷长安。757年安庆绪弑父自立，唐军收复两京；759年史思明于邺城解围后杀安庆绪称大燕皇帝，再陷洛阳。763年初史朝义兵败自缢，持续八年的安史之乱平定。",
-      "summaryEn": "Rising from Fanyang in late 755, three-circuit military governor An Lushan proclaimed the Great Yan dynasty at Luoyang in 756 and captured Chang'an. After An Qingxu murdered his father (757), Shi Siming slew An Qingxu at Ye in 759 and retook Luoyang as Emperor of Yan; Shi Chaoyi's defeat and suicide in early 763 ended the eight-year rebellion."
+      "summaryZh": "755年末、范陽・平盧・河東三鎮節度使を兼ねていた安祿山が范陽で挙兵し南下した。756年元旦、洛陽で大燕皇帝を称し、聖武と建元した。続いて潼関を攻め破り、長安を陥落させた。757年、安慶緒が父を弑して自立したが、唐軍は両京を奪還した。759年、史思明が鄴城の包囲を解いた後、安慶緒を殺害して大燕皇帝を称し、再び洛陽を陥落させた。763年初頭、史朝義が敗れて自縊し、8年にわたる安史の乱は平定された。",
+      "summaryEn": "Rising from Fanyang in late 755, three-circuit military governor An Lushan proclaimed the Great Yan dynasty at Luoyang in 756 and captured Chang'an. After An Qingxu murdered his father (757), Shi Siming slew An Qingxu at Ye in 759 and retook Luoyang as Emperor of Yan; Shi Chaoyi's defeat and suicide in early 763 ended the eight-year rebellion.",
+      "summaryJa": "755年末、范陽・平盧・河東三鎮節度使を兼ねていた安祿山が范陽で挙兵し南下した。756年元旦、洛陽で大燕皇帝を称し、聖武と建元した。続いて潼関を攻め破り、長安を陥落させた。757年、安慶緒が父を弑して自立したが、唐軍は両京を奪還した。759年、史思明が鄴城の包囲を解いた後、安慶緒を殺害して大燕皇帝を称し、再び洛陽を陥落させた。763年初頭、史朝義が敗れて自縊し、8年にわたる安史の乱は平定された。"
     },
     {
       "key": "guiyijun",
@@ -23962,8 +28396,9 @@ window.ATLAS_LORE_DATA = {
         "张氏归义军",
         "曹氏归义军"
       ],
-      "summaryZh": "848年沙州豪族张议潮乘吐蕃内乱率众起义，驱逐吐蕃守将，接连收复瓜、沙、伊、西、甘、肃、兰、鄯、河、岷、廓十一州，遣使间道入长安献图籍，唐宣宗置归义军节度使治沙州（敦煌）。五代至北宋由曹议金家族世袭，护持莫高窟文化，1036年为西夏李元昊所并。",
-      "summaryEn": "In 848 local leader Zhang Yichao rose at Shazhou (Dunhuang), expelled Tibetan garrisons across eleven Hexi prefectures and restored allegiance to Tang, which established the Guiyi Circuit at Dunhuang. Ruled by the Zhang and later Cao families into the Northern Song while patronizing the Mogao Caves, it was absorbed by Western Xia in 1036."
+      "summaryZh": "848年、沙州の豪族である張議潮は吐蕃の内乱に乗じて挙兵し、吐蕃の守将を追放し、瓜・沙・伊・西・甘・粛・蘭・鄯・河・岷・廓の十一州を次々と奪還した。使者を長安に派遣して図籍を献上し、唐宣宗は沙州（敦煌）に帰義軍節度使を置いた。五代から北宋にかけては曹議金の一族が世襲し、莫高窟の文化を保護した。1036年、西夏の李元昊に併合された。",
+      "summaryEn": "In 848 local leader Zhang Yichao rose at Shazhou (Dunhuang), expelled Tibetan garrisons across eleven Hexi prefectures and restored allegiance to Tang, which established the Guiyi Circuit at Dunhuang. Ruled by the Zhang and later Cao families into the Northern Song while patronizing the Mogao Caves, it was absorbed by Western Xia in 1036.",
+      "summaryJa": "848年、沙州の豪族である張議潮は吐蕃の内乱に乗じて挙兵し、吐蕃の守将を追放し、瓜・沙・伊・西・甘・粛・蘭・鄯・河・岷・廓の十一州を次々と奪還した。使者を長安に派遣して図籍を献上し、唐宣宗は沙州（敦煌）に帰義軍節度使を置いた。五代から北宋にかけては曹議金の一族が世襲し、莫高窟の文化を保護した。1036年、西夏の李元昊に併合された。"
     },
     {
       "key": "daqi_huangchao",
@@ -23989,8 +28424,9 @@ window.ATLAS_LORE_DATA = {
         "黄巢政权",
         "黄齐"
       ],
-      "summaryZh": "875年曹州盐商黄巢响应王仙芝起义，转战大江南北，南下攻克广州；879年自桂州北伐渡江淮，880年底克东都洛阳、破潼关，881年初入长安于含元殿即皇帝位，国号大齐，建元金统。883年李克用率沙陀军败齐军收复长安，884年黄巢退至泰山狼虎谷兵败自刎。",
-      "summaryEn": "Joining Wang Xianzhi's uprising in 875, Huang Chao marched across China to Guangzhou and back north to capture Luoyang and Chang'an, proclaiming the Great Qi dynasty at Hanyuan Hall in early 881. Driven from Chang'an by Li Keyong's Shatuo cavalry in 883, Huang Chao perished at Wolf-Tiger Valley near Mount Tai in 884."
+      "summaryZh": "875年、曹州の塩商人である黄巣は王仙芝の蜂起に呼応し、長江南北を転戦し、南下して廣州を攻略した。879年には桂州から北伐して江淮を渡り、880年末には東都洛陽を攻略し、潼関を破った。881年初頭、長安に入り含元殿で皇帝位に即き、国号を大斉、建元を金統とした。883年、李克用が沙陀軍を率いて斉軍を破り長安を奪還した。884年、黄巣は泰山狼虎谷に退却して敗れ自刎した。",
+      "summaryEn": "Joining Wang Xianzhi's uprising in 875, Huang Chao marched across China to Guangzhou and back north to capture Luoyang and Chang'an, proclaiming the Great Qi dynasty at Hanyuan Hall in early 881. Driven from Chang'an by Li Keyong's Shatuo cavalry in 883, Huang Chao perished at Wolf-Tiger Valley near Mount Tai in 884.",
+      "summaryJa": "875年、曹州の塩商人である黄巣は王仙芝の蜂起に呼応し、長江南北を転戦し、南下して廣州を攻略した。879年には桂州から北伐して江淮を渡り、880年末には東都洛陽を攻略し、潼関を破った。881年初頭、長安に入り含元殿で皇帝位に即き、国号を大斉、建元を金統とした。883年、李克用が沙陀軍を率いて斉軍を破り長安を奪還した。884年、黄巣は泰山狼虎谷に退却して敗れ自刎した。"
     },
     {
       "key": "yangwu",
@@ -24016,10 +28452,11 @@ window.ATLAS_LORE_DATA = {
         "杨吴",
         "南吴"
       ],
-      "summaryZh": "淮南节度使杨行密902年受唐封吴王，据江淮，都扬州。其子孙暗弱，权归徐温、徐知诰（李昪）父子；927年杨溥称帝，937年徐知诰受禅建齐（后改唐，即南唐）。",
+      "summaryZh": "淮南節度使の楊行密は902年、唐より呉王に封じられ、江淮を領有し、揚州を都とした。その子孫は暗愚で弱く、権力は徐温・徐知誥（李昪）父子に移った。927年、楊溥が帝位を称したが、937年、徐知誥が禅譲を受けて斉を建国した（後に唐と改称し、南唐となる）。",
       "summaryEn": "Yang Xingmi, military governor of Huainan, was made Prince of Wu by Tang in 902 and held the Yangtze–Huai region from Yangzhou. Power passed to Xu Wen and his adopted son Xu Zhigao (Li Bian); Yang Pu took the imperial title in 927, and Xu Zhigao replaced him in 937 (the later Southern Tang).",
       "rulersZh": "太祖杨行密 → 烈祖杨渥 → 高祖杨隆演 → 睿帝杨溥",
-      "rulersEn": "Yang Xingmi → Yang Wo → Yang Longyan → Yang Pu"
+      "rulersEn": "Yang Xingmi → Yang Wo → Yang Longyan → Yang Pu",
+      "summaryJa": "淮南節度使の楊行密は902年、唐より呉王に封じられ、江淮を領有し、揚州を都とした。その子孫は暗愚で弱く、権力は徐温・徐知誥（李昪）父子に移った。927年、楊溥が帝位を称したが、937年、徐知誥が禅譲を受けて斉を建国した（後に唐と改称し、南唐となる）。"
     },
     {
       "key": "houliang",
@@ -24047,8 +28484,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "朱梁"
       ],
-      "summaryZh": "宣武节度使朱温（朱全忠）挟持唐昭宗，907年废唐哀帝称帝，国号梁，都开封。与河东李克用、李存勖父子连年争战，911年柏乡之战大败；923年李存勖攻入开封，梁末帝自杀。",
-      "summaryEn": "The Xuanwu military governor Zhu Wen (Zhu Quanzhong) controlled the last Tang emperors and founded Liang at Kaifeng in 907. Its long war with Li Keyong and Li Cunxu of Hedong turned with the defeat at Baixiang (911); in 923 Li Cunxu took Kaifeng and the last Liang emperor killed himself."
+      "summaryZh": "宣武節度使の朱温（朱全忠）は唐昭宗を擁立し、907年、唐哀帝を廃して帝位を称し、国号を梁、都を開封とした。河東の李克用・李存勗父子と連年争戦し、911年の柏郷の戦いで大敗した。923年、李存勗が開封に攻め入り、梁末帝は自殺した。",
+      "summaryEn": "The Xuanwu military governor Zhu Wen (Zhu Quanzhong) controlled the last Tang emperors and founded Liang at Kaifeng in 907. Its long war with Li Keyong and Li Cunxu of Hedong turned with the defeat at Baixiang (911); in 923 Li Cunxu took Kaifeng and the last Liang emperor killed himself.",
+      "summaryJa": "宣武節度使の朱温（朱全忠）は唐昭宗を擁立し、907年、唐哀帝を廃して帝位を称し、国号を梁、都を開封とした。河東の李克用・李存勗父子と連年争戦し、911年の柏郷の戦いで大敗した。923年、李存勗が開封に攻め入り、梁末帝は自殺した。"
     },
     {
       "key": "qianshu",
@@ -24071,10 +28509,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "王蜀"
       ],
-      "summaryZh": "西川节度使王建据有两川，907年唐亡后称帝，都成都。后主王衍荒淫，925年后唐军入蜀，王衍出降。",
+      "summaryZh": "西川節度使の王建は両川を領有し、907年に唐が滅亡した後、帝位を称し、成都を都とした。後主の王衍は荒淫にふけり、925年、後唐軍が蜀に侵攻すると、王衍は降伏した。",
       "summaryEn": "Wang Jian, military governor of Xichuan, held Sichuan and proclaimed himself emperor at Chengdu after Tang fell in 907. His son Wang Yan's dissipation ended when Later Tang invaded and he surrendered in 925.",
       "rulersZh": "高祖王建 → 后主王衍",
-      "rulersEn": "Wang Jian → Wang Yan"
+      "rulersEn": "Wang Jian → Wang Yan",
+      "summaryJa": "西川節度使の王建は両川を領有し、907年に唐が滅亡した後、帝位を称し、成都を都とした。後主の王衍は荒淫にふけり、925年、後唐軍が蜀に侵攻すると、王衍は降伏した。"
     },
     {
       "key": "machu",
@@ -24100,10 +28539,11 @@ window.ATLAS_LORE_DATA = {
         "马楚",
         "南楚"
       ],
-      "summaryZh": "马殷据湖南，907年受后梁封楚王，都潭州（长沙），兴茶业、通商贸。马殷死后诸子争位，951年为南唐所灭（湖南旋由周行逢等据守）。",
+      "summaryZh": "馬殷は湖南を領有し、907年、後梁より楚王に封じられ、潭州（長沙）を都とした。茶業を振興し、商貿を盛んにした。馬殷の死後、諸子が帝位を争い、951年、南唐に滅ぼされた（湖南はその後、周行逢らが領有した）。",
       "summaryEn": "Ma Yin held Hunan and was made King of Chu by Later Liang in 907, ruling from Tanzhou (Changsha) and promoting the tea trade. Succession struggles after his death let Southern Tang conquer Chu in 951 (local commanders soon retook Hunan).",
       "rulersZh": "武穆王马殷 → 衡阳王马希声 → 文昭王马希范 → 废王马希广 → 恭孝王马希萼 → 马希崇",
-      "rulersEn": "Ma Yin → Ma Xisheng → Ma Xifan → Ma Xiguang → Ma Xi'e → Ma Xichong"
+      "rulersEn": "Ma Yin → Ma Xisheng → Ma Xifan → Ma Xiguang → Ma Xi'e → Ma Xichong",
+      "summaryJa": "馬殷は湖南を領有し、907年、後梁より楚王に封じられ、潭州（長沙）を都とした。茶業を振興し、商貿を盛んにした。馬殷の死後、諸子が帝位を争い、951年、南唐に滅ぼされた（湖南はその後、周行逢らが領有した）。"
     },
     {
       "key": "wuyue",
@@ -24129,8 +28569,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "钱氏吴越"
       ],
-      "summaryZh": "钱镠据两浙，907年受后梁封吴越王，都杭州。奉中原正朔、保境安民，修筑捍海石塘，两浙富庶；978年钱弘俶纳土归宋，和平并入北宋。",
-      "summaryEn": "Qian Liu held the two Zhe circuits and was made King of Wuyue by Later Liang in 907, ruling from Hangzhou. Deferring to northern courts, protecting its people and building the stone seawall, Wuyue prospered until Qian Chu peacefully surrendered his lands to Song in 978."
+      "summaryZh": "錢鏐は兩浙を支配し、907年に後梁から吳越王に封じられ、杭州を都とした。中原の正朔を奉じ、境域を保ち民を安んじ、捍海石塘（防潮堤）を築いたため、兩浙は富庶を極めた。978年、錢弘俶は領土を宋に献上し、平和的に北宋に編入された。",
+      "summaryEn": "Qian Liu held the two Zhe circuits and was made King of Wuyue by Later Liang in 907, ruling from Hangzhou. Deferring to northern courts, protecting its people and building the stone seawall, Wuyue prospered until Qian Chu peacefully surrendered his lands to Song in 978.",
+      "summaryJa": "錢鏐は兩浙を支配し、907年に後梁から吳越王に封じられ、杭州を都とした。中原の正朔を奉じ、境域を保ち民を安んじ、捍海石塘（防潮堤）を築いたため、兩浙は富庶を極めた。978年、錢弘俶は領土を宋に献上し、平和的に北宋に編入された。"
     },
     {
       "key": "minguo",
@@ -24156,10 +28597,11 @@ window.ATLAS_LORE_DATA = {
         "闽国",
         "王闽"
       ],
-      "summaryZh": "王潮、王审知兄弟入闽，909年王审知受后梁封闽王，都福州，劝课农桑、开港通商。933年王延钧称帝，此后宗室内乱，945年为南唐所灭。",
+      "summaryZh": "王潮、王審知兄弟が閩に入り、909年に王審知が後梁から閩王に封じられ、福州を都とした。農桑を奨励し、港を開いて通商を促進した。933年、王延鈞が帝位に就いたが、その後宗室の内乱が続き、945年に南唐によって滅ぼされた。",
       "summaryEn": "The brothers Wang Chao and Wang Shenzhi took Fujian; Wang Shenzhi was made Prince of Min by Later Liang in 909 and developed agriculture and maritime trade from Fuzhou. Wang Yanjun took the imperial title in 933; family strife followed and Southern Tang conquered Min in 945.",
       "rulersZh": "太祖王审知 → 嗣王王延翰 → 惠宗王延钧 → 康宗王昶 → 景宗王曦 → 殷帝王延政",
-      "rulersEn": "Wang Shenzhi → Wang Yanhan → Wang Yanjun → Wang Chang → Wang Xi → Wang Yanzheng"
+      "rulersEn": "Wang Shenzhi → Wang Yanhan → Wang Yanjun → Wang Chang → Wang Xi → Wang Yanzheng",
+      "summaryJa": "王潮、王審知兄弟が閩に入り、909年に王審知が後梁から閩王に封じられ、福州を都とした。農桑を奨励し、港を開いて通商を促進した。933年、王延鈞が帝位に就いたが、その後宗室の内乱が続き、945年に南唐によって滅ぼされた。"
     },
     {
       "key": "liao",
@@ -24186,8 +28628,9 @@ window.ATLAS_LORE_DATA = {
         "大辽",
         "Khitan"
       ],
-      "summaryZh": "907年耶律阿保机任契丹可汗，916年称帝，都上京临潢府。938年得燕云十六州，947年改国号辽；1004年与北宋订澶渊之盟。行因俗而治的南北面官制，1125年为金所灭，耶律大石西迁建西辽。",
-      "summaryEn": "Abaoji became Khitan khagan in 907 and emperor in 916, ruling from Shangjing. Liao gained the Sixteen Prefectures (938), adopted the dynastic name Liao (947) and concluded the Chanyuan Treaty with Song (1004), governing through a dual northern–southern administration until the Jurchen Jin destroyed it in 1125 and Yelü Dashi founded Western Liao."
+      "summaryZh": "907年、耶律阿保機が契丹可汗となり、916年に帝位に就き、上京臨潢府を都とした。938年に燕雲十六州を獲得し、947年に国号を遼と改めた。1004年には北宋と澶淵の盟を締結した。因俗而治（民族の慣習に応じた統治）の南北面官制を敷いたが、1125年に金によって滅ぼされ、耶律大石は西方へ移り西遼を建国した。",
+      "summaryEn": "Abaoji became Khitan khagan in 907 and emperor in 916, ruling from Shangjing. Liao gained the Sixteen Prefectures (938), adopted the dynastic name Liao (947) and concluded the Chanyuan Treaty with Song (1004), governing through a dual northern–southern administration until the Jurchen Jin destroyed it in 1125 and Yelü Dashi founded Western Liao.",
+      "summaryJa": "907年、耶律阿保機が契丹可汗となり、916年に帝位に就き、上京臨潢府を都とした。938年に燕雲十六州を獲得し、947年に国号を遼と改めた。1004年には北宋と澶淵の盟を締結した。因俗而治（民族の慣習に応じた統治）の南北面官制を敷いたが、1125年に金によって滅ぼされ、耶律大石は西方へ移り西遼を建国した。"
     },
     {
       "key": "nanhan",
@@ -24213,10 +28656,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "刘汉（南汉）"
       ],
-      "summaryZh": "刘隐据岭南，917年其弟刘䶮在广州称帝，初号大越，次年改汉，史称南汉。以严刑与宦官政治著称，971年宋将潘美攻破广州，刘鋹出降。",
+      "summaryZh": "劉隱が嶺南を支配し、917年にその弟の劉龑が廣州で帝位に就き、当初は大越と号したが、翌年漢と改め、史上に南漢と呼ばれる。厳刑と宦官政治で知られ、971年に宋将潘美が廣州を攻め落とし、劉鋹は降伏した。",
       "summaryEn": "Liu Yin held Lingnan; his brother Liu Yan proclaimed himself emperor at Guangzhou in 917 (first as Great Yue, then Han). Known for harsh punishments and eunuch government, Southern Han fell when Song general Pan Mei took Guangzhou in 971.",
       "rulersZh": "烈宗刘隐 → 高祖刘䶮 → 殇帝刘玢 → 中宗刘晟 → 后主刘鋹",
-      "rulersEn": "Liu Yin → Liu Yan → Liu Bin → Liu Sheng → Liu Chang"
+      "rulersEn": "Liu Yin → Liu Yan → Liu Bin → Liu Sheng → Liu Chang",
+      "summaryJa": "劉隱が嶺南を支配し、917年にその弟の劉龑が廣州で帝位に就き、当初は大越と号したが、翌年漢と改め、史上に南漢と呼ばれる。厳刑と宦官政治で知られ、971年に宋将潘美が廣州を攻め落とし、劉鋹は降伏した。"
     },
     {
       "key": "houtang",
@@ -24245,8 +28689,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "沙陀唐"
       ],
-      "summaryZh": "沙陀李克用据河东称晋王，其子李存勖923年称帝国号唐，同年灭后梁，都洛阳，925年灭前蜀。庄宗宠信伶人，926年兵变身死；明宗李嗣源较为安定。936年石敬瑭借契丹兵攻入洛阳，末帝自焚。",
-      "summaryEn": "The Shatuo leader Li Keyong held Hedong as Prince of Jin; his son Li Cunxu proclaimed Tang in 923, destroyed Later Liang that year, ruled from Luoyang and conquered Former Shu (925). Killed in a mutiny in 926, he was followed by the steadier Mingzong; in 936 Shi Jingtang took Luoyang with Khitan troops."
+      "summaryZh": "沙陀族の李克用は河東を支配し晉王を称した。その子の李存勖は923年に帝位に就き国号を唐とし、同年後梁を滅ぼし洛陽を都とした。925年には前蜀を滅ぼした。莊宗（李存勖）は伶人を寵愛し、926年に兵変で殺害された。明宗李嗣源の治世は比較的安定していた。936年、石敬瑭が契丹の兵を借りて洛陽に攻め入り、末帝は自焚して果てた。",
+      "summaryEn": "The Shatuo leader Li Keyong held Hedong as Prince of Jin; his son Li Cunxu proclaimed Tang in 923, destroyed Later Liang that year, ruled from Luoyang and conquered Former Shu (925). Killed in a mutiny in 926, he was followed by the steadier Mingzong; in 936 Shi Jingtang took Luoyang with Khitan troops.",
+      "summaryJa": "沙陀族の李克用は河東を支配し晉王を称した。その子の李存勖は923年に帝位に就き国号を唐とし、同年後梁を滅ぼし洛陽を都とした。925年には前蜀を滅ぼした。莊宗（李存勖）は伶人を寵愛し、926年に兵変で殺害された。明宗李嗣源の治世は比較的安定していた。936年、石敬瑭が契丹の兵を借りて洛陽に攻め入り、末帝は自焚して果てた。"
     },
     {
       "key": "jingnan",
@@ -24275,8 +28720,9 @@ window.ATLAS_LORE_DATA = {
         "高氏荆南",
         "北楚"
       ],
-      "summaryZh": "五代十国之十国中疆域最小者，仅辖荆、归、峡三州，都江陵。907年高季兴任后梁荆南节度使，924年受后唐封南平王；地处南北水陆冲要，向周边大国称臣纳贡以兴商贸（号“高赖子”）。963年北宋慕容延钊借讨湖南武平军之机“假道灭虢”，高继冲纳土归宋。",
-      "summaryEn": "Smallest of the Ten Kingdoms, holding only three prefectures around Jiangling at the Yangtze–Han crossroads. Founded by Gao Jixing (appointed governor in 907 and Prince of Nanping in 924), Jingnan prospered as a commercial entrepot by paying tribute to all neighboring courts until Song armies annexed it en route to Hunan in 963."
+      "summaryZh": "五代十國の十國の中で最も疆域が小さく、荊・歸・峽の三州のみを管轄し、江陵を都とした。907年に高季興が後梁の荊南節度使となり、924年には後唐から南平王に封じられた。南北の水陸交通の要衝に位置し、周辺の大国に称臣納貢することで商業を興隆させた（「高賴子」と称された）。963年、北宋の慕容延釗が湖南武平軍討伐を名目に「假道滅虢」の計を用い、高繼沖は領土を宋に献上した。",
+      "summaryEn": "Smallest of the Ten Kingdoms, holding only three prefectures around Jiangling at the Yangtze–Han crossroads. Founded by Gao Jixing (appointed governor in 907 and Prince of Nanping in 924), Jingnan prospered as a commercial entrepot by paying tribute to all neighboring courts until Song armies annexed it en route to Hunan in 963.",
+      "summaryJa": "五代十國の十國の中で最も疆域が小さく、荊・歸・峽の三州のみを管轄し、江陵を都とした。907年に高季興が後梁の荊南節度使となり、924年には後唐から南平王に封じられた。南北の水陸交通の要衝に位置し、周辺の大国に称臣納貢することで商業を興隆させた（「高賴子」と称された）。963年、北宋の慕容延釗が湖南武平軍討伐を名目に「假道滅虢」の計を用い、高繼沖は領土を宋に献上した。"
     },
     {
       "key": "houshu",
@@ -24297,10 +28743,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "孟蜀"
       ],
-      "summaryZh": "后唐西川节度使孟知祥934年在成都称帝；后主孟昶在位三十余年，蜀中安定富庶。965年北宋王全斌伐蜀，孟昶出降。",
+      "summaryZh": "後唐の西川節度使孟知祥は934年に成都で帝位に就いた。後主孟昶の治世は三十余年に及び、蜀中は安定し富庶を極めた。965年、北宋の王全斌が蜀を討伐し、孟昶は降伏した。",
       "summaryEn": "Meng Zhixiang, Later Tang's governor of Xichuan, proclaimed himself emperor at Chengdu in 934; under Meng Chang Sichuan enjoyed three decades of peace and wealth until Song general Wang Quanbin's invasion forced his surrender in 965.",
       "rulersZh": "高祖孟知祥 → 后主孟昶",
-      "rulersEn": "Meng Zhixiang → Meng Chang"
+      "rulersEn": "Meng Zhixiang → Meng Chang",
+      "summaryJa": "後唐の西川節度使孟知祥は934年に成都で帝位に就いた。後主孟昶の治世は三十余年に及び、蜀中は安定し富庶を極めた。965年、北宋の王全斌が蜀を討伐し、孟昶は降伏した。"
     },
     {
       "key": "houjin",
@@ -24324,8 +28771,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "石晋"
       ],
-      "summaryZh": "936年河东节度使石敬瑭以割让燕云十六州、称儿皇帝为代价，借契丹兵灭后唐，定都开封。出帝石重贵拒绝称臣，946年契丹南下，947年初攻陷开封，后晋亡。",
-      "summaryEn": "Shi Jingtang of Hedong destroyed Later Tang in 936 with Khitan help, paying with the Sixteen Prefectures of Yan–Yun and the title of 'son emperor', and ruled from Kaifeng. When his successor refused vassalage, the Khitan invaded and took Kaifeng at the start of 947."
+      "summaryZh": "936年、河東節度使石敬瑭は燕雲十六州の割譲と兒皇帝を称することを代償に、契丹の兵を借りて後唐を滅ぼし、開封を都とした。出帝石重貴が契丹への称臣を拒否したため、946年に契丹が南下し、947年初めに開封を攻め落とし、後晉は滅亡した。",
+      "summaryEn": "Shi Jingtang of Hedong destroyed Later Tang in 936 with Khitan help, paying with the Sixteen Prefectures of Yan–Yun and the title of 'son emperor', and ruled from Kaifeng. When his successor refused vassalage, the Khitan invaded and took Kaifeng at the start of 947.",
+      "summaryJa": "936年、河東節度使石敬瑭は燕雲十六州の割譲と兒皇帝を称することを代償に、契丹の兵を借りて後唐を滅ぼし、開封を都とした。出帝石重貴が契丹への称臣を拒否したため、946年に契丹が南下し、947年初めに開封を攻め落とし、後晉は滅亡した。"
     },
     {
       "key": "nantang",
@@ -24349,8 +28797,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "李唐（南唐）"
       ],
-      "summaryZh": "937年徐知诰代吴称帝，939年复姓李（李昪），国号唐，都金陵，史称南唐。李璟时灭闽、楚，疆域最广，但955—958年为后周夺去淮南，去帝号；后主李煜工于词章，975年宋军攻破金陵，李煜出降。",
-      "summaryEn": "Xu Zhigao replaced Wu in 937, resumed the surname Li (Li Bian) and named his state Tang, ruling from Jinling. Li Jing conquered Min and Chu, but lost Huainan to Later Zhou (955–958) and dropped the imperial title; the poet-king Li Yu surrendered when Song forces took Jinling in 975."
+      "summaryZh": "937年、徐知誥は呉に代わって帝位に就き、939年には李姓（李昪）に復して国号を唐とし、金陵に都したため、史家はこれを南唐と称した。李璟の時代には閩・楚を滅ぼし、領土は最大となったが、955年から958年にかけて後周に淮南を奪われ、帝号を廃した。後主李煜は詞章に長けていたが、975年、宋軍が金陵を攻め落とすと、李煜は降伏した。",
+      "summaryEn": "Xu Zhigao replaced Wu in 937, resumed the surname Li (Li Bian) and named his state Tang, ruling from Jinling. Li Jing conquered Min and Chu, but lost Huainan to Later Zhou (955–958) and dropped the imperial title; the poet-king Li Yu surrendered when Song forces took Jinling in 975.",
+      "summaryJa": "937年、徐知誥は呉に代わって帝位に就き、939年には李姓（李昪）に復して国号を唐とし、金陵に都したため、史家はこれを南唐と称した。李璟の時代には閩・楚を滅ぼし、領土は最大となったが、955年から958年にかけて後周に淮南を奪われ、帝号を廃した。後主李煜は詞章に長けていたが、975年、宋軍が金陵を攻め落とすと、李煜は降伏した。"
     },
     {
       "key": "dali",
@@ -24375,10 +28824,11 @@ window.ATLAS_LORE_DATA = {
         "大理国",
         "段氏大理"
       ],
-      "summaryZh": "937年白蛮段思平建大理国，都羊苴咩城。崇奉佛教，与宋维持朝贡贸易；中后期高氏专权。1253年忽必烈革囊渡江远征，1254年大理亡。",
+      "summaryZh": "937年、白蛮の段思平が大理国を建国し、羊苴咩城に都した。仏教を深く信仰し、宋と朝貢貿易を維持した。中後期には高氏が専権を振るった。1253年、忽必烈が革囊を用いて江を渡り遠征し、1254年に大理は滅亡した。",
       "summaryEn": "Duan Siping founded Dali in 937, ruling from Yangjumie. A Buddhist kingdom trading and exchanging tribute with Song, it was later dominated by the Gao ministerial clan, and fell to Khubilai's expedition across the Jinsha River in 1253–1254.",
       "rulersZh": "太祖段思平 → 段思英 → 段思良 → 段思聪 → 段素顺 → 段思廉 → 段正明 → 高升泰 → 段正淳 → 段和誉 → 段智兴 → 段兴智",
-      "rulersEn": "Duan Siping → Duan Siying → Duan Siliang → Duan Sicong → Duan Silian → Duan Zhengming → Gao Shengtai → Duan Zhengchun → Duan Heyu → Duan Zhixing → Duan Xingzhi"
+      "rulersEn": "Duan Siping → Duan Siying → Duan Siliang → Duan Sicong → Duan Silian → Duan Zhengming → Gao Shengtai → Duan Zhengchun → Duan Heyu → Duan Zhixing → Duan Xingzhi",
+      "summaryJa": "937年、白蛮の段思平が大理国を建国し、羊苴咩城に都した。仏教を深く信仰し、宋と朝貢貿易を維持した。中後期には高氏が専権を振るった。1253年、忽必烈が革囊を用いて江を渡り遠征し、1254年に大理は滅亡した。"
     },
     {
       "key": "houhan",
@@ -24403,8 +28853,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "刘汉"
       ],
-      "summaryZh": "947年契丹北撤后，河东节度使刘知远在太原称帝，入主开封。隐帝刘承祐猜忌大臣，950年欲杀郭威，郭威起兵入开封，951年代汉建周；刘崇据太原另立北汉。",
-      "summaryEn": "When the Khitan withdrew in 947, Liu Zhiyuan of Hedong proclaimed himself emperor at Taiyuan and entered Kaifeng. His son's purge of senior ministers (950) drove Guo Wei to march on the capital and found Zhou in 951, while Liu Chong set up Northern Han at Taiyuan."
+      "summaryZh": "947年、契丹が北方に撤退すると、河東節度使の劉知遠は太原で帝位に就き、開封に入った。隠帝劉承祐は大臣を猜疑し、950年には郭威を殺害しようと図った。郭威は挙兵して開封に入り、951年に漢に代わって周を建国した。劉崇は太原に拠って別に北漢を建てた。",
+      "summaryEn": "When the Khitan withdrew in 947, Liu Zhiyuan of Hedong proclaimed himself emperor at Taiyuan and entered Kaifeng. His son's purge of senior ministers (950) drove Guo Wei to march on the capital and found Zhou in 951, while Liu Chong set up Northern Han at Taiyuan.",
+      "summaryJa": "947年、契丹が北方に撤退すると、河東節度使の劉知遠は太原で帝位に就き、開封に入った。隠帝劉承祐は大臣を猜疑し、950年には郭威を殺害しようと図った。郭威は挙兵して開封に入り、951年に漢に代わって周を建国した。劉崇は太原に拠って別に北漢を建てた。"
     },
     {
       "key": "houzhou",
@@ -24433,8 +28884,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "柴周"
       ],
-      "summaryZh": "951年郭威代汉建周，整顿吏治。954年柴荣（周世宗）即位，高平之战击败北汉与契丹，整军括田；955—958年三征南唐取淮南十四州，959年北伐收复三关，旋即病逝。960年赵匡胤陈桥兵变，代周建宋。",
-      "summaryEn": "Guo Wei founded Zhou in 951 and cleaned up the administration. Chai Rong (Emperor Shizong) defeated Northern Han and the Khitan at Gaoping (954), rebuilt the army, took fourteen Huainan prefectures from Southern Tang (955–958) and recovered three passes from Liao (959) before dying. In 960 Zhao Kuangyin's Chenqiao mutiny replaced Zhou with Song."
+      "summaryZh": "951年、郭威は漢に代わって周を建て、吏治を刷新した。954年、柴栄（周世宗）が即位すると、高平の戦いで北漢と契丹を撃破し、軍を再編し、田地を調査した。955年から958年にかけて南唐を三度征伐して淮南十四州を奪い、959年には北伐で三関を回復したが、間もなく病没した。960年、趙匡胤が陳橋の変を起こし、周に代わって宋を建国した。",
+      "summaryEn": "Guo Wei founded Zhou in 951 and cleaned up the administration. Chai Rong (Emperor Shizong) defeated Northern Han and the Khitan at Gaoping (954), rebuilt the army, took fourteen Huainan prefectures from Southern Tang (955–958) and recovered three passes from Liao (959) before dying. In 960 Zhao Kuangyin's Chenqiao mutiny replaced Zhou with Song.",
+      "summaryJa": "951年、郭威は漢に代わって周を建て、吏治を刷新した。954年、柴栄（周世宗）が即位すると、高平の戦いで北漢と契丹を撃破し、軍を再編し、田地を調査した。955年から958年にかけて南唐を三度征伐して淮南十四州を奪い、959年には北伐で三関を回復したが、間もなく病没した。960年、趙匡胤が陳橋の変を起こし、周に代わって宋を建国した。"
     },
     {
       "key": "beihan",
@@ -24451,10 +28903,11 @@ window.ATLAS_LORE_DATA = {
         "北汉",
         "刘崇"
       ],
-      "summaryZh": "951年郭威建周，后汉宗室刘崇据太原称帝，依附辽朝与周、宋对抗。954年高平之战大败；979年宋太宗亲征攻克太原，北汉亡，十国终结。",
+      "summaryZh": "951年、郭威が周を建てると、後漢の宗室である劉崇は太原に拠って帝位を称し、遼朝に依拠して周・宋に対抗した。954年の高平の戦いで大敗を喫した。979年、宋太宗が親征して太原を攻め落とすと、北漢は滅亡し、十国時代は終焉した。",
       "summaryEn": "When Guo Wei founded Zhou in 951, the Later Han prince Liu Chong proclaimed himself emperor at Taiyuan and relied on Liao against Zhou and Song. Defeated at Gaoping (954), it fell when Emperor Taizong of Song captured Taiyuan in 979, ending the Ten Kingdoms.",
       "rulersZh": "世祖刘崇 → 睿宗刘钧 → 少主刘继恩 → 英武帝刘继元",
-      "rulersEn": "Liu Chong → Liu Jun → Liu Ji'en → Liu Jiyuan"
+      "rulersEn": "Liu Chong → Liu Jun → Liu Ji'en → Liu Jiyuan",
+      "summaryJa": "951年、郭威が周を建てると、後漢の宗室である劉崇は太原に拠って帝位を称し、遼朝に依拠して周・宋に対抗した。954年の高平の戦いで大敗を喫した。979年、宋太宗が親征して太原を攻め落とすと、北漢は滅亡し、十国時代は終焉した。"
     },
     {
       "key": "xixia",
@@ -24481,8 +28934,9 @@ window.ATLAS_LORE_DATA = {
         "党项",
         "Tangut"
       ],
-      "summaryZh": "党项拓跋氏世袭定难军节度使，据夏、绥诸州；1038年李元昊称帝，国号大夏，都兴庆府。好水川、定川寨诸役屡败宋军，1044年宋夏庆历和议。与辽、金鼎立近两百年，1227年为蒙古所灭。",
-      "summaryEn": "The Tangut Tuoba clan held the Dingnan command around Xia and Sui prefectures; Li Yuanhao proclaimed Great Xia in 1038 with its capital at Xingqing. After victories over Song at Haoshuichuan and Dingchuanzhai and the Qingli peace (1044), Xia stood beside Liao and Jin for nearly two centuries until the Mongols destroyed it in 1227."
+      "summaryZh": "党項拓跋氏は定難軍節度使を世襲し、夏・綏などの諸州を支配した。1038年、李元昊が帝位を称し、国号を大夏とし、興慶府に都を置いた。好水川や定川寨などの戦役で宋軍を度々破り、1044年には宋夏慶暦の和議が成立した。遼・金と約200年にわたり鼎立したが、1227年に蒙古に滅ぼされた。",
+      "summaryEn": "The Tangut Tuoba clan held the Dingnan command around Xia and Sui prefectures; Li Yuanhao proclaimed Great Xia in 1038 with its capital at Xingqing. After victories over Song at Haoshuichuan and Dingchuanzhai and the Qingli peace (1044), Xia stood beside Liao and Jin for nearly two centuries until the Mongols destroyed it in 1227.",
+      "summaryJa": "党項拓跋氏は定難軍節度使を世襲し、夏・綏などの諸州を支配した。1038年、李元昊が帝位を称し、国号を大夏とし、興慶府に都を置いた。好水川や定川寨などの戦役で宋軍を度々破り、1044年には宋夏慶暦の和議が成立した。遼・金と約200年にわたり鼎立したが、1227年に蒙古に滅ぼされた。"
     },
     {
       "key": "jin_jurchen",
@@ -24509,8 +28963,9 @@ window.ATLAS_LORE_DATA = {
         "金国",
         "Jurchen"
       ],
-      "summaryZh": "1115年女真完颜阿骨打称帝建金，1125年灭辽，1127年靖康之变掳宋徽、钦二帝。1142年与南宋订绍兴和议，划淮为界；1153年海陵王迁都中都（今北京）。1214年迫于蒙古南迁汴京，1234年蔡州城破，金亡。",
-      "summaryEn": "Wanyan Aguda founded Jin in 1115; the Jurchens destroyed Liao (1125) and carried off the Song emperors Huizong and Qinzong in the Jingkang Incident (1127). The Shaoxing peace (1142) fixed the Huai River border, and Prince Hailing moved the capital to Zhongdu (Beijing) in 1153. Mongol pressure drove the court to Bianjing (1214); Caizhou fell and Jin ended in 1234."
+      "summaryZh": "1115年、女真の完顔阿骨打が帝位を称し、金朝を建国した。1125年には遼を滅ぼし、1127年の靖康の変で宋の徽宗・欽宗の二帝を捕虜とした。1142年、南宋と紹興の和議を締結し、淮河を国境とした。1153年、海陵王は中都（現在の北京）に遷都した。1214年、蒙古の圧迫により汴京に南遷したが、1234年に蔡州城が陥落し、金は滅亡した。",
+      "summaryEn": "Wanyan Aguda founded Jin in 1115; the Jurchens destroyed Liao (1125) and carried off the Song emperors Huizong and Qinzong in the Jingkang Incident (1127). The Shaoxing peace (1142) fixed the Huai River border, and Prince Hailing moved the capital to Zhongdu (Beijing) in 1153. Mongol pressure drove the court to Bianjing (1214); Caizhou fell and Jin ended in 1234.",
+      "summaryJa": "1115年、女真の完顔阿骨打が帝位を称し、金朝を建国した。1125年には遼を滅ぼし、1127年の靖康の変で宋の徽宗・欽宗の二帝を捕虜とした。1142年、南宋と紹興の和議を締結し、淮河を国境とした。1153年、海陵王は中都（現在の北京）に遷都した。1214年、蒙古の圧迫により汴京に南遷したが、1234年に蔡州城が陥落し、金は滅亡した。"
     },
     {
       "key": "mongol",
@@ -24537,8 +28992,9 @@ window.ATLAS_LORE_DATA = {
         "蒙古帝国",
         "Mongol"
       ],
-      "summaryZh": "1206年铁木真统一漠北诸部，称成吉思汗。蒙古铁骑西征中亚、欧洲，1227年灭西夏、1234年联宋灭金；窝阔台时营建哈拉和林。1259年蒙哥汗死于钓鱼城下，1260年忽必烈即汗位，1271年改国号大元。",
-      "summaryEn": "Temüjin united the Mongol tribes as Genghis Khan in 1206. Mongol armies swept across Central Asia and Europe, destroyed Western Xia (1227) and, allied with Song, Jin (1234); Ögedei built Karakorum. Möngke died at Diaoyu Fortress (1259), Khubilai became khan in 1260 and adopted the name Great Yuan in 1271."
+      "summaryZh": "1206年、鐵木真が漠北の諸部を統一し、成吉思汗と称した。蒙古の鉄騎は中央アジア、ヨーロッパを席巻し、1227年には西夏を滅ぼし、1234年には宋と連合して金を滅ぼした。窩闊台の時代には哈拉和林が営建された。1259年、蒙哥汗は釣魚城下で戦死し、1260年、忽必烈が汗位に即き、1271年に国号を大元に改めた。",
+      "summaryEn": "Temüjin united the Mongol tribes as Genghis Khan in 1206. Mongol armies swept across Central Asia and Europe, destroyed Western Xia (1227) and, allied with Song, Jin (1234); Ögedei built Karakorum. Möngke died at Diaoyu Fortress (1259), Khubilai became khan in 1260 and adopted the name Great Yuan in 1271.",
+      "summaryJa": "1206年、鐵木真が漠北の諸部を統一し、成吉思汗と称した。蒙古の鉄騎は中央アジア、ヨーロッパを席巻し、1227年には西夏を滅ぼし、1234年には宋と連合して金を滅ぼした。窩闊台の時代には哈拉和林が営建された。1259年、蒙哥汗は釣魚城下で戦死し、1260年、忽必烈が汗位に即き、1271年に国号を大元に改めた。"
     },
     {
       "key": "dayuan_rise",
@@ -24565,8 +29021,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "元朝初立"
       ],
-      "summaryZh": "1271年忽必烈取《易经》“大哉乾元”改国号为大元，1272年定都大都（今北京）。1273年吕文焕献襄阳降元，长江防线门户洞开；1274年忽必烈命伯颜统军二十万顺汉水入长江，1276年攻占临安俘宋恭帝，1279年张弘范于崖山海战灭南宋行朝，完成全国统一。",
-      "summaryEn": "In 1271 Kublai Khan adopted the dynastic title Great Yuan and established his capital at Dadu (Beijing) in 1272. After the six-year siege of Xiangyang fell in 1273, general Bayan led Yuan forces down the Han and Yangtze rivers (1274), taking the Southern Song capital Lin'an in 1276 before completing unification at Yashan in 1279."
+      "summaryZh": "1271年、忽必烈は『易経』の「大哉乾元」から国号を大元と改め、翌1272年には大都（現在の北京）を都と定めた。1273年、呂文煥が襄陽を元に献じて降伏すると、長江防衛線は突破された。1274年、忽必烈は伯顔に20万の大軍を率いさせ、漢水から長江を下らせ、1276年には臨安を攻略して宋恭帝を捕らえた。そして1279年、張弘範が崖山の戦いで南宋の行朝を滅ぼし、全国統一を完成させた。",
+      "summaryEn": "In 1271 Kublai Khan adopted the dynastic title Great Yuan and established his capital at Dadu (Beijing) in 1272. After the six-year siege of Xiangyang fell in 1273, general Bayan led Yuan forces down the Han and Yangtze rivers (1274), taking the Southern Song capital Lin'an in 1276 before completing unification at Yashan in 1279.",
+      "summaryJa": "1271年、忽必烈は『易経』の「大哉乾元」から国号を大元と改め、翌1272年には大都（現在の北京）を都と定めた。1273年、呂文煥が襄陽を元に献じて降伏すると、長江防衛線は突破された。1274年、忽必烈は伯顔に20万の大軍を率いさせ、漢水から長江を下らせ、1276年には臨安を攻略して宋恭帝を捕らえた。そして1279年、張弘範が崖山の戦いで南宋の行朝を滅ぼし、全国統一を完成させた。"
     },
     {
       "key": "chenhan",
@@ -24591,8 +29048,9 @@ window.ATLAS_LORE_DATA = {
         "天完",
         "大汉（陈友谅）"
       ],
-      "summaryZh": "1351年徐寿辉于湖北蕲水响应红巾军称帝，国号天完，据有湖广、江西大部。大将陈友谅掌权后，于1360年在采石江舟中弑徐寿辉自立为帝，国号大汉，都江州（后迁武昌），水师强盛。1363年率巨舰六十万围攻洪都，于鄱阳湖决战败于朱元璋中矢身亡，次年其子陈理降吴。",
-      "summaryEn": "Xu Shouhui proclaimed the Red Turban empire of Tianwan at Qishui in 1351; his commander Chen Youliang killed him at Caishi in 1360 to found the Han Empire across Huguang and Jiangxi. In 1363 Chen besieged Nanchang with a massive fleet but was defeated and killed by a stray arrow against Zhu Yuanzhang on Poyang Lake; his son surrendered in 1364."
+      "summaryZh": "1351年、徐寿輝は湖北蘄水で紅巾軍に呼応して皇帝を称し、国号を天完とし、湖広・江西の大部分を支配した。大将の陳友諒が実権を握ると、1360年に采石の江舟中で徐寿輝を弑し、自ら皇帝を称して国号を大漢とし、江州（後に武昌へ遷都）を都とした。その水軍は強盛であった。1363年、彼は60万の大軍を率いて巨艦で洪都を包囲したが、鄱陽湖の決戦で朱元璋に敗れ、流れ矢に当たって戦死した。翌年、その子陳理は呉に降伏した。",
+      "summaryEn": "Xu Shouhui proclaimed the Red Turban empire of Tianwan at Qishui in 1351; his commander Chen Youliang killed him at Caishi in 1360 to found the Han Empire across Huguang and Jiangxi. In 1363 Chen besieged Nanchang with a massive fleet but was defeated and killed by a stray arrow against Zhu Yuanzhang on Poyang Lake; his son surrendered in 1364.",
+      "summaryJa": "1351年、徐寿輝は湖北蘄水で紅巾軍に呼応して皇帝を称し、国号を天完とし、湖広・江西の大部分を支配した。大将の陳友諒が実権を握ると、1360年に采石の江舟中で徐寿輝を弑し、自ら皇帝を称して国号を大漢とし、江州（後に武昌へ遷都）を都とした。その水軍は強盛であった。1363年、彼は60万の大軍を率いて巨艦で洪都を包囲したが、鄱陽湖の決戦で朱元璋に敗れ、流れ矢に当たって戦死した。翌年、その子陳理は呉に降伏した。"
     },
     {
       "key": "zhangshicheng_zhou",
@@ -24617,8 +29075,9 @@ window.ATLAS_LORE_DATA = {
         "东吴（张士诚）",
         "张吴"
       ],
-      "summaryZh": "1353年盐贩张士诚于泰州白驹场起兵，1354年据高邮称诚王，国号大周，建元天祐；同年元太师脱脱率百万大军围高邮，临阵被罢而溃。1356年渡江南下定都平江（今苏州），富甲太湖、浙西，1363年去元正朔自称吴王。1367年徐达、常遇春攻破平江，张士诚被俘自缢。",
-      "summaryEn": "Salt Boatman Zhang Shicheng rose in 1353 and proclaimed the state of Great Zhou at Gaoyou in 1354, surviving Chancellor Toqto'a's siege when the Yuan court dismissed its commander. Moving south to Pingjiang (Suzhou) in 1356 and proclaiming himself King of Wu in 1363, he ruled the wealthy Taihu basin until Xu Da captured Suzhou in 1367."
+      "summaryZh": "1353年、塩商人張士誠は泰州白駒場で挙兵し、1354年には高郵を拠点に誠王を称し、国号を大周、元号を天祐とした。同年、元の太師トクトは百万の大軍を率いて高郵を包囲したが、陣中で罷免され、軍は潰走した。1356年、張士誠は長江を渡って南下し、平江（現在の蘇州）を都と定めた。彼は太湖や浙西を支配して富を築き、1363年には元朝の正朔を廃して自ら呉王を称した。1367年、徐達と常遇春が平江を攻略し、張士誠は捕らえられて自縊した。",
+      "summaryEn": "Salt Boatman Zhang Shicheng rose in 1353 and proclaimed the state of Great Zhou at Gaoyou in 1354, surviving Chancellor Toqto'a's siege when the Yuan court dismissed its commander. Moving south to Pingjiang (Suzhou) in 1356 and proclaiming himself King of Wu in 1363, he ruled the wealthy Taihu basin until Xu Da captured Suzhou in 1367.",
+      "summaryJa": "1353年、塩商人張士誠は泰州白駒場で挙兵し、1354年には高郵を拠点に誠王を称し、国号を大周、元号を天祐とした。同年、元の太師トクトは百万の大軍を率いて高郵を包囲したが、陣中で罷免され、軍は潰走した。1356年、張士誠は長江を渡って南下し、平江（現在の蘇州）を都と定めた。彼は太湖や浙西を支配して富を築き、1363年には元朝の正朔を廃して自ら呉王を称した。1367年、徐達と常遇春が平江を攻略し、張士誠は捕らえられて自縊した。"
     },
     {
       "key": "hanliner_song",
@@ -24644,8 +29103,9 @@ window.ATLAS_LORE_DATA = {
         "龙凤政权",
         "大宋（韩林儿）"
       ],
-      "summaryZh": "1351年韩山童、刘福通于颍州起义，揭开元末红巾军大起义序幕；1355年刘福通迎韩山童之子韩林儿于亳州称帝（号小明王），国号大宋，建元龙凤。1358年攻占汴梁定为国都，分兵三路北伐，中路攻破元上都；1363年安丰被张士诚部围攻，刘福通战死，朱元璋救出韩林儿安置滁州，1366年韩林儿渡江溺死于瓜步。",
-      "summaryEn": "Launched by Han Shantong and Liu Futong in 1351, the northern Red Turbans enthroned Han Lin'er as the \"Young Bright King\" of Great Song (era name Longfeng) at Bozhou in 1355. After taking Kaifeng (1358) and burning Yuan's northern capital Shangdu, Liu Futong fell at Anfeng in 1363 and Han Lin'er drowned at Guabu in 1366 while being escorted to Nanjing."
+      "summaryZh": "1351年、韓山童と劉福通が潁州で挙兵し、元末紅巾軍大起義の幕を開けた。1355年、劉福通は韓山童の子である韓林兒を亳州に迎え、皇帝を称させ（小明王と号す）、国号を大宋、元号を龍鳳とした。1358年、汴梁を攻略して国都と定め、兵を三路に分けて北伐を行い、中路軍は元の上都を攻め破った。1363年、安豊が張士誠の部隊に包囲され、劉福通は戦死した。朱元璋は韓林兒を救出して滁州に安置したが、1366年、韓林兒は長江を渡る際に瓜歩で溺死した。",
+      "summaryEn": "Launched by Han Shantong and Liu Futong in 1351, the northern Red Turbans enthroned Han Lin'er as the \"Young Bright King\" of Great Song (era name Longfeng) at Bozhou in 1355. After taking Kaifeng (1358) and burning Yuan's northern capital Shangdu, Liu Futong fell at Anfeng in 1363 and Han Lin'er drowned at Guabu in 1366 while being escorted to Nanjing.",
+      "summaryJa": "1351年、韓山童と劉福通が潁州で挙兵し、元末紅巾軍大起義の幕を開けた。1355年、劉福通は韓山童の子である韓林兒を亳州に迎え、皇帝を称させ（小明王と号す）、国号を大宋、元号を龍鳳とした。1358年、汴梁を攻略して国都と定め、兵を三路に分けて北伐を行い、中路軍は元の上都を攻め破った。1363年、安豊が張士誠の部隊に包囲され、劉福通は戦死した。朱元璋は韓林兒を救出して滁州に安置したが、1366年、韓林兒は長江を渡る際に瓜歩で溺死した。"
     },
     {
       "key": "zhuyuanzhang_wu",
@@ -24672,8 +29132,9 @@ window.ATLAS_LORE_DATA = {
         "吴国公",
         "西吴"
       ],
-      "summaryZh": "1352年朱元璋投濠州郭子兴红巾军，1356年渡江攻克集庆路改置应天府（南京），称吴国公，纳朱升“高筑墙、广积粮、缓称王”之策。1363年鄱阳湖水战歼灭陈友谅主力，1364年自立为吴王；1367年攻灭平江张士诚、平定方国珍，命徐达、常遇春誓师北伐，1368年初称帝建明。",
-      "summaryEn": "Rising in the Haozhou Red Turbans from 1352, Zhu Yuanzhang captured Jiqing (renamed Yingtian / Nanjing) in 1356 as Duke of Wu, following the strategy \"build high walls, store ample grain, delay claiming the throne\". After destroying Chen Youliang at Poyang Lake (1363), he became King of Wu (1364), conquered Zhang Shicheng (1367), and proclaimed the Ming dynasty in 1368."
+      "summaryZh": "1352年、朱元璋は濠州の郭子興紅巾軍に投じ、1356年には長江を渡って集慶路を攻略し、応天府（南京）と改め、呉国公を称した。彼は朱升の「高き城壁を築き、広く食糧を蓄え、王を称するを緩やかにせよ」との策を採用した。1363年、鄱陽湖の戦いで陳友諒の主力軍を殲滅し、1364年には自ら呉王を称した。1367年、平江の張士誠を滅ぼし、方国珍を平定すると、徐達と常遇春に命じて北伐の誓師を行わせ、1368年初めに皇帝を称して明を建国した。",
+      "summaryEn": "Rising in the Haozhou Red Turbans from 1352, Zhu Yuanzhang captured Jiqing (renamed Yingtian / Nanjing) in 1356 as Duke of Wu, following the strategy \"build high walls, store ample grain, delay claiming the throne\". After destroying Chen Youliang at Poyang Lake (1363), he became King of Wu (1364), conquered Zhang Shicheng (1367), and proclaimed the Ming dynasty in 1368.",
+      "summaryJa": "1352年、朱元璋は濠州の郭子興紅巾軍に投じ、1356年には長江を渡って集慶路を攻略し、応天府（南京）と改め、呉国公を称した。彼は朱升の「高き城壁を築き、広く食糧を蓄え、王を称するを緩やかにせよ」との策を採用した。1363年、鄱陽湖の戦いで陳友諒の主力軍を殲滅し、1364年には自ら呉王を称した。1367年、平江の張士誠を滅ぼし、方国珍を平定すると、徐達と常遇春に命じて北伐の誓師を行わせ、1368年初めに皇帝を称して明を建国した。"
     },
     {
       "key": "mingxia",
@@ -24700,8 +29161,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "大夏（明玉珍）"
       ],
-      "summaryZh": "天完将领明玉珍于1357年溯江入蜀攻占重庆、成都，定有巴蜀；1360年陈友谅弑徐寿辉后，明玉珍断绝东向并立文庙、兴学校，1363年于重庆称帝，国号大夏，建元天统。1366年明玉珍病逝，幼子明升继立；1371年明太祖遣汤和、傅友德水陆分道伐蜀，明升于重庆出降。",
-      "summaryEn": "Tianwan commander Ming Yuzhen marched into Sichuan in 1357, broke with Chen Youliang after 1360, and proclaimed the Great Xia Empire at Chongqing in 1363. His young son Ming Sheng succeeded in 1366 and surrendered Chongqing when Ming generals Tang He and Fu Youde invaded Sichuan in 1371."
+      "summaryZh": "天完の将領明玉珍は1357年、長江を遡って蜀に入り、重慶、成都を攻略して巴蜀を平定した。1360年に陳友諒が徐寿輝を弑した後、明玉珍は東方との関係を断ち、文廟を建立し、学校を興した。1363年、重慶で皇帝を称し、国号を大夏、元号を天統とした。1366年、明玉珍が病死すると、幼子の明昇が後を継いだ。1371年、明太祖は湯和と傅友徳に水陸両路から蜀を伐たせ、明昇は重慶で降伏した。",
+      "summaryEn": "Tianwan commander Ming Yuzhen marched into Sichuan in 1357, broke with Chen Youliang after 1360, and proclaimed the Great Xia Empire at Chongqing in 1363. His young son Ming Sheng succeeded in 1366 and surrendered Chongqing when Ming generals Tang He and Fu Youde invaded Sichuan in 1371.",
+      "summaryJa": "天完の将領明玉珍は1357年、長江を遡って蜀に入り、重慶、成都を攻略して巴蜀を平定した。1360年に陳友諒が徐寿輝を弑した後、明玉珍は東方との関係を断ち、文廟を建立し、学校を興した。1363年、重慶で皇帝を称し、国号を大夏、元号を天統とした。1366年、明玉珍が病死すると、幼子の明昇が後を継いだ。1371年、明太祖は湯和と傅友徳に水陸両路から蜀を伐たせ、明昇は重慶で降伏した。"
     },
     {
       "key": "beiyuan",
@@ -24723,10 +29185,11 @@ window.ATLAS_LORE_DATA = {
         "扩廓帖木儿",
         "王保保"
       ],
-      "summaryZh": "1368年明军攻入大都，元顺帝北走上都，元廷退居漠北，史称北元。扩廓帖木儿（王保保）1372年岭北之战大败明军；1388年蓝玉捕鱼儿海之战大破北元，脱古思帖木儿遇弑，此后蒙古分裂为鞑靼、瓦剌。",
+      "summaryZh": "1368年、明軍が大都に攻め入ると、元順帝は上都へ北走し、元朝廷は漠北に退去した。これを史に北元と称する。ココ・テムル（王保保）は1372年の嶺北の戦いで明軍を大敗させた。1388年、藍玉が捕魚兒海の戦いで北元を大破し、トグス・テムルは弑殺された。これ以後、モンゴルは韃靼と瓦剌に分裂した。",
       "summaryEn": "When Ming armies took Dadu in 1368, Toghon Temür withdrew to Shangdu and the Yuan court continued on the steppe as Northern Yuan. Köke Temür defeated the Ming at Lingbei (1372), but Lan Yu's victory at Buir Lake (1388) and the murder of Tögüs Temür splintered the Mongols into the Tatars and Oirats.",
       "rulersZh": "惠宗妥懽贴睦尔（元顺帝）→ 昭宗爱猷识理达腊 → 脱古思帖木儿",
-      "rulersEn": "Toghon Temür → Biligtü Khan (Ayushiridara) → Uskhal Khan (Tögüs Temür)"
+      "rulersEn": "Toghon Temür → Biligtü Khan (Ayushiridara) → Uskhal Khan (Tögüs Temür)",
+      "summaryJa": "1368年、明軍が大都に攻め入ると、元順帝は上都へ北走し、元朝廷は漠北に退去した。これを史に北元と称する。ココ・テムル（王保保）は1372年の嶺北の戦いで明軍を大敗させた。1388年、藍玉が捕魚兒海の戦いで北元を大破し、トグス・テムルは弑殺された。これ以後、モンゴルは韃靼と瓦剌に分裂した。"
     },
     {
       "key": "houjin_manchu",
@@ -24748,10 +29211,11 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "大金（后金）"
       ],
-      "summaryZh": "1616年努尔哈赤在赫图阿拉称汗，国号大金，史称后金。1618年以七大恨告天攻明，1619年萨尔浒之战大破明军；1621年迁辽阳，1625年迁沈阳。1636年皇太极改国号大清。",
+      "summaryZh": "1616年、ヌルハチはヘトゥアラでハンを称し、国号を大金とした。これを史に後金と称する。1618年、七大恨を天に告げて明を攻撃し、1619年のサルフの戦いで明軍を大破した。1621年に遼陽へ遷都し、1625年には瀋陽へ遷都した。1636年、ホンタイジが国号を大清と改めた。",
       "summaryEn": "Nurhaci proclaimed himself khan of Great Jin (Later Jin) at Hetu Ala in 1616, declared war on Ming with the 'Seven Grievances' (1618) and crushed the Ming at Sarhu (1619); the capital moved to Liaoyang (1621) and Shenyang (1625). Hong Taiji renamed the state Great Qing in 1636.",
       "rulersZh": "太祖努尔哈赤 → 太宗皇太极",
-      "rulersEn": "Nurhaci → Hong Taiji"
+      "rulersEn": "Nurhaci → Hong Taiji",
+      "summaryJa": "1616年、ヌルハチはヘトゥアラでハンを称し、国号を大金とした。これを史に後金と称する。1618年、七大恨を天に告げて明を攻撃し、1619年のサルフの戦いで明軍を大破した。1621年に遼陽へ遷都し、1625年には瀋陽へ遷都した。1636年、ホンタイジが国号を大清と改めた。"
     },
     {
       "key": "daqing_rise",
@@ -24777,8 +29241,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "关外大清"
       ],
-      "summaryZh": "1636年皇太极于盛京（沈阳）受满蒙汉尊号称帝，改后金国号为“大清”，改元崇德，建满洲、蒙古、汉军八旗，臣服漠南蒙古与朝鲜。1641—1642年松锦大战击溃洪承畴十万明军，尽取山海关外锦州、松山诸城；1644年李自成破北京后，多尔衮率八旗军入山海关定鼎北京。",
-      "summaryEn": "In 1636 Hong Taiji proclaimed the Great Qing Empire at Shengjing (Shenyang), organizing the Manchu, Mongol and Han Eight Banners and subduing Inner Mongolia and Joseon. The decisive victory at Songshan–Jinzhou (1641–1642) cleared all Ming strongholds outside Shanhai Pass before Dorgon led Qing forces through the pass to Beijing in 1644."
+      "summaryZh": "1636年、皇太極は盛京（瀋陽）にて滿蒙漢の尊号を受け帝位に就き、後金から國號を「大清」と改め、元號を崇德と定めた。滿洲・蒙古・漢軍の八旗を編成し、漠南蒙古と朝鮮を臣従させた。1641年から1642年にかけての松錦大戰では洪承疇率いる10萬の明軍を撃破し、山海關外の錦州、松山などの諸城をことごとく奪取した。1644年、李自成が北京を陥落させた後、多爾袞は八旗軍を率いて山海關から入關し、北京に定都した。",
+      "summaryEn": "In 1636 Hong Taiji proclaimed the Great Qing Empire at Shengjing (Shenyang), organizing the Manchu, Mongol and Han Eight Banners and subduing Inner Mongolia and Joseon. The decisive victory at Songshan–Jinzhou (1641–1642) cleared all Ming strongholds outside Shanhai Pass before Dorgon led Qing forces through the pass to Beijing in 1644.",
+      "summaryJa": "1636年、皇太極は盛京（瀋陽）にて滿蒙漢の尊号を受け帝位に就き、後金から國號を「大清」と改め、元號を崇德と定めた。滿洲・蒙古・漢軍の八旗を編成し、漠南蒙古と朝鮮を臣従させた。1641年から1642年にかけての松錦大戰では洪承疇率いる10萬の明軍を撃破し、山海關外の錦州、松山などの諸城をことごとく奪取した。1644年、李自成が北京を陥落させた後、多爾袞は八旗軍を率いて山海關から入關し、北京に定都した。"
     },
     {
       "key": "dashun",
@@ -24803,8 +29268,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "李自成大顺"
       ],
-      "summaryZh": "闯王李自成于中原连破洛阳、围开封，1643年于襄阳称新顺王，十月破潼关入据西安；1644年正月于西安称帝，国号大顺，建元永昌，三月十九日攻克北京，明崇祯帝自缢。旋于山海关一片石之战败于吴三桂与多尔衮清军，退回西安再转战湖广，1645年于通山九宫山遇害。",
-      "summaryEn": "After conquering Henan and taking Xi'an in late 1643, \"Dashing King\" Li Zicheng proclaimed the Great Shun dynasty at Xi'an in early 1644 and captured Beijing in the third month, ending the Ming dynasty. Defeated at Shanhai Pass by Wu Sangui and Dorgon's Qing army, he retreated through Xi'an to Hubei and died at Mount Jiugong in 1645."
+      "summaryZh": "闖王李自成は中原で洛陽を連破し、開封を包囲した。1643年、襄陽にて新順王を稱し、10月には潼關を破って西安を占據した。1644年正月、西安にて帝位に就き、國號を大順、元號を永昌と定め、3月19日には北京を攻略し、明の崇禎帝は自縊した。その後、山海關一片石の戰いで吳三桂と多爾袞率いる清軍に敗れ、西安に退却し、さらに湖廣を轉戰した。1645年、通山九宮山にて殺害された。",
+      "summaryEn": "After conquering Henan and taking Xi'an in late 1643, \"Dashing King\" Li Zicheng proclaimed the Great Shun dynasty at Xi'an in early 1644 and captured Beijing in the third month, ending the Ming dynasty. Defeated at Shanhai Pass by Wu Sangui and Dorgon's Qing army, he retreated through Xi'an to Hubei and died at Mount Jiugong in 1645.",
+      "summaryJa": "闖王李自成は中原で洛陽を連破し、開封を包囲した。1643年、襄陽にて新順王を稱し、10月には潼關を破って西安を占據した。1644年正月、西安にて帝位に就き、國號を大順、元號を永昌と定め、3月19日には北京を攻略し、明の崇禎帝は自縊した。その後、山海關一片石の戰いで吳三桂と多爾袞率いる清軍に敗れ、西安に退却し、さらに湖廣を轉戰した。1645年、通山九宮山にて殺害された。"
     },
     {
       "key": "daxi",
@@ -24829,8 +29295,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "张献忠大西"
       ],
-      "summaryZh": "明末农民军领袖“八大王”张献忠于1641年袭破襄阳，1643年攻占武昌称大西王；1644年率军溯江入蜀攻克重庆、成都，于成都称帝，国号大西，建元大顺，改成都为西京。1646年底清肃亲王豪格入川，张献忠于西充凤凰山中箭身亡；余部由李定国、孙可望率领入滇黔联明抗清。",
-      "summaryEn": "Peasant rebel leader Zhang Xianzhong took Wuchang as King of Great Xi in 1643, marched into Sichuan in 1644 and proclaimed the Great Xi Empire at Chengdu. Killed in battle against Qing prince Haoge at Mount Fenghuang in late 1646, his adopted sons Li Dingguo and Sun Kewang led the surviving Great Xi forces into Yunnan and Guizhou to uphold the Southern Ming."
+      "summaryZh": "明末の農民反亂軍指導者「八大王」張獻忠は1641年に襄陽を襲撃し陥落させ、1643年には武昌を攻略し、大西王を稱した。1644年、軍を率いて江を遡り蜀に入り、重慶、成都を攻略し、成都にて帝位に就き、國號を大西、元號を大順と定め、成都を西京と改めた。1646年末、清の肅親王ホーゲ（豪格）が四川に入ると、張獻忠は西充鳳凰山にて矢に当たり戰死した。その殘黨は李定國、孫可望に率いられ、滇黔（雲南・貴州）に入り、南明と結んで清に抗した。",
+      "summaryEn": "Peasant rebel leader Zhang Xianzhong took Wuchang as King of Great Xi in 1643, marched into Sichuan in 1644 and proclaimed the Great Xi Empire at Chengdu. Killed in battle against Qing prince Haoge at Mount Fenghuang in late 1646, his adopted sons Li Dingguo and Sun Kewang led the surviving Great Xi forces into Yunnan and Guizhou to uphold the Southern Ming.",
+      "summaryJa": "明末の農民反亂軍指導者「八大王」張獻忠は1641年に襄陽を襲撃し陥落させ、1643年には武昌を攻略し、大西王を稱した。1644年、軍を率いて江を遡り蜀に入り、重慶、成都を攻略し、成都にて帝位に就き、國號を大西、元號を大順と定め、成都を西京と改めた。1646年末、清の肅親王ホーゲ（豪格）が四川に入ると、張獻忠は西充鳳凰山にて矢に当たり戰死した。その殘黨は李定國、孫可望に率いられ、滇黔（雲南・貴州）に入り、南明と結んで清に抗した。"
     },
     {
       "key": "nanming",
@@ -24851,10 +29318,11 @@ window.ATLAS_LORE_DATA = {
         "史可法",
         "李定国"
       ],
-      "summaryZh": "1644年北京陷落后，明宗室先后在南京（弘光）、福州（隆武）、肇庆（永历）等地建立政权。1645年清军破扬州、南京；永历政权得李定国等大西军余部支持坚持抗清，1659年清军入滇，1662年永历帝在昆明被吴三桂所杀。",
+      "summaryZh": "1644年北京が陥落した後、明の宗室は、南京（弘光帝）、福州（隆武帝）、肇慶（永曆帝）などで相次いで政權を樹立した。1645年、清軍は揚州、南京を攻略した。永曆政權は李定國らの大西軍殘黨の支持を得て清への抗戰を堅持したが、1659年に清軍が雲南に入り、1662年には永曆帝は昆明で吳三桂に殺害された。",
       "summaryEn": "After Beijing fell in 1644, Ming princes set up courts at Nanjing (Hongguang), Fuzhou (Longwu) and Zhaoqing (Yongli). Qing forces took Yangzhou and Nanjing in 1645; the Yongli court, backed by former Great Xi commanders such as Li Dingguo, fought on until Qing armies entered Yunnan (1659) and Wu Sangui executed the emperor at Kunming in 1662.",
       "rulersZh": "弘光帝朱由崧 → 隆武帝朱聿键 → 鲁王朱以海（监国）→ 永历帝朱由榔",
-      "rulersEn": "Hongguang (Zhu Yousong) → Longwu (Zhu Yujian) → Prince of Lu (Regent) → Yongli (Zhu Youlang)"
+      "rulersEn": "Hongguang (Zhu Yousong) → Longwu (Zhu Yujian) → Prince of Lu (Regent) → Yongli (Zhu Youlang)",
+      "summaryJa": "1644年北京が陥落した後、明の宗室は、南京（弘光帝）、福州（隆武帝）、肇慶（永曆帝）などで相次いで政權を樹立した。1645年、清軍は揚州、南京を攻略した。永曆政權は李定國らの大西軍殘黨の支持を得て清への抗戰を堅持したが、1659年に清軍が雲南に入り、1662年には永曆帝は昆明で吳三桂に殺害された。"
     },
     {
       "key": "taiwan_dutch",
@@ -24881,10 +29349,11 @@ window.ATLAS_LORE_DATA = {
         "荷属台湾",
         "大员（荷占）"
       ],
-      "summaryZh": "明天启四年（1624年）荷兰东印度公司自澎湖退据台湾西南大员，筑热兰遮城与普罗民遮城（赤嵌楼）实行殖民统治；1626年西班牙人侵据北部鸡笼、淡水，1642年为荷人所逐。“台湾”之名即由大员（Tayouan）闽南语音转渐扩指全岛。1652年爆发郭怀一抗荷起义；1661年郑成功渡海围攻热兰遮城，次年初荷督揆一投降，台湾光复。",
+      "summaryZh": "明の天啓4年（1624年）、オランダ東インド會社は澎湖から退去し、臺灣西南の大員を占據し、ゼーランディア城とプロヴィンティア城（赤嵌樓）を築いて植民地支配を行った。1626年、スペイン人が北部の雞籠、淡水を侵略占據したが、1642年にはオランダ人によって驅逐された。「臺灣」の名は、大員（Tayouan）の閩南語音轉から次第に全島を指すようになった。1652年には郭懷一の抗蘭蜂起が勃發した。1661年、鄭成功が海を渡ってゼーランディア城を包囲攻撃し、翌年初め、オランダ總督フレデリック・コイエット（揆一）が降伏し、臺灣を回復した。",
       "summaryEn": "In 1624 the Dutch East India Company (VOC), expelled from Penghu by Ming forces, occupied Tayouan on Taiwan's southwestern coast and built Fort Zeelandia and Fort Provintia (Chikan); Spanish forces held northern Jilong and Tamsui (1626–1642) until ousted by the Dutch. The name 'Taiwan' evolved from the Hokkien transcription 'Tayouan' to denote the whole island. After suppressing the Guo Huaiyi uprising in 1652, VOC Governor Frederick Coyett surrendered Fort Zeelandia to Koxinga in early 1662 after a nine-month siege.",
       "rulersZh": "荷兰东印度公司台湾长官（宋克 → 普特曼斯 → 揆一）",
-      "rulersEn": "VOC Governors of Formosa (Martinus Sonck → Hans Putmans → Frederick Coyett)"
+      "rulersEn": "VOC Governors of Formosa (Martinus Sonck → Hans Putmans → Frederick Coyett)",
+      "summaryJa": "明の天啓4年（1624年）、オランダ東インド會社は澎湖から退去し、臺灣西南の大員を占據し、ゼーランディア城とプロヴィンティア城（赤嵌樓）を築いて植民地支配を行った。1626年、スペイン人が北部の雞籠、淡水を侵略占據したが、1642年にはオランダ人によって驅逐された。「臺灣」の名は、大員（Tayouan）の閩南語音轉から次第に全島を指すようになった。1652年には郭懷一の抗蘭蜂起が勃發した。1661年、鄭成功が海を渡ってゼーランディア城を包囲攻撃し、翌年初め、オランダ總督フレデリック・コイエット（揆一）が降伏し、臺灣を回復した。"
     },
     {
       "key": "mingzheng",
@@ -24912,11 +29381,12 @@ window.ATLAS_LORE_DATA = {
         "承天府（东宁）",
         "郑氏台湾"
       ],
-      "summaryZh": "1661年郑成功率军自鹿耳门渡海登陆，次年初迫降荷督揆一、收复台湾，改赤嵌为东都明京，设一府二县（承天府与天兴、万年二县），奉南明永历正朔。1664年其子郑经改东都为东宁，升天兴、万年为州，并于三藩之乱期间渡海经略闽粤沿海；1683年清靖海将军施琅攻克澎湖，郑克塽降清，次年清廷置台湾府隶福建省。",
+      "summaryZh": "1661年、鄭成功は軍を率いて鹿耳門から海を渡って上陸し、翌年初めにはオランダ總督フレデリック・コイエット（揆一）を降伏させ、臺灣を回復した。赤嵌を東都明京と改め、承天府と天興、萬年の二縣を設置し、南明永曆帝の正朔を奉じた。1664年、その子鄭經は東都を東寧と改め、天興、萬年を州に昇格させ、三藩の亂の期間には海を渡って閩粵沿海（福建・廣東沿海）を經略した。1683年、清の靖海將軍施琅が澎湖を攻略すると、鄭克塽は清に降伏し、翌年、清朝は臺灣府を設置し福建省に隸屬させた。",
       "summaryEn": "Koxinga (Zheng Chenggong) landed at Lu'ermen in 1661 and forced the Dutch VOC to surrender in early 1662, proclaiming Dongdu Mingjing ('Eastern Capital') with Chengtian Prefecture and Tianxing and Wannian counties under the Southern Ming Yongli calendar. In 1664 his son Zheng Jing renamed Dongdu to Dongning (Tungning) and later campaigned along the Fujian-Guangdong coast during the Revolt of the Three Feudatories; after Qing admiral Shi Lang captured Penghu in 1683, Zheng Keshuang surrendered, and Qing established Taiwan Prefecture under Fujian in 1684.",
       "matchFrom": 1659,
       "rulersZh": "延平王郑成功 → 潮王郑经 → 郑克塽",
-      "rulersEn": "Zheng Chenggong (Koxinga) → Zheng Jing → Zheng Keshuang"
+      "rulersEn": "Zheng Chenggong (Koxinga) → Zheng Jing → Zheng Keshuang",
+      "summaryJa": "1661年、鄭成功は軍を率いて鹿耳門から海を渡って上陸し、翌年初めにはオランダ總督フレデリック・コイエット（揆一）を降伏させ、臺灣を回復した。赤嵌を東都明京と改め、承天府と天興、萬年の二縣を設置し、南明永曆帝の正朔を奉じた。1664年、その子鄭經は東都を東寧と改め、天興、萬年を州に昇格させ、三藩の亂の期間には海を渡って閩粵沿海（福建・廣東沿海）を經略した。1683年、清の靖海將軍施琅が澎湖を攻略すると、鄭克塽は清に降伏し、翌年、清朝は臺灣府を設置し福建省に隸屬させた。"
     },
     {
       "key": "sanfan",
@@ -24937,10 +29407,11 @@ window.ATLAS_LORE_DATA = {
         "三藩",
         "吴周"
       ],
-      "summaryZh": "1673年康熙帝下令撤藩，平西王吴三桂在云南起兵，耿精忠、尚之信响应，一度据有西南与东南半壁。1678年吴三桂在衡州称帝，国号周，同年病死；1681年清军攻克昆明，三藩之乱平定。",
+      "summaryZh": "1673年、康熙帝が撤藩（藩の撤廢）を命じると、平西王吳三桂は雲南で擧兵し、耿精忠、尚之信もこれに呼應し、一時は西南と東南の半壁を占據した。1678年、吳三桂は衡州で帝位に就き、國號を周としたが、同年病死した。1681年、清軍が昆明を攻略し、三藩の亂は平定された。",
       "summaryEn": "When the Kangxi Emperor ordered the feudatories abolished in 1673, Wu Sangui rose in Yunnan, joined by Geng Jingzhong and Shang Zhixin, briefly holding much of the south. Wu proclaimed the Zhou dynasty at Hengzhou in 1678 and died that year; Qing forces took Kunming in 1681.",
       "rulersZh": "周太祖吴三桂 → 吴世璠（并靖南王耿精忠、平南王尚之信）",
-      "rulersEn": "Wu Sangui → Wu Shifan (with Geng Jingzhong & Shang Zhixin)"
+      "rulersEn": "Wu Sangui → Wu Shifan (with Geng Jingzhong & Shang Zhixin)",
+      "summaryJa": "1673年、康熙帝が撤藩（藩の撤廢）を命じると、平西王吳三桂は雲南で擧兵し、耿精忠、尚之信もこれに呼應し、一時は西南と東南の半壁を占據した。1678年、吳三桂は衡州で帝位に就き、國號を周としたが、同年病死した。1681年、清軍が昆明を攻略し、三藩の亂は平定された。"
     },
     {
       "key": "taiping",
@@ -24959,10 +29430,11 @@ window.ATLAS_LORE_DATA = {
         "天京",
         "湘军"
       ],
-      "summaryZh": "1851年洪秀全在广西金田起义，建号太平天国，1853年攻占南京定都天京。北伐、西征一度震动清廷，1856年天京事变内讧元气大伤；1864年湘军攻破天京，太平天国失败。",
+      "summaryZh": "1851年、洪秀全が廣西金田村で蜂起し、太平天國を建國した。1853年には南京を攻略し、天京と定都した。北伐、西征は一時は清朝を震撼させたが、1856年の天京事變による内訌で國力を大きく損ねた。1864年、湘軍が天京を攻略し、太平天國は滅亡した。",
       "summaryEn": "Hong Xiuquan launched the Jintian Uprising in Guangxi in 1851 and made Nanjing his Heavenly Capital in 1853. Northern and western expeditions shook the Qing, but the Tianjing Incident (1856) gutted the leadership, and Zeng Guofan's Xiang Army took the capital in 1864.",
       "rulersZh": "天王洪秀全 → 幼天王洪天贵福",
-      "rulersEn": "Heavenly King Hong Xiuquan → Young Heavenly King Hong Tianguifu"
+      "rulersEn": "Heavenly King Hong Xiuquan → Young Heavenly King Hong Tianguifu",
+      "summaryJa": "1851年、洪秀全が廣西金田村で蜂起し、太平天國を建國した。1853年には南京を攻略し、天京と定都した。北伐、西征は一時は清朝を震撼させたが、1856年の天京事變による内訌で國力を大きく損ねた。1864年、湘軍が天京を攻略し、太平天國は滅亡した。"
     },
     {
       "key": "beiyang_wanxi",
@@ -24988,8 +29460,9 @@ window.ATLAS_LORE_DATA = {
       "aliases": [
         "皖系军阀"
       ],
-      "summaryZh": "袁世凯死后北洋军分裂，安徽合肥人段祺瑞以国务总理掌控北京中央政权（1916—1920），拒绝恢复《临时约法》引发孙中山南下护法，并向日本大举借款编练参战军。1920年直皖战争五日即败，段祺瑞下野，皖系仅存卢永祥据守浙江、上海，至1924年江浙战争为孙传芳、齐燮元所败。",
-      "summaryEn": "Led by Premier Duan Qirui after Yuan Shikai's death in 1916, the Anhui Clique dominated the Beijing government until its defeat by the Zhili and Fengtian cliques in the July 1920 Zhili–Anhui War; its last stronghold under Lu Yongxiang in Zhejiang and Shanghai fell in the 1924 Jiangsu–Zhejiang War."
+      "summaryZh": "袁世凱の死後、北洋軍は分裂し、安徽省合肥出身の段祺瑞は国務総理として北京中央政権を掌握した（1916年〜1920年）。彼は『臨時約法』の回復を拒否し、孫中山の南下護法運動を引き起こした。また、日本から多額の借款を行い、参戦軍を編練した。1920年の直皖戦争でわずか5日で敗北し、段祺瑞は下野した。皖系は盧永祥が浙江、上海を死守するのみとなり、1924年の江浙戦争で孫伝芳、斉燮元に敗れた。",
+      "summaryEn": "Led by Premier Duan Qirui after Yuan Shikai's death in 1916, the Anhui Clique dominated the Beijing government until its defeat by the Zhili and Fengtian cliques in the July 1920 Zhili–Anhui War; its last stronghold under Lu Yongxiang in Zhejiang and Shanghai fell in the 1924 Jiangsu–Zhejiang War.",
+      "summaryJa": "袁世凱の死後、北洋軍は分裂し、安徽省合肥出身の段祺瑞は国務総理として北京中央政権を掌握した（1916年〜1920年）。彼は『臨時約法』の回復を拒否し、孫中山の南下護法運動を引き起こした。また、日本から多額の借款を行い、参戦軍を編練した。1920年の直皖戦争でわずか5日で敗北し、段祺瑞は下野した。皖系は盧永祥が浙江、上海を死守するのみとなり、1924年の江浙戦争で孫伝芳、斉燮元に敗れた。"
     },
     {
       "key": "beiyang_zhixi",
@@ -25021,8 +29494,9 @@ window.ATLAS_LORE_DATA = {
         "直系军阀",
         "五省联军"
       ],
-      "summaryZh": "以直隶人冯国璋、曹锟为首的北洋派系。1920年直皖战争、1922年第一次直奉战争连胜后独占北京政权，吴佩孚驻洛阳练兵；1924年第二次直奉战争中冯玉祥发动北京政变，曹锟被囚，直系失势。此后吴佩孚复起于武汉，孙传芳组苏皖赣浙闽“五省联军”，1926—1927年先后为国民革命军北伐击溃。",
-      "summaryEn": "Formed under Feng Guozhang and Cao Kun, the Zhili Clique controlled Beijing after winning the 1920 Zhili–Anhui and 1922 First Zhili–Fengtian wars until Feng Yuxiang's 1924 Beijing Coup. Wu Peifu at Wuhan and Sun Chuanfang's Five-Province Allied Army at Nanjing were subsequently defeated by the 1926–1927 Northern Expedition."
+      "summaryZh": "直隷出身の馮国璋、曹锟を首領とする北洋派閥。1920年の直皖戦争、1922年の第一次直奉戦争に連勝した後、北京政権を独占し、呉佩孚は洛陽に駐屯して練兵を行った。1924年の第二次直奉戦争では馮玉祥が北京政変を起こし、曹锟は囚われ、直系は失勢した。その後、呉佩孚は武漢で再起し、孫伝芳は江蘇、安徽、江西、浙江、福建の「五省連合軍」を組織したが、1926年から1927年にかけて国民革命軍の北伐により相次いで撃破された。",
+      "summaryEn": "Formed under Feng Guozhang and Cao Kun, the Zhili Clique controlled Beijing after winning the 1920 Zhili–Anhui and 1922 First Zhili–Fengtian wars until Feng Yuxiang's 1924 Beijing Coup. Wu Peifu at Wuhan and Sun Chuanfang's Five-Province Allied Army at Nanjing were subsequently defeated by the 1926–1927 Northern Expedition.",
+      "summaryJa": "直隷出身の馮国璋、曹锟を首領とする北洋派閥。1920年の直皖戦争、1922年の第一次直奉戦争に連勝した後、北京政権を独占し、呉佩孚は洛陽に駐屯して練兵を行った。1924年の第二次直奉戦争では馮玉祥が北京政変を起こし、曹锟は囚われ、直系は失勢した。その後、呉佩孚は武漢で再起し、孫伝芳は江蘇、安徽、江西、浙江、福建の「五省連合軍」を組織したが、1926年から1927年にかけて国民革命軍の北伐により相次いで撃破された。"
     },
     {
       "key": "beiyang_fengxi",
@@ -25050,8 +29524,9 @@ window.ATLAS_LORE_DATA = {
         "奉系军阀",
         "安国军政府"
       ],
-      "summaryZh": "张作霖据奉天、吉林、黑龙江东北三省形成奉系军阀。1922年第一次直奉战争败退关外后整军经武；1924年第二次直奉战争大胜入关，控制北洋政府，1927年于北京就任中华民国陆海军大元帅（安国军政府）。1928年北伐军进逼京津，张作霖退返奉天途中于皇姑屯被日军炸死，年底张学良宣布东北易帜。",
-      "summaryEn": "Based in the three northeastern provinces under Zhang Zuolin, the Fengtian Clique entered Shanhai Pass to take Beijing in the 1924 Second Zhili–Fengtian War, with Zhang becoming Generalissimo of the Beijing government in 1927. Retreating before the Northern Expedition in June 1928, Zhang Zuolin was assassinated by the Kwantung Army at Huanggutun, and his son Zhang Xueliang declared Northeast Flag Replacement that December."
+      "summaryZh": "張作霖は奉天、吉林、黒竜江の東北三省を拠点に奉系軍閥を形成した。1922年の第一次直奉戦争で関外へ敗退した後、軍備を整え、1924年の第二次直奉戦争で大勝して入関し、北洋政府を掌握した。1927年には北京で中華民国陸海軍大元帥（安国軍政府）に就任した。1928年、北伐軍が京津に迫ると、張作霖は奉天へ退却する途中の皇姑屯で日本軍に爆殺され、年末に張学良が東北易幟を宣言した。",
+      "summaryEn": "Based in the three northeastern provinces under Zhang Zuolin, the Fengtian Clique entered Shanhai Pass to take Beijing in the 1924 Second Zhili–Fengtian War, with Zhang becoming Generalissimo of the Beijing government in 1927. Retreating before the Northern Expedition in June 1928, Zhang Zuolin was assassinated by the Kwantung Army at Huanggutun, and his son Zhang Xueliang declared Northeast Flag Replacement that December.",
+      "summaryJa": "張作霖は奉天、吉林、黒竜江の東北三省を拠点に奉系軍閥を形成した。1922年の第一次直奉戦争で関外へ敗退した後、軍備を整え、1924年の第二次直奉戦争で大勝して入関し、北洋政府を掌握した。1927年には北京で中華民国陸海軍大元帥（安国軍政府）に就任した。1928年、北伐軍が京津に迫ると、張作霖は奉天へ退却する途中の皇姑屯で日本軍に爆殺され、年末に張学良が東北易幟を宣言した。"
     },
     {
       "key": "guangzhou_gov",
@@ -25082,8 +29557,9 @@ window.ATLAS_LORE_DATA = {
         "护法军政府",
         "广州国民政府"
       ],
-      "summaryZh": "1917年孙中山南下广州召开国会非常会议，成立中华民国军政府展开护法运动；1921年就非常大总统职，1923年重建陆海军大元帅大本营。1924年召开国民党一大实现第一次国共合作、创办黄埔军校；1925年于广州正式成立国民政府并东征南征统一两广，1926年7月誓师北伐，1927—1928年推进至长江与京津。",
-      "summaryEn": "Established by Sun Yat-sen in Guangzhou in 1917 to defend the provisional constitution against Beiyang warlords, reorganized in 1924 with the First United Front and Whampoa Military Academy, and formally inaugurated as the Nationalist Government in 1925. After unifying Guangdong and Guangxi, it launched the Northern Expedition in July 1926."
+      "summaryZh": "1917年、孫中山は広州に南下して国会非常会議を招集し、中華民国軍政府を成立させて護法運動を展開した。1921年には非常大総統に就任し、1923年には陸海軍大元帥大本営を再建した。1924年には国民党第一回全国代表大会を開催して第一次国共合作を実現し、黄埔軍官学校を創設した。1925年には広州で国民政府を正式に成立させ、東征、南征によって両広（広東・広西）を統一した。1926年7月に北伐を誓師し、1927年から1928年にかけて長江と京津まで進軍した。",
+      "summaryEn": "Established by Sun Yat-sen in Guangzhou in 1917 to defend the provisional constitution against Beiyang warlords, reorganized in 1924 with the First United Front and Whampoa Military Academy, and formally inaugurated as the Nationalist Government in 1925. After unifying Guangdong and Guangxi, it launched the Northern Expedition in July 1926.",
+      "summaryJa": "1917年、孫中山は広州に南下して国会非常会議を招集し、中華民国軍政府を成立させて護法運動を展開した。1921年には非常大総統に就任し、1923年には陸海軍大元帥大本営を再建した。1924年には国民党第一回全国代表大会を開催して第一次国共合作を実現し、黄埔軍官学校を創設した。1925年には広州で国民政府を正式に成立させ、東征、南征によって両広（広東・広西）を統一した。1926年7月に北伐を誓師し、1927年から1928年にかけて長江と京津まで進軍した。"
     },
     {
       "key": "manchukuo",
@@ -25111,8 +29587,9 @@ window.ATLAS_LORE_DATA = {
         "伪满洲国",
         "满洲国"
       ],
-      "summaryZh": "1931年9月18日日本关东军发动九一八事变侵占东北三省，1932年3月于长春扶植清逊帝溥仪建立傀儡政权伪“满洲国”，改长春为“新京”，次年侵占热河。东北抗日联军杨靖宇、赵尚志等在白山黑水间浴血抗战十四载；1945年8月日本无条件投降，伪满覆灭，东北光复。",
-      "summaryEn": "After the Kwantung Army seized Manchuria following the Mukden Incident of September 18, 1931, Japan installed the deposed Qing emperor Puyi at Changchun (renamed Xinjing) in March 1932 as a puppet regime. Northeast Anti-Japanese United Army guerrillas fought for fourteen years until Japan's surrender in August 1945 restored the Northeast to China."
+      "summaryZh": "1931年9月18日、日本関東軍は満洲事変（九一八事変）を発動し、東北三省を侵略した。1932年3月、長春において清朝最後の皇帝溥儀を擁立し、傀儡政権「満洲国」を樹立、長春を「新京」と改称した。翌年には熱河を侵略した。東北抗日連合軍の楊靖宇、趙尚志らは白山黒水の間で14年間血みどろの抗戦を繰り広げた。1945年8月、日本が無条件降伏すると、満洲国は滅亡し、東北は回復された。",
+      "summaryEn": "After the Kwantung Army seized Manchuria following the Mukden Incident of September 18, 1931, Japan installed the deposed Qing emperor Puyi at Changchun (renamed Xinjing) in March 1932 as a puppet regime. Northeast Anti-Japanese United Army guerrillas fought for fourteen years until Japan's surrender in August 1945 restored the Northeast to China.",
+      "summaryJa": "1931年9月18日、日本関東軍は満洲事変（九一八事変）を発動し、東北三省を侵略した。1932年3月、長春において清朝最後の皇帝溥儀を擁立し、傀儡政権「満洲国」を樹立、長春を「新京」と改称した。翌年には熱河を侵略した。東北抗日連合軍の楊靖宇、趙尚志らは白山黒水の間で14年間血みどろの抗戦を繰り広げた。1945年8月、日本が無条件降伏すると、満洲国は滅亡し、東北は回復された。"
     }
   ]
 };

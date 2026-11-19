@@ -396,9 +396,9 @@
       this.locale =
         rawLang === 'en'
           ? 'en'
-          : /^(zh-tw|zh_tw|tw|hk|zh-hk|zh_hk|zh-hant|zh_hant|hant)$/.test(rawLang)
-            ? 'zh-tw'
-            : 'zh';
+          : /^(zh-cn|zh_cn|cn|zh-hans|zh_hans|hans|zh)$/.test(rawLang)
+            ? 'zh'
+            : 'zh-tw';
       this.year = this.dynasties[0].focusYear;
       this.dynastyIdx = 0;
       this.activeSnapKey = null;
@@ -853,6 +853,18 @@
     }
 
     // ---------------- Localization helpers ----------------
+    _trJa(text, key = '') {
+      if (!text) return '';
+      if (typeof window !== 'undefined' && window.JA_TRANSLATIONS) {
+        const ja = window.JA_TRANSLATIONS;
+        if (key && ja.passes && ja.passes[key]) return ja.passes[key];
+        if (key && ja.cities && ja.cities[key]) return ja.cities[key];
+        if (ja.texts && ja.texts[text]) return ja.texts[text];
+        if (typeof ja.translate === 'function') return ja.translate(text);
+      }
+      return text;
+    }
+
     _zh(text) {
       if (!text || typeof text !== 'string') return text;
       if (this.locale === 'zh-tw' && typeof window !== 'undefined' && window.ZH_HANT_CONV) {
@@ -906,6 +918,7 @@
           }
         } else if (node.nodeType === 3) {
           const val = node.nodeValue;
+          if (val && /[\u3040-\u30ff]/.test(val)) return;
           if (isHant && val && /[\u4e00-\u9fff]/.test(val)) {
             if (node._hansText === undefined) node._hansText = val;
             const nextVal = conv.toHant(node._hansText);
@@ -1128,7 +1141,7 @@
       if (this.locale === 'en') {
         return this._enMilestoneHeadline(d, m);
       }
-      return this._zh(m.headline);
+      return this._trJa(m.headline);
     }
 
     milestoneSite(d, m) {
@@ -1159,12 +1172,8 @@
 
     formatYear(y, compact = false) {
       const n = Math.round(y);
-      if (this.locale === 'en') {
-        if (n <= 0) return `${-n || 1} BCE`;
-        return compact ? `${n}` : `${n} CE`;
-      }
-      if (n <= 0) return `${compact ? '前' : '公元前'}${-n || 1}${compact ? '' : '年'}`;
-      return compact ? `${n}` : `公元 ${n} 年`;
+      if (n <= 0) return `${compact ? '前' : '紀元前'}${-n || 1}${compact ? '' : '年'}`;
+      return compact ? `${n}年` : `西暦 ${n} 年`;
     }
 
     formatSpan(d) {
@@ -1627,7 +1636,7 @@
       if (inpYear) {
         inpYear.setAttribute(
           'aria-label',
-          this.locale === 'en' ? 'Enter year (negative for BCE)' : '输入年份（负数为公元前）'
+          this.locale === 'en' ? 'Enter year (negative for BCE)' : '西暦年を入力（マイナスは紀元前）'
         );
       }
       const scrubberDock = this._id('scrubber-dock');
@@ -1662,11 +1671,11 @@
         ? this.activePerson.profile && this.activePerson.profile.isRelic
           ? this.locale === 'en'
             ? 'Relic Provenance · Across Dynasties'
-            : '点物溯史 · 传世国器流转'
+            : '伝世の名宝・国器の変遷'
           : this.locale === 'en'
             ? 'Person Chronicle · Life Across Time & Space'
-            : '点人溯事 · 人物生平纪事'
-        : this.uiStr('trace_kicker', '点地溯源 · 古今政区沿革');
+            : '歴史人物の生涯と足跡'
+        : this.uiStr('trace_kicker', '拠点沿革 · 古今政区沿革');
       const chalKicker = this._id('txt-challenge-kicker');
       if (chalKicker) {
         chalKicker.textContent = this.locale === 'en' ? 'Map Pinpoint' : '舆图寻址';
@@ -3887,7 +3896,7 @@
       const eraLabel = this._eventEraLabel(dynasty, m);
       const headlineText = this.milestoneHeadline(dynasty, m);
       const traceTitle =
-        this.locale === 'en' ? 'Click to trace place history' : '点击查看此地历代沿革（点地溯源）';
+        this.locale === 'en' ? 'Click to trace place history' : 'クリックして拠点の歴史沿革を表示';
       const isMultiAnchor = anchors.length >= 2;
       const pillsInner = anchors
         .map((anc, k) => {
@@ -5319,7 +5328,7 @@
             ? this.formatYear(m.year)
             : `${m.year <= 0 ? '前' + -m.year : m.year} 年`;
         const badge = isMapChange
-          ? `<span class="ev-map-tag" title="${this.locale === 'en' ? 'Map territory, city, or river course changes at this year' : '此节点触发版图、城池或河道水系变化'}">${SVG_ICONS.mapChange}</span>`
+          ? `<span class="ev-map-tag" title="${this.locale === 'en' ? 'Map territory, city, or river course changes at this year' : 'この出来事により版図・水系が変化'}">${SVG_ICONS.mapChange}</span>`
           : '';
         const relicStopIdx = this._findRelicStopForMilestone(dynasty, m);
         const sealBadge =
@@ -5465,7 +5474,7 @@
       if (vf) vf.classList.remove('has-active-person');
       const kickerEl = this._id('txt-genealogy-kicker');
       if (kickerEl) {
-        kickerEl.textContent = this.uiStr('trace_kicker', '点地溯源 · 古今政区沿革');
+        kickerEl.textContent = this.uiStr('trace_kicker', '拠点沿革 · 古今政区沿革');
       }
       this._syncImmersivePaneState();
       this._syncDocumentSeoMeta();
@@ -5801,7 +5810,45 @@
         item.persons.some((pk) => pk !== profile.key && peerKeys.includes(pk));
       const tokens = profile.isRelic
         ? []
-        : Array.from(new Set([profile.zh, ...(profile.tokens || [])].filter(Boolean)));
+        : Array.from(
+            new Set([
+              profile.zh,
+              ...(profile.tokens || []),
+              ...(profile.aliases || []),
+              profile.ja,
+              profile.nameJa,
+              // Common Simplified <-> Traditional / Japanese Kanji expansions
+              ...([profile.zh, ...(profile.tokens || []), ...(profile.aliases || [])].flatMap((tok) => {
+                if (!tok || typeof tok !== 'string') return [];
+                const res = [];
+                if (tok.includes('刘')) res.push(tok.replace(/刘/g, '劉'));
+                if (tok.includes('劉')) res.push(tok.replace(/劉/g, '刘'));
+                if (tok.includes('备')) res.push(tok.replace(/备/g, '備'));
+                if (tok.includes('備')) res.push(tok.replace(/備/g, '备'));
+                if (tok.includes('汉')) res.push(tok.replace(/汉/g, '漢'));
+                if (tok.includes('漢')) res.push(tok.replace(/漢/g, '汉'));
+                if (tok.includes('孙')) res.push(tok.replace(/孙/g, '孫'));
+                if (tok.includes('孫')) res.push(tok.replace(/孫/g, '孙'));
+                if (tok.includes('权')) res.push(tok.replace(/权/g, '権'), tok.replace(/权/g, '權'));
+                if (tok.includes('権')) res.push(tok.replace(/権/g, '权'), tok.replace(/権/g, '權'));
+                if (tok.includes('權')) res.push(tok.replace(/權/g, '权'), tok.replace(/權/g, '権'));
+                if (tok.includes('关')) res.push(tok.replace(/关/g, '関'), tok.replace(/关/g, '關'));
+                if (tok.includes('関')) res.push(tok.replace(/関/g, '关'), tok.replace(/関/g, '關'));
+                if (tok.includes('關')) res.push(tok.replace(/關/g, '关'), tok.replace(/關/g, '関'));
+                if (tok.includes('飞')) res.push(tok.replace(/飞/g, '飛'));
+                if (tok.includes('飛')) res.push(tok.replace(/飛/g, '飞'));
+                if (tok.includes('项')) res.push(tok.replace(/项/g, '項'));
+                if (tok.includes('項')) res.push(tok.replace(/項/g, '项'));
+                if (tok.includes('张')) res.push(tok.replace(/张/g, '張'));
+                if (tok.includes('張')) res.push(tok.replace(/張/g, '张'));
+                if (tok.includes('诸')) res.push(tok.replace(/诸/g, '諸'));
+                if (tok.includes('諸')) res.push(tok.replace(/諸/g, '诸'));
+                if (tok.includes('德')) res.push(tok.replace(/德/g, '徳'));
+                if (tok.includes('徳')) res.push(tok.replace(/徳/g, '德'));
+                return res;
+              }))
+            ].filter(Boolean))
+          );
       const [minY, maxY] = profile.span || [-403, 2026];
       const raw = [];
 
@@ -7025,12 +7072,8 @@
       const kickerEl = this._id('txt-genealogy-kicker');
       if (kickerEl) {
         kickerEl.textContent = profile.isRelic
-          ? isEn
-            ? 'Relic Provenance · Across Dynasties'
-            : '点物溯史 · 传世国器流转'
-          : isEn
-            ? 'Person Chronicle · Life Across Time & Space'
-            : '点人溯事 · 人物生平纪事';
+          ? (isEn ? 'Relic Provenance · Across Dynasties' : '伝世の名宝・国器の変遷')
+          : (isEn ? 'Person Chronicle · Life Across Time & Space' : '歴史人物の生涯と足跡');
       }
 
       const headingEl = this._id('genealogy-heading');
@@ -7042,13 +7085,13 @@
               return (
                 `<span class="mp-title-person" style="--track-color:${tr.color}">` +
                 `<button type="button" class="mp-title-solo" data-solo-key="${escHtml(tr.profile.key)}" title="${
-                  isEn ? 'View solo chronicle' : '单独查看此人行迹'
+                  isEn ? 'View solo chronicle' : 'この人物の足跡のみ表示'
                 }">` +
                 `<span class="mp-title-dot" style="background:${tr.color}"></span>` +
                 `<span>${name}</span>` +
                 `</button>` +
                 `<button type="button" class="mp-title-remove" data-remove-key="${escHtml(tr.profile.key)}" title="${
-                  isEn ? 'Remove' : '移除'
+                  isEn ? 'Remove' : '削除'
                 }">×</button>` +
                 `</span>`
               );
@@ -7095,18 +7138,21 @@
               ? `Also searched as: ${enAliases.slice(0, 4).join(' · ')}`
               : ''
             : profile.aliases && profile.aliases.length
-              ? `字号 / 检索词：${profile.aliases.slice(0, 4).join(' · ')}`
+              ? `字・号 / 検索語：${profile.aliases.slice(0, 4).join(' · ')}`
               : '';
           const badgeLabel = profile.isRelic
             ? isEn
               ? 'Imperial Relic'
-              : '国器本纪'
+              : '国器本紀'
             : isEn
               ? 'Biography'
-              : '人物小传';
+              : '人物略歴';
+          const aliasHintJa = profile.aliases && profile.aliases.length
+            ? `字・号 / 関連語：${profile.aliases.slice(0, 4).join(' · ')}`
+            : '';
           const descText = profile.isRelic
-            ? (isEn ? profile.descEn : profile.descZh) || aliasHint
-            : aliasHint;
+            ? (isEn ? profile.descEn : this._trJa(profile.descZh)) || (isEn ? aliasHint : aliasHintJa)
+            : (isEn ? aliasHint : aliasHintJa);
 
           if (subTitle || descText) {
             loreEl.innerHTML =
@@ -7127,17 +7173,17 @@
           isMulti && sameTimeCount > 0
             ? isEn
               ? ` · ${sameTimeCount} shared`
-              : ` · ${sameTimeCount} 处同途`
+              : ` · ${sameTimeCount} 箇所の同道`
             : '';
         const summaryTxt = isEn
           ? `${events.length} events · ${dynCount} era${dynCount > 1 ? 's' : ''}${encounterSuffix}`
-          : `共 ${events.length} 处史事 · 历 ${dynCount} 朝${encounterSuffix}`;
+          : `全 ${events.length} 件の事蹟 · ${dynCount} 王朝にわたる足跡${encounterSuffix}`;
         subEl.innerHTML =
           `<span>${summaryTxt}</span>` +
           `<span class="person-sub-actions">` +
           `<button type="button" class="gen-filter-pill${
             curIdx < 0 ? ' is-active' : ''
-          }" id="act-person-overview">${isEn ? 'Overview' : '全图总览'}</button>` +
+          }" id="act-person-overview">${isEn ? 'Overview' : '全体表示'}</button>` +
           `</span>`;
 
         const ovBtn = this._id('act-person-overview');
@@ -7173,7 +7219,7 @@
           : ev.siteZh + (ev.modernZh && !ev.siteZh.includes(ev.modernZh) ? `（今${ev.modernZh}）` : '');
         const mapBadge = ev.isMapChange
           ? `<span class="ev-map-tag" title="${
-              isEn ? 'Territory shift at this year' : '此节点触发版图演变'
+              isEn ? 'Territory shift at this year' : 'この出来事により版図が変化'
             }">${SVG_ICONS.mapChange}</span>`
           : '';
         const traceBtn = `<button type="button" class="ev-journey-btn person-place-btn" data-idx="${idx}">${
@@ -7212,11 +7258,11 @@
                   (pt) =>
                     `<span class="t-sub person-ev-copy person-ev-subnote">` +
                     `<i class="person-ev-dot" style="background:${pt.color}"></i>` +
-                    `${isEn ? pt.textEn : pt.textZh}` +
+                    `${isEn ? pt.textEn : this._trJa(pt.textZh)}` +
                     `</span>`
                 )
                 .join('')
-            : `<span class="t-sub person-ev-copy">${isEn ? ev.textEn : ev.textZh}</span>`;
+            : `<span class="t-sub person-ev-copy">${isEn ? ev.textEn : this._trJa(ev.textZh)}</span>`;
 
         li.innerHTML =
           `<span class="t-era person-era-col">${leftBadgeHtml}</span>` +
@@ -7287,12 +7333,12 @@
         const yr = isEn
           ? ` · ${this.formatYear(next.year)}`
           : ` · ${next.year <= 0 ? '前' + -next.year : next.year}年`;
-        const lead = curIdx < 0 ? (isEn ? 'Start' : '出发') : isEn ? 'Next' : '下一站';
+        const lead = curIdx < 0 ? (isEn ? 'Start' : '出発') : isEn ? 'Next' : '次の地点';
         nextLabel = `${lead} · ${whoPrefix}${site}${yr}`;
       } else {
-        nextLabel = isEn ? 'Back to overview' : '回到全图总览';
+        nextLabel = isEn ? 'Back to overview' : '全体表示に戻る';
       }
-      const prevTitle = isEn ? 'Prev' : '上一站';
+      const prevTitle = isEn ? 'Prev' : '前の地点';
       footEl.innerHTML =
         `<button type="button" class="gen-foot-prev" id="act-person-prev" title="${prevTitle}"${
           curIdx < 0 ? ' disabled' : ''
@@ -7377,7 +7423,7 @@
         return {
           badge: this.locale === 'en' ? 'Strategic Pass' : '雄关形胜',
           tag: this.locale === 'en' ? matchedPass.rangeEn : matchedPass.rangeZh,
-          desc: this.locale === 'en' ? matchedPass.chokepointEn : matchedPass.chokepointZh,
+          desc: this.locale === 'en' ? matchedPass.chokepointEn : this._trJa(matchedPass.chokepointZh, matchedPass.key),
           tagEn: matchedPass.rangeEn,
           descEn: matchedPass.chokepointEn,
         };
@@ -7403,7 +7449,7 @@
         return {
           badge: this.locale === 'en' ? 'Historic City' : '名城形胜',
           tag: this.locale === 'en' ? bestCity.tagEn : bestCity.tagZh,
-          desc: this.locale === 'en' ? bestCity.descEn : bestCity.descZh,
+          desc: this.locale === 'en' ? bestCity.descEn : this._trJa(bestCity.descZh, bestCity.modern),
           tagEn: bestCity.tagEn,
           descEn: bestCity.descEn,
         };
@@ -10899,10 +10945,10 @@
         `${stopsBodyHtml}` +
         `<div class="jc-controls">` +
         `<button type="button" class="jc-nav-btn" id="act-custom-prev">${SVG_ICONS.arrowLeft} ${
-          isEn ? 'Prev' : '上一站'
+          isEn ? 'Prev' : '前の地点'
         }</button>` +
         `<button type="button" class="jc-nav-btn is-primary" id="act-custom-next">${
-          isEn ? 'Next' : '下一站'
+          isEn ? 'Next' : '次の地点'
         } ${SVG_ICONS.arrowRight}</button>` +
         `</div>` +
         `</div>`;
@@ -11243,7 +11289,7 @@
                 titleZh: profiles.map((p) => p.zh).join(' × '),
                 subZh:
                   st.sameTimeCount > 0
-                    ? `共 ${st.events.length} 处行迹 · ${st.sameTimeCount} 处相逢`
+                    ? `共 ${st.events.length} 处行迹 · ${st.sameTimeCount} 箇所の相逢`
                     : `并行行迹对照 · 共 ${st.events.length} 处行迹`,
                 titleEn: profiles.map((p) => p.en).join(' × '),
                 subEn:
@@ -11350,7 +11396,7 @@
           titleZh: p.zh,
           subZh: p.isRelic
             ? `${briefCourtesyZh} · 历 10 朝 ${evCount} 站流转`
-            : `${briefCourtesyZh} · 共 ${evCount} 处史事`,
+            : `${briefCourtesyZh} · 共 ${evCount} 件の事蹟`,
           titleEn: p.en,
           subEn: p.isRelic
             ? `${briefCourtesyEn || 'Heshi Bi Jade'} · ${evCount} stops across 10 eras`
@@ -12144,7 +12190,7 @@
               dynasty: d,
               year: null,
               titleZh: adhoc.zh,
-              subZh: `${adhoc.courtesyZh} · 共 ${evs.length} 处史事`,
+              subZh: `${adhoc.courtesyZh} · 共 ${evs.length} 件の事蹟`,
               titleEn: adhoc.en,
               subEn: `${evs.length} events`,
               score: 126,
@@ -12169,7 +12215,7 @@
             titleZh: multiProfiles.map((p) => p.zh).join(' × '),
             subZh:
               st.sameTimeCount > 0
-                ? `共 ${st.events.length} 处行迹 · ${st.sameTimeCount} 处相逢`
+                ? `共 ${st.events.length} 处行迹 · ${st.sameTimeCount} 箇所の相逢`
                 : `并行行迹对照 · 共 ${st.events.length} 处行迹`,
             titleEn: multiProfiles.map((p) => p.en).join(' × '),
             subEn:
@@ -12884,13 +12930,16 @@
           this.applyLocale();
         });
       }
-      this._id('act-locale').addEventListener('click', () => {
-        const btn = this._id('act-locale');
-        const target = btn && btn.dataset && btn.dataset.targetLocale;
-        this.locale = target || (this.locale === 'en' ? 'zh' : 'en');
-        this._syncUrlLangParam();
-        this.applyLocale();
-      });
+      const actLoc = this._id('act-locale');
+      if (actLoc) {
+        actLoc.addEventListener('click', () => {
+          const btn = this._id('act-locale');
+          const target = btn && btn.dataset && btn.dataset.targetLocale;
+          this.locale = target || (this.locale === 'en' ? 'zh' : 'en');
+          this._syncUrlLangParam();
+          this.applyLocale();
+        });
+      }
 
       this._id('act-autoplay').addEventListener('click', () => {
         if (this.challenge) return;
@@ -13307,7 +13356,7 @@
               `<b>${sIdx + 1}. ${label}${mod}</b><div class="tt-sub">${yr} · ${
                 isEn
                   ? 'Click to jump to this year & trace history'
-                  : '点击切换至该年份并查看历代沿革'
+                  : 'クリックしてこの年代の沿革を表示'
               }</div>`
             );
             return;
@@ -13329,17 +13378,16 @@
                     ev.intersection.kind === 'same_time'
                       ? isEn
                         ? '✦ Contemporaneous Spacetime Intersection'
-                        : '✦ 同代相逢交汇点'
+                        : '✦ 同時代に出会った交差地点'
                       : isEn
                         ? '◈ Cross-Era Spacetime Co-location'
-                        : '◈ 异代同地交汇点'
+                        : '◈ 異なる時代に同じ場所を訪れた地点'
                   }</div>`
                 : '';
+            const desc = isEn ? ev.textEn : this._trJa(ev.textZh);
             this._showHoverTip(
               e,
-              `<b>${whoPrefix}${yr} · ${place}</b>${intNote}<div class="tt-sub">${
-                isEn ? ev.textEn : ev.textZh
-              }</div>`
+              `<b>${whoPrefix}${yr} · ${place}</b>${intNote}<div class="tt-sub">${desc}</div>`
             );
             return;
           }
@@ -15622,6 +15670,39 @@
       openPerson: (who, idx = -1) => app.openPersonChronicle(who, idx),
       search: (q) => app._queryQuickSearch(q),
     };
+    window.atlasAPI = {
+      locate: (opts) => {
+        if (app.activePerson) app.closeGenealogyCard();
+        app.locate(opts || {});
+      },
+      openPerson: (who, idx) => {
+        app.openPersonChronicle(who, idx ?? -1);
+      },
+      jumpYear: (y) => {
+        if (app.activePerson) app.closeGenealogyCard();
+        app.stopAutoplay();
+        app.jumpToYear(Number(y));
+      }
+    };
+
+    window.addEventListener('message', (ev) => {
+      try {
+        const data = ev.data;
+        if (!data || typeof data !== 'object') return;
+        if (data.type === 'atlas_locate') {
+          if (app.activePerson) app.closeGenealogyCard();
+          app.locate(data.opts || {});
+        } else if (data.type === 'atlas_open_person') {
+          app.openPersonChronicle(data.who, data.idx ?? -1);
+        } else if (data.type === 'atlas_jump_year') {
+          if (app.activePerson) app.closeGenealogyCard();
+          app.stopAutoplay();
+          app.jumpToYear(Number(data.year));
+        }
+      } catch (err) {
+        console.warn('Atlas message handler error:', err);
+      }
+    });
     app._registerWebMcpTools();
   });
 })();
