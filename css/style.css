@@ -5196,3 +5196,181 @@ html[lang="en"] .genealogy-list li.person-ev-row {
 .cr-stop-pill.is-converge {
   box-shadow: 0 0 0 1.4px rgba(189, 45, 34, 0.42);
 }
+
+/* Standalone Quick Navigation Bar (mirrors 史書.html 3-tab controls) */
+#atlas-top-chrome {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+#standalone-quick-nav {
+  position: relative;
+  z-index: 20;
+  background: rgba(247, 242, 232, 0.96);
+  border-bottom: 1px solid #e6d5a7;
+  padding: 5px 14px 7px;
+}
+
+#standalone-quick-nav.is-embedded-hidden {
+  display: none !important;
+}
+
+#standalone-quick-nav.is-panel-collapsed {
+  padding-bottom: 5px;
+}
+
+#standalone-quick-nav .map-nav-tabs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 2px solid #e6d5a7;
+  padding-bottom: 5px;
+  margin-bottom: 7px;
+}
+
+#standalone-quick-nav.is-panel-collapsed .map-nav-tabs {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#standalone-quick-nav #tab-btn-dynasty {
+  margin-left: auto;
+}
+
+#standalone-quick-nav .map-tab-btn {
+  background: transparent;
+  border: none;
+  border-bottom: 2.5px solid transparent;
+  padding: 4px 12px;
+  font-size: 13px;
+  font-family: var(--serif-stack);
+  font-weight: 700;
+  color: #666;
+  cursor: pointer;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: color 0.18s, border-color 0.18s;
+}
+
+#standalone-quick-nav .map-tab-btn:hover {
+  color: #c0a154;
+}
+
+#standalone-quick-nav .map-tab-btn.active {
+  color: #8b6e30;
+  border-bottom-color: #c0a154;
+}
+
+#standalone-quick-nav .quick-panel-toggle-btn {
+  margin-left: auto;
+  flex-shrink: 0;
+  background: #f3ead0;
+  border: 1px solid #c0a154;
+  color: #7a5f24;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 11.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+}
+
+#standalone-quick-nav .quick-panel-toggle-btn:hover {
+  background: #e6d5a7;
+  color: #222;
+}
+
+#standalone-quick-nav .map-pill-panel {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: #fbf8ee;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #e6d5a7;
+  max-height: min(210px, 26vh);
+  overflow-y: auto;
+}
+
+#standalone-quick-nav:not(.is-panel-collapsed) .map-pill-panel.active {
+  display: flex;
+}
+
+#standalone-quick-nav .pill-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+}
+
+#standalone-quick-nav .pill-group-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #8b6e30;
+  min-width: 88px;
+  flex-shrink: 0;
+}
+
+#standalone-quick-nav .map-pill {
+  background: #fff;
+  border: 1px solid #c0a154;
+  padding: 2.5px 9px;
+  border-radius: 14px;
+  font-size: 12px;
+  line-height: 1.35;
+  font-family: inherit;
+  color: #444;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s ease-in-out;
+}
+
+#standalone-quick-nav .map-pill:hover {
+  background: #e6d5a7;
+  color: #222;
+}
+
+#standalone-quick-nav .map-pill.active {
+  background: #c0a154;
+  color: #fff;
+  font-weight: 700;
+  border-color: #8b6e30;
+  box-shadow: 0 0 0 1.5px #8b6e30;
+}
+
+@media (max-width: 720px) {
+  #standalone-quick-nav {
+    padding: 4px 8px 6px;
+  }
+  #standalone-quick-nav .map-nav-tabs {
+    justify-content: flex-start;
+    overflow-x: auto;
+    scrollbar-width: none;
+    gap: 4px;
+  }
+  #standalone-quick-nav .map-nav-tabs::-webkit-scrollbar {
+    display: none;
+  }
+  #standalone-quick-nav #tab-btn-dynasty {
+    margin-left: 0;
+  }
+  #standalone-quick-nav .map-tab-btn {
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+  #standalone-quick-nav .map-pill-panel {
+    padding: 6px 8px;
+    max-height: 22vh;
+  }
+  #standalone-quick-nav .pill-group-label {
+    min-width: auto;
+    margin-right: 2px;
+    font-size: 11.5px;
+  }
+  #standalone-quick-nav .map-pill {
+    padding: 2px 8px;
+    font-size: 11.5px;
+  }
+}

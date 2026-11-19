@@ -315,6 +315,7 @@
 </head>
 <body>
   <div id="atlas-shell">
+    <div id="atlas-top-chrome">
     <header id="nav-bar">
       <div class="brand-group">
         <h1 id="site-heading">
@@ -378,6 +379,118 @@
         </div>
       </div>
     </header>
+
+    <section id="standalone-quick-nav" aria-label="歴史テーマ・クイックナビゲーション">
+      <!-- 操作タブセレクター -->
+      <div class="map-nav-tabs">
+        <button type="button" class="map-tab-btn active" id="tab-btn-dynasty" onclick="switchMapTab('dynasty')">🏛️ 歴代王朝・正史</button>
+        <button type="button" class="map-tab-btn" id="tab-btn-figures" onclick="switchMapTab('figures')">⚔️ 人物行跡・名戦役</button>
+        <button type="button" class="map-tab-btn" id="tab-btn-cities" onclick="switchMapTab('cities')">🏰 古都・名関の溯源</button>
+        <button type="button" class="quick-panel-toggle-btn" id="btn-toggle-quick-panel" onclick="toggleQuickPanel()" aria-expanded="true" title="クイックナビゲーションの折りたたみ／展開">▲ 折りたたむ</button>
+      </div>
+
+      <!-- タブ1: 歴代王朝・正史（二十四史の時代区分に連動） -->
+      <div class="map-pill-panel active" id="panel-dynasty">
+        <div class="pill-group">
+          <span class="pill-group-label">先秦〜漢:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: -221 }, this)">秦統一 (-221)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: -100 }, this)">前漢・史記 (-100)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 105 }, this)">後漢書 (105)</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">三国〜南北朝:</span>
+          <button type="button" class="map-pill active" onclick="sendAtlasLocate({ year: 221 }, this)">三國鼎立 (221)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 280 }, this)">西晉統一 (280)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 383 }, this)">東晉・淝水 (383)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 450 }, this)">南北朝 (450)</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">隋唐〜五代:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 605 }, this)">隋書 (605)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 741 }, this)">唐・開元盛世 (741)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 943 }, this)">五代十國 (943)</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">宋遼金元明:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1040 }, this)">北宋・遼 (1040)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1142 }, this)">南宋・金 (1142)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1294 }, this)">元史 (1294)</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1402 }, this)">明・永樂 (1402)</button>
+        </div>
+      </div>
+
+      <!-- タブ2: 人物行跡・名戦役（正史列伝の英雄・文人たち） -->
+      <div class="map-pill-panel" id="panel-figures">
+        <div class="pill-group">
+          <span class="pill-group-label">覇王・名将:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('qinshihuang', this)">秦始皇（天下巡幸）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('hanxin', this)" style="background:#5c1d16;color:#fdfcf0;font-weight:bold;">⚔️ 韓信（背水之陣・楚漢戦争）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('liubang', this)">漢高祖 劉邦（楚漢之爭）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('huoqubing', this)" style="background:#b85d19;color:#fdfcf0;font-weight:bold;">⚔️ 霍去病（河西・封狼居胥）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('liuyu', this)" style="background:#7b2c3b;color:#fdfcf0;font-weight:bold;">⚔️ 宋武帝 劉裕（北伐・気呑万里如虎）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('lishimin', this)">唐太宗 李世民（貞觀之治）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('lijing', this)" style="background:#1d6f58;color:#fdfcf0;font-weight:bold;">⚔️ 李靖（陰山夜襲・吐谷渾遠征）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('heichichangzhi', this)" style="background:#2b6cb0;color:#fdfcf0;font-weight:bold;">⚔️ 黒歯常之（百済復興・青海吐蕃連破）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('zhuyuanzhang', this)">明太祖 朱元璋</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">三国英傑:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('zhugeliang', this)">諸葛孔明（五度北伐）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('caocao', this)">曹操（中原統一の足跡）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('liubei', this)">劉備（転戦と入蜀）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('dengai', this)" style="background:#3b5998;color:#fdfcf0;font-weight:bold;">⚔️ 鄧艾（陰平偷渡・蜀漢平定）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 208, place: '赤壁,烏林,江陵,襄陽,許昌' }, this)">赤壁之戰 (208)</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">モンゴル・西域:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('genghiskhan', this)" style="background:#c87d20;color:#fdfcf0;font-weight:bold;">🏇 チンギス・カン（草原統一・中央アジア西征）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('kublaikhan', this)" style="background:#284b63;color:#fdfcf0;font-weight:bold;">🏇 クビライ・カン（大理遠征・革囊渡江）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('gaoxianzhi', this)" style="background:#1f5f8b;color:#fdfcf0;font-weight:bold;">⚔️ 高仙芝（タラス河畔・パミール遠征）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('zhangqian', this)">張騫（鑿空・西域使節）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('xuanzang', this)">玄奘三蔵（大唐西域記）</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">シルクロード:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('hedin', this)" style="background:#b5651d;color:#fdfcf0;font-weight:bold;">🧭 ヘディン（タクラマカン・楼蘭発見）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('stein', this)" style="background:#8c4a27;color:#fdfcf0;font-weight:bold;">🏺 スタイン（ニヤ遺跡・敦煌蔵経洞）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('otani', this)" style="background:#5b3256;color:#fdfcf0;font-weight:bold;">📿 大谷探検隊（西域仏跡・李柏文書）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('nhksilkroad', this)" style="background:#1b4d3e;color:#fdfcf0;font-weight:bold;">📺 NHKシルクロード（絲綢之路）</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">忠臣・文人:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('yuefei', this)" style="background:#9e2a2b;color:#fdfcf0;font-weight:bold;">⚔️ 岳飛（四度北伐・朱仙鎮）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('wentianxiang', this)">文天祥（過零丁洋）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('wangyangming', this)">王陽明（龍場悟道・平乱）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('libai', this)">李白（盛唐壮遊・詩境）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('dufu', this)">杜甫（戦乱流転と望郷）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasPerson('sushi', this)">蘇軾（流謫の旅・赤壁賦）</button>
+        </div>
+      </div>
+
+      <!-- タブ3: 古都・名関の溯源（点地溯源） -->
+      <div class="map-pill-panel" id="panel-cities">
+        <div class="pill-group">
+          <span class="pill-group-label">歴代帝都:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 741, place: '長安' }, this)">長安（西安）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 741, place: '洛陽' }, this)">洛陽（神都）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 450, place: '建康' }, this)">建康（南京）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1040, place: '開封' }, this)">東京開封府（汴京）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1142, place: '臨安' }, this)">臨安府（杭州）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1294, place: '大都' }, this)">大都（北京）</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 221, place: '成都' }, this)">成都（蜀都）</button>
+        </div>
+        <div class="pill-group">
+          <span class="pill-group-label">天下名関:</span>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: -221, place: '函谷關' }, this)">函谷關</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 741, place: '潼關' }, this)">潼關</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 221, place: '劍門關' }, this)">劍門關</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: -100, place: '玉門關' }, this)">玉門關</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1402, place: '山海關' }, this)">山海關</button>
+          <button type="button" class="map-pill" onclick="sendAtlasLocate({ year: 1040, place: '雁門關' }, this)">雁門關</button>
+        </div>
+      </div>
+    </section>
+    </div>
 
     <main id="workspace-body">
       <div id="viewport-frame">
@@ -727,5 +840,90 @@
   <script src="js/ja_dict.js?v=ja_edition_v10"></script>
   <script id="atlas-app-script" src="js/app.js?v=ja_edition_v10" data-v-snapshots="be12771f" data-v-i18n="1083cae8"></script>
   <script src="js/atlas_quiz.js?v=4b375854"></script>
+  <script>
+    (function initStandaloneQuickNav() {
+      var nav = document.getElementById('standalone-quick-nav');
+      if (!nav) return;
+      var params = new URLSearchParams(window.location.search);
+      var isEmbedded = false;
+      try {
+        isEmbedded = window.self !== window.top;
+      } catch (e) {
+        isEmbedded = true;
+      }
+      if (isEmbedded && params.get('force_tabs') !== '1') {
+        nav.classList.add('is-embedded-hidden');
+        return;
+      }
+      if (params.get('year') !== '221' || params.has('place') || params.has('person')) {
+        nav.querySelectorAll('.map-pill.active').forEach(function (pill) {
+          pill.classList.remove('active');
+        });
+      }
+    })();
+
+    function setQuickPanelCollapsed(collapsed) {
+      var nav = document.getElementById('standalone-quick-nav');
+      var toggleBtn = document.getElementById('btn-toggle-quick-panel');
+      if (!nav) return;
+      nav.classList.toggle('is-panel-collapsed', collapsed);
+      if (toggleBtn) {
+        toggleBtn.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+        toggleBtn.textContent = collapsed ? '▼ 展開' : '▲ 折りたたむ';
+      }
+    }
+
+    function toggleQuickPanel() {
+      var nav = document.getElementById('standalone-quick-nav');
+      if (!nav) return;
+      setQuickPanelCollapsed(!nav.classList.contains('is-panel-collapsed'));
+    }
+
+    function switchMapTab(tabId) {
+      var nav = document.getElementById('standalone-quick-nav');
+      if (!nav) return;
+      nav.querySelectorAll('.map-tab-btn').forEach(function (btn) {
+        btn.classList.remove('active');
+      });
+      nav.querySelectorAll('.map-pill-panel').forEach(function (panel) {
+        panel.classList.remove('active');
+      });
+      var targetBtn = document.getElementById('tab-btn-' + tabId);
+      var targetPanel = document.getElementById('panel-' + tabId);
+      if (targetBtn) targetBtn.classList.add('active');
+      if (targetPanel) targetPanel.classList.add('active');
+      if (nav.classList.contains('is-panel-collapsed')) {
+        setQuickPanelCollapsed(false);
+      }
+    }
+
+    function updateActivePill(element) {
+      if (!element) return;
+      var nav = document.getElementById('standalone-quick-nav');
+      var scope = nav || document;
+      scope.querySelectorAll('.map-pill').forEach(function (pill) {
+        pill.classList.remove('active');
+      });
+      element.classList.add('active');
+    }
+
+    function sendAtlasLocate(opts, btnElement) {
+      if (btnElement) updateActivePill(btnElement);
+      if (window.atlasAPI && typeof window.atlasAPI.locate === 'function') {
+        window.atlasAPI.locate(opts);
+      } else {
+        window.postMessage({ type: 'atlas_locate', opts: opts }, '*');
+      }
+    }
+
+    function sendAtlasPerson(who, btnElement) {
+      if (btnElement) updateActivePill(btnElement);
+      if (window.atlasAPI && typeof window.atlasAPI.openPerson === 'function') {
+        window.atlasAPI.openPerson(who, -1);
+      } else {
+        window.postMessage({ type: 'atlas_open_person', who: who, idx: -1 }, '*');
+      }
+    }
+  </script>
 </body>
 </html>
